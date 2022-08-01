@@ -1,0 +1,10 @@
+[http] assets-brandcms.atairbnb.com:80
+[http] assets-brandcms-dev.atairbnb.com:80
+[http] assets-brandcms-stage.atairbnb.com:80
+[http] blog.atairbnb.com:80
+[http] press.atairbnb.com:80
+[https] assets-brandcms.atairbnb.com:443
+[https] assets-brandcms-dev.atairbnb.com:443
+[https] assets-brandcms-stage.atairbnb.com:443
+[https] blog.atairbnb.com:443
+[https] press.atairbnb.com:443

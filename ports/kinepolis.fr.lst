@@ -1,0 +1,6 @@
+[blackice-icecap] shop-dev.kinepolis.fr:8081
+[http-proxy] shop-dev.kinepolis.fr:8080
+[http] shop-dev.kinepolis.fr:80
+[https] shop-dev.kinepolis.fr:443
+[https] tickets.kinepolis.fr:443
+[http] tickets.kinepolis.fr:80

@@ -1,0 +1,16 @@
+[http] mint.swim.io:80
+[https-alt] docs.swim.io:8443
+[https-alt] swim.io:8443
+[https-alt] tunnel.swim.io:8443
+[https-alt] www.swim.io:8443
+[https] blog.swim.io:443
+[https] docs.swim.io:443
+[https] mint.swim.io:443
+[https] staging.swim.io:443
+[https] swim.io:443
+[http] staging.swim.io:80
+[https] tunnel.swim.io:443
+[https] www.swim.io:443
+[infowave] swim.io:2082
+[infowave] tunnel.swim.io:2082
+[infowave] www.swim.io:2082

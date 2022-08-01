@@ -1,0 +1,6 @@
+https://avax-api.chfry.finance [200] [GET] [text/plain] [] [] [75a2fe556e01f4f2478f5919e3db0314]
+https://avax.chfry.finance [200] [GET] [text/html] [CHFRY Finance] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d12e25aa083b3689a9d10f2fe5f53084]
+https://chfry.finance [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [a537b423aa8a6963b72b9634d47a1b02]
+https://chfry.finance [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [a87368133b443c5330dc81cc284dd9e1]
+https://eth-api.chfry.finance [200] [GET] [text/plain] [] [] [75a2fe556e01f4f2478f5919e3db0314]
+https://stagging-eth-api.chfry.finance [503] [GET] [text/html] [503 Service Temporarily Unavailable] [awselb/2.0] [613f79233487af685baf4b32a2397ede]

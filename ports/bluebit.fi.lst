@@ -1,0 +1,9 @@
+[cddbp-alt] bluebit.fi:8880
+[cddbp-alt] test703.bluebit.fi:8880
+[cddbp-alt] www.bluebit.fi:8880
+[http] bluebit.fi:80
+[https] bluebit.fi:443
+[https] test703.bluebit.fi:443
+[https] www.bluebit.fi:443
+[http] test703.bluebit.fi:80
+[http] www.bluebit.fi:80

@@ -1,0 +1,12 @@
+[gnunet] backend.gerowallet.io:2086
+[gnunet] gerowallet.io:2086
+[http] backend.gerowallet.io:80
+[http] gerowallet.io:80
+[https-alt] backend.gerowallet.io:8443
+[https-alt] gerowallet.io:8443
+[https-alt] www.gerowallet.io:8443
+[https] nft.gerowallet.io:443
+[http] www.gerowallet.io:80
+[nbx-dir] backend.gerowallet.io:2096
+[radsec] gerowallet.io:2083
+[radsec] www.gerowallet.io:2083

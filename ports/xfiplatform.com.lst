@@ -1,0 +1,15 @@
+[http] gw-act-int.xfiplatform.com:80
+[http] gw-act-stage.xfiplatform.com:80
+[http] gw-act.xfiplatform.com:80
+[https] activation-ext.xfiplatform.com:443
+[https] activation-integration-ext.xfiplatform.com:443
+[https] activation-staging-ext.xfiplatform.com:443
+[https] activation-staging.xfiplatform.com:443
+[https] activation.xfiplatform.com:443
+[https] gateway-activation-test.xfiplatform.com:443
+[https] gw-act-int.xfiplatform.com:443
+[https] gw-act-stage.xfiplatform.com:443
+[https] gw-act.xfiplatform.com:443
+[https] transfersfile-integration.xfiplatform.com:443
+[https] transfersfile-staging.xfiplatform.com:443
+[https] transfersfile.xfiplatform.com:443

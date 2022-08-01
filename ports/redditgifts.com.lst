@@ -1,0 +1,10 @@
+[http] public.redditgifts.com:80
+[http] redditgifts.com:80
+[https] public.redditgifts.com:443
+[https] redditgifts.com:443
+[http] ssl.redditgifts.com:80
+[https] ssl.redditgifts.com:443
+[https] static.redditgifts.com:443
+[http] static.redditgifts.com:80
+[https] www.redditgifts.com:443
+[http] www.redditgifts.com:80

@@ -1,0 +1,8 @@
+https://fallguys.com [301] [GET] [text/html] [301 Moved Permanently] [] [vhost] [b9d44ae5ca75a352070be23a6e9c70f6]
+https://legal.fallguys.com [404] [GET] [text/html] [WebContentNotFound] [Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0] [vhost] [Microsoft HTTPAPI] [686a757f214a0acc6ccb1ee07be05b54]
+https://support.fallguys.com:2083 [403] [GET] [text/html] [Access denied] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [29ab5de702ec584a9e11bb71120c2ade]
+https://support.fallguys.com [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Envoy] [95626115f3cec6bef797bd6ef853da6f]
+https://survey.fallguys.com [302] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
+http://support.fallguys.com:2087 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]
+http://support.fallguys.com:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]
+https://www.fallguys.com [302] [GET] [] [] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]

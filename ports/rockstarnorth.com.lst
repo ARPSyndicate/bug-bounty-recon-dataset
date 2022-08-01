@@ -1,0 +1,5 @@
+[http] autodiscover.rockstarnorth.com:80
+[https] stage.rockstarnorth.com:443
+[http] stage.rockstarnorth.com:80
+[https] www.rockstarnorth.com:443
+[http] www.rockstarnorth.com:80

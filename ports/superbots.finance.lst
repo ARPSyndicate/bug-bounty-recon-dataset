@@ -1,0 +1,15 @@
+[clearvisn] superbots.finance:2052
+[eli] superbots.finance:2087
+[http] app.superbots.finance:80
+[http] autodiscover.superbots.finance:80
+[http] dev.app.superbots.finance:80
+[http-proxy] superbots.finance:8080
+[https-alt] superbots.finance:8443
+[https] autodiscover.superbots.finance:443
+[https] superbots.finance:443
+[http] superbots.finance:80
+[http] www.superbots.finance:80
+[infowave] superbots.finance:2082
+[nbx-dir] superbots.finance:2096
+[nbx-ser] superbots.finance:2095
+[radsec] superbots.finance:2083

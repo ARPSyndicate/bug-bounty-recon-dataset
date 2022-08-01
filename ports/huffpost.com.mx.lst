@@ -1,0 +1,6 @@
+[http] contributor.huffpost.com.mx:80
+[https] contributor.huffpost.com.mx:443
+[https] staging.contributor.huffpost.com.mx:443
+[http] staging.contributor.huffpost.com.mx:80
+[https] www.huffpost.com.mx:443
+[http] www.huffpost.com.mx:80

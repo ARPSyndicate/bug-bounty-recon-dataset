@@ -1,0 +1,10 @@
+[http] downloads.unrealtournament.com:80
+[http] forums.unrealtournament.com:80
+[http] help.unrealtournament.com:80
+[https] downloads.unrealtournament.com:443
+[https] forums.unrealtournament.com:443
+[https] help.unrealtournament.com:443
+[https] unrealtournament.com:443
+[https] www.unrealtournament.com:443
+[http] unrealtournament.com:80
+[http] www.unrealtournament.com:80

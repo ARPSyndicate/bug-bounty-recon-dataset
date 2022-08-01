@@ -1,0 +1,10 @@
+[http] blog.intercomassets.com:80
+[http] blog-staging.intercomassets.com:80
+[http] developer-home.intercomassets.com:80
+[http] marketing.intercomassets.com:80
+[https] blog.intercomassets.com:443
+[https] blog-staging.intercomassets.com:443
+[https] developer-home.intercomassets.com:443
+[https] marketing.intercomassets.com:443
+[https] static.intercomassets.com:443
+[http] static.intercomassets.com:80

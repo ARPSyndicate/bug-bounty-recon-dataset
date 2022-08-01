@@ -1,0 +1,12 @@
+[http] beta.gsmarkets.nl:80
+[http] link.email.gsmarkets.nl:80
+[http] link.info.gsmarkets.nl:80
+[http] preview.gsmarkets.nl:80
+[http] qa.gsmarkets.nl:80
+[https] beta.gsmarkets.nl:443
+[https] link.email.gsmarkets.nl:443
+[https] link.info.gsmarkets.nl:443
+[https] preview.gsmarkets.nl:443
+[https] qa.gsmarkets.nl:443
+[https] www.gsmarkets.nl:443
+[http] www.gsmarkets.nl:80

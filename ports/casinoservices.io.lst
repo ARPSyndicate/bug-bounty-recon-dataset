@@ -1,0 +1,13 @@
+[http] 0-1-okta-ios-auth-api-client.casinoservices.io:80
+[http] 0-1-okta-ios-auth-login-client.casinoservices.io:80
+[http] 0-1-okta-ios-auth-northamerica-client-mail.casinoservices.io:80
+[http] 0-engine-okta-bucket-auth-api-client.casinoservices.io:80
+[http] amacon.casinoservices.io:80
+[http] casinoservices.io:80
+[http] pas.casinoservices.io:80
+[http] pas.test.casinoservices.io:80
+[http] paymentinformationcv2.casinoservices.io:80
+[http] private.casinoservices.io:80
+[http] private.pas.casinoservices.io:80
+[http] private.pas.test.casinoservices.io:80
+[http] private.test.casinoservices.io:80

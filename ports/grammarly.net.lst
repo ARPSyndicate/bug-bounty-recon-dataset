@@ -1,0 +1,4 @@
+[http] grammarly.net:80
+[https] grammarly.net:443
+[https] www.grammarly.net:443
+[http] www.grammarly.net:80

@@ -1,0 +1,12 @@
+[blackice-icecap] partners.kinepolis.com:8081
+[commplex-link] training.kinepolis.com:5001
+[http] kinepolis.com:80
+[http] partners.kinepolis.com:80
+[http-proxy] partners.kinepolis.com:8080
+[http] rvb.kinepolis.com:80
+[https] kinepolis.com:443
+[https] partners.kinepolis.com:443
+[https] rvb.kinepolis.com:443
+[https] training.kinepolis.com:443
+[http] training.kinepolis.com:80
+[smtp] training.kinepolis.com:25

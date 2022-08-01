@@ -1,0 +1,13 @@
+[http] clubhouseapi.com:80
+[http] ec2.clubhouseapi.com:80
+[http] images.clubhouseapi.com:80
+[http] images.staging.clubhouseapi.com:80
+[https] clubhouseapi.com:443
+[https] ec2.clubhouseapi.com:443
+[https] images.clubhouseapi.com:443
+[https] images.staging.clubhouseapi.com:443
+[https] ultravox.clubhouseapi.com:443
+[https] ultravox.staging.clubhouseapi.com:443
+[https] www.clubhouseapi.com:443
+[http] ultravox.staging.clubhouseapi.com:80
+[http] www.clubhouseapi.com:80

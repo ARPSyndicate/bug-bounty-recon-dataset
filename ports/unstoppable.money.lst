@@ -1,0 +1,6 @@
+[https] unstoppable.money:443
+[https] www.unstoppable.money:443
+[http] unstoppable.money:80
+[http] www.unstoppable.money:80
+[ssh] unstoppable.money:22
+[ssh] www.unstoppable.money:22

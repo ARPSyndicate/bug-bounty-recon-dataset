@@ -1,0 +1,16 @@
+[http] contributor.huffpost.co.uk:80
+[http] huffpost.co.uk:80
+[http] qa.contributor.huffpost.co.uk:80
+[http] qa.thespoils.huffpost.co.uk:80
+[https] contributor.huffpost.co.uk:443
+[http] search.huffpost.co.uk:80
+[https] huffpost.co.uk:443
+[https] qa.contributor.huffpost.co.uk:443
+[https] qa.thespoils.huffpost.co.uk:443
+[https] search.huffpost.co.uk:443
+[https] staging.contributor.huffpost.co.uk:443
+[https] staging.thespoils.huffpost.co.uk:443
+[http] staging.contributor.huffpost.co.uk:80
+[http] staging.thespoils.huffpost.co.uk:80
+[https] thespoils.huffpost.co.uk:443
+[http] thespoils.huffpost.co.uk:80

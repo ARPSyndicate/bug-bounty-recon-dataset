@@ -1,0 +1,4 @@
+[https] static.irccloud-cdn.com:443
+[http] static.irccloud-cdn.com:80
+[https] usercontent.irccloud-cdn.com:443
+[http] usercontent.irccloud-cdn.com:80

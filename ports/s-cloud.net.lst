@@ -1,0 +1,9 @@
+[http] cdn-334c.s-cloud.net:80
+[http] crash-trace.s-cloud.net:80
+[http] rocket.s-cloud.net:80
+[https-alt] mdm.s-cloud.net:8443
+[https] cdn-334c.s-cloud.net:443
+[https] crash-trace.s-cloud.net:443
+[https] mdm.s-cloud.net:443
+[https] rocket.s-cloud.net:443
+[https] section9.s-cloud.net:443

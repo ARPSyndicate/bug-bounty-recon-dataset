@@ -1,0 +1,4 @@
+[http] portalbridge.com:80
+[https] portalbridge.com:443
+[https] www.portalbridge.com:443
+[http] www.portalbridge.com:80

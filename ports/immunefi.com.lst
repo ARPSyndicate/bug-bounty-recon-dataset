@@ -1,0 +1,11 @@
+[cddbp-alt] bugs.immunefi.com:8880
+[cddbp-alt] immunefi.com:8880
+[cddbp-alt] staging.bugs.immunefi.com:8880
+[cddbp-alt] www.immunefi.com:8880
+[http] bugs.immunefi.com:80
+[http] immunefi.com:80
+[http-proxy] bugs.immunefi.com:8080
+[http-proxy] www.immunefi.com:8080
+[https] fp.immunefi.com:443
+[http] staging.bugs.immunefi.com:80
+[http] www.immunefi.com:80

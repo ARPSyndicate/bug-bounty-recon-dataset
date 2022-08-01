@@ -1,0 +1,12 @@
+[cddbp-alt] acceptatie.topdesk.intergamma.nl:8880
+[clearvisn] acceptatie.topdesk.intergamma.nl:2052
+[eli] acceptatie.topdesk.intergamma.nl:2087
+[gnunet] acceptatie.topdesk.intergamma.nl:2086
+[http] acceptatie.topdesk.intergamma.nl:80
+[http-proxy] acceptatie.topdesk.intergamma.nl:8080
+[https] acceptatie.topdesk.intergamma.nl:443
+[https-alt] acceptatie.topdesk.intergamma.nl:8443
+[https] dev-api.intergamma.nl:443
+[https] zabbix.intergamma.nl:443
+[infowave] acceptatie.topdesk.intergamma.nl:2082
+[radsec] acceptatie.topdesk.intergamma.nl:2083

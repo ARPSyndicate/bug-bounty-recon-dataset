@@ -1,0 +1,13 @@
+[http] alfajores.moola.market:80
+[http] app.moola.market:80
+[http] app-v1.moola.market:80
+[http] dev.moola.market:80
+[http] docs.moola.market:80
+[http] landing.alfajores.moola.market:80
+[http] moola.market:80
+[http] old.app.moola.market:80
+[http] old.moola.market:80
+[http] staging.moola.market:80
+[http] staging-v1.moola.market:80
+[http] www.moola.market:80
+[infowave] docs.moola.market:2082

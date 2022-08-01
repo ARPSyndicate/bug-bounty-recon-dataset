@@ -1,0 +1,8 @@
+[http] api.spookyswap.finance:80
+[http] assets.spookyswap.finance:80
+[http] info.spookyswap.finance:80
+[https] api.spookyswap.finance:443
+[https] assets.spookyswap.finance:443
+[https] info.spookyswap.finance:443
+[http] spookyswap.finance:80
+[https] spookyswap.finance:443

@@ -1,0 +1,6 @@
+[http-proxy] resources.runpanther.com:8080
+[http] resources.runpanther.com:80
+[https-alt] resources.runpanther.com:8443
+[https] resources.runpanther.com:443
+[https] www.runpanther.com:443
+[http] www.runpanther.com:80

@@ -1,0 +1,3 @@
+https://fetlife.com [200] [GET] [text/html] [Welcome Home | FetLife] [] [vhost] [fastly] [Fastly,Ruby,Ruby on Rails,Varnish] [c07fb4fa79724d09bb02ed3f1a25c8ab]
+https://staging.fetlife.com [200] [GET] [text/html] [Welcome Home | FetLife] [] [google] [Google Cloud,Google Cloud CDN,Ruby,Ruby on Rails] [4aa39c994c375495e56f68023b387f92]
+https://ws.fetlife.com [200] [GET] [text/html] [Welcome Home | FetLife] [] [google] [Google Cloud,Google Cloud CDN,Ruby,Ruby on Rails] [37590c9ae6bc218e0af6881660dcca12]

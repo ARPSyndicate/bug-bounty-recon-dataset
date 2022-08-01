@@ -1,0 +1,8 @@
+[http] recko.ai:80
+[http] recko.ai:8008
+[https] recko.ai:443
+[https] www.recko.ai:443
+[http] www.recko.ai:80
+[http] www.recko.ai:8008
+[xmpp] recko.ai:8010
+[xmpp] www.recko.ai:8010

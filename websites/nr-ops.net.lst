@@ -1,0 +1,17 @@
+http://cf-registry-production.nr-ops.net
+http://cloudflare-test2.nr-ops.net
+http://cloudflare-test2.nr-ops.net:2083
+http://cloudflare-test2.nr-ops.net:2087
+http://cloudflare-test2.nr-ops.net:8443
+http://ingest-route-test.nr-ops.net
+https://cf-registry-production.nr-ops.net
+https://cloudflare-test2.nr-ops.net
+http://service.awsdev.nr-ops.net
+https://ingest-route-test.nr-ops.net
+https://service.awsdev.nr-ops.net
+https://staging-service.awsdev.nr-ops.net
+http://staging-service.awsdev.nr-ops.net
+https://tls.nr-ops.net
+https://tls.nr-ops.net:8443
+http://tls.nr-ops.net
+http://tls.nr-ops.net:8080

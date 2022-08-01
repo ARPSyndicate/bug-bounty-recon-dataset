@@ -1,0 +1,11 @@
+[http] autodiscover.teslainsuranceservices.com:80
+[http] link.teslainsuranceservices.com:80
+[https] link.teslainsuranceservices.com:443
+[https] stage-assets.teslainsuranceservices.com:443
+[https] stage.teslainsuranceservices.com:443
+[https] static-assets.teslainsuranceservices.com:443
+[http] stage-assets.teslainsuranceservices.com:80
+[http] stage.teslainsuranceservices.com:80
+[http] static-assets.teslainsuranceservices.com:80
+[https] www.teslainsuranceservices.com:443
+[http] www.teslainsuranceservices.com:80

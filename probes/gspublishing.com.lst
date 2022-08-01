@@ -1,0 +1,8 @@
+http://gspublishing.com [301] [GET] [text/html] [] [] [vhost] [81051bcc2cf1bedf378224b0a93e2877]
+https://6gjtxtlzl33ssclx7rgl.gspublishing.com [301] [GET] [text/html] [301 Moved Permanently] [] [vhost] [3157223c4ba04f904acd4fe2e1c81889]
+https://6GJTxTlzL33SscLX7RgL.gspublishing.com [301] [GET] [text/html] [301 Moved Permanently] [] [vhost] [3157223c4ba04f904acd4fe2e1c81889]
+https://api.gspublishing.com [404] [GET] [application/json] [] [] [vhost] [2c7ef3e2a869dd3196f197e7c6b27070]
+https://assets.gspublishing.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [80334b23ba52277fef35415648b379ac]
+https://qa.api.gspublishing.com [404] [GET] [application/json] [] [] [vhost] [2c7ef3e2a869dd3196f197e7c6b27070]
+https://www.gspublishing.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [3476d51687f39fc40e38d5e6d9ea43ae]
+https://www.gspublishing.com [403] [GET] [text/html] [Access Denied] [AkamaiGHost] [vhost] [47d53ba8664acf48f54afdeeea813ce1]

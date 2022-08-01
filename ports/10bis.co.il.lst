@@ -1,0 +1,8 @@
+[http] click.update.10bis.co.il:80
+[http] reshomeapi.10bis.co.il:80
+[https] click.update.10bis.co.il:443
+[https] reshomeapi.10bis.co.il:443
+[https] staging.10bis.co.il:443
+[https] storybook.10bis.co.il:443
+[http] staging.10bis.co.il:80
+[http] storybook.10bis.co.il:80

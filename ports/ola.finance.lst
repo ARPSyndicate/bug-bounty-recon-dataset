@@ -1,0 +1,8 @@
+[http] app.ola.finance:80
+[http] backup.ola.finance:80
+[https] app.ola.finance:443
+[https] backup.ola.finance:443
+[https] ola.finance:443
+[https] testnets.ola.finance:443
+[https] www.ola.finance:443
+[http] testnets.ola.finance:80

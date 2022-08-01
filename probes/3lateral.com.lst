@@ -1,0 +1,3 @@
+http://legacy.3lateral.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [63be0d107695eaaf64a12c57e67344f8]
+https://3lateral.com [200] [GET] [text/html] [3Lateral] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,Google Font API,ZURB Foundation] [8a11e8ae305e3d50c6d4e01729cfdeb9]
+https://www.3lateral.com [200] [GET] [text/html] [3Lateral] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services,Google Font API,ZURB Foundation] [8a11e8ae305e3d50c6d4e01729cfdeb9]

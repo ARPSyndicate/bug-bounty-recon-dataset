@@ -1,0 +1,12 @@
+[http] flatex.gsmarkets.de:80
+[http] link.email.gsmarkets.de:80
+[http] link.info.gsmarkets.de:80
+[http] qa.flatex.gsmarkets.de:80
+[http] qa.gsmarkets.de:80
+[https] flatex.gsmarkets.de:443
+[https] link.email.gsmarkets.de:443
+[https] link.info.gsmarkets.de:443
+[https] qa.flatex.gsmarkets.de:443
+[https] qa.gsmarkets.de:443
+[https] www.gsmarkets.de:443
+[http] www.gsmarkets.de:80

@@ -1,0 +1,6 @@
+[http] autodiscover.hestview.com:80
+[http] lyncdiscover.hestview.com:80
+[http] msoid.hestview.com:80
+[https] lyncdiscover.hestview.com:443
+[https] msoid.hestview.com:443
+[https] sip.hestview.com:443

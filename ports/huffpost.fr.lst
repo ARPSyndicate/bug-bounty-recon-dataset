@@ -1,0 +1,10 @@
+[http] contributor.huffpost.fr:80
+[http] huffpost.fr:80
+[http] redaction.huffpost.fr:80
+[https] contributor.huffpost.fr:443
+[https] huffpost.fr:443
+[https] redaction.huffpost.fr:443
+[https] staging.contributor.huffpost.fr:443
+[http] staging.contributor.huffpost.fr:80
+[https] www.huffpost.fr:443
+[http] www.huffpost.fr:80

@@ -1,0 +1,4 @@
+http://autodiscover.skybettingandgaming.info [301] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://lyncdiscover.skybettingandgaming.info [200] [GET] [application/json] [] [] [vhost] [25e2d317650f03c0c292a2bd594b055c]
+https://lyncdiscover.skybettingandgaming.info [200] [GET] [application/json] [] [] [vhost] [7d37ad158e2180c4f69d7d83a2a03904]
+https://sip.skybettingandgaming.info [404] [GET] [text/plain] [] [RTC/7.0] [e0d52df46ed5b83465f91260abef6813]

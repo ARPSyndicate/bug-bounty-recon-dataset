@@ -1,0 +1,11 @@
+[http] extranet.telenethotspot.be:80
+[http] portal.telenethotspot.be:80
+[https] extranet.telenethotspot.be:443
+[https] portal.telenethotspot.be:443
+[https] telenethotspot.be:443
+[https] ws.telenethotspot.be:443
+[https] www.telenethotspot.be:443
+[http] telenethotspot.be:80
+[http] ws.telenethotspot.be:80
+[http] www.telenethotspot.be:80
+[ssh] telenethotspot.be:22

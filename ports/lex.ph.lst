@@ -1,0 +1,4 @@
+[http] lex.ph:80
+[http] pre.lex.ph:80
+[https] lex.ph:443
+[https] pre.lex.ph:443

@@ -1,0 +1,6 @@
+[http] contributor.huffpost.jp:80
+[https] contributor.huffpost.jp:443
+[https] staging.contributor.huffpost.jp:443
+[http] staging.contributor.huffpost.jp:80
+[https] www.huffpost.jp:443
+[http] www.huffpost.jp:80

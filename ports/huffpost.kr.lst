@@ -1,0 +1,6 @@
+[http] contributor.huffpost.kr:80
+[https] contributor.huffpost.kr:443
+[https] staging.contributor.huffpost.kr:443
+[http] staging.contributor.huffpost.kr:80
+[https] www.huffpost.kr:443
+[http] www.huffpost.kr:80

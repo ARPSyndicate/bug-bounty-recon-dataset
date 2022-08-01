@@ -1,0 +1,6 @@
+[http] 3lateral.com:80
+[http] legacy.3lateral.com:80
+[https] 3lateral.com:443
+[https] legacy.3lateral.com:443
+[https] www.3lateral.com:443
+[http] www.3lateral.com:80

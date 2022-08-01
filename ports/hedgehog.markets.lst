@@ -1,0 +1,8 @@
+[http] amm.hedgehog.markets:80
+[http] hedgehog.markets:80
+[http] p2p.hedgehog.markets:80
+[https] amm.hedgehog.markets:443
+[https] hedgehog.markets:443
+[https] p2p.hedgehog.markets:443
+[https] www.hedgehog.markets:443
+[http] www.hedgehog.markets:80

@@ -1,0 +1,5 @@
+[git] git.lyst.co:9418
+[http] git.lyst.co:80
+[https] git.lyst.co:443
+[smtp] git.lyst.co:25
+[ssh] git.lyst.co:22

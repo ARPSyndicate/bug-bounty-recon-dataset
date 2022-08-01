@@ -1,0 +1,7 @@
+[http] campagne.vtmgo.be:80
+[http] ims.vtmgo.be:80
+[http] login.vtmgo.be:80
+[https] campagne.vtmgo.be:443
+[https] ims.vtmgo.be:443
+[https] login.vtmgo.be:443
+[wap-wsp] campagne.vtmgo.be:9200

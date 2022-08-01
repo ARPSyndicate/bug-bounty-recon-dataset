@@ -1,0 +1,5 @@
+https://flatex.gsmarkets.at [301] [GET] [text/html] [] [WebServer] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://qa.flatex.gsmarkets.at [401] [GET] [text/html] [401 Unauthorized] [WebServer] [vhost] [Basic] [118a489422be0c5ca0cecf3bb7903c7e]
+https://qa.gsmarkets.at [401] [GET] [text/html] [401 Unauthorized] [WebServer] [vhost] [Basic] [118a489422be0c5ca0cecf3bb7903c7e]
+https://www.gsmarkets.at [200] [GET] [text/html] [gsmarkets.at - Knock-Outs, Optionsscheine, Faktor-Zertifikate und andere Anlagezertifikate] [WebServer] [vhost] [Contentful,React] [034bdef24cdc2a8fd9e507895fcaf862]
+https://www.gsmarkets.at [200] [GET] [text/html] [gsmarkets.at - Knock-Outs, Optionsscheine, Faktor-Zertifikate und andere Anlagezertifikate] [WebServer] [vhost] [Contentful,React] [289b64e0e158732552910d252c8e9801]

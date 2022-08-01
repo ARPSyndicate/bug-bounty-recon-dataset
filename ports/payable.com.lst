@@ -1,0 +1,8 @@
+[http] app.payable.com:80
+[http] payable.com:80
+[https] app.payable.com:443
+[https] payable.com:443
+[https] staging-app.payable.com:443
+[http] staging-app.payable.com:80
+[https] www.payable.com:443
+[http] www.payable.com:80

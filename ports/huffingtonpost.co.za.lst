@@ -1,0 +1,8 @@
+[http] m.huffingtonpost.co.za:80
+[http] projects.huffingtonpost.co.za:80
+[https] m.huffingtonpost.co.za:443
+[https] projects.huffingtonpost.co.za:443
+[https] stories.huffingtonpost.co.za:443
+[http] stories.huffingtonpost.co.za:80
+[https] www.huffingtonpost.co.za:443
+[http] www.huffingtonpost.co.za:80

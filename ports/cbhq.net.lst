@@ -1,0 +1,12 @@
+[http] customers.cbhq.net:80
+[http] dev-proxy.cbhq.net:80
+[https] admin-api.cbhq.net:443
+[https] admin.cbhq.net:443
+[https-alt] jss.cbhq.net:8443
+[https] customers-bpo.cbhq.net:443
+[https] customers.cbhq.net:443
+[https] dev-proxy.cbhq.net:443
+[http] sherlock.cbhq.net:80
+[https] ra.cbhq.net:443
+[https] sherlock-bpo.cbhq.net:443
+[https] sherlock.cbhq.net:443

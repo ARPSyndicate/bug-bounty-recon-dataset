@@ -1,0 +1,16 @@
+[http] apis.repostnetwork.com:80
+[http] app.repostnetwork.com:80
+[http] backstage.repostnetwork.com:80
+[http] blog.repostnetwork.com:80
+[http] repostnetwork.com:80
+[https] api.repostnetwork.com:443
+[https] apis.repostnetwork.com:443
+[https] app.repostnetwork.com:443
+[https] backstage.repostnetwork.com:443
+[https] billing.services.repostnetwork.com:443
+[https] gate.services.repostnetwork.com:443
+[https] repostnetwork.com:443
+[https] tax-info.services.repostnetwork.com:443
+[https] users.services.repostnetwork.com:443
+[https] www.repostnetwork.com:443
+[http] www.repostnetwork.com:80

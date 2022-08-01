@@ -1,0 +1,6 @@
+[http] api.lel.global:80
+[http] email.lel.global:80
+[https] api.lel.global:443
+[https] email.lel.global:443
+[https] www.lel.global:443
+[http] www.lel.global:80

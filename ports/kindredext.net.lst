@@ -1,0 +1,14 @@
+[http] api-dev.kindredext.net:80
+[http] auth.kindredext.net:80
+[http] auth-qa1.kindredext.net:80
+[http] clientssl.kindredext.net:80
+[http] clientssl-qa1.kindredext.net:80
+[https] api-dev.kindredext.net:443
+[https] auth.kindredext.net:443
+[https] auth-qa1.kindredext.net:443
+[https] clientssl.kindredext.net:443
+[https] clientssl-qa1.kindredext.net:443
+[https] xapi-dev.kindredext.net:443
+[https] xapi-qa1.kindredext.net:443
+[http] xapi-dev.kindredext.net:80
+[http] xapi-qa1.kindredext.net:80

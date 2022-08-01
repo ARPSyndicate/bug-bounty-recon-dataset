@@ -1,0 +1,4 @@
+[https] secure.jellychat.com:443
+[https] secure-v2.jellychat.com:443
+[https] www.jellychat.com:443
+[http] www.jellychat.com:80

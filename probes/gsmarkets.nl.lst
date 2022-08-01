@@ -1,0 +1,6 @@
+https://beta.gsmarkets.nl [301] [GET] [] [] [AkamaiGHost] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://preview.gsmarkets.nl [200] [GET] [text/html] [gsmarkets.nl -Turbo’s en Traders] [WebServer] [vhost] [Akamai,Contentful,React] [3aeec73e748ac5da61d9f5d62ceed68f]
+https://preview.gsmarkets.nl [200] [GET] [text/html] [gsmarkets.nl -Turbo’s en Traders] [WebServer] [vhost] [Akamai,Contentful,React] [4b3d25ada819ddebc790c8263970e03e]
+https://qa.gsmarkets.nl [401] [GET] [text/html] [401 Unauthorized] [WebServer] [vhost] [Basic] [118a489422be0c5ca0cecf3bb7903c7e]
+https://www.gsmarkets.nl [200] [GET] [text/html] [gsmarkets.nl -Turbo’s en Traders] [WebServer] [vhost] [Akamai,Contentful,React] [7db4d20eb37b583634d2f44e1118556c]
+https://www.gsmarkets.nl [200] [GET] [text/html] [gsmarkets.nl -Turbo’s en Traders] [WebServer] [vhost] [Akamai,Contentful,React] [a602ed4e8c461656ecb280b155a52adb]

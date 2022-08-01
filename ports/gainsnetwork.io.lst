@@ -1,0 +1,4 @@
+[http] gainsnetwork.io:80
+[https] gainsnetwork.io:443
+[https] www.gainsnetwork.io:443
+[http] www.gainsnetwork.io:80

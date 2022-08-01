@@ -1,0 +1,5 @@
+[http] ignis.tinderops.net:80
+[http] repo.staging.k8s.tinderops.net:80
+[http] security.jenkins.ci.tinderops.net:80
+[https] repo.staging.k8s.tinderops.net:443
+[https] security.jenkins.ci.tinderops.net:443

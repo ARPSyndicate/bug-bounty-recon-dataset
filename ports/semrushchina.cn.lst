@@ -1,0 +1,4 @@
+[http] secure.semrushchina.cn:80
+[http] semrushchina.cn:80
+[https] secure.semrushchina.cn:443
+[https] semrushchina.cn:443

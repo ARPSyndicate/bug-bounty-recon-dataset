@@ -1,0 +1,16 @@
+[http] assets.hyperpure.com:80
+[http] dd.hyperpure.com:80
+[http] devhpadmin.hyperpure.com:80
+[http] devnet.hyperpure.com:80
+[http] hyperpure.com:80
+[http] pod.hyperpure.com:80
+[https] assets.hyperpure.com:443
+[https] dd.hyperpure.com:443
+[https] devhpadmin.hyperpure.com:443
+[https] devnet.hyperpure.com:443
+[https] hyperpure.com:443
+[https] pod.hyperpure.com:443
+[https] staging.hyperpure.com:443
+[http] staging.hyperpure.com:80
+[https] www.hyperpure.com:443
+[http] www.hyperpure.com:80

@@ -1,0 +1,14 @@
+[http] api.search.usa.gov:80
+[http] asis.search.usa.gov:80
+[http] i14y.search.usa.gov:80
+[http] proxylb.us-east-1.infr.search.usa.gov:80
+[http] resque.search.usa.gov:80
+[https] api.search.usa.gov:443
+[https] asis.search.usa.gov:443
+[http] search.usa.gov:80
+[https] i14y.search.usa.gov:443
+[https] proxylb.us-east-1.infr.search.usa.gov:443
+[https] resque.search.usa.gov:443
+[https] search.usa.gov:443
+[https] www.search.usa.gov:443
+[http] www.search.usa.gov:80

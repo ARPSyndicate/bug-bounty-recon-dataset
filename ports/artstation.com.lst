@@ -1,0 +1,17 @@
+[cddbp-alt] help.artstation.com:8880
+[cddbp-alt] magazine.artstation.com:8880
+[eli] help.artstation.com:2087
+[eli] magazine.artstation.com:2087
+[gnunet] help.artstation.com:2086
+[gnunet] magazine.artstation.com:2086
+[http] help.artstation.com:80
+[http] magazine.artstation.com:80
+[http-proxy] help.artstation.com:8080
+[http-proxy] magazine.artstation.com:8080
+[https-alt] help.artstation.com:8443
+[https-alt] magazine.artstation.com:8443
+[https] help.artstation.com:443
+[https] magazine.artstation.com:443
+[infowave] help.artstation.com:2082
+[infowave] magazine.artstation.com:2082
+[radsec] help.artstation.com:2083

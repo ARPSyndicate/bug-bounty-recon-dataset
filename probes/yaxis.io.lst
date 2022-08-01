@@ -1,0 +1,6 @@
+https://app.yaxis.io [200] [GET] [text/html] [yAxis Project] [Netlify] [vhost] [google] [Google Font API,Netlify] [2c2f7ed5b33c21b2aa0c058c63926f7b]
+https://staging.yaxis.io [200] [GET] [text/html] [yAxis Project] [Netlify] [vhost] [google] [Google Font API,Netlify] [07358bbbf8de0fb76b687b569727b015]
+https://www.app.yaxis.io [200] [GET] [text/html] [yAxis Project] [Netlify] [vhost] [Google Font API,Netlify] [2c2f7ed5b33c21b2aa0c058c63926f7b]
+https://www.staging.yaxis.io [200] [GET] [text/html] [yAxis Project] [Netlify] [vhost] [google] [Google Font API,Netlify] [07358bbbf8de0fb76b687b569727b015]
+https://www.yaxis.io [200] [GET] [text/html] [yAxis Project] [Netlify] [vhost] [Google Font API,Netlify] [2c2f7ed5b33c21b2aa0c058c63926f7b]
+https://yaxis.io [301] [GET] [text/plain] [] [Netlify] [vhost] [Netlify] [fba091cbad83f6892a796cc402493e83]

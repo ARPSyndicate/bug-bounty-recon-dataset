@@ -1,0 +1,12 @@
+[blackice-icecap] shop-dev.kinepolis.be:8081
+[http] kinepolis.be:80
+[http-proxy] shop-dev.kinepolis.be:8080
+[http] shop-dev.kinepolis.be:80
+[https] kinepolis.be:443
+[https] shop-dev.kinepolis.be:443
+[https] test-tickets.kinepolis.be:443
+[https] tickets.kinepolis.be:443
+[https] www.greatescape.kinepolis.be:443
+[http] test-tickets.kinepolis.be:80
+[http] tickets.kinepolis.be:80
+[http] www.greatescape.kinepolis.be:80

@@ -1,0 +1,6 @@
+http://devhpadmin.hyperpure.com [302] [GET] [text/html] [302 Found] [akamai/nginx] [Nginx] [266b323f36eef1ca4c3b91be1463020a]
+https://dd.hyperpure.com [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [a761d00191c3026e796f80d0c8289b4f]
+https://devnet.hyperpure.com [503] [GET] [text/html] [503 Service Temporarily Unavailable] [awselb/2.0] [vhost] [81df4d3863debf3eceb5cf84251fd472]
+https://hyperpure.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [vhost] [4aa7a432bb447f094408f1bd6229c605]
+https://pod.hyperpure.com [200] [GET] [text/html] [Hyperpure - POD] [AmazonS3] [vhost] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [70a3da8e9596c47656c88a6d711529c7]
+https://www.hyperpure.com [200] [GET] [text/html] [Hyperpure] [AmazonS3] [vhost] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [b7b439150acfd8352234b72747735716]

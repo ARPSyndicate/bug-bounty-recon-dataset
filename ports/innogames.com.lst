@@ -1,0 +1,8 @@
+[http] innogames.com:80
+[http] mailcdn.innogames.com:80
+[http] news.innogames.com:80
+[http] pre-production.innogames.com:80
+[https] innogames.com:443
+[https] mailcdn.innogames.com:443
+[https] news.innogames.com:443
+[https] pre-production.innogames.com:443

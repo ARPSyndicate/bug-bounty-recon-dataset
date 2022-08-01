@@ -1,0 +1,15 @@
+[http] 9lives.be:80
+[http] autodiscover.9lives.be:80
+[http] msoid.9lives.be:80
+[https] 9lives.be:443
+[https] msoid.9lives.be:443
+[https] webmail.9lives.be:443
+[https] www.9lives.be:443
+[http] webmail.9lives.be:80
+[http] www.9lives.be:80
+[imaps] webmail.9lives.be:993
+[imap] webmail.9lives.be:143
+[pop3s] webmail.9lives.be:995
+[pop3] webmail.9lives.be:110
+[smtp] webmail.9lives.be:25
+[submission] webmail.9lives.be:587

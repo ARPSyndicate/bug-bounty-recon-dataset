@@ -1,0 +1,13 @@
+[http] api.grabpay.com:80
+[http] cdn-gp01.grabpay.com:80
+[http] merchantcentral.grabpay.com:80
+[https] api.grabpay.com:443
+[https] apigw01.grabpay.com:443
+[https] bitbucketmirror01.corp.grabpay.com:443
+[https] bitbucket-mirror-ext01.corp.grabpay.com:443
+[https] cdn-gp01.grabpay.com:443
+[https] dockerhub.corp.grabpay.com:443
+[https] merchantcentral.grabpay.com:443
+[https] mos.grabpay.com:443
+[https] verification.grabpay.com:443
+[http] verification.grabpay.com:80

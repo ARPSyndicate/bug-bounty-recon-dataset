@@ -1,0 +1,5 @@
+https://public-sip0.covid19-us1.twilio.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [37ede92e06cc372e2fc3459cd0df67a4]
+https://public-sip0.covid19-us1.twilio.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [b5037ad589eaf0e7a3c525e03537b32f]
+https://public-sip1.ers.ie1.twilio.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [4aa7a432bb447f094408f1bd6229c605]
+https://sip.covid19-us1.twilio.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [354f00880be86dedf40268b20d7f62ed]
+https://sip.covid19-us1.twilio.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [c739621e6954c493a7d4a2339cd6d69b]

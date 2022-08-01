@@ -1,0 +1,4 @@
+https://dev.reddithelp.com [301] [GET] [] [] [Varnish] [vhost] [fastly] [d41d8cd98f00b204e9800998ecf8427e]
+https://reddithelp.com [301] [GET] [text/html] [] [cloudflare] [vhost] [fastly] [Cloudflare,Cloudflare Network Error Logging,Envoy,Fastly,Varnish,Zendesk] [8c505cc9f7fcb0c136113c7235773b53]
+https://staging.reddithelp.com [401] [GET] [text/html] [401 Authorization Required] [] [vhost] [fastly] [Basic] [28c5f434e4ab2e2a682400cb005fb08b]
+https://www.reddithelp.com [301] [GET] [text/html] [] [cloudflare] [vhost] [fastly] [Cloudflare,Cloudflare Network Error Logging,Envoy] [8c505cc9f7fcb0c136113c7235773b53]

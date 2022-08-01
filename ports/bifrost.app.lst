@@ -1,0 +1,17 @@
+[domain] dot-api.bifrost.app:53
+[http] api.bifrost.app:80
+[http] bifrost.app:80
+[http] crowdloan.bifrost.app:80
+[http] dot-api.bifrost.app:80
+[http] dot.bifrost.app:80
+[https] api.bifrost.app:443
+[https] bifrost.app:443
+[https] crowdloan.bifrost.app:443
+[https] dot-api.bifrost.app:443
+[https] dot.bifrost.app:443
+[https] www.bifrost.app:443
+[http] www.bifrost.app:80
+[nessus] dot-api.bifrost.app:3001
+[ntp] dot-api.bifrost.app:123
+[rpcbind] dot-api.bifrost.app:111
+[ssh] dot-api.bifrost.app:22

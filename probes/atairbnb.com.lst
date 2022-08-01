@@ -1,0 +1,8 @@
+https://assets-brandcms.atairbnb.com [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [93ae830272e2cc903cc264ca3ac1edbb]
+https://assets-brandcms.atairbnb.com [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [e0efe6ca13b557da47c3467ef766c270]
+https://assets-brandcms-dev.atairbnb.com [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [6a2de12c21452906652268092fda9344]
+https://assets-brandcms-dev.atairbnb.com [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [f59b679229329f75ceae24e7de94d55b]
+https://assets-brandcms-stage.atairbnb.com [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [acfc2279ea82d2041237c87a59b58ea3]
+https://assets-brandcms-stage.atairbnb.com [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [c987ab28bccc8a740aef55ecb8964585]
+https://blog.atairbnb.com [200] [GET] [text/html] [The Airbnb Blog – Belong Anywhere] [nginx] [vhost] [Font Awesome,Google Font API,MySQL,Nginx,PHP,WordPress,WordPress VIP] [6e95d1306e3277cb337615296f586c8d]
+https://press.atairbnb.com [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]

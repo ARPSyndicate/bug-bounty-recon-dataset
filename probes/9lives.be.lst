@@ -1,0 +1,5 @@
+http://autodiscover.9lives.be [301] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS:10.0,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://9lives.be [302] [GET] [text/html] [302 Found] [] [vhost] [Varnish] [677e836968c9866f46abbf4f7f374f4a]
+https://msoid.9lives.be [302] [GET] [text/html] [Object moved] [] [vhost] [azure] [67dc47621d0dca9dc8d849ee26494c3b]
+https://webmail.9lives.be [302] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS:10.0,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://www.9lives.be [302] [GET] [] [] [BigIP] [F5 BigIP] [d41d8cd98f00b204e9800998ecf8427e]

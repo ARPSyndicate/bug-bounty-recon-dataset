@@ -1,0 +1,16 @@
+[blackice-icecap] www.dailymotionadvertising.com:8081
+[http] dailymotionadvertising.com:80
+[http-proxy] www.dailymotionadvertising.com:8080
+[https] dailymotionadvertising.com:443
+[https] www.dailymotionadvertising.com:443
+[http] www.dailymotionadvertising.com:80
+[imaps] www.dailymotionadvertising.com:993
+[imap] www.dailymotionadvertising.com:143
+[jetdirect] www.dailymotionadvertising.com:9100
+[ms-wbt-server] www.dailymotionadvertising.com:3389
+[pop3s] www.dailymotionadvertising.com:995
+[pop3] www.dailymotionadvertising.com:110
+[postgresql] www.dailymotionadvertising.com:5432
+[smtps] www.dailymotionadvertising.com:465
+[submission] www.dailymotionadvertising.com:587
+[vnc] www.dailymotionadvertising.com:5900

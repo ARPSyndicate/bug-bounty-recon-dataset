@@ -1,0 +1,16 @@
+[http] bet.a.sbgcdn.com:80
+[http] bet.nps.sbgcdn.com:80
+[http] bet.sbgcdn.com:80
+[http] bet.staging.sbgcdn.com:80
+[http] bet.test1.sbgcdn.com:80
+[http] bet.test4.sbgcdn.com:80
+[http] bet.test5.sbgcdn.com:80
+[http] bet.test6.sbgcdn.com:80
+[https] bet.a.sbgcdn.com:443
+[https] bet.nps.sbgcdn.com:443
+[https] bet.sbgcdn.com:443
+[https] bet.staging.sbgcdn.com:443
+[https] bet.test1.sbgcdn.com:443
+[https] bet.test4.sbgcdn.com:443
+[https] bet.test5.sbgcdn.com:443
+[https] bet.test6.sbgcdn.com:443

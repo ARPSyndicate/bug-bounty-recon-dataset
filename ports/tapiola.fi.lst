@@ -1,0 +1,15 @@
+[http] analytics.tapiola.fi:80
+[http] huolto.tapiola.fi:80
+[https] authmigrate.tapiola.fi:443
+[https] tapahtumat.tapiola.fi:443
+[https] tapiola.fi:443
+[https] verkkopalvelu2.tapiola.fi:443
+[https] verkkopalvelu.tapiola.fi:443
+[https] webservices.tapiola.fi:443
+[https] www.tapiola.fi:443
+[https] yrityspalvelu.tapiola.fi:443
+[http] tapahtumat.tapiola.fi:80
+[http] tapiola.fi:80
+[http] www.tapiola.fi:80
+[http] yrityspalvelu.tapiola.fi:80
+[smtp] mmail.tapiola.fi:25

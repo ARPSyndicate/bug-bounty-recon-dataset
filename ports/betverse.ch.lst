@@ -1,0 +1,16 @@
+[bgp] betverse.ch:179
+[bgp] www.betverse.ch:179
+[blackice-alerts] betverse.ch:8082
+[blackice-alerts] www.betverse.ch:8082
+[http] betverse.ch:80
+[https] betverse.ch:443
+[https] www.betverse.ch:443
+[http] www.betverse.ch:80
+[rtmp] betverse.ch:1935
+[rtmp] www.betverse.ch:1935
+[ssh] betverse.ch:22
+[ssh] www.betverse.ch:22
+[unknown] betverse.ch:8084
+[unknown] betverse.ch:8085
+[unknown] www.betverse.ch:8084
+[unknown] www.betverse.ch:8085

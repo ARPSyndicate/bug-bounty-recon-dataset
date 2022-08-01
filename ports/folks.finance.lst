@@ -1,0 +1,12 @@
+[cddbp-alt] docs.folks.finance:8880
+[gnunet] docs.folks.finance:2086
+[http] app.folks.finance:80
+[http] docs.folks.finance:80
+[http] folks.finance:80
+[http] galgobullish.folks.finance:80
+[http] oracle.folks.finance:80
+[https] galgobullish.folks.finance:443
+[https] oracle.folks.finance:443
+[http] testnet.folks.finance:80
+[http] www.folks.finance:80
+[ssh] galgobullish.folks.finance:22

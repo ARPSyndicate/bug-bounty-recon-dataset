@@ -1,0 +1,3 @@
+http://ignis.tinderops.net [403] [GET] [text/html] [403 Forbidden] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [061291138d6ba89b7fc998351e5c388d]
+https://repo.staging.k8s.tinderops.net [403] [GET] [application/xml] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [31e2bebeb5c4a494d2220cb4163c9c58]
+https://repo.staging.k8s.tinderops.net [403] [GET] [application/xml] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [4580177ca005338b074beb70195f2ded]

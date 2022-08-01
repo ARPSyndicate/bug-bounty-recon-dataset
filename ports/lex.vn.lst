@@ -1,0 +1,4 @@
+[http] lex.vn:80
+[http] pre.lex.vn:80
+[https] lex.vn:443
+[https] pre.lex.vn:443

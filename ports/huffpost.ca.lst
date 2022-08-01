@@ -1,0 +1,12 @@
+[http] contributor.huffpost.ca:80
+[http] contributor.quebec.huffpost.ca:80
+[http] quebec.huffpost.ca:80
+[https] contributor.huffpost.ca:443
+[https] contributor.quebec.huffpost.ca:443
+[https] quebec.huffpost.ca:443
+[https] staging.contributor.huffpost.ca:443
+[https] staging.contributor.quebec.huffpost.ca:443
+[http] staging.contributor.huffpost.ca:80
+[http] staging.contributor.quebec.huffpost.ca:80
+[https] www.huffpost.ca:443
+[http] www.huffpost.ca:80

@@ -1,0 +1,6 @@
+https://cdn.yahooapis.com [500] [GET] [text/html] [Yahoo] [ATS] [vhost] [Apache Traffic Server] [233bf7169f52153f38b17647372b8d4e]
+https://samsung-mobile.query.yahooapis.com [404] [GET] [text/html] [Yahoo] [ATS] [Apache Traffic Server] [24885ba5941742fb145bcdfc77d13016]
+https://tw.pp-scm.yahooapis.com [200] [GET] [text/html] [] [Microsoft-IIS/8.5] [IIS,Microsoft ASP.NET,Windows Server] [c952c1c8fbd7d5b4214805d817235070]
+https://tw.scm.yahooapis.com [200] [GET] [text/html] [] [ATS] [vhost] [Apache Traffic Server,IIS,Microsoft ASP.NET] [c952c1c8fbd7d5b4214805d817235070]
+https://yahooapis.com [301] [GET] [text/html] [Yahoo] [ATS] [vhost] [Apache Traffic Server] [0a39d75c17754d824a994bc1f98dd255]
+https://yahooapis.com [301] [GET] [text/html] [Yahoo] [ATS] [vhost] [Apache Traffic Server] [193e9e31620805900cdc4ccf2d268b82]

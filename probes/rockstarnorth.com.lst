@@ -1,0 +1,3 @@
+http://autodiscover.rockstarnorth.com [301] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://stage.rockstarnorth.com [200] [GET] [text/html] [Rockstar North] [] [Bootstrap] [1be1344c592c0d1610b2fee0cecac4bb]
+https://www.rockstarnorth.com [200] [GET] [text/html] [Rockstar North] [] [Bootstrap] [1be1344c592c0d1610b2fee0cecac4bb]

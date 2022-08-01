@@ -1,0 +1,10 @@
+[http] engineering.grab.co:80
+[http] food-cms.grab.co:80
+[http] gamma.grab.co:80
+[http] hub.grab.co:80
+[http] manage.grab.co:80
+[https] engineering.grab.co:443
+[https] food-cms.grab.co:443
+[https] gamma.grab.co:443
+[https] hub.grab.co:443
+[https] manage.grab.co:443

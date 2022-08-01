@@ -1,0 +1,14 @@
+[http] 1e35cbc19de1456caf8c08b2b4ead7d2.thorstarter.org:80
+[http] app.thorstarter.org:80
+[http] blog.thorstarter.org:80
+[http] docs.thorstarter.org:80
+[http] forum.thorstarter.org:80
+[http] rewards-dashboard.thorstarter.org:80
+[https] app.thorstarter.org:443
+[https] forum.thorstarter.org:443
+[http] smtp.thorstarter.org:80
+[https] rewards-dashboard.thorstarter.org:443
+[https] thorstarter.org:443
+[https] www.thorstarter.org:443
+[http] thorstarter.org:80
+[http] www.thorstarter.org:80

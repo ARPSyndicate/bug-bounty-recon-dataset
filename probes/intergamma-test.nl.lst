@@ -1,0 +1,6 @@
+http://autodiscover.intergamma-test.nl [301] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://enterpriseenrollment.intergamma-test.nl [302] [GET] [] [] [Microsoft-IIS/10.0] [azure] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://enterpriseregistration.intergamma-test.nl [404] [GET] [text/html] [Service] [] [azure] [17654c28a506596d05424ea295203bac]
+https://lyncdiscover.intergamma-test.nl [200] [GET] [application/json] [] [] [vhost] [223918ecade9bfd8b3169e6bd81ebf73]
+https://lyncdiscover.intergamma-test.nl [200] [GET] [application/json] [] [] [vhost] [c04982261fce49e7d3d2a7c7062b96c2]
+https://sip.intergamma-test.nl [404] [GET] [text/plain] [] [RTC/7.0] [c0b117f67acdc99738361170e9a87a23]

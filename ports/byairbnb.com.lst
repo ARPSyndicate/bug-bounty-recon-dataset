@@ -1,0 +1,12 @@
+[http] italianvillages.byairbnb.com:80
+[http] italianvillages-dev.byairbnb.com:80
+[http] italianvillages-stage.byairbnb.com:80
+[https] italianvillages.byairbnb.com:443
+[https] italianvillages-dev.byairbnb.com:443
+[https] italianvillages-stage.byairbnb.com:443
+[https] www.italianvillages.byairbnb.com:443
+[https] www.italianvillages-dev.byairbnb.com:443
+[https] www.italianvillages-stage.byairbnb.com:443
+[http] www.italianvillages.byairbnb.com:80
+[http] www.italianvillages-dev.byairbnb.com:80
+[http] www.italianvillages-stage.byairbnb.com:80

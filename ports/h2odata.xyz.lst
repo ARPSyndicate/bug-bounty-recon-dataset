@@ -1,0 +1,8 @@
+[http] app.h2odata.xyz:80
+[http] dapp.h2odata.xyz:80
+[http] docs.h2odata.xyz:80
+[http] h2odata.xyz:80
+[https] h2odata.xyz:443
+[https] stats.h2odata.xyz:443
+[http] stats.h2odata.xyz:80
+[http] www.h2odata.xyz:80

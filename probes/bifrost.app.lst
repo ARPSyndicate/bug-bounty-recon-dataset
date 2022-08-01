@@ -1,0 +1,7 @@
+https://api.bifrost.app [200] [GET] [text/html] [] [Vercel] [vhost] [Vercel] [5563f1fbbee97e6ef18401c73b9f56ef]
+https://bifrost.app [200] [GET] [text/html] [Bifrost] [Vercel] [vhost] [Vercel] [3c942515bbf86c0a8aab691268258b9e]
+https://crowdloan.bifrost.app [200] [GET] [text/html] [Bifrost] [Vercel] [vhost] [Vercel] [2a69ab4697b3f11c0211142a092e61ea]
+https://dot-api.bifrost.app [502] [GET] [text/html] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [Nginx:1.18.0,Ubuntu] [b7a0f2b3e95ab9f1da72121ab5f88540]
+https://dot-api.bifrost.app [502] [GET] [text/html] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [Nginx:1.18.0,Ubuntu] [d131850514b200c7ef56710965b3c70d]
+https://dot.bifrost.app [307] [GET] [text/plain] [] [Vercel] [vhost] [Vercel] [b56e47fa3b5d52acbc017d607bcca86e]
+https://www.bifrost.app [308] [GET] [text/plain] [] [Vercel] [vhost] [Vercel] [cbd9cd6465d4efd7a93e86673afeab23]

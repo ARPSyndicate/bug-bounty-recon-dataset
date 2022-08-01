@@ -1,0 +1,16 @@
+[cddbp-alt] docs.rai.finance:8880
+[cddbp-alt] prodapi.rai.finance:8880
+[http] rai.finance:80
+[https] api.rai.finance:443
+[https] app.rai.finance:443
+[https] betapro.rai.finance:443
+[https] docs.rai.finance:443
+[https] pro.app.rai.finance:443
+[https] prodapi.rai.finance:443
+[https] rai.finance:443
+[https] sofi.rai.finance:443
+[https] staging.app.rai.finance:443
+[https] supply.rai.finance:443
+[https] swap.rai.finance:443
+[http] www.rai.finance:80
+[knetd] docs.rai.finance:2053

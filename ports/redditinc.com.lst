@@ -1,0 +1,15 @@
+[http] connect.redditinc.com:80
+[http] craft-staging.redditinc.com:80
+[http] economy.redditinc.com:80
+[http-proxy] connect.redditinc.com:8080
+[http] redditinc.com:80
+[https-alt] connect.redditinc.com:8443
+[https] connect.redditinc.com:443
+[https] craft-staging.redditinc.com:443
+[https] economy.redditinc.com:443
+[https] redditinc.com:443
+[https] studio.redditinc.com:443
+[http] studio.redditinc.com:80
+[https] www.redditinc.com:443
+[http] www.redditinc.com:80
+[ssh] craft-staging.redditinc.com:22

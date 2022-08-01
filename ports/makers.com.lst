@@ -1,0 +1,8 @@
+[http] makers.com:80
+[https] guce.makers.com:443
+[https] makers.com:443
+[https] stage.guce.makers.com:443
+[https] trunk.guce.makers.com:443
+[pharos] guce.makers.com:4443
+[pharos] stage.guce.makers.com:4443
+[pharos] trunk.guce.makers.com:4443

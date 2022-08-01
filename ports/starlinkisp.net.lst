@@ -1,0 +1,6 @@
+[http] geoip.starlinkisp.net:80
+[http] perftest.starlinkisp.net:80
+[http-proxy] sttlwadst1.starlinkisp.net:8080
+[https] geoip.starlinkisp.net:443
+[https] perftest.starlinkisp.net:443
+[sip] sttlwadst1.starlinkisp.net:5060

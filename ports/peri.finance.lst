@@ -1,0 +1,16 @@
+[cddbp-alt] docs.peri.finance:8880
+[eli] docs.peri.finance:2087
+[http] api.peri.finance:80
+[http] calendar.peri.finance:80
+[http] docs.peri.finance:80
+[http] drive.peri.finance:80
+[http] gmail.peri.finance:80
+[https] api.peri.finance:443
+[https] calendar.peri.finance:443
+[https] dex.peri.finance:443
+[https] drive.peri.finance:443
+[https] gmail.peri.finance:443
+[https] peri.finance:443
+[https] staking.peri.finance:443
+[knetd] docs.peri.finance:2053
+[radsec] docs.peri.finance:2083

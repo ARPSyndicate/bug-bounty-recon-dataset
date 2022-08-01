@@ -1,0 +1,10 @@
+[http] buildseries.com:80
+[https] buildseries.com:443
+[https] guce.buildseries.com:443
+[https] stage.guce.buildseries.com:443
+[https] trunk.guce.buildseries.com:443
+[https] www.buildseries.com:443
+[http] www.buildseries.com:80
+[pharos] guce.buildseries.com:4443
+[pharos] stage.guce.buildseries.com:4443
+[pharos] trunk.guce.buildseries.com:4443

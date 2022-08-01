@@ -1,0 +1,13 @@
+[eli] www.yoyogames.com:2087
+[gnunet] www.yoyogames.com:2086
+[http] gm2016.yoyogames.com:80
+[http] gms.yoyogames.com:80
+[http-proxy] www.yoyogames.com:8080
+[https-alt] www.yoyogames.com:8443
+[https] gm2016.yoyogames.com:443
+[https] gms.yoyogames.com:443
+[https] www.yoyogames.com:443
+[https] zeus.yoyogames.com:443
+[http] www.yoyogames.com:80
+[http] zeus.yoyogames.com:80
+[radsec] www.yoyogames.com:2083

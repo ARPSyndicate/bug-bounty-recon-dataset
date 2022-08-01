@@ -1,0 +1,16 @@
+[http] api.revest.finance:80
+[http] app.revest.finance:80
+[http] dev.revest.finance:80
+[http] docs.revest.finance:80
+[http] lambda.revest.finance:80
+[http-proxy] dev.revest.finance:8080
+[http-proxy] docs.revest.finance:8080
+[http] revest.finance:80
+[https] api.revest.finance:443
+[https] app.revest.finance:443
+[https] lambda.revest.finance:443
+[https] revest.finance:443
+[https] www.revest.finance:443
+[http] www.revest.finance:80
+[radsec] dev.revest.finance:2083
+[radsec] docs.revest.finance:2083

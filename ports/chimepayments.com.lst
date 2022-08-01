@@ -1,0 +1,12 @@
+[http] ga-blue-nlb.prod.chimepayments.com:80
+[http] ga-gold.cert.chimepayments.com:80
+[http] ga-gold.prod.chimepayments.com:80
+[http] ga-orange-nlb.cert.chimepayments.com:80
+[https] ga-blue-nlb.prod.chimepayments.com:443
+[https] ga-gold.cert.chimepayments.com:443
+[https] ga-gold.prod.chimepayments.com:443
+[https] ga-orange-nlb.cert.chimepayments.com:443
+[https] visa-gateway.cert.chimepayments.com:443
+[https] visa-gateway.prod.chimepayments.com:443
+[http] visa-gateway.cert.chimepayments.com:80
+[http] visa-gateway.prod.chimepayments.com:80

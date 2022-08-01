@@ -1,0 +1,6 @@
+[http] contributor.huffpost.es:80
+[https] contributor.huffpost.es:443
+[https] staging.contributor.huffpost.es:443
+[http] staging.contributor.huffpost.es:80
+[https] www.huffpost.es:443
+[http] www.huffpost.es:80

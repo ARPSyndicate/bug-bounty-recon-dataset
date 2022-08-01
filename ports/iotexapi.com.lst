@@ -1,0 +1,12 @@
+[http] iotexapi.com:80
+[https] api.ind.iotexapi.com:443
+[https] api.sg.iotexapi.com:443
+[https] api.uk.iotexapi.com:443
+[https] api.us.iotexapi.com:443
+[https] babel.ind.mainnet.iotexapi.com:443
+[https] babel.sg.mainnet.iotexapi.com:443
+[https] babel.uk.mainnet.iotexapi.com:443
+[https] babel.us.mainnet.iotexapi.com:443
+[https] iotexapi.com:443
+[https] www.iotexapi.com:443
+[http] www.iotexapi.com:80

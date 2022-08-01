@@ -1,0 +1,9 @@
+[cddbp-alt] docs.babylon.finance:8880
+[http] docs.babylon.finance:80
+[http-proxy] docs.babylon.finance:8080
+[https-alt] docs.babylon.finance:8443
+[https] babylon.finance:443
+[https] docs.babylon.finance:443
+[https] www.babylon.finance:443
+[infowave] docs.babylon.finance:2082
+[radsec] docs.babylon.finance:2083

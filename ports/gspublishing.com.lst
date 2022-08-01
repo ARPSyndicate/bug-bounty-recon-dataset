@@ -1,0 +1,13 @@
+[http] 6gjtxtlzl33ssclx7rgl.gspublishing.com:80
+[http] 6GJTxTlzL33SscLX7RgL.gspublishing.com:80
+[http] api.gspublishing.com:80
+[http] assets.gspublishing.com:80
+[http] gspublishing.com:80
+[http] qa.api.gspublishing.com:80
+[https] 6gjtxtlzl33ssclx7rgl.gspublishing.com:443
+[https] 6GJTxTlzL33SscLX7RgL.gspublishing.com:443
+[https] api.gspublishing.com:443
+[https] assets.gspublishing.com:443
+[https] qa.api.gspublishing.com:443
+[https] www.gspublishing.com:443
+[http] www.gspublishing.com:80

@@ -1,0 +1,4 @@
+[http] kinepolis.ch:80
+[https] kinepolis.ch:443
+[https] tickets.kinepolis.ch:443
+[http] tickets.kinepolis.ch:80

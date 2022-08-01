@@ -1,0 +1,4 @@
+http://autodiscover.hestview.com [301] [GET] [] [] [Microsoft-IIS/10.0] [vhost] [IIS,Microsoft ASP.NET,Windows Server] [d41d8cd98f00b204e9800998ecf8427e]
+https://lyncdiscover.hestview.com [404] [GET] [application/json] [] [] [vhost] [373397b4ebf514ea3578818e90f5f9b6]
+https://msoid.hestview.com [302] [GET] [text/html] [Object moved] [] [vhost] [azure] [67dc47621d0dca9dc8d849ee26494c3b]
+https://sip.hestview.com [404] [GET] [text/plain] [] [RTC/7.0] [32efc4e3fb9d6d04607d078e54d4201b]

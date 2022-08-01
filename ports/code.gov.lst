@@ -1,0 +1,6 @@
+[http] code.gov:80
+[https] code.gov:443
+[https] staging.code.gov:443
+[http] staging.code.gov:80
+[https] www.code.gov:443
+[http] www.code.gov:80

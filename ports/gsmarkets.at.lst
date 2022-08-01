@@ -1,0 +1,8 @@
+[http] flatex.gsmarkets.at:80
+[http] qa.flatex.gsmarkets.at:80
+[http] qa.gsmarkets.at:80
+[https] flatex.gsmarkets.at:443
+[https] qa.flatex.gsmarkets.at:443
+[https] qa.gsmarkets.at:443
+[https] www.gsmarkets.at:443
+[http] www.gsmarkets.at:80

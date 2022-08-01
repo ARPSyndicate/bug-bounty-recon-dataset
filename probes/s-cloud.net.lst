@@ -1,0 +1,5 @@
+http://cdn-334c.s-cloud.net [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [ef84fed54188aced409d22e4d20ef293]
+https://crash-trace.s-cloud.net [403] [GET] [text/html] [Something went wrong - SoundCloud] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [0b42dc883a4adce28e36e0e18a33f31b]
+https://mdm.s-cloud.net [404] [GET] [text/html] [] [awselb/2.0] [4ca8412038eb6475f2082ab5d1a2ec63]
+https://mdm.s-cloud.net:8443 [302] [GET] [] [] [Jamf Cloud Node] [vhost] [Java] [d41d8cd98f00b204e9800998ecf8427e]
+https://rocket.s-cloud.net [200] [GET] [text/plain] [] [am/2] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [7659e2099d0df499c291cb6ab5eeb0bd]

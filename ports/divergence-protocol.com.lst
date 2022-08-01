@@ -1,0 +1,13 @@
+[http] alpha.divergence-protocol.com:80
+[http] analytics.divergence-protocol.com:80
+[http] app.divergence-protocol.com:80
+[http] beta-analytics.divergence-protocol.com:80
+[http] beta.divergence-protocol.com:80
+[http] beta-faucet.divergence-protocol.com:80
+[http] dev.divergence-protocol.com:80
+[http] divergence-protocol.com:80
+[http] faucet.divergence-protocol.com:80
+[http] lbp.divergence-protocol.com:80
+[http-proxy] docs.divergence-protocol.com:8080
+[https] docs.divergence-protocol.com:443
+[http] www.divergence-protocol.com:80

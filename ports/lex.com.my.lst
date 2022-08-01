@@ -1,0 +1,4 @@
+[http] lex.com.my:80
+[http] pre.lex.com.my:80
+[https] lex.com.my:443
+[https] pre.lex.com.my:443

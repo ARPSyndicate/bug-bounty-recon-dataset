@@ -1,0 +1,11 @@
+[http] api.tranche.finance:80
+[http] assets.tranche.finance:80
+[https] api.tranche.finance:443
+[https] app.tranche.finance:443
+[https] assets.tranche.finance:443
+[https] devlanding.tranche.finance:443
+[https] docs.tranche.finance:443
+[https] ipfsstaging.tranche.finance:443
+[https] testnet-v1.tranche.finance:443
+[https] tranche.finance:443
+[https] www.tranche.finance:443

@@ -1,0 +1,6 @@
+Binary file (standard input) matches
+http://huolto.tapiola.fi [200] [GET] [text/html] [LähiTapiola - Palvelussa on huoltokatko] [Microsoft-IIS/8.5] [vhost] [Bootstrap,IIS,Windows Server] [4aaf2d19a223eb8db93ce4e1fd97e687]
+https://authmigrate.tapiola.fi [200] [GET] [text/html] [Auth Migration] [Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0] [vhost] [Microsoft HTTPAPI] [12f7e4458152af9dc384d454cf2a8e85]
+https://verkkopalvelu2.tapiola.fi [200] [GET] [text/html] [Uudelleenohjaus Taneliin] [] [a4817af0fa8b5f2f6b561a0a50815421]
+https://verkkopalvelu.tapiola.fi [200] [GET] [text/html] [Uudelleenohjaus Tapiolaan] [] [vhost] [b8b19bac556d895d462df646d4d363bd]
+https://yrityspalvelu.tapiola.fi [200] [GET] [text/html] [Uudelleenohjaus Tapiolan Yrityspalveluun] [] [ff6b0485b28175cea24e8556508b45a7]

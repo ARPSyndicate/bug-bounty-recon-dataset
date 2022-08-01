@@ -1,0 +1,6 @@
+[http] contributor.huffpostmaghreb.com:80
+[http] m.huffpostmaghreb.com:80
+[https] contributor.huffpostmaghreb.com:443
+[https] m.huffpostmaghreb.com:443
+[https] www.huffpostmaghreb.com:443
+[http] www.huffpostmaghreb.com:80

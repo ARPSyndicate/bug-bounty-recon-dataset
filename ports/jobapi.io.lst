@@ -1,0 +1,4 @@
+[https] gitlab.jobapi.io:443
+[https] nexus.jobapi.io:443
+[ssh] gitlab.jobapi.io:22
+[ssh] nexus.jobapi.io:22

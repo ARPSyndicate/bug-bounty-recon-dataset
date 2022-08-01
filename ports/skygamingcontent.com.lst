@@ -1,0 +1,4 @@
+[http] apps.skygamingcontent.com:80
+[http] apps-staging.skygamingcontent.com:80
+[https] apps.skygamingcontent.com:443
+[https] apps-staging.skygamingcontent.com:443

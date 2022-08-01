@@ -1,0 +1,12 @@
+[http] blog.quantshack.com:80
+[http] email2.quantshack.com:80
+[http] enterprise.quantshack.com:80
+[http] factset.quantshack.com:80
+[http] image-proxy.quantshack.com:80
+[https] blog.quantshack.com:443
+[https] email2.quantshack.com:443
+[https] enterprise.quantshack.com:443
+[https] factset.quantshack.com:443
+[https] image-proxy.quantshack.com:443
+[https] www.quantshack.com:443
+[http] www.quantshack.com:80

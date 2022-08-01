@@ -1,0 +1,16 @@
+[cddbp-alt] jenkins.reckoproduction.com:8880
+[cddbp-alt] metabase.reckoproduction.com:8880
+[eli] jenkins.reckoproduction.com:2087
+[eli] metabase.reckoproduction.com:2087
+[gnunet] metabase.reckoproduction.com:2086
+[http] jenkins.reckoproduction.com:80
+[http] metabase.reckoproduction.com:80
+[http-proxy] jenkins.reckoproduction.com:8080
+[http-proxy] metabase.reckoproduction.com:8080
+[https-alt] jenkins.reckoproduction.com:8443
+[https] jenkins.reckoproduction.com:443
+[https] metabase.reckoproduction.com:443
+[infowave] jenkins.reckoproduction.com:2082
+[infowave] metabase.reckoproduction.com:2082
+[radsec] jenkins.reckoproduction.com:2083
+[radsec] metabase.reckoproduction.com:2083

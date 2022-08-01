@@ -1,0 +1,10 @@
+[http] contributor.huffpostbrasil.com:80
+[http] m.huffpostbrasil.com:80
+[http] projects.huffpostbrasil.com:80
+[https] contributor.huffpostbrasil.com:443
+[https] m.huffpostbrasil.com:443
+[https] projects.huffpostbrasil.com:443
+[https] staging.contributor.huffpostbrasil.com:443
+[http] staging.contributor.huffpostbrasil.com:80
+[https] www.huffpostbrasil.com:443
+[http] www.huffpostbrasil.com:80

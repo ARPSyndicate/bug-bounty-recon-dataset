@@ -1,0 +1,16 @@
+[bgmp] jira.mediatonic.co.uk:264
+[bgmp] svn.mediatonic.co.uk:264
+[http] jira.mediatonic.co.uk:80
+[http] media.mediatonic.co.uk:80
+[http] mediatonic.co.uk:80
+[https] jira.mediatonic.co.uk:443
+[https] media.mediatonic.co.uk:443
+[https] mediatonic.co.uk:443
+[https] svn.mediatonic.co.uk:443
+[http] svn.mediatonic.co.uk:80
+[https] wiki.mediatonic.co.uk:443
+[https] www.mediatonic.co.uk:443
+[http] wiki.mediatonic.co.uk:80
+[http] www.mediatonic.co.uk:80
+[puppet] jira.mediatonic.co.uk:8140
+[puppet] svn.mediatonic.co.uk:8140

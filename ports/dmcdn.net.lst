@@ -1,0 +1,14 @@
+[http] api.dmcdn.net:80
+[http] dmcdn.net:80
+[http] s1.dmcdn.net:80
+[http] s2.dmcdn.net:80
+[https] api.dmcdn.net:443
+[https] dmcdn.net:443
+[https] s1.dmcdn.net:443
+[https] s2.dmcdn.net:443
+[https] static1.dmcdn.net:443
+[https] static2.dmcdn.net:443
+[http] static1.dmcdn.net:80
+[http] static2.dmcdn.net:80
+[https] vendorlist.dmcdn.net:443
+[http] vendorlist.dmcdn.net:80

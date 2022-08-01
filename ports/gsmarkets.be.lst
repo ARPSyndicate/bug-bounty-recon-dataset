@@ -1,0 +1,4 @@
+[http] qa.gsmarkets.be:80
+[https] qa.gsmarkets.be:443
+[https] www.gsmarkets.be:443
+[http] www.gsmarkets.be:80

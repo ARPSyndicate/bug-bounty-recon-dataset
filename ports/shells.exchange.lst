@@ -1,0 +1,9 @@
+[http] dashboard.shells.exchange:80
+[http] deactivated.shells.exchange:80
+[https] dashboard.shells.exchange:443
+[https] deactivated.shells.exchange:443
+[http] shells.exchange:80
+[https] shells.exchange:443
+[https] www.shells.exchange:443
+[http] www.shells.exchange:80
+[ssh] dashboard.shells.exchange:22

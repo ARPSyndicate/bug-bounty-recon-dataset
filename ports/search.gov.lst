@@ -1,0 +1,7 @@
+[http] admin-center-downtime.search.gov:80
+[http] find.search.gov:80
+[http] search.gov:80
+[https] find.search.gov:443
+[https] search.gov:443
+[https] www.search.gov:443
+[http] www.search.gov:80

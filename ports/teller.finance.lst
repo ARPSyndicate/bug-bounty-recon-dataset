@@ -1,0 +1,8 @@
+[http] app.teller.finance:80
+[http] eot.teller.finance:80
+[https] app.teller.finance:443
+[https] eot.teller.finance:443
+[https] teller.finance:443
+[https] www.teller.finance:443
+[http] teller.finance:80
+[http] www.teller.finance:80

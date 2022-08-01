@@ -1,0 +1,6 @@
+[http] admin.hwigroup.com:80
+[http] hwigroup.com:80
+[http-proxy] hwigroup.com:8080
+[https] admin.hwigroup.com:443
+[https] hwigroup.com:443
+[ssh] hwigroup.com:22

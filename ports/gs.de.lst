@@ -1,0 +1,15 @@
+[http] classic.gs.de:80
+[http] link.email.gs.de:80
+[http] link.info.gs.de:80
+[http] pib.gs.de:80
+[http-proxy] pib.gs.de:8080
+[https-alt] pib.gs.de:8443
+[https] backend.gs.de:443
+[https] classic.gs.de:443
+[https] link.email.gs.de:443
+[https] link.info.gs.de:443
+[https] pib.gs.de:443
+[https] static.gs.de:443
+[https] www.gs.de:443
+[http] www.gs.de:80
+[ssh] classic.gs.de:22

@@ -1,0 +1,6 @@
+[http] contributor.huffpost.gr:80
+[https] contributor.huffpost.gr:443
+[https] staging.contributor.huffpost.gr:443
+[http] staging.contributor.huffpost.gr:80
+[https] www.huffpost.gr:443
+[http] www.huffpost.gr:80

@@ -1,0 +1,16 @@
+[blackice-icecap] saint-nicolas.kinepolis.lu:8081
+[blackice-icecap] shop-dev.kinepolis.lu:8081
+[http] dev.business.kinepolis.lu:80
+[http] ferrero.kinepolis.lu:80
+[http] kinepolis.lu:80
+[http-proxy] saint-nicolas.kinepolis.lu:8080
+[http-proxy] shop-dev.kinepolis.lu:8080
+[http] saint-nicolas.kinepolis.lu:80
+[https] dev.business.kinepolis.lu:443
+[https] ferrero.kinepolis.lu:443
+[http] shop-dev.kinepolis.lu:80
+[https] kinepolis.lu:443
+[https] saint-nicolas.kinepolis.lu:443
+[https] shop-dev.kinepolis.lu:443
+[https] tickets.kinepolis.lu:443
+[http] tickets.kinepolis.lu:80

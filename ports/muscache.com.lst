@@ -1,0 +1,14 @@
+[http] a0.muscache.com:80
+[http] a1.muscache.com:80
+[http] a2.muscache.com:80
+[http] eim1.muscache.com:80
+[https] a0.muscache.com:443
+[https] a1.muscache.com:443
+[https] a2.muscache.com:443
+[https] eim1.muscache.com:443
+[https] z0.muscache.com:443
+[https] z1.muscache.com:443
+[https] z2.muscache.com:443
+[http] z0.muscache.com:80
+[http] z1.muscache.com:80
+[http] z2.muscache.com:80

@@ -1,0 +1,14 @@
+[http] admin.vine.co:80
+[http] archive.vine.co:80
+[http] mtc.cdn.vine.co:80
+[http] platform.vine.co:80
+[https] admin.vine.co:443
+[https] archive.vine.co:443
+[https] mtc.cdn.vine.co:443
+[https] platform.vine.co:443
+[https] v.cdn.vine.co:443
+[https] vine.co:443
+[https] www.vine.co:443
+[http] v.cdn.vine.co:80
+[http] vine.co:80
+[http] www.vine.co:80

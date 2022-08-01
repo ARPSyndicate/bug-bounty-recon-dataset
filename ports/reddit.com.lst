@@ -1,0 +1,6 @@
+[http] amp.reddit.com:80
+[http] email.reddit.com:80
+[http] rhs.reddit.com:80
+[https] amp.reddit.com:443
+[https] email.reddit.com:443
+[https] gql-realtime.reddit.com:443

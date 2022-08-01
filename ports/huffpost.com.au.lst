@@ -1,0 +1,6 @@
+[http] contributor.huffpost.com.au:80
+[https] contributor.huffpost.com.au:443
+[https] staging.contributor.huffpost.com.au:443
+[http] staging.contributor.huffpost.com.au:80
+[https] www.huffpost.com.au:443
+[http] www.huffpost.com.au:80

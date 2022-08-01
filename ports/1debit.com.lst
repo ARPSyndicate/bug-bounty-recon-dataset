@@ -1,0 +1,8 @@
+[http] admin.1debit.com:80
+[http] pb.1debit.com:80
+[http-proxy] admin.1debit.com:8080
+[http-proxy] pb.1debit.com:8080
+[https] admin.1debit.com:443
+[https-alt] admin.1debit.com:8443
+[https-alt] pb.1debit.com:8443
+[https] pb.1debit.com:443

@@ -1,0 +1,17 @@
+[cddbp-alt] docs.defrost.finance:8880
+[gnunet] docs.defrost.finance:2086
+[http] api.defrost.finance:80
+[http] defrost.finance:80
+[http] docs.defrost.finance:80
+[http] forum.defrost.finance:80
+[http-proxy] docs.defrost.finance:8080
+[https] api.defrost.finance:443
+[https] defrost.finance:443
+[https] docs.defrost.finance:443
+[https] forum.defrost.finance:443
+[https] testnet.defrost.finance:443
+[https] www.defrost.finance:443
+[http] testnet.defrost.finance:80
+[http] www.defrost.finance:80
+[knetd] docs.defrost.finance:2053
+[radsec] docs.defrost.finance:2083

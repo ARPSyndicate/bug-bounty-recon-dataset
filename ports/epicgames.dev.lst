@@ -1,0 +1,8 @@
+[http] epicgames.dev:80
+[https] api.epicgames.dev:443
+[https] connect.epicgames.dev:443
+[https] epicgames.dev:443
+[https] weighted-epic-connect-manager-prod.epicgames.dev:443
+[https] weighted-zh-connect.epicgames.dev:443
+[https] www.epicgames.dev:443
+[http] www.epicgames.dev:80

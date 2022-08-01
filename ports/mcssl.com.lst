@@ -1,0 +1,12 @@
+[http] 911.mcssl.com:80
+[https] 911.mcssl.com:443
+[https] www.mcssl.com:443
+[http] www.mcssl.com:80
+[smtp] opt1.mcssl.com:25
+[smtp] opt2.mcssl.com:25
+[smtp] opt3.mcssl.com:25
+[smtp] opt5.mcssl.com:25
+[smtp] opt6.mcssl.com:25
+[smtp] sys1.mcssl.com:25
+[smtp] sys2.mcssl.com:25
+[smtp] sys4.mcssl.com:25

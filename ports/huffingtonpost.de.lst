@@ -1,0 +1,6 @@
+[http] m.huffingtonpost.de:80
+[http] projects.huffingtonpost.de:80
+[https] m.huffingtonpost.de:443
+[https] projects.huffingtonpost.de:443
+[https] www.huffingtonpost.de:443
+[http] www.huffingtonpost.de:80
