@@ -1,0 +1,10 @@
+api.tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+app.tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
+assets.tranche.finance AS54113 AS54113 - FASTLY, INC. US 185.199.109.0/24
+devlanding.tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 99.84.120.0/21
+dev.tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+docs.tranche.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+ipfsstaging.tranche.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.96.0/20
+testnet-v1.tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
+tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
+www.tranche.finance AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23

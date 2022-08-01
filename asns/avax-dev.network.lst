@@ -1,0 +1,11 @@
+bridgeandtunnel.avax-dev.network AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+bridgeandtunnel-experimental.avax-dev.network AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+cchain-explorer.avax-dev.network AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+discourse-test.avax-dev.network AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+explorerapi.avax-dev.network AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+geth.avax-dev.network AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+ideas.avax-dev.network AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+nfttunnel.avax-dev.network AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+warden1.avax-dev.network AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+warden2.avax-dev.network AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+warden3.avax-dev.network AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12

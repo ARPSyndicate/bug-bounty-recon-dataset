@@ -1,0 +1,15 @@
+api.notional.finance AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
+blog.notional.finance AS54113 AS54113 - FASTLY, INC. US 151.101.208.0/22
+community.notional.finance AS16509 AS16509 - AMAZON.COM, INC. US 3.33.144.0/20
+discord.notional.finance AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+docs.notional.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+forum.notional.finance AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
+goerli.api.notional.finance AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
+goerli.notional.finance AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+info.notional.finance AS396982 AS396982 - GOOGLE LLC US 34.74.160.0/20
+kovan.api.notional.finance AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
+kovan.notional.finance AS396982 AS396982 - GOOGLE LLC US 34.73.80.0/20
+notional.finance AS396982 AS396982 - GOOGLE LLC US 34.148.96.0/20
+podcast.notional.finance AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
+v1.notional.finance AS396982 AS396982 - GOOGLE LLC US 34.148.16.0/20
+www.notional.finance AS396982 AS396982 - GOOGLE LLC US 34.148.144.0/20

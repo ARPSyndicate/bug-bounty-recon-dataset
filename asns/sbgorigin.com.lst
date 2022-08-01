@@ -1,0 +1,82 @@
+apps.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+barcroftm-1.rc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 176.34.192.0/18
+barcroftm-1.rcs.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.73.0.0/16
+barcroftm-1.rcs-int.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
+flanagana-1.rc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+gateway.staging.vegas.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
+gateway.test.vegas.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+gateway.vegas.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 18.202.0.0/15
+gls.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+gls.guea.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
+gls.nps.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.228.0.0/16
+gls.staging.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.229.0.0/17
+gls.test.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+glsviewer.staging.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
+glsviewer.test.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16
+jbl02-1.rc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
+jonesl-1.rc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+lobby.skycasino.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+lobby.test.poker.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+m.a.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+m.guea.skypoker.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+minigames.guea.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 46.137.0.0/17
+minigames.nps.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+minigames.staging.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+minigames.test.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
+m.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+m.skypoker.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+next.lobby.skycasino.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+online.skybingo.com.sbgorigin.com AS8680 AS8680 - SURE (GUERNSEY) LIMITED GB 88.81.128.0/19
+parkinm-1.rc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.154.0.0/16
+pas.casino.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+pas.test.casino.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
+pay.static.skybetservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+pay.static.staging.skybetservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+portal.casino.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.220.0.0/16
+portal.staging.vegas.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
+portal.test.casino.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+portal.test.vegas.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+portal.vegas.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+preenn-1.rc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+preenn-1.rcs.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
+preenn-1.rcs-int.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.74.0.0/15
+preenn-poc.dev.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+private.pas.casino.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16
+private.pas.test.casino.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+push.staging.skypoker.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rc.ges.app-guea.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rc.ges.app-nps.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 193.104.140.0/24
+rc.ges.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rc.guea.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
+rc.nps.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
+rcs-int.sbgservices.com.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
+rcs-int.staging.sbgservices.com.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 54.72.0.0/16
+rcs-int.test.sbgservices.com.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+rcs.sbgservices.com.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+rcs.staging.sbgservices.com.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15
+rc.staging.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
+rc.staging.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rcs.test.sbgservices.com.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+rc.test2.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rc.test-app-guea.staging.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rc.test-app-guea.test2.sbgservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+rc.test.ges.aws.sbgorigin.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+safergambling.skybettingandgaming.com.sbgorigin.com AS8586 AS8586 - TALKTALK COMMUNICATIONS LIMITED GB 146.255.0.0/20
+services.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+st1.a.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+st1.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+st2.a.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+st2.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+sts.common.sbgcore.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+verify.skybetservices.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.guea.skybingo.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.guea.skycasino.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.guea.skypoker.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.guea.skyvegas.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.next.skycasino.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.skybet.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.skybettingandgaming.com.sbgorigin.com AS8586 AS8586 - TALKTALK COMMUNICATIONS LIMITED GB 146.255.0.0/20
+www.skybingo.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.skycasino.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.skypoker.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+www.skyvegas.com.sbgorigin.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24

@@ -1,0 +1,16 @@
+alpha.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.0.0/22
+app.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.0.0/22
+app.lending.halodao.com AS54113 AS54113 - FASTLY, INC. US 199.36.158.0/24
+beta.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.0.0/22
+dev.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.0.0/22
+dev.app.lending.halodao.com AS54113 AS54113 - FASTLY, INC. US 199.36.158.0/24
+dev.beta.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
+dev.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.0.0/22
+dev.lending.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 199.36.158.0/24
+dev.minter.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.0.0/22
+docs.halodao.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+halodao.com AS16509 AS16509 - AMAZON.COM, INC. US 99.83.176.0/20
+lending.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 199.36.158.0/24
+staging.minter.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
+test.app.halodao.com AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
+www.halodao.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11

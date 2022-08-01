@@ -1,0 +1,14 @@
+admin.taxes.cashstaging.app AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+api.cashstaging.app AS54113 AS54113 - FASTLY US 151.101.208.0/22
+api.taxes.cashstaging.app AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
+apparel-supporter.cashstaging.app AS54113 AS54113 - FASTLY US 199.232.36.0/22
+cashstaging.app AS15211 AS15211 - SQUARE, INC. US 74.122.186.0/24
+cashstaging.app AS54113 AS54113 - FASTLY US 151.101.0.0/22
+collector.taxes.cashstaging.app AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
+internal.cashstaging.app AS54113 AS54113 - FASTLY US 199.232.36.0/22
+internal-platform-staging.cashstaging.app AS54113 AS54113 - FASTLY US 151.101.188.0/22
+kit.cashstaging.app AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+platform-test.cashstaging.app AS54113 AS54113 - FASTLY US 151.101.208.0/22
+taxes.cashstaging.app AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+taxeshelp-devprobox.cashstaging.app AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+web-cdn.cashstaging.app AS54113 AS54113 - FASTLY US 151.101.192.0/22

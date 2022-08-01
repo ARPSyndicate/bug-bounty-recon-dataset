@@ -1,0 +1,183 @@
+ag.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+ajanvaraus.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+api.lemmikkihelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
+api.terveyshelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 13.64.0.0/11
+app.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+asiointi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+asunnot.lahitapiola.fi AS14061 AS14061 - DIGITALOCEAN, LLC US 64.225.80.0/22
+atlassian.lahitapiola.fi AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.216.0.0/16
+authcrm16dev.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+authcrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+authcrm16test.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+authenticate.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+authmigrate.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+autodiscover.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+av.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+beta.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+bugbounty.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+ccaasdev.service.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+ccaas.service.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+ccaastest.service.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+conf.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+dcstunnistusdev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+dcstunnistus.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+dcstunnistustest.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+depcrm16dev.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+depcrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+depcrm16test.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+developers.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+devsecops.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+ext-gw.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+extwebfarm.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+hallintoportaali.lahitapiola.fi AS719 AS719 - ELISA OYJ FI 80.81.160.0/19
+helppiservices.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+huolenpitoa.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+huolenpito.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+hy10-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+hybridsmtp.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+investmentsummit.lahitapiola.fi AS15395 AS15395 - RACKSPACE LTD. GB 134.213.0.0/16
+kivi.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+koppi.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+kou1-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+kou3-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+kumppanihallinta.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
+kumppani.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
+kumppanitunnistus.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
+kurre.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+lahiliikunta.lahitapiola.fi AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+ltcrm16dev.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+ltcrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+ltcrm16test.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lyae1.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lyae2.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lyave1.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lyave2.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lyncdiscover.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
+lync.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lywce1.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+lywce2.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+majava2016.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+majava.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+meet.lahitapiola.fi AS42540 AS42540 - ATEA FINLAND OY FI 91.123.128.0/20
+m.info2.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+m.info.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+mmail.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+mobile.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+note.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+oa.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+omatalous.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+osmo.lahitapiola.fi AS39324 AS39324 - MEDIAM OY FI 81.22.240.0/20
+partner.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+paymentwall.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+piisami2016.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+piisami.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+pulssi.lahitapiola.fi AS14061 AS14061 - DIGITALOCEAN, LLC US 165.227.244.0/22
+qap.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+r108.info.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r109.info.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r110.info.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r111.info.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r50.info2.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r51.info2.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r52.info2.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+r53.info2.lahitapiola.fi AS15224 AS15224 - ADOBE INC. US 172.82.232.0/21
+rautu.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+remote.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+res.info2.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+res.info.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+scheddev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+schedprod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+schedtest.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+secdevops.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+sectrans.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+secure.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+sijoitusvakuutus.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+sip.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
+sip.meet.lahitapiola.fi AS42540 AS42540 - ATEA FINLAND OY FI 91.123.128.0/20
+sitapim-api.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+sitapim-mgmt.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+sitdevelopers.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+sms.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
+sts.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+st-yrityspalvelu.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+suunnannayttajat.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+sy20-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+sy21-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+sy22-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+sy30-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+sy31-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+talous.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+tandem.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 188.117.0.0/18
+tapahtumat.lahitapiola.fi AS39324 AS39324 - MEDIAM OY FI 81.22.240.0/20
+tarvekartoitus.lahitapiola.fi AS16086 AS16086 - DNA OYJ FI 194.100.0.0/16
+teams.lahitapiola.fi AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.216.0.0/16
+telework.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+terveyshelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
+tes1-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+tes2-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+tes3-ext-tc3.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+test.api.lemmikkihelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 13.64.0.0/11
+test.api.terveyshelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 13.64.0.0/11
+test.beta.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+testi-elamanturva.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
+testi.helppiservices.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+testi.kumppanihallinta.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 40.74.0.0/15
+testi.kumppani.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 40.74.0.0/15
+testi.kumppanitunnistus.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 40.74.0.0/15
+testi.lemmikkihelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
+testi.terveyshelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
+tilaisuudet.lahitapiola.fi AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+t.info2.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+t.info.lahitapiola.fi AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+toimitilat.lahitapiola.fi AS202053 AS202053 - UPCLOUD LTD FI 94.237.80.0/20
+tradesec.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+tunnistus.lahitapiola.fi AS25148 AS25148 - BASEFARM AS NO 109.68.88.0/21
+turvacrm16dev.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+turvacrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+turvacrm16test.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+turvallisuuspoikkeamat.lahitapiola.fi AS15830 AS15830 - TELECITYGROUP INTERNATIONAL LIMITED GB 81.90.64.0/20
+uatapim-api.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+uatapim-mgmt.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+uat.beta.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+uatdevelopers.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+uat-ext-gw.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+ucc.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+varainhoito.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+verkkopalvelu.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vhcrm16dev.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+vhcrm16.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+vhcrm16test.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+vidarchdev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidarchprod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidarchtest.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidmeetingdev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidmeetingtest.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidmeetprod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidrec01dev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidrec01prod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidrec01test.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidrec02dev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidrec02prod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidrec02test.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidrec03prod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidrecdev.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vidrecprod.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+vidrectest.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+vuosiraportti2012.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
+vuosiraportti2013.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
+vuosiraportti.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
+webext1.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+webext2.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+webext3.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+webext4.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+webext5.lahitapiola.fi AS375 AS375 - TIETO OYJ FI 131.207.0.0/17
+www.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+www.lemmikkihelppi.lahitapiola.fi AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
+www.toimitilat.lahitapiola.fi AS202053 AS202053 - UPCLOUD LTD FI 94.237.80.0/20
+www.vuosiraportti2012.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
+www.vuosiraportti2013.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
+www.vuosiraportti.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 83.150.64.0/18
+yrittajaniltakoulu.lahitapiola.fi AS15395 AS15395 - RACKSPACE LTD. GB 134.213.0.0/16
+yrityksenomatalous.lahitapiola.fi AS29422 AS29422 - TELIA INMICS-NEBULA OY FI 188.117.0.0/18
+yrityspalvelu.lahitapiola.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14

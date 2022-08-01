@@ -1,0 +1,17 @@
+apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
+api.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
+app.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
+app-dev-feature.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
+autodiscover.apex.exchange AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
+beta.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
+dev.pro.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 54.255.128.0/17
+docs.apex.exchange AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+h5.dev.pro.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 18.138.0.0/15
+h5.qa.pro.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 52.220.0.0/15
+qa.pro.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 52.220.0.0/15
+quote-dev.pro.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 54.255.128.0/17
+quote-qa.pro.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 18.138.0.0/15
+staging.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 99.84.120.0/21
+test.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
+translations.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
+www.apex.exchange AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21

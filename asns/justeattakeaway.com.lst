@@ -1,0 +1,42 @@
+access.justeattakeaway.com AS19551 AS19551 - INCAPSULA INC US 45.60.32.0/24
+beta.justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+brand.justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+careers.justeattakeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16
+click.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+click.ridewith.justeattakeaway.com AS14340 AS14340 - SALESFORCE.COM, INC. US 128.245.0.0/16
+cloud.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+cloud.ridewith.justeattakeaway.com AS14340 AS14340 - SALESFORCE.COM, INC. US 128.245.0.0/16
+connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+easylogin.justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+email.pr.justeattakeaway.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
+emails.corporate.justeattakeaway.com AS24940 AS24940 - HETZNER ONLINE GMBH DE 49.12.0.0/16
+enterpriseenrollment.justeattakeaway.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
+enterpriseregistration.justeattakeaway.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
+features.api.justeattakeaway.com AS19551 AS19551 - INCAPSULA INC US 45.60.32.0/24
+image.connect.justeattakeaway.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.14.86.0/24
+image.connect.justeattakeaway.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.36.1.0/24
+image.ridewith.justeattakeaway.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.33.40.0/24
+justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.151.0/24
+kitchen.justeattakeaway.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+mta10.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta2.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta3.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta4.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta5.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta6.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta7.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta8.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta9.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+mta.ridewith.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+o875.ptr6046.jobalerts.justeattakeaway.com AS11377 AS11377 - SENDGRID, INC. US 149.72.32.0/19
+o876.ptr4355.careeralerts.justeattakeaway.com AS11377 AS11377 - SENDGRID, INC. US 167.89.0.0/18
+rest.api.justeattakeaway.com AS19551 AS19551 - INCAPSULA INC US 45.60.32.0/24
+ridewith.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+sg.api.justeattakeaway.com AS19551 AS19551 - INCAPSULA INC US 45.60.32.0/24
+support.justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
+tech.justeattakeaway.com AS19551 AS19551 - INCAPSULA INC US 45.60.32.0/24
+view.connect.justeattakeaway.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+view.ridewith.justeattakeaway.com AS14340 AS14340 - SALESFORCE.COM, INC. US 128.245.0.0/16
+www.justeattakeaway.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20

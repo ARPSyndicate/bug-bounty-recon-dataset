@@ -1,0 +1,11 @@
+artifactory.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+artifactory.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 176.34.128.0/20
+artifactory-test.ps-test.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+consul.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+docker.artifactory.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 176.34.128.0/20
+docker.artifactory-test.ps-test.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+docker-hashicorp-secure.artifactory-test.ps-test.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+docker-local-trusted.artifactory-test.ps-test.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+docker-local-untrusted.artifactory-test.ps-test.euw.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+hub.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+ns.platformservices.io AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13

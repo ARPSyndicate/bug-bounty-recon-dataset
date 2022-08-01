@@ -1,0 +1,39 @@
+admin.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+analytics.polkastarter.com AS14061 AS14061 - DIGITALOCEAN, LLC US 137.184.16.0/20
+api.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+applications.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+assets.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+blog.polkastarter.com AS54113 AS54113 - FASTLY, INC. US 199.232.36.0/22
+careers.polkastarter.com AS396982 AS396982 - GOOGLE LLC US 35.242.208.0/20
+cname2.polkastarter.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
+cname3.polkastarter.com AS14618 AS14618 - AMAZON.COM, INC. US 54.237.0.0/16
+cname4.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+community.polkastarter.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.104.200.0/21
+demo.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+dev-admin.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+dev-api.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+docs.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+dosetoken.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+forum.polkastarter.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.104.200.0/21
+gaming.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+governance.polkastarter.com AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
+handbook.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+legendfantasywar.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+liquidity.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+metabase.polkastarter.com AS14061 AS14061 - DIGITALOCEAN, LLC US 137.184.16.0/20
+moonbeam.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+mucho.applications.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+newsletter.polkastarter.com AS46469 AS46469 - GETRESPONSE US 104.160.64.0/23
+polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+poolside.polkastarter.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+scan.polkastarter.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
+scan-stage.polkastarter.com AS16509 AS16509 - AMAZON.COM, INC. US 54.247.0.0/17
+staging-admin.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+staging-api.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+staging.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+support.polkastarter.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+testing.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+v2.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+v3.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+wonderhero.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.16.0/20
+www.polkastarter.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20

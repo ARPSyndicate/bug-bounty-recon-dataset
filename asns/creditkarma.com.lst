@@ -1,0 +1,61 @@
+accounts.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+alerts-prod-ck-bulk-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+alerts-prod-ck-bulk-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+alerts-prod-ck-front-end-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
+alerts-prod-ck-member-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+alerts-prod-ck-member-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+alerts-prod-ck-vault-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+alerts-prod-ck-vault-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+apply.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.85.192.0/20
+artelb1.gcp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.92.0.0/14
+beta.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+blog.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
+cdn.native.creditkarma.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
+ck-partners-tableau.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.135.0.0/16
+cms.creditkarma.com AS2635 AS2635 - AUTOMATTIC, INC US 192.0.66.0/24
+corp-logs.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.232.0.0/14
+creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 104.105.32.0/20
+creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.92.224.0/21
+creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.85.192.0/20
+creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.44.164.0/22
+eb1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+eb2.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+eb3.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+eb4.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+eb5.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 168.149.241.0/24
+eb.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+engineering.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
+envs.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+falcon.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+files.savings.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.54.208.0/20
+flare-api.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+flare.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
+fraud.assets.test.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+grafana-cktest-back-end.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
+grafana-cktest-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
+grafana-prod-ck-bulk-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
+grafana-prod-ck-bulk-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.244.0.0/14
+grafana-prod-ck-front-end-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
+grafana-prod-ck-front-end-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+grafana-prod-ck-member-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+grafana-prod-ck-member-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+grafana-prod-ck-vault-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+grr-admin.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+grr-dev-admin.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+ivr.test.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+jss.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+nexus.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+nexus.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+platform-console.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+prom-neg-cktest-back-end.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
+prom-neg-cktest-bulk-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
+prom-neg-cktest-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
+prom-prod-ck-bulk-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+prom-prod-ck-member-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+prom-prod-ck-vault-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+smith.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+smith-remote.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+taxsupport.creditkarma.com AS14340 AS14340 - SALESFORCE.COM INC. US 13.108.0.0/15
+vinyl.test.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+vpn.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+www.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.92.224.0/21

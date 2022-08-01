@@ -1,0 +1,91 @@
+116323821	springboot	http://amsterdam-inap-107-6-176-66.ankr.com:8081/
+116323821	springboot	http://api.chain-monitor.ankr.com:8082/
+116323821	springboot	http://arbitrum-phoenix-04.ankr.com:8081/
+116323821	springboot	http://arbitrum-phoenix-06.ankr.com:8081/
+116323821	springboot	http://binance-protocol-02.ankr.com:8081/
+116323821	springboot	http://binance-protocol-14.ankr.com:8081/
+116323821	springboot	http://binance-sydney-01.ankr.com:8081/
+116323821	springboot	http://chain-monitor.ankr.com:8082/
+116323821	springboot	http://dubai-equinix-dx1-216-155-55-45.ankr.com:8081/
+116323821	springboot	http://harmony-hetzner-03.ankr.com:8081/
+116323821	springboot	http://harmony-hetzner-archive-03.ankr.com:8081/
+116323821	springboot	http://johannesburg-epyc-xl-03.ankr.com:8081/
+116323821	springboot	http://johannesburg-teraco-napafrica-ix-216-107-41-44.ankr.com:8081/
+116323821	springboot	http://kibana.chain-monitor.ankr.com:8082/
+116323821	springboot	http://matic-saopaulo-01.ankr.com:8081/
+116323821	springboot	http://miami-equinix-mi1-216-155-62-93.ankr.com:8081/
+116323821	springboot	http://mumbai-web-werks-216-155-53-68.ankr.com:8081/
+116323821	springboot	http://near-maxihost-03.ankr.com:8081/
+116323821	springboot	http://nervos-hetzner-04.ankr.com:8081/
+116323821	springboot	http://new-jersey-inap-72-251-230-238.ankr.com:8081/
+116323821	springboot	http://new-york-maxihost-198-178-224-104.ankr.com:8081/
+116323821	springboot	http://san-jose-inap-107-6-91-43.ankr.com:8081/
+116323821	springboot	http://seoul-kinx-dogok-207-199-157-99.ankr.com:8081/
+116323821	springboot	http://singapore-inap-107-6-113-59.ankr.com:8081/
+116323821	springboot	http://solana-hetzner-04.ankr.com:8081/
+116323821	springboot	http://sydney-modmc-equinix-sy1-206-246-106-228.ankr.com:8081/
+1354079303	drone-ci-panel	https://drone.ankr.com/
+-1399433489	prometheus time series collection and processing server	http://api.chain-monitor.ankr.com:9090/
+-1399433489	prometheus time series collection and processing server	http://avax-fujitestnet-01.dccn.ankr.com:9090/
+-1399433489	prometheus time series collection and processing server	http://chain-monitor.ankr.com:9090/
+-1399433489	prometheus time series collection and processing server	http://kibana.chain-monitor.ankr.com:9090/
+-1399433489	prometheus time series collection and processing server	http://monitor.ankr.com:9090/
+-1399433489	prometheus time series collection and processing server	http://promon.ankr.com/
+-1399433489	prometheus time series collection and processing server	https://promon.ankr.com/
+1611729805	elastic (database)	http://api.chain-monitor.ankr.com:9200/
+1611729805	elastic (database)	http://chain-monitor.ankr.com:9200/
+1611729805	elastic (database)	http://kibana.chain-monitor.ankr.com:9200/
+-2009722838	react	http://backoffice.dev-01.bas.ankr.com:3001/
+-2009722838	react	http://blockscout.dev-02.bas.ankr.com:3001/
+-2009722838	react	http://bs-2-stage.dccn.ankr.com/
+-2009722838	react	http://explorer.dev-01.bas.ankr.com:3001/
+-2009722838	react	http://explorer.dev-02.bas.ankr.com:3001/
+-2009722838	react	http://faucet.dev-01.bas.ankr.com:3001/
+-2009722838	react	http://faucet.dev-02.bas.ankr.com:3001/
+-2009722838	react	http://rpc.dev-01.bas.ankr.com:3001/
+-2009722838	react	http://rpc.dev-02.bas.ankr.com:3001/
+-2009722838	react	https://bs-2-stage.dccn.ankr.com/
+-2009722838	react	https://staking.dev-01.bas.ankr.com/
+-2009722838	react	https://staking.dev-02.bas.ankr.com/
+-2009722838	react	http://staking.dev-01.bas.ankr.com:3001/
+-2009722838	react	http://staking.dev-02.bas.ankr.com:3001/
+2123863676	grafana v7.1.0	http://api.chain-monitor.ankr.com:3001/
+2123863676	grafana v7.1.0	http://avax-fujitestnet-01.dccn.ankr.com:3000/
+2123863676	grafana v7.1.0	http://chain-monitor.ankr.com:3001/
+2123863676	grafana v7.1.0	http://kibana.chain-monitor.ankr.com:3001/
+2123863676	grafana v7.1.0	https://bscmon.ankr.com/
+2123863676	grafana v7.1.0	https://chain-monitor.ankr.com/
+2123863676	grafana v7.1.0	https://grafana.game.ankr.com/
+2123863676	grafana v7.1.0	https://grafana-hub-stage.ankr.com/
+2123863676	grafana v7.1.0	https://hk.ankr.com/
+2123863676	grafana v7.1.0	https://monitor.ankr.com/
+396533629	openvpn	https://api-parity-ropsten.ankr.com/
+464587962	rancher	https://rancher.stkr-dev.ankr.com/
+786533217	openstack	https://openstack.ankr.com/
+970132176	3cx phone system	https://bep-stage.dccn.ankr.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://amsterdam-inap-107-6-176-66.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://api.chain-monitor.ankr.com:8082/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://arbitrum-phoenix-04.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://arbitrum-phoenix-06.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://binance-protocol-02.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://binance-protocol-14.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://binance-sydney-01.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://chain-monitor.ankr.com:8082/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://dubai-equinix-dx1-216-155-55-45.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://harmony-hetzner-03.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://harmony-hetzner-archive-03.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://johannesburg-epyc-xl-03.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://johannesburg-teraco-napafrica-ix-216-107-41-44.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://kibana.chain-monitor.ankr.com:8082/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://matic-saopaulo-01.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://miami-equinix-mi1-216-155-62-93.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mumbai-web-werks-216-155-53-68.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://near-maxihost-03.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://nervos-hetzner-04.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://new-jersey-inap-72-251-230-238.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://new-york-maxihost-198-178-224-104.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://san-jose-inap-107-6-91-43.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://seoul-kinx-dogok-207-199-157-99.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://singapore-inap-107-6-113-59.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://solana-hetzner-04.ankr.com:8081/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	http://sydney-modmc-equinix-sy1-206-246-106-228.ankr.com:8081/

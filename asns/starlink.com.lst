@@ -1,0 +1,6 @@
+analytics.beta.starlink.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
+analytics.starlink.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
+api2.starlink.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
+metabase.starlink.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.80.0.0/12
+shop.beta.starlink.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
+shop.starlink.com AS54113 AS54113 - FASTLY US 199.232.36.0/22

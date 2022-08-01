@@ -1,0 +1,15 @@
+docs.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+exchange.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+hiccup.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+pancakeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
+perp-fstream.pancakeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 54.64.0.0/15
+perp.pancakeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
+perp-static.pancakeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
+splash.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+tokens.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+v1exchange.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.64.0/20
+v1-farms.pancakeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
+v2litepaper-es.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.64.0/20
+v2litepaper.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.64.0/20
+voting.pancakeswap.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+www.pancakeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24

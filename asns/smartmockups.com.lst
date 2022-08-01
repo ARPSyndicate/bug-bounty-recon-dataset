@@ -1,0 +1,17 @@
+6055632.e.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.60.0/22
+api.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.208.0/21
+auth.smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.40.0/21
+beta.smartmockups.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+blog.smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
+dev-api.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.208.0/21
+help.smartmockups.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+images-mockups-dev.smartmockups.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.16.0/20
+images-mockups-private.smartmockups.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.16.0/20
+images-mockups.smartmockups.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.16.0/20
+images-public.smartmockups.com AS13335 AS13335 - CLOUDFLARE INC. US 104.18.16.0/20
+l.e.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.60.0/22
+o3428.abmail.e.smartmockups.com AS11377 AS11377 - SENDGRID INC. US 50.31.32.0/20
+smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 76.76.21.0/24
+smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
+staging-api.smartmockups.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.60.0/22
+www.smartmockups.com AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24

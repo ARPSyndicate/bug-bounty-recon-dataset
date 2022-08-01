@@ -1,0 +1,57 @@
+account.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+admin.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+api-au.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+api-global.iad1.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+api-global.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+api.iad1.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+api.sjc1.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+api.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+app.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+blog.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+broadway.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 75.2.48.0/20
+buyer-portal.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+capital.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+careers.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+connect.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+content-platforms.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+corner-move.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+design.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+developer.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+developers.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+docs.connect.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+explorer-gateway.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+fulfillment.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+gemstash.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+help.p.sjc1.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+help.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+ht.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+identity-tokens.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+images.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+imagestest.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.190.0/24
+investors.squareup.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+jobs.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+js.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+localizer.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+market.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+my.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+nat.st.sjc1.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+non-disclosure.corp.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+ocr-connect.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+origin-careers.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+pci-connect.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+privacy.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+profile.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+regulator.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+restaurants.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+sa.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+sc-connect.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+sdk.squareup.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+sentry.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.189.0/24
+shuttle.squareup.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
+spiffe-oidc.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+squareup.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
+supportprofile.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+switchboard.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 76.223.80.0/20
+www.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.248.192.0/20
+xmstest.squareup.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
+xmstest.squareup.com AS54113 AS54113 - FASTLY US 151.101.192.0/22

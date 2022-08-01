@@ -1,0 +1,6 @@
+macs.dev.touchtechpayments.com AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
+macs.staging.touchtechpayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.194.0.0/16
+macs.touchtechpayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.76.0.0/15
+poll.staging.touchtechpayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.72.0.0/16
+sandbox.acs.touchtechpayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.76.0.0/15
+touchtechpayments.com AS16276 AS16276 - OVH SAS FR 79.137.0.0/17

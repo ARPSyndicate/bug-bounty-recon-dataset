@@ -1,0 +1,23 @@
+backstage-licensing.spotify.com AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
+canary-certificate-for-noop.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+canvas.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
+community-stage.spotify.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+developer.spotify.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
+download.spotify.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+dynamicworkplace4wtc.spotify.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+feedback.spotify.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.108.0.0/15
+hrblog.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
+lexikon-slack-app.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+mydata.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+noteable.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
+promo.spotify.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+sparta-api-testing.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+tableau-slack-app.spotify.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
+tags.spotify.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
+upgrade.spotify.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+wg.spotify.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+wl.spotify.com AS16509 AS16509 - AMAZON.COM, INC. US 54.193.128.0/17
+www.canvas.spotify.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+www.hrblog.spotify.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+www.newsroom.spotify.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15

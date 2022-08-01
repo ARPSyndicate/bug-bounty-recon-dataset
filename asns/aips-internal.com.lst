@@ -1,0 +1,22 @@
+alertmanager.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
+alertmanager.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+auth.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
+auth.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+grafana.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.206.128.0/17
+grafana.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+kafka3-staging.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.62.64.0/18
+kafka4-staging.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.62.64.0/18
+kafka5-staging.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.62.64.0/18
+kafka6-staging.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.62.64.0/18
+presto-bm-prod.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.62.64.0/18
+presto-bm-staging.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.62.64.0/18
+prometheus.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
+prometheus.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+thanos-frontend.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
+thanos-frontend.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+thanos.prod.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 13.236.0.0/14
+thanos.staging.aips-internal.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+vault1.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
+vault2.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
+vault3.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18
+vault.aips-internal.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 52.116.0.0/18

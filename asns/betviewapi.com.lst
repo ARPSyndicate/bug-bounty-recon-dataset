@@ -1,0 +1,26 @@
+a.cpaul.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 18.202.0.0/15
+api.games.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+api.popularbets.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+api-static.games.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+api-static.staging.games.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+api-static.test4.games.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+cashout.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+dev.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+dev.trending.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+erwann.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+erwann.trending.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+event-catalogue.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+event-catalogue.nps.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+gareth.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+gareth.trending.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+rab-pricing.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+singhr.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+singhr.trending.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+staging.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+staging.trending.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+stats.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+stats.nps.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+test4.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+test4.trending.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+trending.popularbets.betviewapi.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+us-east.cpaul.test.popularbets.betviewapi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23

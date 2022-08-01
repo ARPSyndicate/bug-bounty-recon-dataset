@@ -1,0 +1,30 @@
+accounts.kws.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+accounts.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+api.kws.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+awesomeads.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+broker.cloud.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 52.48.0.0/14
+control-panel-api.demo.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.155.0.0/16
+cpapi.kws.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+dashboard.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+dashboard.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.74.0.0/15
+eu-west-1.awesomeads.staging.superawesome.tv AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+ksf.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
+ksiq.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.220.0.0/16
+kwsapi.demo.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.155.0.0/16
+kws-cluster-pj-staging.worker.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+kws.demo.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.74.0.0/15
+kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+parentsapi.demo.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 18.202.0.0/15
+parentsapi.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+parentsapp.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+parents.demo.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 18.202.0.0/15
+parents.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+preview-v2.staging.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+preview-v2.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 54.194.0.0/16
+sa-mobile-sdk-advertiser-android.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.109.0/24
+sa-mobile-sdk-advertiser-ios.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.111.0/24
+sa-mobile-sdk-android.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.109.0/24
+sa-mobile-sdk-ios.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.109.0/24
+sa-unity-sdk.superawesome.tv AS54113 AS54113 - FASTLY US 185.199.109.0/24
+sso.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
+worker.kws.superawesome.tv AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13

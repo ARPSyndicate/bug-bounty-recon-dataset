@@ -1,0 +1,19 @@
+autodiscover.lahitapiolarahoitus.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
+kaupinta.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+kumppani.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+lyncdiscover.lahitapiolarahoitus.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
+myynti.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+myyntipalvelu.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+omasivu.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+partnerapi.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+pp.verkkopalvelucms.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+pp.verkkopalvelu.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+preprod.myynti.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+preprod.myyntipalvelu.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+preprod.partnerapi.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+previewpreproduat.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+prod.verkkopalvelu.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 213.28.0.0/16
+signicatnotify.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+sip.lahitapiolarahoitus.fi AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
+verkkopalvelu.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14
+www.lahitapiolarahoitus.fi AS1759 AS1759 - TELIA FINLAND OYJ FI 193.208.0.0/14

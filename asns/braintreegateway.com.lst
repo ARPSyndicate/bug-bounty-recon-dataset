@@ -1,0 +1,14 @@
+api.braintreegateway.com AS14618 AS14618 - AMAZON.COM INC. US 3.208.0.0/12
+api.sandbox.braintreegateway.com AS14618 AS14618 - AMAZON.COM INC. US 34.224.0.0/12
+assets.braintreegateway.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+client-analytics.braintreegateway.com AS16509 AS16509 - AMAZON.COM, INC. US 18.220.0.0/14
+forwarding.braintreegateway.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+id.braintreegateway.com AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
+id.sandbox.braintreegateway.com AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+js.braintreegateway.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+origin-assets.braintreegateway.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+origin-onboarding.braintreegateway.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+panel.sandbox.braintreegateway.com AS16509 AS16509 - AMAZON.COM INC. US 52.32.0.0/14
+sandbox.braintreegateway.com AS14618 AS14618 - AMAZON.COM INC. US 3.208.0.0/12
+venmosdk.sandbox.braintreegateway.com AS16509 AS16509 - AMAZON.COM INC. US 54.192.160.0/23
+www.braintreegateway.com AS14618 AS14618 - AMAZON.COM INC. US 3.208.0.0/12

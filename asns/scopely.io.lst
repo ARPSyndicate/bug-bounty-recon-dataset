@@ -1,0 +1,15 @@
+collector.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
+dev-bamboo.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+event.collector.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+github.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 35.180.0.0/16
+id.adev.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+id.aprod.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
+origin-dev-jira.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+perf.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
+playgami.adev.scopely.io AS16509 AS16509 - AMAZON.COM INC. US 54.230.160.0/22
+pr-apollo.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
+preview-hyperion.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+register.collector.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
+sam.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+warehouse.adev.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 54.230.102.0/23
+yellowjacket-dev.y.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11

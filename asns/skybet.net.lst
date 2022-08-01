@@ -1,0 +1,12 @@
+gcs.staging.gamingservices.aws.skybet.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+gcs.test.gamingservices.aws.skybet.net AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
+prometheus.gamingservices.aws.skybet.net AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+prometheus.test.gamingservices.aws.skybet.net AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+prometheus.test.vegas.aws.skybet.net AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
+prometheus.vegas.aws.skybet.net AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+skybet.net AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+test.skybet.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
+tools.guea.skybet.net AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+tools.nps.skybet.net AS48210 AS48210 - BONNE TERRE LTD GB 193.104.140.0/24
+tools.skybet.net AS48210 AS48210 - BONNE TERRE LTD GB 193.104.140.0/24
+www.skybet.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20

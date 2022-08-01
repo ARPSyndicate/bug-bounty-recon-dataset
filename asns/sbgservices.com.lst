@@ -1,0 +1,57 @@
+api.ff.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+api.messaging.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+api.s6e.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+api.s6.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+api.sweeps.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+api.test.messaging.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
+api.test.s6.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+assetstore.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+cdn.ff.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ci.api.ff.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+demo-portal.test.ges.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+feedback.s6.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+gate.guea.sbgservices.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+gate.nps.sbgservices.com AS48210 AS48210 - BONNE TERRE LTD GB 193.104.140.0/24
+gate.sbgservices.com AS48210 AS48210 - BONNE TERRE LTD GB 194.145.126.0/24
+gateway.test.gamingservices.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 54.155.0.0/16
+match-challenge.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.70.0.0/20
+match-challenge.stage.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.70.0.0/20
+minigames.ges.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+minigames.nps.ges.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+oauth.autotest.sweeps.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 54.76.0.0/15
+oauth.loadtest.sweeps.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 54.72.0.0/16
+oauth.test.sweeps.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
+promotions-customer-experience.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.69.240.0/20
+promotions-spin-service.promotions.nps.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
+promotions-spin-service.promotions.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
+promotions-spin-service.promotions.stage.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+push.gamingservices.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 54.216.0.0/15
+push.staging.gamingservices.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 18.202.0.0/15
+push.test.gamingservices.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 54.194.0.0/16
+rc.ges.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+rc.nps.ges.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+rcs-int.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.224.0/20
+rcs.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.224.0/20
+rc.staging.sbgservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
+test.feedback.s6.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.ama04-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ui.asi11-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ui.browser-test.ama04-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+ui.browser-test.asi11-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+ui.browser-test.cbe01-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ui.browser-test.iba01-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+ui.browser-test.leahyc-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.browser-test.leahyc-2.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.browser-test.preenn-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+ui.browser-test.test.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.cbe01-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.iba01-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.jamesr-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ui.leahyc-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+ui.leahyc-2.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+ui.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ui.preenn1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+ui.preenn-1.dev.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
+ui.test.messaging.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+web.ff.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+web.s6.sbgservices.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23

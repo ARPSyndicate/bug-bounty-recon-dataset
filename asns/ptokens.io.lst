@@ -1,0 +1,52 @@
+algorand-node-1.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 65.108.0.0/16
+bridge2.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+btc-node-1.ptokens.io AS16276 AS16276 - OVH SAS FR 144.217.0.0/16
+btc-node-3.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 65.108.0.0/16
+btc-node-4.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 135.181.0.0/16
+chart.ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+corsproxy.ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.21.48.0/20
+dao--stake-proxy.ptokens.io AS16276 AS16276 - OVH SAS FR 51.195.0.0/16
+dapp2.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+dapp3.ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.160.0/20
+dapp-eth-node-1.ptokens.io AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
+dapp-legacy.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+dapp.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+eidoo--sendtx-dynlink.ptokens.io AS16276 AS16276 - OVH SAS FR 51.195.0.0/16
+eosjungle.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+eos-mainnet-1.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 116.202.0.0/16
+eos-mainnet-2.ptokens.io AS14618 AS14618 - AMAZON.COM, INC. US 54.242.0.0/15
+eos-mainnet-3.ptokens.io AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+eos-mainnet-4.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.217.0.0/16
+eos-mainnet-5.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.217.0.0/16
+eos-mainnet-6.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.217.0.0/16
+eos-mainnet-7.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.217.0.0/16
+eos-mainnet-8.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 95.217.0.0/16
+extra.ptokens.io AS16276 AS16276 - OVH SAS FR 54.37.0.0/16
+future2.ptokens.io AS16276 AS16276 - OVH SAS FR 51.89.0.0/16
+future.ptokens.io AS14061 AS14061 - DIGITALOCEAN, LLC US 104.248.192.0/20
+ipfs.ptokens.io AS16276 AS16276 - OVH SAS FR 51.89.0.0/16
+libre-node-1.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 65.109.0.0/16
+liquid-node-1.ptokens.io AS16276 AS16276 - OVH SAS FR 51.83.0.0/16
+ltc-node-1.ptokens.io AS16276 AS16276 - OVH SAS FR 51.89.0.0/16
+ltc-node-2.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 65.108.0.0/16
+ltc-testnet-node-1.ptokens.io AS16276 AS16276 - OVH SAS FR 51.89.0.0/16
+nuc-bridge-1.ptokens.io AS16276 AS16276 - OVH SAS FR 54.37.0.0/16
+nuc-bridge.ptokens.io AS16276 AS16276 - OVH SAS FR 54.38.0.0/16
+ore-node-1.ptokens.io AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15
+pbtc-on-eos-jungle-3.ptokens.io AS16276 AS16276 - OVH SAS FR 51.195.0.0/16
+pbtc-on-eth-kovan-node-1a.ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.160.0/20
+pbtc-on-eth--pegout-proxy.ptokens.io AS16276 AS16276 - OVH SAS FR 51.195.0.0/16
+pdash-on-eth-testnet.ptokens.io AS16276 AS16276 - OVH SAS FR 46.105.0.0/16
+phoenix-node-1.ptokens.io AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
+phoenix-node-2.ptokens.io AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
+ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.160.0/20
+status.ptokens.io AS16276 AS16276 - OVH SAS FR 51.75.0.0/16
+telos-mainnet-1-new.ptokens.io AS24940 AS24940 - HETZNER ONLINE GMBH DE 65.108.0.0/16
+telos-mainnet-1.ptokens.io AS16509 AS16509 - AMAZON.COM, INC. US 18.194.0.0/15
+test.ptokens.io AS16276 AS16276 - OVH SAS FR 54.37.0.0/16
+webapi.ptokens.io AS16276 AS16276 - OVH SAS FR 51.89.0.0/16
+www.bridge.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+www.dapp.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+www.eosjungle.ptokens.io AS16276 AS16276 - OVH SAS FR 51.68.0.0/16
+www.ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.160.0/20
+www.test.ptokens.io AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.160.0/20

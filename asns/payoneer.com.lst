@@ -1,0 +1,12 @@
+a7956feecc.payoneer.com AS14618 AS14618 - AMAZON.COM, INC. US 184.73.0.0/16
+brand.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
+chn.vpn.payoneer.com AS4812 AS4812 - CHINA TELECOM CN 101.88.0.0/13
+customerfiles.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.40.0/21
+customerfiles.qa.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.116.0/22
+customerfiles.sandbox.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.116.0/22
+filesapi.dev.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+filesapi.qa.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+sbcmst.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
+status.payoneer.com AS16509 AS16509 - AMAZON.COM, INC. US 18.246.0.0/16
+tracking.payoneer.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+vpn.payoneer.com AS396982 AS396982 - GOOGLE LLC US 208.127.0.0/17

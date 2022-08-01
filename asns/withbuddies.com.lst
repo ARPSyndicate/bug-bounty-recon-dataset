@@ -1,0 +1,16 @@
+admin.dev.odyssey.withbuddies.com AS16509 AS16509 - AMAZON.COM, INC. US 52.16.0.0/15
+api.dev.odyssey.withbuddies.com AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+dev-wheeloffortune-api.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+docs.dev.legend.withbuddies.com AS54113 AS54113 - FASTLY US 185.199.110.0/24
+flora-render-prod.prod.petunia.withbuddies.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
+flora-render.qa.petunia.withbuddies.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
+preview-dice-admin.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+preview-dice-api.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+preview-wheel-admin.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+preview-wheeloffortune-api.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+stage-dice-admin.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+stage-dice-api.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+stage-dice-hangfire.withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+stage-scrabble-api.withbuddies.com AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12
+webportal.dev.tuscany.withbuddies.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.202.0/23
+withbuddies.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13

@@ -1,0 +1,6 @@
+api.internal.waypoint.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
+api.us-east-2.internal.waypoint.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
+camera-management.grabview.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
+id.kartamap.geo.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 20.192.0.0/10
+scim-bridge2.foundation.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 20.192.0.0/10
+scim-bridge.foundation.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 20.192.0.0/10
