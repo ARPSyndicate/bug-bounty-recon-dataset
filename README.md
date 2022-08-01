@@ -8,5 +8,5 @@
 <tr><td>WEBSITEs</td><td>162518</td></tr>
 <tr><td>PROBEs</td><td>86227</td></tr>
 <tr><td>FAVICONs</td><td>27186</td></tr>
-<tr><td>SCREENSHOTs</td><td>17321</td></tr>
+<tr><td>SCREENSHOTs</td><td>17013</td></tr>
 </table></p></div>
