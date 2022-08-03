@@ -258,6 +258,7 @@ http://infrastructure-seldon.eu.newrelic.com
 http://infrastructure-seldon.newrelic.com
 http://ingest-integration.newrelic.com
 http://ingest-integration.newrelic.com:8080
+http://ingest-test-api.eu.newrelic.com
 http://insights-api.eu.newrelic.com
 http://insights-api.newrelic.com
 http://insights-collector.newrelic.com
@@ -604,6 +605,7 @@ https://infrastructure-seldon.eu.newrelic.com
 https://infrastructure-seldon.newrelic.com
 https://ingest-integration.newrelic.com
 https://ingest-integration.newrelic.com:8443
+https://ingest-test-api.eu.newrelic.com
 https://ingest-test.newrelic.com
 https://insights-api.eu.newrelic.com
 https://insights-api.newrelic.com

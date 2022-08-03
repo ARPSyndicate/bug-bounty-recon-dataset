@@ -2916,6 +2916,7 @@ tools.ci-use1b.ci.qstv.on.epicgames.com
 tools.dev-usw2a.dev.qstv.on.epicgames.com
 tools.dev-usw2b.dev.qstv.on.epicgames.com
 tools.dev-usw2d.dev.qstv.on.epicgames.com
+tools.dev-usw2-locust-b.dev.qstv.on.epicgames.com
 tools.dev-usw2-locust.dev.qstv.on.epicgames.com
 tools.dev-usw2s.dev.qstv.on.epicgames.com
 tools.dev-usw2v.dev.qstv.on.epicgames.com

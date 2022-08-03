@@ -93,6 +93,7 @@ https://identity-api.newrelic.com [404] [GET] [text/plain] [] [] [vhost] [d41d8c
 https://infra.newrelic.com [302] [GET] [text/plain] [] [] [vhost] [ed1925e08d34ed16ca1cbaec76ed73cd]
 https://infrastructure-command-api.newrelic.com [404] [GET] [application/json] [] [] [vhost] [aa84edf14c2576b7bd1c6d7d24276095]
 https://infrastructure.eu.newrelic.com [302] [GET] [text/plain] [] [] [vhost] [4fa5e2f0a5f3c093fdfdfd1cd3f54add]
+https://ingest-test-api.eu.newrelic.com [404] [GET] [text/plain] [] [cloudflare] [vhost] [Cloudflare] [99914b932bd37a50b983c5e7c90ae93b]
 https://insights-api.eu.newrelic.com [404] [GET] [application/x-gzip] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://insights-embed.eu.newrelic.com [302] [GET] [text/plain] [] [] [vhost] [f1203584d0b35e736bc49c2f38d39cc2]
 https://integration-alerts.newrelic.com [302] [GET] [text/plain] [] [] [vhost] [72d2c0e1be57cb259994037dc9e6d211]

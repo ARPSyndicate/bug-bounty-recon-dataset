@@ -5075,6 +5075,7 @@
 [https] o11y-playground-service.shopifycloud.com:443
 [https] o11y-test-rw.shopifycloud.com:443
 [https] o2dtd.kibana.shopifycloud.com:443
+[https] o44r.shopifycloud.com:443
 [https] oaceh.kibana.shopifycloud.com:443
 [https] oauthboss-integration-test.shopifycloud.com:443
 [https] oberlo-education-core.shopifycloud.com:443
@@ -6395,6 +6396,7 @@
 [https] trickle-production-platform-demo-staging.flink.shopifycloud.com:443
 [https] trickle-production-platform-demo-staging.shopifycloud.com:443
 [https] trickle-staging-unrestricted-8l0g.shopifycloud.com:443
+[https] trickle-staging-unrestricted-ky4b.shopifycloud.com:443
 [https] tricorder.shopifycloud.com:443
 [https] tricorn.shopifycloud.com:443
 [https] tricorn-staging.shopifycloud.com:443

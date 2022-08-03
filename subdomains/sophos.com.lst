@@ -7581,6 +7581,7 @@ l7dcfkuz.cloudstation.eu-west-1.inf.hydra.sophos.com
 l7pk6yg6.stn100syd.ctr.sophos.com
 l7w5l4ts.eu-west-1.dev.o365.sophos.com
 l8cp2r0l.cloudhub.eu-west-1.dev.hydra.sophos.com
+l8n93iyq.cloudstation.us-east-2.prod.hydra.sophos.com
 l8swdyk3.cloudstation.eu-west-1.dev.hydra.sophos.com
 l8zfvu1k.cloudstation.eu-west-1.prod.hydra.sophos.com
 l9bbcyx6.cloudstation.eu-central-1.prod.hydra.sophos.com
@@ -7915,6 +7916,7 @@ lvn92wm2.cloudstation.eu-central-1.qa.hydra.sophos.com
 lvwptt3j.cloudstation.eu-west-1.prod.hydra.sophos.com
 lw3qce08.stn000cmh.ctr.sophos.com
 lwaltttg.stn030gru.ctr.sophos.com
+lwjhv9jb.stn010pdx.ctr.sophos.com
 lws.labs.sophos.com
 lx88ad7d-cloudhub-eu-west-1.qa.hydra.sophos.com
 lxidmhwg.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -10906,6 +10908,8 @@ nsuqhal4.cloudstation.eu-west-1.inf.hydra.sophos.com
 nt20ejvz.cloudstation.eu-west-1.prod.hydra.sophos.com
 nt501d3d.cloudstation.eu-west-1.inf.hydra.sophos.com
 nt69drvh.cloudstation.eu-west-1.inf.hydra.sophos.com
+nta-cert-cloudstation-us-east-2.prod.hydra.sophos.com
+nta-cert.cloudstation.us-east-2.prod.hydra.sophos.com
 nta-cert-cloudstation-us-west-2.qa.hydra.sophos.com
 nta-cert.cloudstation.us-west-2.qa.hydra.sophos.com
 nta-config-cloudstation-eu-central-1.qa.hydra.sophos.com
@@ -10913,8 +10917,10 @@ nta-config.cloudstation.eu-central-1.qa.hydra.sophos.com
 ntal-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com
 ntal-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com
 nta-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com
+nta-proxy.cloudstation.us-west-2.prod.hydra.sophos.com
 nta-push-rest.cloudstation.eu-central-1.qa.hydra.sophos.com
 nta-push-rest.cloudstation.us-west-2.qa.hydra.sophos.com
+nta-push-ws.cloudstation.us-west-2.prod.hydra.sophos.com
 nta-push-ws.cloudstation.us-west-2.qa.hydra.sophos.com
 nta-registration-cloudstation-eu-west-1.dev.hydra.sophos.com
 nta-registration.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -11491,6 +11497,7 @@ ping-global-cloudstation-eu-west-1.inf.hydra.sophos.com
 ping-global.cloudstation.eu-west-1.inf.hydra.sophos.com
 ping-regional-alt.stn000cmh.ctr.sophos.com
 ping-regional-alt.stn000iad.ctr.sophos.com
+ping-regional-alt.stn010pdx.ctr.sophos.com
 ping-regional-alt.stn010yul.ctr.sophos.com
 ping-regional-alt.stn030bom.ctr.sophos.com
 ping-regional-alt.stn030syd.ctr.sophos.com
@@ -11525,6 +11532,7 @@ ping-regional-station-us-east-1.stn000iad.ctr.sophos.com
 ping-regional.station.us-east-1.stn000iad.ctr.sophos.com
 ping-regional.stn000cmh.ctr.sophos.com
 ping-regional.stn000iad.ctr.sophos.com
+ping-regional.stn010pdx.ctr.sophos.com
 ping-regional.stn010yul.ctr.sophos.com
 ping-regional.stn030bom.ctr.sophos.com
 ping-regional.stn030syd.ctr.sophos.com

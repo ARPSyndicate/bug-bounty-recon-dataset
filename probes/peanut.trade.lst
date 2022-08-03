@@ -82,7 +82,6 @@ https://pa-bxgw.peanut.trade [404] [GET] [text/plain] [] [] [vhost] [google] [59
 https://pa-ingress.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [370e16c3b7dba286cff055f93b9a94d8]
 https://pa-ingress.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [8eec510e57f5f732fd2cce73df7b73ef]
 https://peanut.trade [200] [GET] [text/html] [Peanut | DEX trading and MEV protection] [openresty] [Fastly,Google Tag Manager,Nginx,OpenResty,Varnish,Webflow] [ea9ffab62193c1890b76026f18c3062a]
-https://polygon.bxgw.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [370e16c3b7dba286cff055f93b9a94d8]
 https://polygon.bxgw.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [8eec510e57f5f732fd2cce73df7b73ef]
 https://pt.peanut.trade [404] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://smart-lp-ingress.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [370e16c3b7dba286cff055f93b9a94d8]

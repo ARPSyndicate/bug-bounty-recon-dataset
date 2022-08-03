@@ -7028,6 +7028,7 @@ nyxr4.kibana.shopifycloud.com
 o11y-playground-service.shopifycloud.com
 o11y-test-rw.shopifycloud.com
 o2dtd.kibana.shopifycloud.com
+o44r.shopifycloud.com
 oaceh.kibana.shopifycloud.com
 oauth2test2.shopifycloud.com
 oauth2test.shopifycloud.com
@@ -8812,6 +8813,7 @@ shopify-classifieds-production-web-tier4.shopifycloud.com
 shopify-classifieds.shopifycloud.com
 .shopifycloud.com
 shopifycloud.com
+shopify-comet-dev.shopifycloud.com
 shopify-contracts-production-web-apps-b-us-east1-4.shopifycloud.com
 shopify-contracts-production-web-tier2.shopifycloud.com
 shopify-contracts.shopifycloud.com
@@ -10101,6 +10103,7 @@ trickle-production-unrestricted-rske.shopifycloud.com
 trickle.shopifycloud.com
 trickle-staging-unrestricted-8l0g.shopifycloud.com
 trickle-staging-unrestricted-gzy8.flink.shopifycloud.com
+trickle-staging-unrestricted-ky4b.shopifycloud.com
 tricorder-production-unrestricted-hb-dqckrscf-apps-b-us-east1-5.shopifycloud.com
 tricorder.shopifycloud.com
 tricorn.shopifycloud.com

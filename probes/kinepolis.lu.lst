@@ -286,7 +286,7 @@ https://riccardocoronati.kinepolis.lu [400] [GET] [text/html] [Invalid URL] [Aka
 https://riccardocoronati.kinepolis.lu [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [fc0a73d7fc40ba1504783cef9ca1dab9]
 https://rootsweb.kinepolis.lu [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [3370f802f1bfc0db94f8e470350d2e89]
 https://rootsweb.kinepolis.lu [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [c230bfecaff59c202d23c0ed7f82e70b]
-https://saint-nicolas.kinepolis.lu [200] [GET] [text/html] [Kinepolis St Nicolas – Vivez une St. Nicolas magique] [Apache] [vhost] [Apache,MySQL,PHP,WordPress] [132cbb523fa94bf841b651ab786e3c13]
+https://saint-nicolas.kinepolis.lu [200] [GET] [text/html] [Kinepolis St Nicolas – Vivez une St. Nicolas magique] [Apache] [vhost] [Apache,MySQL,PHP,WordPress:5.4.10] [9f01e52150a55503b7098d525ca67edd]
 https://saint-nicolas.kinepolis.lu:8081 [404] [GET] [application/json] [] [nginx] [Nginx] [8a80554c91d9fca8acb82f023de02f11]
 https://search.kinepolis.lu [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [9f7fd2e7ecf6df569db751f4b51b8386]
 https://search.kinepolis.lu [400] [GET] [text/html] [Invalid URL] [AkamaiGHost] [f43b13514b026aaa0f0ff989d522aba5]

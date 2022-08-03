@@ -49,6 +49,7 @@
 [domain] evolve.sophos.com:53
 [domain] ns4.sophos.com:53
 [domain] owncloud.sophos.com:53
+[down] s.home-qa.sophos.com:2022
 [d-s-n] accounts.home-dev.sophos.com:8086
 [d-s-n] accounts.home-qa.sophos.com:8086
 [d-s-n] a.home-dev.sophos.com:8086
@@ -79,6 +80,7 @@
 [ftps] ftp.sophos.com:990
 [ftps] ftp-tst.sophos.com:990
 [globalcatLDAP] accounts.home-dev.sophos.com:3268
+[globalcatLDAP] s.home-qa.sophos.com:3268
 [gnunet] buy.home.sophos.com:2086
 [gnunet] shop.sophos.com:2086
 [gnunet] support.home-sandbox.sophos.com:2086
@@ -1608,8 +1610,10 @@
 [https] ntal-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] ntal-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] nta-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com:443
+[https] nta-proxy.cloudstation.us-west-2.prod.hydra.sophos.com:443
 [https] nta-push-rest.cloudstation.eu-central-1.qa.hydra.sophos.com:443
 [https] nta-push-rest.cloudstation.us-west-2.qa.hydra.sophos.com:443
+[https] nta-push-ws.cloudstation.us-west-2.prod.hydra.sophos.com:443
 [https] nta-push-ws.cloudstation.us-west-2.qa.hydra.sophos.com:443
 [https] nta-reporting-cloudstation-us-east-2.prod.hydra.sophos.com:443
 [https] nta-reporting.cloudstation.us-east-2.prod.hydra.sophos.com:443
@@ -2550,6 +2554,7 @@
 [memcache] a.home-qa.sophos.com:11211
 [memcache] a.home.sophos.com:11211
 [micromuse-ncpw] accounts.home-dev.sophos.com:9600
+[micromuse-ncpw] s.home-qa.sophos.com:9600
 [mit-ml-dev] accounts.home-dev.sophos.com:83
 [mit-ml-dev] accounts.home-dev.sophos.com:85
 [mit-ml-dev] accounts.home-qa.sophos.com:83
@@ -2594,6 +2599,7 @@
 [ndmps] s.home-dev.sophos.com:30000
 [ndmps] s.home-qa.sophos.com:30000
 [ndmps] s.home.sophos.com:30000
+[nntp] s.home-qa.sophos.com:119
 [oa-system] accounts.home-dev.sophos.com:8022
 [openvpn] lon3.ff.labs.sophos.com:1194
 [opsmessaging] accounts.home-dev.sophos.com:8090

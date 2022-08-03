@@ -118,10 +118,10 @@ edge-cloudfront.staging.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225
 edge.staging.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.54.0.0/15
 email.fin.seek.com.au AS11377 AS11377 - SENDGRID, INC. US 167.89.122.0/23
 email.ga.seek.com.au AS11377 AS11377 - SENDGRID, INC. US 167.89.122.0/23
-email.hirer.s.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+email.hirer.s.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
 email.seek.com.au AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 emails.incubator.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-email.s.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+email.s.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 143.204.144.0/21
 enterpriseenrollment.seek.com.au AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
 enterpriseregistration.seek.com.au AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
 experiments.cloud.seek.com.au AS16509 AS16509 - AMAZON.COM, INC. US 52.62.0.0/15

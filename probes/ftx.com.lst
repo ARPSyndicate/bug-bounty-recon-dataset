@@ -159,7 +159,7 @@ https://research.ftx.com [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cl
 https://research.ftx.com:8443 [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://static.ftx.com [404] [GET] [text/html] [404 Not Found] [cloudflare] [vhost] [cloudflare] [Amazon Web Services,Cloudflare] [14094a34bc588ce692c9851601db3ba8]
 https://static.ftx.com [404] [GET] [text/html] [404 Not Found] [cloudflare] [vhost] [cloudflare] [Amazon Web Services,Cloudflare] [1f09cb3c01a5831fe9062de1dad26b46]
-https://status.ftx.com [200] [GET] [text/html] [FTX Status] [] [vhost] [Atlassian Statuspage,Fastly] [ce2aef5bb4d1a416436bb65779386fbd]
+https://status.ftx.com [200] [GET] [text/html] [FTX Status] [] [vhost] [Atlassian Statuspage,Fastly] [aac957dd373b08ec683444362d416238]
 http://static.ftx.com:2052 [301] [GET] [] [] [cloudflare] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://static.ftx.com:2082 [301] [GET] [] [] [cloudflare] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://static.ftx.com:2083 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [20ad84d030031252141ca0b3fc0183f0]

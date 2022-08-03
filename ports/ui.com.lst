@@ -121,6 +121,7 @@
 [cddbp-alt] 56137a8c-36a1-4306-93a5-ca63af743995.unifi-hosting.ui.com:8880
 [cddbp-alt] 56d753a4-14b5-4d92-9743-b4313b4394f3.unifi-hosting.ui.com:8880
 [cddbp-alt] 577de56f-3c77-4883-a687-e43b3b430631.unifi-hosting.ui.com:8880
+[cddbp-alt] 5a06b042-527a-4638-9fb4-9cc86b70d4ad.unifi-hosting.ui.com:8880
 [cddbp-alt] 5d1e4bf1-92f3-4c8b-aaf4-31b6834bff13.unifi-hosting.ui.com:8880
 [cddbp-alt] 5df3c494-79f0-4d39-9ce3-5c5bb3286f2f.unifi-hosting.stg.ui.com:8880
 [cddbp-alt] 5f30db4c-96bd-4595-8363-65da5ccc77e3.unifi-hosting.ui.com:8880
@@ -164,6 +165,7 @@
 [cddbp-alt] 83abf8f4-c3e0-4ddf-972d-c4a28dbf1485.unifi-hosting.ui.com:8880
 [cddbp-alt] 83fbd7f4-7656-445f-a8e6-982986d274cc.unifi-hosting.ui.com:8880
 [cddbp-alt] 84bf62ae-d2de-454a-90ce-081b4cc938c5.unifi-hosting.ui.com:8880
+[cddbp-alt] 8528b60c-1ba9-4879-8535-da9053935ec1.unifi-hosting.ui.com:8880
 [cddbp-alt] 8568baf8-d48a-4791-b99d-b54ac9609fea.unifi-hosting.dev.ui.com:8880
 [cddbp-alt] 85b1bf28-0934-49b8-b55c-26417c463bc4.unifi-hosting.ui.com:8880
 [cddbp-alt] 873d8624-31c1-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:8880
@@ -183,6 +185,7 @@
 [cddbp-alt] 9a7ad299-e696-4943-9c8a-61011eda3626.unifi-hosting.ui.com:8880
 [cddbp-alt] 9e954ef0-cf0d-409f-9fde-a7343231a0e6.unifi-hosting.ui.com:8880
 [cddbp-alt] 9f1982f3-bdba-451e-b0fd-fbf4c1a03c80.unifi-hosting.ui.com:8880
+[cddbp-alt] a009daee-df3c-44ed-8cd3-1c496d3957f8.unifi-hosting.ui.com:8880
 [cddbp-alt] a0dfd8bb-ca41-420b-a201-a53ba43b94ef.unifi-hosting.ui.com:8880
 [cddbp-alt] a21361d8-31be-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:8880
 [cddbp-alt] a27acd8f-14df-4583-9ce6-724b947c8361.unifi-hosting.ui.com:8880
@@ -199,6 +202,7 @@
 [cddbp-alt] b41ee532-7cbd-408d-acb6-5dd18419e309.unifi-hosting.ui.com:8880
 [cddbp-alt] b4c969e6-a7d7-46ba-a2fe-3f3d2ea4451c.unifi-hosting.ui.com:8880
 [cddbp-alt] b7112b38-5436-495e-a49f-7c6763264ea8.unifi-hosting.dev.ui.com:8880
+[cddbp-alt] b79fd8c6-efad-4d1d-b9ee-6170cbcdd0ae.unifi-hosting.ui.com:8880
 [cddbp-alt] b8651802-4ceb-4bfd-b3cc-6500254d2983.unifi-hosting.ui.com:8880
 [cddbp-alt] baf14ed5-2cb3-47db-a88f-c477fc0fed01.unifi-hosting.ui.com:8880
 [cddbp-alt] bb3f80b3-0575-4708-af01-9c1d9fa6afc1.unifi-hosting.ui.com:8880
@@ -207,6 +211,7 @@
 [cddbp-alt] bcf18839-b856-4d3d-94e6-9c944168c59d.unifi-hosting.dev.ui.com:8880
 [cddbp-alt] bdb021ff-7d20-4ca8-b50e-f73f1d76d621.unifi-hosting.ui.com:8880
 [cddbp-alt] beebdc09-7fa2-4b47-91a4-667f36a3baa9.unifi-hosting.dev.ui.com:8880
+[cddbp-alt] br.store.ui.com:8880
 [cddbp-alt] c0408ef3-4463-4a38-bb24-a5a59b3a1b86.unifi-hosting.ui.com:8880
 [cddbp-alt] c0593f2d-d618-4847-aa01-0ac731e0de84.unifi-hosting.ui.com:8880
 [cddbp-alt] c33294c1-83fa-4d8e-b585-a854209a4bb8.unifi-hosting.ui.com:8880
@@ -284,6 +289,7 @@
 [cisco-sccp] 9f4a42e3-8c31-4a08-90d6-4383c86e9224.unifi-hosting.ui.com:2000
 [cisco-sccp] d950ebe8-9ece-4ae4-ae5f-eb673f881184.unifi-hosting.ui.com:2000
 [clearvisn] aus.store.ui.com:2052
+[clearvisn] br.store.ui.com:2052
 [clearvisn] ca.store.ui.com:2052
 [clearvisn] cn.store.ui.com:2052
 [clearvisn] eu.store.ui.com:2052
@@ -321,6 +327,7 @@
 [docker] f638ebcf-7a34-4fd5-bb89-32367c838647.unifi-hosting.stg.ui.com:2376
 [d-s-n] 6fba4cf6-1d4e-4a14-a1d8-dc9e5dece9c4.unifi-hosting.stg.ui.com:8086
 [d-s-n] b1ee8e1f-0dc7-4317-bfd6-8b292da421dc.unifi-hosting.ui.com:8086
+[dynamid] 09790353-434a-4e3d-841c-96e4940317fd.unifi-hosting.ui.com:9002
 [dynamid] 6459c954-ecef-4d0e-9d36-82e182b6c1f8.unifi-hosting.stg.ui.com:9002
 [dynamid] 78dea0b2-0f2c-4bda-b069-bb686a1f09f6.unifi-hosting.stg.ui.com:9002
 [] e0f69d24-852f-4d2c-a050-72c699a40cdc.unifi-hosting.stg.ui.com:9108
@@ -410,6 +417,7 @@
 [eli] bd28b55a-5f91-4e2b-9d67-c3fbcd8dc58b.unifi-hosting.ui.com:2087
 [eli] bdc665d1-8781-4008-8a65-c12976c71e35.unifi-hosting.ui.com:2087
 [eli] bf958955-0b01-4654-968e-d66cec6082aa.unifi-hosting.ui.com:2087
+[eli] br.store.ui.com:2087
 [eli] c40970d3-e785-48d4-bcd0-cc0f8e74475f.unifi-hosting.dev.ui.com:2087
 [eli] c6f31b45-fc79-4a9b-adab-7b1b12d9e1aa.unifi-hosting.ui.com:2087
 [eli] ca.store.ui.com:2087
@@ -471,6 +479,7 @@
 [gnunet] b37a8747-b292-473a-b159-97dc0ddf5449.unifi-hosting.ui.com:2086
 [gnunet] b41ee532-7cbd-408d-acb6-5dd18419e309.unifi-hosting.ui.com:2086
 [gnunet] b8651802-4ceb-4bfd-b3cc-6500254d2983.unifi-hosting.ui.com:2086
+[gnunet] br.store.ui.com:2086
 [gnunet] ca.store.ui.com:2086
 [gnunet] cn.store.ui.com:2086
 [gnunet] eu.store.ui.com:2086
@@ -592,6 +601,7 @@
 [http] 0965c2ba-8541-45d1-bbf9-9ec60098c9cf.unifi-hosting.ui.com:80
 [http] 096c16bd-a137-4f9a-aeb2-f6b84efa7e06.unifi-hosting.dev.ui.com:80
 [http] 096de06f-f623-4f3a-8ee5-47344a1f08d1.unifi-hosting.stg.ui.com:80
+[http] 09790353-434a-4e3d-841c-96e4940317fd.unifi-hosting.ui.com:80
 [http] 09b1a1f2-cb35-496a-98ab-b62160b5cd1a.unifi-hosting.ui.com:80
 [http] 09b443b0-324c-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:80
 [http] 09cab1ee-129b-4e43-b45e-a60606783a61.unifi-hosting.ui.com:80
@@ -1361,6 +1371,7 @@
 [http] 59a4e3bd-c212-44ae-9f02-2f2ee7fb55cf.unifi-hosting.ui.com:80
 [http] 59e86b76-170f-4a85-9e55-b4e7184deec4.unifi-hosting.ui.com:80
 [http] 59f2c96c-2cdb-11ec-8876-0a58a9feac02.unifi-hosting.dev.ui.com:80
+[http] 5a06b042-527a-4638-9fb4-9cc86b70d4ad.unifi-hosting.ui.com:80
 [http] 5a4107f1-7494-4fcc-b6a3-71ba1d502c13.unifi-hosting.ui.com:80
 [http] 5a47ea8f-bb2d-496f-b124-ddd627701c09.unifi-hosting.dev.ui.com:80
 [http] 5a63ade8-31be-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:80
@@ -1793,6 +1804,7 @@
 [http] 84e60127-c79a-456c-b53c-a2ad17c615d0.unifi-hosting.ui.com:80
 [http] 8509bb90-16b9-4ba9-a49c-e18150d8470c.unifi-hosting.stg.ui.com:80
 [http] 8509e4de-f7c1-40bb-8d68-669224befc3c.unifi-hosting.ui.com:80
+[http] 8528b60c-1ba9-4879-8535-da9053935ec1.unifi-hosting.ui.com:80
 [http] 85339cea-fee3-4445-a210-d8049f6c0ea0.unifi-hosting.ui.com:80
 [http] 8543fb77-4594-414c-b65c-db951304eb73.unifi-hosting.ui.com:80
 [http] 855db0bd-343e-454c-8432-9b8fe2a23541.unifi-hosting.stg.ui.com:80
@@ -2062,6 +2074,7 @@
 [http] 9fef623a-5e9b-4ec4-ad36-b459036e5ea0.unifi-hosting.ui.com:80
 [http] 9ff0dc78-c618-43f7-bc7e-d965b18d9a02.unifi-hosting.dev.ui.com:80
 [http] 9ffd0733-b4db-47b8-a8e3-0a9b355d1eb5.unifi-hosting.ui.com:80
+[http] a009daee-df3c-44ed-8cd3-1c496d3957f8.unifi-hosting.ui.com:80
 [http] a00a9f9f-1be9-4eee-942e-4537a6c9dc90.unifi-hosting.ui.com:80
 [http] a0128d71-2763-434d-beb9-abaabad843dc.unifi-hosting.ui.com:80
 [http] a0344906-ea18-4599-a577-fb5beda99ad6.unifi-hosting.ui.com:80
@@ -2326,6 +2339,7 @@
 [http] b749a839-e525-49dc-9785-65dd8dac7f82.unifi-hosting.ui.com:80
 [http] b77d1ce6-e9f5-448a-805e-976525110002.unifi-hosting.ui.com:80
 [http] b7917d59-0ab4-44e1-a31e-6a217e0d228e.unifi-hosting.ui.com:80
+[http] b79fd8c6-efad-4d1d-b9ee-6170cbcdd0ae.unifi-hosting.ui.com:80
 [http] b7f0b299-510c-4c43-8040-a247781c65f4.unifi-hosting.stg.ui.com:80
 [http] b803e8fc-e3b9-4bf4-89b1-7500b988e755.unifi-hosting.stg.ui.com:80
 [http] b82f8d40-a171-453b-9d32-80eea613bbfd.unifi-hosting.ui.com:80
@@ -3292,6 +3306,7 @@
 [http-proxy] 0965c2ba-8541-45d1-bbf9-9ec60098c9cf.unifi-hosting.ui.com:8080
 [http-proxy] 096c16bd-a137-4f9a-aeb2-f6b84efa7e06.unifi-hosting.dev.ui.com:8080
 [http-proxy] 096de06f-f623-4f3a-8ee5-47344a1f08d1.unifi-hosting.stg.ui.com:8080
+[http-proxy] 09790353-434a-4e3d-841c-96e4940317fd.unifi-hosting.ui.com:8080
 [http-proxy] 09b1a1f2-cb35-496a-98ab-b62160b5cd1a.unifi-hosting.ui.com:8080
 [http-proxy] 09b443b0-324c-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:8080
 [http-proxy] 09cab1ee-129b-4e43-b45e-a60606783a61.unifi-hosting.ui.com:8080
@@ -4053,6 +4068,7 @@
 [http-proxy] 59a4e3bd-c212-44ae-9f02-2f2ee7fb55cf.unifi-hosting.ui.com:8080
 [http-proxy] 59e86b76-170f-4a85-9e55-b4e7184deec4.unifi-hosting.ui.com:8080
 [http-proxy] 59f2c96c-2cdb-11ec-8876-0a58a9feac02.unifi-hosting.dev.ui.com:8080
+[http-proxy] 5a06b042-527a-4638-9fb4-9cc86b70d4ad.unifi-hosting.ui.com:8080
 [http-proxy] 5a4107f1-7494-4fcc-b6a3-71ba1d502c13.unifi-hosting.ui.com:8080
 [http-proxy] 5a47ea8f-bb2d-496f-b124-ddd627701c09.unifi-hosting.dev.ui.com:8080
 [http-proxy] 5a63ade8-31be-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:8080
@@ -4478,6 +4494,7 @@
 [http-proxy] 84e60127-c79a-456c-b53c-a2ad17c615d0.unifi-hosting.ui.com:8080
 [http-proxy] 8509bb90-16b9-4ba9-a49c-e18150d8470c.unifi-hosting.stg.ui.com:8080
 [http-proxy] 8509e4de-f7c1-40bb-8d68-669224befc3c.unifi-hosting.ui.com:8080
+[http-proxy] 8528b60c-1ba9-4879-8535-da9053935ec1.unifi-hosting.ui.com:8080
 [http-proxy] 85339cea-fee3-4445-a210-d8049f6c0ea0.unifi-hosting.ui.com:8080
 [http-proxy] 8543fb77-4594-414c-b65c-db951304eb73.unifi-hosting.ui.com:8080
 [http-proxy] 855db0bd-343e-454c-8432-9b8fe2a23541.unifi-hosting.stg.ui.com:8080
@@ -4744,6 +4761,7 @@
 [http-proxy] 9fef623a-5e9b-4ec4-ad36-b459036e5ea0.unifi-hosting.ui.com:8080
 [http-proxy] 9ff0dc78-c618-43f7-bc7e-d965b18d9a02.unifi-hosting.dev.ui.com:8080
 [http-proxy] 9ffd0733-b4db-47b8-a8e3-0a9b355d1eb5.unifi-hosting.ui.com:8080
+[http-proxy] a009daee-df3c-44ed-8cd3-1c496d3957f8.unifi-hosting.ui.com:8080
 [http-proxy] a00a9f9f-1be9-4eee-942e-4537a6c9dc90.unifi-hosting.ui.com:8080
 [http-proxy] a0128d71-2763-434d-beb9-abaabad843dc.unifi-hosting.ui.com:8080
 [http-proxy] a0344906-ea18-4599-a577-fb5beda99ad6.unifi-hosting.ui.com:8080
@@ -4965,6 +4983,7 @@
 [http-proxy] b749a839-e525-49dc-9785-65dd8dac7f82.unifi-hosting.ui.com:8080
 [http-proxy] b77d1ce6-e9f5-448a-805e-976525110002.unifi-hosting.ui.com:8080
 [http-proxy] b7917d59-0ab4-44e1-a31e-6a217e0d228e.unifi-hosting.ui.com:8080
+[http-proxy] b79fd8c6-efad-4d1d-b9ee-6170cbcdd0ae.unifi-hosting.ui.com:8080
 [http-proxy] b7f0b299-510c-4c43-8040-a247781c65f4.unifi-hosting.stg.ui.com:8080
 [http-proxy] b803e8fc-e3b9-4bf4-89b1-7500b988e755.unifi-hosting.stg.ui.com:8080
 [http-proxy] b82f8d40-a171-453b-9d32-80eea613bbfd.unifi-hosting.ui.com:8080
@@ -5853,6 +5872,7 @@
 [https] 0965c2ba-8541-45d1-bbf9-9ec60098c9cf.unifi-hosting.ui.com:443
 [https] 096c16bd-a137-4f9a-aeb2-f6b84efa7e06.unifi-hosting.dev.ui.com:443
 [https] 096de06f-f623-4f3a-8ee5-47344a1f08d1.unifi-hosting.stg.ui.com:443
+[https] 09790353-434a-4e3d-841c-96e4940317fd.unifi-hosting.ui.com:443
 [https] 09b1a1f2-cb35-496a-98ab-b62160b5cd1a.unifi-hosting.ui.com:443
 [https] 09b443b0-324c-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:443
 [https] 09cab1ee-129b-4e43-b45e-a60606783a61.unifi-hosting.ui.com:443
@@ -6622,6 +6642,7 @@
 [https] 59a4e3bd-c212-44ae-9f02-2f2ee7fb55cf.unifi-hosting.ui.com:443
 [https] 59e86b76-170f-4a85-9e55-b4e7184deec4.unifi-hosting.ui.com:443
 [https] 59f2c96c-2cdb-11ec-8876-0a58a9feac02.unifi-hosting.dev.ui.com:443
+[https] 5a06b042-527a-4638-9fb4-9cc86b70d4ad.unifi-hosting.ui.com:443
 [https] 5a4107f1-7494-4fcc-b6a3-71ba1d502c13.unifi-hosting.ui.com:443
 [https] 5a47ea8f-bb2d-496f-b124-ddd627701c09.unifi-hosting.dev.ui.com:443
 [https] 5a63ade8-31be-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:443
@@ -7053,6 +7074,7 @@
 [https] 84e60127-c79a-456c-b53c-a2ad17c615d0.unifi-hosting.ui.com:443
 [https] 8509bb90-16b9-4ba9-a49c-e18150d8470c.unifi-hosting.stg.ui.com:443
 [https] 8509e4de-f7c1-40bb-8d68-669224befc3c.unifi-hosting.ui.com:443
+[https] 8528b60c-1ba9-4879-8535-da9053935ec1.unifi-hosting.ui.com:443
 [https] 85339cea-fee3-4445-a210-d8049f6c0ea0.unifi-hosting.ui.com:443
 [https] 8543fb77-4594-414c-b65c-db951304eb73.unifi-hosting.ui.com:443
 [https] 855db0bd-343e-454c-8432-9b8fe2a23541.unifi-hosting.stg.ui.com:443
@@ -7323,6 +7345,7 @@
 [https] 9fef623a-5e9b-4ec4-ad36-b459036e5ea0.unifi-hosting.ui.com:443
 [https] 9ff0dc78-c618-43f7-bc7e-d965b18d9a02.unifi-hosting.dev.ui.com:443
 [https] 9ffd0733-b4db-47b8-a8e3-0a9b355d1eb5.unifi-hosting.ui.com:443
+[https] a009daee-df3c-44ed-8cd3-1c496d3957f8.unifi-hosting.ui.com:443
 [https] a00a9f9f-1be9-4eee-942e-4537a6c9dc90.unifi-hosting.ui.com:443
 [https] a0128d71-2763-434d-beb9-abaabad843dc.unifi-hosting.ui.com:443
 [https] a0344906-ea18-4599-a577-fb5beda99ad6.unifi-hosting.ui.com:443
@@ -7561,6 +7584,7 @@
 [https-alt] 0965c2ba-8541-45d1-bbf9-9ec60098c9cf.unifi-hosting.ui.com:8443
 [https-alt] 096c16bd-a137-4f9a-aeb2-f6b84efa7e06.unifi-hosting.dev.ui.com:8443
 [https-alt] 096de06f-f623-4f3a-8ee5-47344a1f08d1.unifi-hosting.stg.ui.com:8443
+[https-alt] 09790353-434a-4e3d-841c-96e4940317fd.unifi-hosting.ui.com:8443
 [https-alt] 09b1a1f2-cb35-496a-98ab-b62160b5cd1a.unifi-hosting.ui.com:8443
 [https-alt] 09b443b0-324c-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:8443
 [https-alt] 09cab1ee-129b-4e43-b45e-a60606783a61.unifi-hosting.ui.com:8443
@@ -8322,6 +8346,7 @@
 [https-alt] 59a4e3bd-c212-44ae-9f02-2f2ee7fb55cf.unifi-hosting.ui.com:8443
 [https-alt] 59e86b76-170f-4a85-9e55-b4e7184deec4.unifi-hosting.ui.com:8443
 [https-alt] 59f2c96c-2cdb-11ec-8876-0a58a9feac02.unifi-hosting.dev.ui.com:8443
+[https-alt] 5a06b042-527a-4638-9fb4-9cc86b70d4ad.unifi-hosting.ui.com:8443
 [https-alt] 5a4107f1-7494-4fcc-b6a3-71ba1d502c13.unifi-hosting.ui.com:8443
 [https-alt] 5a47ea8f-bb2d-496f-b124-ddd627701c09.unifi-hosting.dev.ui.com:8443
 [https-alt] 5a63ade8-31be-11ec-9f6a-0a58a9feac02.unifi-hosting.dev.ui.com:8443
@@ -8747,6 +8772,7 @@
 [https-alt] 84e60127-c79a-456c-b53c-a2ad17c615d0.unifi-hosting.ui.com:8443
 [https-alt] 8509bb90-16b9-4ba9-a49c-e18150d8470c.unifi-hosting.stg.ui.com:8443
 [https-alt] 8509e4de-f7c1-40bb-8d68-669224befc3c.unifi-hosting.ui.com:8443
+[https-alt] 8528b60c-1ba9-4879-8535-da9053935ec1.unifi-hosting.ui.com:8443
 [https-alt] 85339cea-fee3-4445-a210-d8049f6c0ea0.unifi-hosting.ui.com:8443
 [https-alt] 8543fb77-4594-414c-b65c-db951304eb73.unifi-hosting.ui.com:8443
 [https-alt] 855db0bd-343e-454c-8432-9b8fe2a23541.unifi-hosting.stg.ui.com:8443
@@ -9013,6 +9039,7 @@
 [https-alt] 9fef623a-5e9b-4ec4-ad36-b459036e5ea0.unifi-hosting.ui.com:8443
 [https-alt] 9ff0dc78-c618-43f7-bc7e-d965b18d9a02.unifi-hosting.dev.ui.com:8443
 [https-alt] 9ffd0733-b4db-47b8-a8e3-0a9b355d1eb5.unifi-hosting.ui.com:8443
+[https-alt] a009daee-df3c-44ed-8cd3-1c496d3957f8.unifi-hosting.ui.com:8443
 [https-alt] a00a9f9f-1be9-4eee-942e-4537a6c9dc90.unifi-hosting.ui.com:8443
 [https-alt] a0128d71-2763-434d-beb9-abaabad843dc.unifi-hosting.ui.com:8443
 [https-alt] a0344906-ea18-4599-a577-fb5beda99ad6.unifi-hosting.ui.com:8443
@@ -9242,6 +9269,7 @@
 [https-alt] b749a839-e525-49dc-9785-65dd8dac7f82.unifi-hosting.ui.com:8443
 [https-alt] b77d1ce6-e9f5-448a-805e-976525110002.unifi-hosting.ui.com:8443
 [https-alt] b7917d59-0ab4-44e1-a31e-6a217e0d228e.unifi-hosting.ui.com:8443
+[https-alt] b79fd8c6-efad-4d1d-b9ee-6170cbcdd0ae.unifi-hosting.ui.com:8443
 [https-alt] b7f0b299-510c-4c43-8040-a247781c65f4.unifi-hosting.stg.ui.com:8443
 [https-alt] b803e8fc-e3b9-4bf4-89b1-7500b988e755.unifi-hosting.stg.ui.com:8443
 [https-alt] b82f8d40-a171-453b-9d32-80eea613bbfd.unifi-hosting.ui.com:8443
@@ -10183,6 +10211,7 @@
 [https] b749a839-e525-49dc-9785-65dd8dac7f82.unifi-hosting.ui.com:443
 [https] b77d1ce6-e9f5-448a-805e-976525110002.unifi-hosting.ui.com:443
 [https] b7917d59-0ab4-44e1-a31e-6a217e0d228e.unifi-hosting.ui.com:443
+[https] b79fd8c6-efad-4d1d-b9ee-6170cbcdd0ae.unifi-hosting.ui.com:443
 [https] b7f0b299-510c-4c43-8040-a247781c65f4.unifi-hosting.stg.ui.com:443
 [https] b803e8fc-e3b9-4bf4-89b1-7500b988e755.unifi-hosting.stg.ui.com:443
 [https] b82f8d40-a171-453b-9d32-80eea613bbfd.unifi-hosting.ui.com:443
@@ -11514,6 +11543,7 @@
 [infowave] aus.store.ui.com:2082
 [infowave] b41ee532-7cbd-408d-acb6-5dd18419e309.unifi-hosting.ui.com:2082
 [infowave] bf958955-0b01-4654-968e-d66cec6082aa.unifi-hosting.ui.com:2082
+[infowave] br.store.ui.com:2082
 [infowave] ca.store.ui.com:2082
 [infowave] cn.store.ui.com:2082
 [infowave] dff3dfa7-c6ee-4fca-b361-60bb1ae662be.unifi-hosting.ui.com:2082
@@ -11633,6 +11663,7 @@
 [knetd] 2c5525ec-1842-484a-a00c-138d70c4d139.unifi-hosting.ui.com:2053
 [knetd] 3e9e9e10-f85b-45e7-b258-36c702d1f09b.unifi-hosting.ui.com:2053
 [knetd] aus.store.ui.com:2053
+[knetd] br.store.ui.com:2053
 [knetd] ca.store.ui.com:2053
 [knetd] cn.store.ui.com:2053
 [knetd] d5dde065-cbd3-4267-90e6-0c305712efcf.unifi-hosting.stg.ui.com:2053
@@ -11802,6 +11833,7 @@
 [nbx-dir] aus.store.ui.com:2096
 [nbx-dir] b1ee8e1f-0dc7-4317-bfd6-8b292da421dc.unifi-hosting.ui.com:2096
 [nbx-dir] b37a8747-b292-473a-b159-97dc0ddf5449.unifi-hosting.ui.com:2096
+[nbx-dir] br.store.ui.com:2096
 [nbx-dir] ca.store.ui.com:2096
 [nbx-dir] cn.store.ui.com:2096
 [nbx-dir] e0959b00-6f3f-455f-afd3-5aaffca77fdc.unifi-hosting.ui.com:2096
@@ -11818,6 +11850,7 @@
 [nbx-ser] 76aaca13-9433-40cf-a663-d7ce2e9bdd0e.unifi-hosting.ui.com:2095
 [nbx-ser] aus.store.ui.com:2095
 [nbx-ser] b37a8747-b292-473a-b159-97dc0ddf5449.unifi-hosting.ui.com:2095
+[nbx-ser] br.store.ui.com:2095
 [nbx-ser] ca.store.ui.com:2095
 [nbx-ser] cn.store.ui.com:2095
 [nbx-ser] de98596f-a2ef-4fbb-855e-8cce4fe47324.unifi-hosting.ui.com:2095
@@ -12047,6 +12080,7 @@
 [radsec] b440bf48-55e8-4ad0-bc32-e0b7ea03cecd.unifi-hosting.ui.com:2083
 [radsec] b6c586d7-ba8f-4ecf-a791-ca0e0e66beb1.unifi-hosting.ui.com:2083
 [radsec] ba938184-b4af-48da-a51c-37f4254e4d00.unifi-hosting.ui.com:2083
+[radsec] br.store.ui.com:2083
 [radsec] c2f8074d-04b0-448c-804b-404590f13f03.unifi-hosting.ui.com:2083
 [radsec] c40970d3-e785-48d4-bcd0-cc0f8e74475f.unifi-hosting.dev.ui.com:2083
 [radsec] c603c6e6-03e8-40fe-a138-eb3c8b4f7afc.unifi-hosting.dev.ui.com:2083
@@ -12503,6 +12537,7 @@
 [sun-sr-https] b1ee8e1f-0dc7-4317-bfd6-8b292da421dc.unifi-hosting.ui.com:6443
 [sun-sr-https] b7f0b299-510c-4c43-8040-a247781c65f4.unifi-hosting.stg.ui.com:6443
 [sunwebadmin] 8da909c6-5152-4645-981a-7577d4ce3ef0.unifi-hosting.ui.com:8800
+[tor-orport] 09790353-434a-4e3d-841c-96e4940317fd.unifi-hosting.ui.com:9001
 [tor-orport] 178a469d-5b53-4116-a6f7-4d9b4813e3bb.unifi-hosting.ui.com:9001
 [tor-orport] 635da29d-cd8b-4c55-a9aa-ce602936c18d.unifi-hosting.ui.com:9001
 [tor-orport] 6459c954-ecef-4d0e-9d36-82e182b6c1f8.unifi-hosting.stg.ui.com:9001
@@ -12535,6 +12570,7 @@
 [unknown] 4add46fa-474c-4750-8fce-48ef3964cd20.unifi-hosting.ui.com:8843
 [unknown] 4b2095ad-47e0-4046-a758-a03dc45218ad.unifi-hosting.ui.com:8291
 [unknown] 4ddf5e87-3441-4f56-b0dc-3ebc62c896f7.unifi-hosting.ui.com:8843
+[unknown] 5a06b042-527a-4638-9fb4-9cc86b70d4ad.unifi-hosting.ui.com:8843
 [unknown] 5d59cdd3-3c22-4eda-b579-bcc20930ab5e.unifi-hosting.ui.com:8843
 [unknown] 5df3c494-79f0-4d39-9ce3-5c5bb3286f2f.unifi-hosting.stg.ui.com:8843
 [unknown] 63078e0f-691f-4474-83fa-f50794074cd5.unifi-hosting.ui.com:8843
@@ -12553,6 +12589,7 @@
 [unknown] 9a7ad299-e696-4943-9c8a-61011eda3626.unifi-hosting.ui.com:8843
 [unknown] 9e954ef0-cf0d-409f-9fde-a7343231a0e6.unifi-hosting.ui.com:8843
 [unknown] 9f1982f3-bdba-451e-b0fd-fbf4c1a03c80.unifi-hosting.ui.com:8843
+[unknown] a009daee-df3c-44ed-8cd3-1c496d3957f8.unifi-hosting.ui.com:8843
 [unknown] b163e16f-f0f2-4396-88c9-0a29d1d478e3.unifi-hosting.ui.com:8843
 [unknown] b1ee8e1f-0dc7-4317-bfd6-8b292da421dc.unifi-hosting.ui.com:10243
 [unknown] b1ee8e1f-0dc7-4317-bfd6-8b292da421dc.unifi-hosting.ui.com:27015
