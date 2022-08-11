@@ -202,6 +202,7 @@
 [jetdirect] atlantis.k8s.opensea.io:9100
 [jetdirect] dev-storage.opensea.io:9100
 [jetdirect] www.atlantis.k8s.opensea.io:9100
+[knetd] opensea.io:2053
 [memcache] atlantis.k8s.opensea.io:11211
 [memcache] dev-storage.opensea.io:11211
 [memcache] www.atlantis.k8s.opensea.io:11211

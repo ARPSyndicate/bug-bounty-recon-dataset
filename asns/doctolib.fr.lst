@@ -185,7 +185,7 @@ rs-sftp-origin.doctolib.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.224.0/20
 rs-staging.doctolib.fr AS13335 AS13335 - CLOUDFLARE, INC. US 172.65.208.0/20
 search-logs.doctolib.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.224.0/20
 status.doctolib.fr AS16509 AS16509 - AMAZON.COM, INC. US 18.246.0.0/16
-status-staging.doctolib.fr AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+status-staging.doctolib.fr AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
 test-assets-staging.doctolib.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.224.0/20
 toolbox-dev-aws-de-fra-1.doctolib.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.224.0/20
 toolbox-dev-aws-fr-par-1.doctolib.fr AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.224.0/20

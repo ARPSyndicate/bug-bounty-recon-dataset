@@ -5,7 +5,7 @@ adtester.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 advertisers.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 188.65.120.0/21
 airflow.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 airflow.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
-airflow.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+airflow.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.16.0/20
 am-01.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-01.ix7.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
 am-02.dc3.dailymotion.com AS41690 AS41690 - DAILYMOTION S.A. FR 195.8.214.0/23
@@ -29,7 +29,7 @@ data-analytics-ssl.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC U
 data-analytics-ssl.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
 data-iab-interface.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-iab-interface.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
-data-iab-interface.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15
+data-iab-interface.data-kub.stage.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.16.0/20
 data-mlflow.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-tagme-rest-api.data-kub.dev.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 146.148.96.0/20
 data-tagme-rest-api.data-kub.gcp.dailymotion.com AS396982 AS396982 - GOOGLE LLC US 34.70.0.0/15

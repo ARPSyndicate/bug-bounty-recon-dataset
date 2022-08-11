@@ -2826,6 +2826,7 @@ aegis-selfserve-po-1s.slb.comcast.com
 aegis-selfserves.cable.comcast.com
 aegisshapes.cable.comcast.com
 aegisshapesd.cable.comcast.com
+aegis-sword.cable.comcast.com
 aegis-sword-stg.cable.comcast.com
 aeiselk-po-1p.slb.comcast.com
 aemsdaden-wc-1p.cable.comcast.com
@@ -6640,6 +6641,7 @@ cbrscim-wc-a1p.cable.comcast.com
 cbrsql-as-1p.cable.comcast.com
 cbrsql-ho-1d.cable.comcast.com
 cbrvlt-as-01d.cable.comcast.com
+cbrvltx-as-01p.cable.comcast.com
 cbrvltx-as-02d.cable.comcast.com
 cbrvltx-ch2-01d.cable.comcast.com
 cbrvltx-ch2-02d.cable.comcast.com
@@ -10601,6 +10603,9 @@ confweb-as-01p.cable.comcast.com
 confweb-ho-01p.cable.comcast.com
 connect.comcast.com
 connect-dev-auth.comcast.com
+connectivity2-gateway.np.api-business.comcast.com
+connectivity2.np.api-business.comcast.com
+connectivity2.np.digital.business.comcast.com
 connectivity.api-business.comcast.com
 connectivitycheck.comcast.com
 connectivity.digital.business.comcast.com
@@ -34925,6 +34930,9 @@ orchestration.kaleidoscopetest.comcast.com
 or.chub-product-content-stg-va.np.digital.business.comcast.com
 orchwebcon.cable.comcast.com
 orchwebsvc.cable.comcast.com
+or.connectivity2-gateway.np.api-business.comcast.com
+or.connectivity2.np.api-business.comcast.com
+or.connectivity2.np.digital.business.comcast.com
 or.connectivity.api-business.comcast.com
 or.connectivity.digital.business.comcast.com
 or.connectivity-gateway.api-business.comcast.com
@@ -45072,6 +45080,7 @@ stagetlc.cable.comcast.com
 stage.tube.autobahn.comcast.com
 stage-user-comcastcom.cable.comcast.com
 stage-xcomm.cable.comcast.com
+staging-api-edp.cable.comcast.com
 staging-api.mercury.comcast.com
 staging.api-tp-cs.comcast.com
 staging-app0.tube.comcast.com
@@ -49475,6 +49484,9 @@ va.cbm-shared-static-dev.np.digital.business.comcast.com
 va.cbm-shared-static-stg.np.digital.business.comcast.com
 va.chub-product-content-pqa.np.digital.business.comcast.com
 va.chub-product-content-prod-va.digital.business.comcast.com
+va.connectivity2-gateway.np.api-business.comcast.com
+va.connectivity2.np.api-business.comcast.com
+va.connectivity2.np.digital.business.comcast.com
 va.connectivity.api-business.comcast.com
 va.connectivity.digital.business.comcast.com
 va.connectivity-gateway.api-business.comcast.com

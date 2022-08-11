@@ -1117,6 +1117,7 @@
 [http] ckgkapoentje.be.apache51.cloud.telenet.be:80
 [http] clients.centrex.telenet.be:80
 [http] clients.int.centrex.telenet.be:80
+[http] cloudfront-app.cloud-infra-dev.awscloud.external.telenet.be:80
 [http] cloudmedia.telenet.be:80
 [http] cloud.telenet.be:80
 [http] collidor.be.apache51.cloud.telenet.be:80
@@ -1805,6 +1806,7 @@
 [https] ckgkapoentje.be.apache51.cloud.telenet.be:443
 [https] clients.centrex.telenet.be:443
 [https] clients.int.centrex.telenet.be:443
+[https] cloudfront-app.cloud-infra-dev.awscloud.external.telenet.be:443
 [https] cloudmedia.telenet.be:443
 [https] collidor.be.apache51.cloud.telenet.be:443
 [https] comm-custom.int.telenet.be:443

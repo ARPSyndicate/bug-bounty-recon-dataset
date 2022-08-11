@@ -485,6 +485,7 @@
 [http] nervos-hetzner-02.ankr.com:80
 [http] nervos-hetzner-03.ankr.com:80
 [http] netbox.ankr.com:80
+[http] netbox.devops-k8s.ankr.com:80
 [http] new-jersey-inap-72-251-230-238.ankr.com:80
 [http] new-jersey-inap-72-251-231-68.ankr.com:80
 [http] new-jersey-inap-72-251-231-69.ankr.com:80
@@ -896,6 +897,7 @@
 [https] nervos-hetzner-03.ankr.com:443
 [https] nervos-hetzner-04.ankr.com:443
 [https] netbox.ankr.com:443
+[https] netbox.devops-k8s.ankr.com:443
 [https] new-jersey-inap-72-251-230-238.ankr.com:443
 [https] new-jersey-inap-72-251-231-68.ankr.com:443
 [https] new-jersey-inap-72-251-231-69.ankr.com:443
@@ -1533,6 +1535,7 @@
 [ssh] nervos-newyork-01.ankr.com:22
 [ssh] nervos-newyork-02.ankr.com:22
 [ssh] netbox.ankr.com:22
+[ssh] netbox.devops-k8s.ankr.com:22
 [ssh] new-jersey-inap-72-251-230-238.ankr.com:22
 [ssh] new-jersey-inap-72-251-231-68.ankr.com:22
 [ssh] new-jersey-inap-72-251-231-69.ankr.com:22

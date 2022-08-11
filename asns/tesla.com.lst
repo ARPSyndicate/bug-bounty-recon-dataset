@@ -1,5 +1,6 @@
 akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.99.48.0/22
 click.emails.tesla.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+digitalassets-accounts.tesla.com AS54113 AS54113 - FASTLY, INC. US 199.232.36.0/22
 digitalassets-shop.tesla.com AS54113 AS54113 - FASTLY US 199.232.36.0/22
 digitalassets.tesla.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.66.114.0/23
 events.tesla.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16

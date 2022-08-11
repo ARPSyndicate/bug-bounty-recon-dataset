@@ -36,7 +36,7 @@ https://events.test-aws.staging.skybet.com [403] [GET] [text/html] [Access Denie
 https://events.test-aws.staging.skybet.com [403] [GET] [text/html] [Access Denied] [(REDACTED)] [vhost] [ad15892a4524dc85b002638d0b7b581f]
 https://events.test-aws.test4.skybet.com [403] [GET] [text/html] [Access Denied] [(REDACTED)] [vhost] [a5e2169d54d06fb7268cedb7f1fb5cb2]
 https://events.test-aws.test4.skybet.com [403] [GET] [text/html] [Access Denied] [(REDACTED)] [vhost] [f0c7eef8855f778bbe5754bdd7b858d2]
-https://f.email1.skybet.com [200] [GET] [text/html] [ny5pimg02 OK] [nginx] [vhost] [Nginx] [0e7f4aa5119e8b021c1e4b169f255907]
+https://f.email1.skybet.com [200] [GET] [text/html] [ny5pimg04 OK] [nginx] [vhost] [Nginx] [2dd22497418a8f7b22f69b94a0342390]
 https://inttst-football-api.awsdev.feeds.skybet.com [403] [GET] [application/json] [] [] [vhost] [905b1fbb26e082557ff0b3b3553cda6c]
 https://ios.bannercheck-api.skybet.com [403] [GET] [text/html] [Access Denied] [] [vhost] [62d52e1f739f99f6126f725c11559dbe]
 https://ios.bannercheck-api.skybet.com [403] [GET] [text/html] [Access Denied] [] [vhost] [9bdfa14b5a7882214c98ea9c9874d79e]

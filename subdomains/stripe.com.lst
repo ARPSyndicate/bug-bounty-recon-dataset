@@ -273,6 +273,7 @@ portal.stripe.com
 preprod-checkout.stripe.com
 preprod-cmh.corp.stripe.com
 preprod.corp.stripe.com
+preprod-crypto-js.stripe.com
 preprod-invoice.stripe.com
 preprod-js.stripe.com
 preprod-pdx.corp.stripe.com
@@ -293,6 +294,7 @@ qa-checkout.stripe.com
 qa-cmh.corp.stripe.com
 qa-connect-js.stripe.com
 qa.corp.stripe.com
+qa-crypto-js.stripe.com
 qa-dub.corp.stripe.com
 qa-east.corp.stripe.com
 qa-invoice.stripe.com

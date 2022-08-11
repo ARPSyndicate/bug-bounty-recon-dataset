@@ -42,10 +42,8 @@ strategy.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 streamon.spotify.net AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
 tableau-dashboards.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
 tableau-dev.spotify.net AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
-thebandrehearsal.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.34.0/24
 thebandrehearsal.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
 thebandreunion.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
 uploadads.spotify.net AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
 www.brand.spotify.net AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.premium-brand.spotify.net AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
-www.thebandrehearsal.spotify.net AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15

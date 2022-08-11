@@ -16,6 +16,10 @@ http://geoip.moonwell.fi
 http://geoip.moonwell.fi:2082
 http://geoip.moonwell.fi:2086
 http://geoip.moonwell.fi:8880
+http://gov.moonwell.fi
+http://gov.moonwell.fi:8082
+http://gov.moonwell.fi:8084
+http://gov.moonwell.fi:8085
 http://moonwell.fi
 http://moonwell.fi:2082
 http://moonwell.fi:2086
@@ -42,6 +46,8 @@ https://geoip.moonwell.fi
 https://geoip.moonwell.fi:2087
 https://geoip.moonwell.fi:2096
 https://geoip.moonwell.fi:8443
+https://gov.moonwell.fi
+https://gov.moonwell.fi:1935
 http://shop.moonwell.fi
 http://shop.moonwell.fi:2052
 http://shop.moonwell.fi:2082

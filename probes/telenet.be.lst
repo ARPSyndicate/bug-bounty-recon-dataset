@@ -441,6 +441,7 @@ https://ckgkapoentje.be.apache51.cloud.telenet.be [200] [GET] [text/html] [CKG K
 https://ckgkapoentje.be.apache51.cloud.telenet.be [200] [GET] [text/html] [CKG Kapoentje] [nginx] [vhost] [Font Awesome,Google Font API,MySQL,Nginx,PHP,WordPress:5.4.1] [37b283bd22d5d8466b387b91f5e052b7]
 https://clients.centrex.telenet.be [404] [GET] [text/html] [HTTP Status 404 – Not Found] [HTTP Server] [vhost] [875927332f52c86065894ba05cabb6c4]
 https://clients.int.centrex.telenet.be [404] [GET] [text/html] [HTTP Status 404 – Not Found] [HTTP Server] [vhost] [875927332f52c86065894ba05cabb6c4]
+https://cloudfront-app.cloud-infra-dev.awscloud.external.telenet.be [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d28ed51f57880dc2a2f1326f09a7010d]
 https://cloudmedia.telenet.be [200] [GET] [text/html] [Index] [Microsoft-IIS/8.0] [vhost] [IIS:8.0,Microsoft ASP.NET,Windows Server] [85d2498db511caac0c3cfb3346d80979]
 https://collidor.be.apache51.cloud.telenet.be [301] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://comm-custom.prd.telenet.be [200] [GET] [text/html] [] [] [8a76336e4c527b44d3c7caba52dc3f8e]

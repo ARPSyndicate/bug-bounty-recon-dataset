@@ -26,6 +26,7 @@
 [http] blockwallet.io:80
 [http] bsc-node.blockwallet.io:80
 [http] fantom-node.blockwallet.io:80
+[http] feedback.blockwallet.io:80
 [http] goerli-node.blockwallet.io:80
 [http] goerli-relayer.blockwallet.io:80
 [http] help.blockwallet.io:80
@@ -42,6 +43,7 @@
 [https] arbitrum-node.blockwallet.io:443
 [https] avax-node.blockwallet.io:443
 [https] blockwallet.io:443
+[https] feedback.blockwallet.io:443
 [https] goerli-node.blockwallet.io:443
 [https] help.blockwallet.io:443
 [https] optimism-node.blockwallet.io:443

@@ -15,6 +15,7 @@
 [http] autodiscover.tiktok.com:80
 [http] business-sso.tiktok.com:80
 [http] business.tiktok.com:80
+[http] business-tips.tiktok.com:80
 [http] business-useast2a.tiktok.com:80
 [http] careers.tiktok.com:80
 [http] carrierflow-sg.tiktok.com:80
@@ -74,6 +75,7 @@
 [https] artist.tiktok.com:443
 [https] business-sso.tiktok.com:443
 [https] business.tiktok.com:443
+[https] business-tips.tiktok.com:443
 [https] business-useast2a.tiktok.com:443
 [https] careers.tiktok.com:443
 [https] carrierflow-sg.tiktok.com:443

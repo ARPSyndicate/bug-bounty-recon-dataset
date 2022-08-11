@@ -1,4 +1,5 @@
 http://analytics.lululemon.com
+http://api-creator.lululemon.com
 http://api.lululemon.com
 http://apis-dev-np.lululemon.com
 http://apis.lululemon.com
@@ -20,6 +21,7 @@ http://click.e.lululemon.com
 http://click.info.lululemon.com
 http://cl.info.lululemon.com
 http://cloud.e.lululemon.com
+http://creator.lululemon.com
 http://developers-dev.lululemon.com
 http://developers-dev.lululemon.com:8080
 http://developers.lululemon.com
@@ -69,6 +71,7 @@ http://likenew.lululemon.com
 http://likenew-staging.lululemon.com
 http://links.em.lululemon.com
 http://lllandme.preprod.lululemon.com
+http://login.creators.lululemon.com
 http://lyncdiscover.lululemon.com
 http://media.lululemon.com
 http://metrics.lululemon.com
@@ -531,10 +534,12 @@ http://qa-info.eu.lululemon.com
 http://qa-info.lululemon.com
 http://qa-plm.lululemon.com
 http://qa-pnimages.lululemon.com
+http://report.creators.lululemon.com
 http://reportfort.lululemon.com
 https://analytics.lululemon.com
 http://sandbox-dev.preprod-apis.lululemon.com
 http://sandbox.preprod-apis.lululemon.com
+https://api-creator.lululemon.com
 https://api.lululemon.com
 https://apis.lululemon.com
 https://apps-youlu.lululemon.com
@@ -547,6 +552,7 @@ https://cdn-contentful.lululemon.com
 https://cdn.lululemon.com
 https://click.e.lululemon.com
 https://cloud.e.lululemon.com
+https://creator.lululemon.com
 https://developers-dev.lululemon.com
 https://developers.lululemon.com
 https://dev-iexpense.lululemon.com
@@ -597,6 +603,7 @@ https://likenew.lululemon.com
 https://likenew-staging.lululemon.com
 https://links.em.lululemon.com
 https://lllandme.preprod.lululemon.com
+https://login.creators.lululemon.com
 https://login.lululemon.com
 https://lululemon.com
 https://lyncdiscover.lululemon.com
@@ -1066,6 +1073,7 @@ https://qa-info.lululemon.com
 https://qa-plm.lululemon.com
 https://qa-pnimages.lululemon.com
 https://remote.lululemon.com
+https://report.creators.lululemon.com
 https://sandbox-dev.preprod-apis.lululemon.com
 https://sandbox.preprod-apis.lululemon.com
 https://secure.lululemon.com
@@ -1099,6 +1107,7 @@ https://stg-api.lululemon.com
 https://stg-iexpense.lululemon.com
 https://stg-plm.lululemon.com
 https://strategicsales.lululemon.com
+https://summary.creators.lululemon.com
 https://sustainability.eu.lululemon.com
 https://sustainability.lululemon.com
 http://stage62-info.eu.lululemon.com
@@ -1131,6 +1140,7 @@ http://stg-plm.lululemon.com
 https://thesweatlife.lululemon.com
 https://tradestone.lululemon.com
 http://strategicsales.lululemon.com
+http://summary.creators.lululemon.com
 http://sustainability.eu.lululemon.com
 http://sustainability.lululemon.com
 https://view.e.lululemon.com

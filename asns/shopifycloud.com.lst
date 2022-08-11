@@ -65,6 +65,7 @@ antoniam-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 anya-katesql-playground.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
 apache-atlas-es.secure-elasticsearch.shopify-data-atlas-production-unrestricted-qf2l.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.122.0.0/15
 api.app-storage-prototype.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
+api-staging.creators.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 apostolis-1-test.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 apostolis-2-test.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.0.0/15
 apostolis-2test.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
@@ -603,6 +604,7 @@ domain-suggestion-api-staging.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 3
 domain-suggestion-api-two.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
 domain-suggestion-api-two-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 doug-test.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.240.0/20
+dovetale-api-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 downrigger.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.112.0/20
 drill-ca.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.112.0/20
 drill-cdc.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.138.224.0/20
@@ -742,6 +744,7 @@ es-staging.secure-elasticsearch.es7-staging.shopifycloud.com AS396982 AS396982 -
 estuary.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.220.0.0/14
 ethan-aubuchon-test-app.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
 ethan-aubuchon-test-app-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
+ethans-awesome-go-test-app.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.144.0/20
 ethans-awesome-go-test-app-staging.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.192.0.0/14
 ethan-test-app.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 event-router.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
@@ -1044,7 +1047,7 @@ jr-test-app.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 jungle-gym.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.112.0/20
 justins-react-app.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 k3yvd.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.122.0.0/15
-kafkanet.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.208.0/20
+kafkanet.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 kafkanet-ui-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
 kafka-scrubber-canada.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.48.0/20
 kafka-scrubber-loadtester.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
@@ -1089,7 +1092,7 @@ lia.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.72.0.0/14
 lightdash-exp.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 lighthouse-ruby.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 104.198.224.0/19
 lighthouse-ruby-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
-linkpop.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.227.64.0/20
+linkpop.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.128.0/20
 linkpop-staging-1dg7.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 linkpop-staging-2.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 linkpop-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
@@ -1147,7 +1150,8 @@ marketplace-platform.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.11
 marketplace-platform-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 marketplace-webhook-test.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.208.0/20
 marytest.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
-mason-apps-east.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
+mason-apps-east.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.128.0/20
+mason-backup.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.160.0/20
 mason.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.237.0.0/16
 mason-staging.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 mauro-test-jobs.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
@@ -1321,7 +1325,7 @@ operator.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 104.198.224.0/19
 opf-tool.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.144.0/20
 opf-tool-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 opw2r.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.224.0/20
-orchestrator-apps-east.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
+orchestrator-apps-east.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.128.0/20
 orchestrator-canada.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.152.0.0/16
 orchestrator-canada.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.152.32.0/20
 orchestrator-central.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.176.0/20
@@ -1389,6 +1393,7 @@ pepto-table-service.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160
 pepto-table-service-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 pexkf.kibana.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 phoney.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
+pierre-online-inference.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.240.0/20
 ping-api-echo-staging.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 ping-api.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.139.224.0/20
 ping-api-staging.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
@@ -1538,7 +1543,7 @@ robharper-test-marketplace.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.6
 roger-tier4-2test.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 rohan-fluffy-go.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 routing-api.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.227.64.0/20
-routing-foundations-misc.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+routing-foundations-misc.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 routing-gameday-wbean.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.138.144.0/20
 rrethy-test.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.208.0/20
 runtime-compiler.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
@@ -2080,6 +2085,7 @@ watchtower.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
 web-canada.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.152.0.0/16
 web-canada.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.200.0.0/14
 web-feature-quality-checklist.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.0.0/15
+webhook-metrics-elastic.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.128.0/20
 webhook-metrics.es-kpvnz.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 webhook-metrics.secure-elasticsearch.partners-production.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 webhook-receiver2.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.112.0/20

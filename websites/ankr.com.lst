@@ -416,6 +416,7 @@ http://nervos-hetzner-04.ankr.com:8081
 http://netbox.ankr.com
 http://netbox.ankr.com:8000
 http://netbox.ankr.com:9090
+http://netbox.devops-k8s.ankr.com
 http://new-jersey-inap-72-251-230-238.ankr.com
 http://new-jersey-inap-72-251-230-238.ankr.com:8081
 http://new-jersey-inap-72-251-231-68.ankr.com
@@ -869,6 +870,7 @@ https://nervos-hetzner-02.ankr.com
 https://nervos-hetzner-03.ankr.com
 https://nervos-hetzner-04.ankr.com
 https://netbox.ankr.com
+https://netbox.devops-k8s.ankr.com
 https://new-jersey-inap-72-251-230-238.ankr.com
 https://new-jersey-inap-72-251-231-68.ankr.com
 https://new-jersey-inap-72-251-231-69.ankr.com

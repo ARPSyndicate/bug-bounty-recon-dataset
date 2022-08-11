@@ -32,6 +32,7 @@ https://live.fanduel.com [200] [GET] [text/html] [FanDuel Live! Virtual Event] [
 https://mails.ab.fanduel.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [7256283f6a9c7dc0a15d0bbfdac3466a]
 https://making.fanduel.com [302] [GET] [text/html] [302 Found] [nginx] [Nginx] [cfbeaf604823f038b8b46f0ac862b98c]
 https://media.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [a215170cd94cf24a11eafe000472f1cf]
+https://mi.fanduel.com [200] [GET] [] [Movable Ink Domain] [] [vhost] [da4d9472bd8768d5646f9f431a4be082]
 https://modules.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [caadc668723a9aae121a0aeee8a28f45]
 https://mtrk.fanduel.com [302] [GET] [text/html] [] [nginx/1.12.2] [Nginx,PHP] [d41d8cd98f00b204e9800998ecf8427e]
 https://neuro1yaccount-cdn.assets.fanduel.com [403] [GET] [application/xml] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d633647c4b232367c30a532b3cb99c4c]

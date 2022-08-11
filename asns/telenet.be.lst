@@ -196,6 +196,7 @@ cinema.telenet.be AS1239 AS1239 - SPRINT US 80.66.128.0/20
 ckgkapoentje.be.apache51.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.199.0/24
 clients.centrex.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
 clients.int.centrex.telenet.be AS6848 AS6848 - TELENET BVBA BE 195.162.192.0/19
+cloudfront-app.cloud-infra-dev.awscloud.external.telenet.be AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
 cloudmedia.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.196.0/24
 cloud.telenet.be AS6848 AS6848 - TELENET BVBA BE 212.123.0.0/19
 collidor.be.apache51.cloud.telenet.be AS42018 AS42018 - TELENET BVBA BE 85.255.199.0/24

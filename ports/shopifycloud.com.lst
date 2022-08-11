@@ -214,6 +214,7 @@
 [http] apache-atlas-es.secure-elasticsearch.shopify-data-atlas-production-unrestricted-qf2l.shopifycloud.com:80
 [http] api.app-storage-prototype.shopifycloud.com:80
 [http] apidocs-gcs.shopifycloud.com:80
+[http] api-staging.creators.shopifycloud.com:80
 [http] api.thehive.shopifycloud.com:80
 [http] api.thehive-staging.shopifycloud.com:80
 [http] api.tintin.shopifycloud.com:80
@@ -1077,6 +1078,7 @@
 [http] domain-suggestion-api-two-staging.shopifycloud.com:80
 [http] dom-polaris-sandbox.shopifycloud.com:80
 [http] doug-test.shopifycloud.com:80
+[http] dovetale-api-staging.shopifycloud.com:80
 [http] downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com:80
 [http] downrigger.shopifycloud.com:80
 [http] drill-ca.shopifycloud.com:80
@@ -1267,6 +1269,7 @@
 [http] estuary.shopifycloud.com:80
 [http] ethan-aubuchon-test-app.shopifycloud.com:80
 [http] ethan-aubuchon-test-app-staging.shopifycloud.com:80
+[http] ethans-awesome-go-test-app.shopifycloud.com:80
 [http] ethans-awesome-go-test-app-staging.shopifycloud.com:80
 [http] ethan-test-app.shopifycloud.com:80
 [http] etienne-test-app.shopifycloud.com:80
@@ -1931,6 +1934,7 @@
 [http] marketplace-webhook-test.shopifycloud.com:80
 [http] marytest.shopifycloud.com:80
 [http] mason-apps-east.shopifycloud.com:80
+[http] mason-backup.shopifycloud.com:80
 [http] mason.shopifycloud.com:80
 [http] mason-staging.shopifycloud.com:80
 [http] mauro-test-jobs.shopifycloud.com:80
@@ -2341,6 +2345,7 @@
 [http] phoenix-corridor-production-unres-yoyjlrso-apps-b-us-central1-8.shopifycloud.com:80
 [http] phoenix-corridor.shopifycloud.com:80
 [http] phoney.shopifycloud.com:80
+[http] pierre-online-inference.shopifycloud.com:80
 [http] ping-api-echo-staging.shopifycloud.com:80
 [http] ping-api-echo-staging-web-apps-b-us-east1-10.shopifycloud.com:80
 [http] ping-api-production-web-apps-a-us-east1-6.shopifycloud.com:80
@@ -2752,6 +2757,7 @@
 [https] apache-atlas-es.secure-elasticsearch.shopify-data-atlas-production-unrestricted-qf2l.shopifycloud.com:443
 [https] api.app-storage-prototype.shopifycloud.com:443
 [https] apidocs-gcs.shopifycloud.com:443
+[https] api-staging.creators.shopifycloud.com:443
 [https] api.thehive.shopifycloud.com:443
 [https] api.thehive-staging.shopifycloud.com:443
 [https] api.tintin.shopifycloud.com:443
@@ -3655,6 +3661,7 @@
 [https] domain-suggestion-api-two-staging.shopifycloud.com:443
 [https] dom-polaris-sandbox.shopifycloud.com:443
 [https] doug-test.shopifycloud.com:443
+[https] dovetale-api-staging.shopifycloud.com:443
 [https] downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com:443
 [https] downrigger.shopifycloud.com:443
 [https] drill-ca.shopifycloud.com:443
@@ -3869,6 +3876,7 @@
 [https] estuary.shopifycloud.com:443
 [https] ethan-aubuchon-test-app.shopifycloud.com:443
 [https] ethan-aubuchon-test-app-staging.shopifycloud.com:443
+[https] ethans-awesome-go-test-app.shopifycloud.com:443
 [https] ethans-awesome-go-test-app-staging.shopifycloud.com:443
 [https] ethan-test-app.shopifycloud.com:443
 [https] etienne-test-app.shopifycloud.com:443
@@ -4847,6 +4855,7 @@
 [https] marketplace-webhook-test.shopifycloud.com:443
 [http] smarty-client.shopifycloud.com:80
 [https] mason-apps-east.shopifycloud.com:443
+[https] mason-backup.shopifycloud.com:443
 [https] mason.shopifycloud.com:443
 [https] mason-staging.shopifycloud.com:443
 [https] mauro-test-jobs.shopifycloud.com:443
@@ -5274,6 +5283,7 @@
 [https] phoenix-corridor-production-unres-yoyjlrso-apps-b-us-central1-8.shopifycloud.com:443
 [https] phoenix-corridor.shopifycloud.com:443
 [https] phoney.shopifycloud.com:443
+[https] pierre-online-inference.shopifycloud.com:443
 [https] ping-api-echo-staging.shopifycloud.com:443
 [https] ping-api-echo-staging-web-apps-b-us-east1-10.shopifycloud.com:443
 [https] ping-api-production-web-apps-a-us-east1-6.shopifycloud.com:443
@@ -6536,6 +6546,7 @@
 [https] web-feature-quality-checklist-pro-wo5s2qc4-apps-b-us-central1-8.shopifycloud.com:443
 [https] web-feature-quality-checklist.shopifycloud.com:443
 [https] web.global.merlin.shopifycloud.com:443
+[https] webhook-metrics-elastic.shopifycloud.com:443
 [https] webhook-metrics.es-kpvnz.shopifycloud.com:443
 [https] webhook-metrics.kibana.i0.production-unrestricted.partners.shopifycloud.com:443
 [https] webhook-metrics.secure-elasticsearch.partners-production.shopifycloud.com:443
@@ -6878,6 +6889,7 @@
 [http] web-feature-quality-checklist-pro-wo5s2qc4-apps-b-us-central1-8.shopifycloud.com:80
 [http] web-feature-quality-checklist.shopifycloud.com:80
 [http] web.global.merlin.shopifycloud.com:80
+[http] webhook-metrics-elastic.shopifycloud.com:80
 [http] webhook-metrics.es-kpvnz.shopifycloud.com:80
 [http] webhook-metrics.kibana.i0.production-unrestricted.partners.shopifycloud.com:80
 [http] webhook-metrics.secure-elasticsearch.partners-production.shopifycloud.com:80

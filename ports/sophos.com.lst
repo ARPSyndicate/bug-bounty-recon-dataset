@@ -960,6 +960,7 @@
 [https] de.sandbox.sophos.com:443
 [https] de.secure.sophos.com:443
 [https] de.sophos.com:443
+[https] dev1.test.analysis.sophos.com:443
 [https] dev3.hmr.sophos.com:443
 [https] devapi.cloudstation.eu-west-1.inf.hydra.sophos.com:443
 [https] dev-api.labs.sophos.com:443

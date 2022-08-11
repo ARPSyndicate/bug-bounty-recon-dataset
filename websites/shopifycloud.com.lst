@@ -82,6 +82,7 @@ http://apache-atlas-es.kibana.i0.production-unrestricted-qf2l.shopify-data-atlas
 http://apache-atlas-es.secure-elasticsearch.shopify-data-atlas-production-unrestricted-qf2l.shopifycloud.com
 http://api.app-storage-prototype.shopifycloud.com
 http://apidocs-gcs.shopifycloud.com
+http://api-staging.creators.shopifycloud.com
 http://api.thehive.shopifycloud.com
 http://api.thehive-staging.shopifycloud.com
 http://api.tintin.shopifycloud.com
@@ -941,6 +942,7 @@ http://domain-suggestion-api-two.shopifycloud.com
 http://domain-suggestion-api-two-staging.shopifycloud.com
 http://dom-polaris-sandbox.shopifycloud.com
 http://doug-test.shopifycloud.com
+http://dovetale-api-staging.shopifycloud.com
 http://downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com
 http://downrigger.shopifycloud.com
 http://drill-ca.shopifycloud.com
@@ -1126,6 +1128,7 @@ http://estuary-production-unrestricted-web-public-apps-a-us-central1-8.shopifycl
 http://estuary.shopifycloud.com
 http://ethan-aubuchon-test-app.shopifycloud.com
 http://ethan-aubuchon-test-app-staging.shopifycloud.com
+http://ethans-awesome-go-test-app.shopifycloud.com
 http://ethans-awesome-go-test-app-staging.shopifycloud.com
 http://ethan-test-app.shopifycloud.com
 http://etienne-test-app.shopifycloud.com
@@ -1790,6 +1793,7 @@ http://marketplace-platform.shopifycloud.com
 http://marketplace-platform-staging.shopifycloud.com
 http://marketplace-webhook-test.shopifycloud.com
 http://mason-apps-east.shopifycloud.com
+http://mason-backup.shopifycloud.com
 http://mason.shopifycloud.com
 http://mason-staging.shopifycloud.com
 http://mauro-test-jobs.shopifycloud.com
@@ -2198,6 +2202,7 @@ http://pexkf.kibana.shopifycloud.com
 http://phoenix-corridor-production-unres-yoyjlrso-apps-b-us-central1-8.shopifycloud.com
 http://phoenix-corridor.shopifycloud.com
 http://phoney.shopifycloud.com
+http://pierre-online-inference.shopifycloud.com
 http://ping-api-echo-staging.shopifycloud.com
 http://ping-api-echo-staging-web-apps-b-us-east1-10.shopifycloud.com
 http://ping-api-production-web-apps-a-us-east1-6.shopifycloud.com
@@ -2596,6 +2601,7 @@ https://apache-atlas-es.kibana.i0.production-unrestricted-qf2l.shopify-data-atla
 https://apache-atlas-es.secure-elasticsearch.shopify-data-atlas-production-unrestricted-qf2l.shopifycloud.com
 https://api.app-storage-prototype.shopifycloud.com
 https://apidocs-gcs.shopifycloud.com
+https://api-staging.creators.shopifycloud.com
 https://api.thehive.shopifycloud.com
 https://api.thehive-staging.shopifycloud.com
 https://api.tintin.shopifycloud.com
@@ -3493,6 +3499,7 @@ https://domain-suggestion-api-two.shopifycloud.com
 https://domain-suggestion-api-two-staging.shopifycloud.com
 https://dom-polaris-sandbox.shopifycloud.com
 https://doug-test.shopifycloud.com
+https://dovetale-api-staging.shopifycloud.com
 https://downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com
 https://downrigger.shopifycloud.com
 https://drill-ca.shopifycloud.com
@@ -3702,6 +3709,7 @@ https://estuary-production-unrestricted-web-public-apps-a-us-central1-8.shopifyc
 https://estuary.shopifycloud.com
 https://ethan-aubuchon-test-app.shopifycloud.com
 https://ethan-aubuchon-test-app-staging.shopifycloud.com
+https://ethans-awesome-go-test-app.shopifycloud.com
 https://ethans-awesome-go-test-app-staging.shopifycloud.com
 https://ethan-test-app.shopifycloud.com
 https://etienne-test-app.shopifycloud.com
@@ -4678,6 +4686,7 @@ https://marketplace-platform-staging.shopifycloud.com
 https://marketplace-webhook-test.shopifycloud.com
 http://smarty-client.shopifycloud.com
 https://mason-apps-east.shopifycloud.com
+https://mason-backup.shopifycloud.com
 https://mason.shopifycloud.com
 https://mason-staging.shopifycloud.com
 https://mauro-test-jobs.shopifycloud.com
@@ -5104,6 +5113,7 @@ https://pexkf.kibana.shopifycloud.com
 https://phoenix-corridor-production-unres-yoyjlrso-apps-b-us-central1-8.shopifycloud.com
 https://phoenix-corridor.shopifycloud.com
 https://phoney.shopifycloud.com
+https://pierre-online-inference.shopifycloud.com
 https://ping-api-echo-staging.shopifycloud.com
 https://ping-api-echo-staging-web-apps-b-us-east1-10.shopifycloud.com
 https://ping-api-production-web-apps-a-us-east1-6.shopifycloud.com
@@ -6364,6 +6374,7 @@ https://watchtower.shopifycloud.com
 https://web-canada.shopifycloud.com
 https://web-feature-quality-checklist-pro-wo5s2qc4-apps-b-us-central1-8.shopifycloud.com
 https://web-feature-quality-checklist.shopifycloud.com
+https://webhook-metrics-elastic.shopifycloud.com
 https://webhook-metrics.es-kpvnz.shopifycloud.com
 https://webhook-metrics.kibana.i0.production-unrestricted.partners.shopifycloud.com
 https://webhook-metrics.secure-elasticsearch.partners-production.shopifycloud.com
@@ -6705,6 +6716,7 @@ http://watchtower.shopifycloud.com
 http://web-canada.shopifycloud.com
 http://web-feature-quality-checklist-pro-wo5s2qc4-apps-b-us-central1-8.shopifycloud.com
 http://web-feature-quality-checklist.shopifycloud.com
+http://webhook-metrics-elastic.shopifycloud.com
 http://webhook-metrics.es-kpvnz.shopifycloud.com
 http://webhook-metrics.kibana.i0.production-unrestricted.partners.shopifycloud.com
 http://webhook-metrics.secure-elasticsearch.partners-production.shopifycloud.com

@@ -12,6 +12,7 @@ alfa.api.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 alfa.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 alfa.test.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 a.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+andre.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
 api-2freedom.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 api.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 api-staging.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -64,7 +65,6 @@ dev-strapi.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
 dev-strapi.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 digilander.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 docs.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-docs.uwa.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.73.0.0/16
 echo.api-2freedom.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 echo.api.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 echo.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -200,7 +200,7 @@ univ.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 up.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 user.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 users.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
-uwa.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+uwa.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
 varnish.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 vctry-prxy.dev.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
 vctry-prxy.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
@@ -211,7 +211,7 @@ webmail.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 web.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 wenku.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 whodis.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
-work.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+work.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
 ww5.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 www2s.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
 www2u.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21

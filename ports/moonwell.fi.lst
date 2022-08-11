@@ -1,3 +1,5 @@
+[bgp] gov.moonwell.fi:179
+[blackice-alerts] gov.moonwell.fi:8082
 [cddbp-alt] moonwell.fi:8880
 [cddbp-alt] shop.moonwell.fi:8880
 [clearvisn] shop.moonwell.fi:2052
@@ -12,6 +14,7 @@
 [http] claims.moonwell.fi:80
 [http] docs.moonwell.fi:80
 [http] geoip.moonwell.fi:80
+[http] gov.moonwell.fi:80
 [http] moonwell.fi:80
 [http-proxy] claims.moonwell.fi:8080
 [http-proxy] docs.moonwell.fi:8080
@@ -23,6 +26,7 @@
 [https-alt] shop.moonwell.fi:8443
 [https] claims.moonwell.fi:443
 [https] docs.moonwell.fi:443
+[https] gov.moonwell.fi:443
 [http] shop.moonwell.fi:80
 [https] moonwell.fi:443
 [https] shop.moonwell.fi:443
@@ -38,3 +42,7 @@
 [nbx-ser] shop.moonwell.fi:2095
 [radsec] moonwell.fi:2083
 [radsec] shop.moonwell.fi:2083
+[rtmp] gov.moonwell.fi:1935
+[ssh] gov.moonwell.fi:22
+[unknown] gov.moonwell.fi:8084
+[unknown] gov.moonwell.fi:8085

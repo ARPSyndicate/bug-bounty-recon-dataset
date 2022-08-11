@@ -44,6 +44,7 @@ http://fantom-node.blockwallet.io:2095
 http://fantom-node.blockwallet.io:2096
 http://fantom-node.blockwallet.io:8443
 http://fantom-node.blockwallet.io:8880
+http://feedback.blockwallet.io
 http://goerli-node.blockwallet.io
 http://goerli-node.blockwallet.io:2082
 http://goerli-node.blockwallet.io:2083
@@ -146,6 +147,7 @@ https://avax-node.blockwallet.io
 https://blockwallet.io
 https://bsc-node.blockwallet.io
 https://fantom-node.blockwallet.io
+https://feedback.blockwallet.io
 https://goerli-node.blockwallet.io
 https://goerli-relayer.blockwallet.io
 https://help.blockwallet.io

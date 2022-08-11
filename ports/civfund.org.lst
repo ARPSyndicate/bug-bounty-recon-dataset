@@ -98,6 +98,7 @@
 [imaps] website2022.civfund.org:993
 [imap] website2022.civfund.org:143
 [infowave] civfund.org:2082
+[infowave] link.civfund.org:2082
 [mysql] dev.civfund.org:3306
 [mysql] mta-sts.app.civfund.org:3306
 [mysql] mta-sts.newsletter.civfund.org:3306

@@ -1,5 +1,5 @@
 dns-manager-testing.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
-edge-controller-ctrl.algolia.net AS16509 AS16509 - AMAZON.COM INC. US 108.128.0.0/13
+edge-controller-ctrl.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16
 edge-controller-testing-sd.algolia.net AS16509 AS16509 - AMAZON.COM INC. US 54.73.0.0/16
 feature-tracking.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
 idp.auth.platform.algolia.net AS16509 AS16509 - AMAZON.COM, INC. US 54.220.0.0/16

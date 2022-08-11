@@ -452,6 +452,10 @@ http://marketplace.shopify.com:2086
 http://marketplace.shopify.com:8080
 http://marketplace.shopify.com:8880
 http://marketplaces.shopify.com
+http://marketplaces.shopify.com:2082
+http://marketplaces.shopify.com:2086
+http://marketplaces.shopify.com:8080
+http://marketplaces.shopify.com:8880
 http://marketplaces-staging.shopify.com
 http://marketplaces-staging.shopify.com:2082
 http://marketplaces-staging.shopify.com:2086
@@ -1060,6 +1064,10 @@ https://marketplace.shopify.com:2083
 https://marketplace.shopify.com:2087
 https://marketplace.shopify.com:8443
 https://marketplaces.shopify.com
+https://marketplaces.shopify.com:2053
+https://marketplaces.shopify.com:2083
+https://marketplaces.shopify.com:2087
+https://marketplaces.shopify.com:8443
 https://marketplaces-staging.shopify.com
 https://marketplaces-staging.shopify.com:2083
 https://marketplaces-staging.shopify.com:2087
@@ -1277,6 +1285,11 @@ http://s.ssl.shopify.com
 http://s.ssl.shopify.com:8080
 https://s.ssl.shopify.com
 https://s.ssl.shopify.com:8443
+https://staging-api.collabs.shopify.com
+https://staging-api.collabs.shopify.com:2053
+https://staging-api.collabs.shopify.com:2083
+https://staging-api.collabs.shopify.com:2087
+https://staging-api.collabs.shopify.com:8443
 https://staging.data.shopify.com
 https://staging.data.shopify.com:2083
 https://staging.data.shopify.com:2087
@@ -1314,6 +1327,11 @@ https://support.shopify.com:2087
 https://support.shopify.com:8443
 https://tableau.data.shopify.com
 https://tableau-staging.data.shopify.com
+http://staging-api.collabs.shopify.com
+http://staging-api.collabs.shopify.com:2082
+http://staging-api.collabs.shopify.com:2086
+http://staging-api.collabs.shopify.com:8080
+http://staging-api.collabs.shopify.com:8880
 http://staging.data.shopify.com
 http://staging.data.shopify.com:2082
 http://staging.data.shopify.com:2086

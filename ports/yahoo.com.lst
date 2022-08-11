@@ -454,6 +454,7 @@
 [http] perf-vega.commerce.yahoo.com:80
 [http] picasso.ec.yahoo.com:80
 [http] plans.yahoo.com:80
+[http] player.o2.yahoo.com:80
 [http] play.yahoo.com:80
 [http] plus.yahoo.com:80
 [http] points.yahoo.com:80
@@ -1045,6 +1046,7 @@
 [https] perf-vega.commerce.yahoo.com:443
 [https] picasso.ec.yahoo.com:443
 [https] plans.yahoo.com:443
+[https] player.o2.yahoo.com:443
 [https] play.yahoo.com:443
 [https] plus.yahoo.com:443
 [https] points.yahoo.com:443
@@ -1382,6 +1384,7 @@
 [https] us-east-1-web-oao.ssp.yahoo.com:443
 [https] us-east-1-web.ssp.yahoo.com:443
 [https] us-east.jill.fc.yahoo.com:443
+[https] us.proxy.calp.media.search.yahoo.com:443
 [https] us-west-1.service.idsync.analytics.yahoo.com:443
 [https] us-west-1.ups.analytics.yahoo.com:443
 [https] us-west-1-web-oao.ssp.yahoo.com:443
@@ -1608,6 +1611,7 @@
 [http] us-east-1-web-oao.ssp.yahoo.com:80
 [http] us-east-1-web.ssp.yahoo.com:80
 [http] us-east.jill.fc.yahoo.com:80
+[http] us.proxy.calp.media.search.yahoo.com:80
 [http] us-west-1.service.idsync.analytics.yahoo.com:80
 [http] us-west-1.ups.analytics.yahoo.com:80
 [http] us-west-1-web-oao.ssp.yahoo.com:80

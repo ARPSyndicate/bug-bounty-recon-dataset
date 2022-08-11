@@ -17,6 +17,7 @@
 [ftp] vendor-ftp.lululemon.com:21
 [http] ambassadors.lululemon.com:80
 [http] analytics.lululemon.com:80
+[http] api-creator.lululemon.com:80
 [http] api.lululemon.com:80
 [http] apis-dev-np.lululemon.com:80
 [http] apis.lululemon.com:80
@@ -39,6 +40,7 @@
 [http] click.info.lululemon.com:80
 [http] cl.info.lululemon.com:80
 [http] cloud.e.lululemon.com:80
+[http] creator.lululemon.com:80
 [http] developers-dev.lululemon.com:80
 [http] developers.lululemon.com:80
 [http] dev.preprod-apis.lululemon.com:80
@@ -88,6 +90,7 @@
 [http] likenew-staging.lululemon.com:80
 [http] links.em.lululemon.com:80
 [http] lllandme.preprod.lululemon.com:80
+[http] login.creators.lululemon.com:80
 [http] lululemon.com:80
 [http] lyncdiscover.lululemon.com:80
 [http] media.lululemon.com:80
@@ -559,11 +562,13 @@
 [http] qa-info.lululemon.com:80
 [http] qa-plm.lululemon.com:80
 [http] qa-pnimages.lululemon.com:80
+[http] report.creators.lululemon.com:80
 [http] reportfort.lululemon.com:80
 [https] ambassadors.lululemon.com:443
 [https] analytics.lululemon.com:443
 [http] sandbox-dev.preprod-apis.lululemon.com:80
 [http] sandbox.preprod-apis.lululemon.com:80
+[https] api-creator.lululemon.com:443
 [https] api.lululemon.com:443
 [https] apis-dev-np.lululemon.com:443
 [https] apis.lululemon.com:443
@@ -580,6 +585,7 @@
 [https] cdn.lululemon.com:443
 [https] click.e.lululemon.com:443
 [https] cloud.e.lululemon.com:443
+[https] creator.lululemon.com:443
 [https] developers-dev.lululemon.com:443
 [https] developers.lululemon.com:443
 [https] dev-iexpense.lululemon.com:443
@@ -634,6 +640,7 @@
 [https] likenew-staging.lululemon.com:443
 [https] links.em.lululemon.com:443
 [https] lllandme.preprod.lululemon.com:443
+[https] login.creators.lululemon.com:443
 [https] login.lululemon.com:443
 [https] lululemon.com:443
 [https] lyncdiscover.lululemon.com:443
@@ -1109,6 +1116,7 @@
 [https] qa-plm.lululemon.com:443
 [https] qa-pnimages.lululemon.com:443
 [https] remote.lululemon.com:443
+[https] report.creators.lululemon.com:443
 [https] reportfort.lululemon.com:443
 [https] sandbox-dev.preprod-apis.lululemon.com:443
 [https] sandbox.preprod-apis.lululemon.com:443
@@ -1144,6 +1152,7 @@
 [https] stg-iexpense.lululemon.com:443
 [https] stg-plm.lululemon.com:443
 [https] strategicsales.lululemon.com:443
+[https] summary.creators.lululemon.com:443
 [https] sustainability.eu.lululemon.com:443
 [https] sustainability.lululemon.com:443
 [http] stage62-info.eu.lululemon.com:80
@@ -1176,6 +1185,7 @@
 [https] thesweatlife.lululemon.com:443
 [https] tradestone.lululemon.com:443
 [http] strategicsales.lululemon.com:80
+[http] summary.creators.lululemon.com:80
 [http] sustainability.eu.lululemon.com:80
 [http] sustainability.lululemon.com:80
 [https] view.e.lululemon.com:443

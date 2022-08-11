@@ -131,6 +131,7 @@ https://blockwallet.io [200] [GET] [text/html] [BlockWallet - Private Self-Custo
 https://blockwallet.io [200] [GET] [text/html] [BlockWallet - Private Self-Custodial Crypto Wallet] [cloudflare] [vhost] [cloudflare] [Amazon Cloudfront,Amazon Web Services,Cloudflare,Cloudflare Network Error Logging,Google Tag Manager] [96ad23473000e0c059713b0e822ad1cb]
 https://bsc-node.blockwallet.io [400] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [3975e60f0c61e93a6d0a9f1def435eac]
 https://fantom-node.blockwallet.io [400] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [3975e60f0c61e93a6d0a9f1def435eac]
+https://feedback.blockwallet.io [200] [GET] [text/html] [Talk Crypto With Us and Earn $50] [Vercel] [vhost] [Next.js,Node.js,React,Vercel,webpack] [60d784f0ad4abc3f7e97256bb32c30cd]
 https://goerli-node.blockwallet.io [405] [GET] [text/html] [405 Not Allowed] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [f2d70c3667579aa0e41ca96535b1e52c]
 https://goerli-relayer.blockwallet.io [200] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Express,Node.js] [1031849b3e8a7c08af59be68175d6cae]
 https://help.blockwallet.io [301] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Zendesk] [4ceec924c7c3bb86809b1d9611cc541b]

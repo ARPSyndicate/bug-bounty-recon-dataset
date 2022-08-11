@@ -168,6 +168,7 @@ https://click.emails.tesla.com [403] [GET] [text/html] [403 - Forbidden: Access 
 https://click.email.tesla.com [301] [GET] [] [] [AkamaiGHost] [d41d8cd98f00b204e9800998ecf8427e]
 https://courses.tesla.com [302] [GET] [text/html] [] [nginx] [vhost] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://dataviz.tesla.com [302] [GET] [text/html] [302 Found] [akamai/nginx] [Nginx] [26abdd297cab29e3e6592cc94fb287da]
+https://digitalassets-accounts.tesla.com [301] [GET] [] [] [Cloudinary] [vhost] [fastly] [d41d8cd98f00b204e9800998ecf8427e]
 https://digitalassets-energy.tesla.com [404] [GET] [image/gif] [] [Cloudinary] [fastly] [d41d8cd98f00b204e9800998ecf8427e]
 https://digitalassets-learning.tesla.com [404] [GET] [image/gif] [] [Cloudinary] [fastly] [d41d8cd98f00b204e9800998ecf8427e]
 https://digitalassets-shop.tesla.com [301] [GET] [] [] [Cloudinary] [vhost] [fastly] [d41d8cd98f00b204e9800998ecf8427e]

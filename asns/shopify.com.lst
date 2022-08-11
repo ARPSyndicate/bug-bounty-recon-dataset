@@ -102,7 +102,7 @@ magazine.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 23.227.38.0/23
 marketing.preferences.shopify.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 marketing.preferences-staging.shopify.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 marketplace.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
-marketplaces.shopify.com AS396982 AS396982 - GOOGLE LLC US 34.75.112.0/20
+marketplaces.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
 marketplaces-staging.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
 marketplaces-temp.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
 market.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
@@ -161,6 +161,7 @@ sl2.shopify.com AS14618 AS14618 - AMAZON.COM, INC. US 54.237.0.0/16
 sl3.shopify.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 sl.shopify.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
 smiley.shopify.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
+staging-api.collabs.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
 staging.data.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
 static0.shopify.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.240.0/20
 static0.shopify.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14

@@ -70,6 +70,7 @@
 [cddbp-alt] it.shopify.com:8880
 [cddbp-alt] magazine.shopify.com:8880
 [cddbp-alt] marketplace.shopify.com:8880
+[cddbp-alt] marketplaces.shopify.com:8880
 [cddbp-alt] marketplaces-staging.shopify.com:8880
 [cddbp-alt] marketplaces-temp.shopify.com:8880
 [cddbp-alt] market.shopify.com:8880
@@ -102,6 +103,7 @@
 [cddbp-alt] secretpolaris.shopify.com:8880
 [cddbp-alt] services.shopify.com:8880
 [cddbp-alt] shopclass.shopify.com:8880
+[cddbp-alt] staging-api.collabs.shopify.com:8880
 [cddbp-alt] staging.data.shopify.com:8880
 [cddbp-alt] stockroom.shopify.com:8880
 [cddbp-alt] store.shopify.com:8880
@@ -230,6 +232,7 @@
 [eli] it.shopify.com:2087
 [eli] magazine.shopify.com:2087
 [eli] marketplace.shopify.com:2087
+[eli] marketplaces.shopify.com:2087
 [eli] marketplaces-staging.shopify.com:2087
 [eli] marketplaces-temp.shopify.com:2087
 [eli] market.shopify.com:2087
@@ -261,6 +264,7 @@
 [eli] secretpolaris.shopify.com:2087
 [eli] services.shopify.com:2087
 [eli] shopclass.shopify.com:2087
+[eli] staging-api.collabs.shopify.com:2087
 [eli] staging.data.shopify.com:2087
 [eli] stockroom.shopify.com:2087
 [eli] store.shopify.com:2087
@@ -351,6 +355,7 @@
 [gnunet] ir.shopify.com:2086
 [gnunet] magazine.shopify.com:2086
 [gnunet] marketplace.shopify.com:2086
+[gnunet] marketplaces.shopify.com:2086
 [gnunet] marketplaces-staging.shopify.com:2086
 [gnunet] marketplaces-temp.shopify.com:2086
 [gnunet] market.shopify.com:2086
@@ -383,6 +388,7 @@
 [gnunet] secretpolaris.shopify.com:2086
 [gnunet] services.shopify.com:2086
 [gnunet] shopclass.shopify.com:2086
+[gnunet] staging-api.collabs.shopify.com:2086
 [gnunet] staging.data.shopify.com:2086
 [gnunet] stockroom.shopify.com:2086
 [gnunet] store.shopify.com:2086
@@ -677,6 +683,7 @@
 [http-proxy] l.ssl.shopify.com:8080
 [http-proxy] magazine.shopify.com:8080
 [http-proxy] marketplace.shopify.com:8080
+[http-proxy] marketplaces.shopify.com:8080
 [http-proxy] marketplaces-staging.shopify.com:8080
 [http-proxy] marketplaces-temp.shopify.com:8080
 [http-proxy] market.shopify.com:8080
@@ -720,6 +727,7 @@
 [http-proxy] shopclass.shopify.com:8080
 [http-proxy] sizes-curves.shopify.com:8080
 [http-proxy] s.ssl.shopify.com:8080
+[http-proxy] staging-api.collabs.shopify.com:8080
 [http-proxy] staging.data.shopify.com:8080
 [http-proxy] stockroom.shopify.com:8080
 [http-proxy] store.shopify.com:8080
@@ -860,6 +868,7 @@
 [https-alt] l.ssl.shopify.com:8443
 [https-alt] magazine.shopify.com:8443
 [https-alt] marketplace.shopify.com:8443
+[https-alt] marketplaces.shopify.com:8443
 [https-alt] marketplaces-staging.shopify.com:8443
 [https-alt] marketplaces-temp.shopify.com:8443
 [https-alt] market.shopify.com:8443
@@ -903,6 +912,7 @@
 [https-alt] shopclass.shopify.com:8443
 [https-alt] sizes-curves.shopify.com:8443
 [https-alt] s.ssl.shopify.com:8443
+[https-alt] staging-api.collabs.shopify.com:8443
 [https-alt] staging.data.shopify.com:8443
 [https-alt] stockroom.shopify.com:8443
 [https-alt] store.shopify.com:8443
@@ -1155,6 +1165,7 @@
 [https] sourcing-supplier.shopify.com:443
 [http] s.ssl.shopify.com:80
 [https] s.ssl.shopify.com:443
+[https] staging-api.collabs.shopify.com:443
 [https] staging.data.shopify.com:443
 [https] static0.shopify.com:443
 [https] static1.shopify.com:443
@@ -1171,6 +1182,7 @@
 [https] support.shopify.com:443
 [https] tableau.data.shopify.com:443
 [https] tableau-staging.data.shopify.com:443
+[http] staging-api.collabs.shopify.com:80
 [http] staging.data.shopify.com:80
 [https] talent.shopify.com:443
 [https] talkingshop.shopify.com:443
@@ -1375,6 +1387,7 @@
 [infowave] it.shopify.com:2082
 [infowave] magazine.shopify.com:2082
 [infowave] marketplace.shopify.com:2082
+[infowave] marketplaces.shopify.com:2082
 [infowave] marketplaces-staging.shopify.com:2082
 [infowave] market.shopify.com:2082
 [infowave] meetup.shopify.com:2082
@@ -1399,6 +1412,7 @@
 [infowave] rndsummit.shopify.com:2082
 [infowave] sanfrancisco.shopify.com:2082
 [infowave] shopclass.shopify.com:2082
+[infowave] staging-api.collabs.shopify.com:2082
 [infowave] staging.data.shopify.com:2082
 [infowave] stockroom.shopify.com:2082
 [infowave] store.shopify.com:2082
@@ -1465,6 +1479,7 @@
 [knetd] ir.shopify.com:2053
 [knetd] magazine.shopify.com:2053
 [knetd] marketplace.shopify.com:2053
+[knetd] marketplaces.shopify.com:2053
 [knetd] marketplaces-temp.shopify.com:2053
 [knetd] market.shopify.com:2053
 [knetd] merchandise.shopify.com:2053
@@ -1487,6 +1502,7 @@
 [knetd] secretpolaris.shopify.com:2053
 [knetd] services.shopify.com:2053
 [knetd] shopclass.shopify.com:2053
+[knetd] staging-api.collabs.shopify.com:2053
 [knetd] stockroom.shopify.com:2053
 [knetd] store.shopify.com:2053
 [knetd] supporthiring.shopify.com:2053

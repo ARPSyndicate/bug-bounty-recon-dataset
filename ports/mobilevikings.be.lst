@@ -11,6 +11,7 @@
 [http] alfa.mobilevikings.be:80
 [http] alfa.test.mobilevikings.be:80
 [http] a.mobilevikings.be:80
+[http] andre.mobilevikings.be:80
 [http] api.mobilevikings.be:80
 [http] api-staging.mobilevikings.be:80
 [http] app.mobilevikings.be:80
@@ -162,6 +163,7 @@
 [https] alfa.mobilevikings.be:443
 [https] alfa.test.mobilevikings.be:443
 [https] a.mobilevikings.be:443
+[https] andre.mobilevikings.be:443
 [https] api.mobilevikings.be:443
 [https] api-staging.mobilevikings.be:443
 [https] app.mobilevikings.be:443

@@ -3079,6 +3079,8 @@ cswitch-alerts-cloudstation-us-east-2.prod.hydra.sophos.com
 cswitch-alerts.cloudstation.us-east-2.prod.hydra.sophos.com
 cswitch-alerts-cloudstation-us-west-2.prod.hydra.sophos.com
 cswitch-alerts.cloudstation.us-west-2.prod.hydra.sophos.com
+cswitch-alerts-cloudstation-us-west-2.qa.hydra.sophos.com
+cswitch-alerts.cloudstation.us-west-2.qa.hydra.sophos.com
 cswitch-config-cloudstation-eu-central-1.prod.hydra.sophos.com
 cswitch-config.cloudstation.eu-central-1.prod.hydra.sophos.com
 cswitch-config-cloudstation-eu-central-1.qa.hydra.sophos.com
@@ -4606,6 +4608,7 @@ deqylxw5.cloudstation.eu-west-1.prod.hydra.sophos.com
 de.sandbox.sophos.com
 de.secure.sophos.com
 de.sophos.com
+dev1.test.analysis.sophos.com
 dev3.hmr.sophos.com
 dev3.hydra.sophos.com
 dev4.hmr.sophos.com
@@ -10904,6 +10907,7 @@ ns3.mcs.sophos.com
 ns4.sophos.com
 ns6prapy.cloudstation.eu-west-1.dev.hydra.sophos.com
 ns6.sophos.com
+nsso6md9.cloudstation.us-west-2.qa.hydra.sophos.com
 nsuqhal4.cloudstation.eu-west-1.inf.hydra.sophos.com
 nt20ejvz.cloudstation.eu-west-1.prod.hydra.sophos.com
 nt501d3d.cloudstation.eu-west-1.inf.hydra.sophos.com

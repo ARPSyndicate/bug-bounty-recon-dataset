@@ -227,6 +227,7 @@ apidocs.shopifycloud.com
 api-gateway-elasticsearch.shopifycloud.com
 api-gateway.shopifycloud.com
 api.mozdef.shopifycloud.com
+api-staging.creators.shopifycloud.com
 api.thehive.intsecops.shopifycloud.com
 api.thehive.shopifycloud.com
 api.thehive-staging.shopifycloud.com
@@ -3357,6 +3358,7 @@ dom-polaris-sandbox.shopifycloud.com
 dotcom-events-adapter.shopifycloud.com
 dotnet-core-demo.shopifycloud.com
 doug-test.shopifycloud.com
+dovetale-api-staging.shopifycloud.com
 downrigger-production-unrestricted-web-apps-b-us-east1-3.shopifycloud.com
 downrigger-production-unrestricted-web-apps-b-us-east1-5.shopifycloud.com
 downrigger-production-unrestricted-web-apps-b-us-east1-7.shopifycloud.com
@@ -3870,6 +3872,7 @@ es-us-east1-kibana.shopifycloud.com
 etcd-admin.shopifycloud.com
 ethan-aubuchon-test-app.shopifycloud.com
 ethan-aubuchon-test-app-staging.shopifycloud.com
+ethans-awesome-go-test-app.shopifycloud.com
 ethans-awesome-go-test-app-staging.shopifycloud.com
 ethan-test-app.shopifycloud.com
 etienne-test-app.shopifycloud.com
@@ -4404,6 +4407,7 @@ gmcgibbon-shopify-rails-3.shopifycloud.com
 gmcgibbon-shopify-rails-4-product-obv3k66u-apps-b-us-central1-3.shopifycloud.com
 gmcgibbon-shopify-rails-4.shopifycloud.com
 gmcgibbon-shopify-rails-five.shopifycloud.com
+gm-shop-merchant-app.shopifycloud.com
 gmv-prediction-production-unrestricted-web-tier4-us-east1-2.shopifycloud.com
 gmv-prediction-production-web-tier4-us-east1-2.shopifycloud.com
 gmv-prediction.shopifycloud.com
@@ -6269,6 +6273,7 @@ market-pricing-app-production-unrestricted-web-tier4-us-east1-2.shopifycloud.com
 market-pricing-app.shopifycloud.com
 marytest.shopifycloud.com
 mason-apps-east.shopifycloud.com
+mason-backup.shopifycloud.com
 mason.shopifycloud.com
 mason-staging.shopifycloud.com
 matchmaking-tool-hackdays.shopifycloud.com
@@ -7480,6 +7485,7 @@ pickup-point-service-production-u-rq2gjp2w-apps-b-us-central1-2.shopifycloud.com
 pickup-point-service-production-u-uzzqxyca-apps-b-us-central1-2.shopifycloud.com
 pickup-point-service.secure-elasticsearch.pickup-point-service-production-unrestricted.shopifycloud.com
 pickup-point-service.shopifycloud.com
+pierre-online-inference.shopifycloud.com
 pim.shopifycloud.com
 pim-staging.shopifycloud.com
 pim-test-staging.shopifycloud.com
@@ -10481,6 +10487,7 @@ web.dev.merlin.shopifycloud.com
 web-feature-quality-checklist-pro-wo5s2qc4-apps-b-us-central1-8.shopifycloud.com
 web-feature-quality-checklist.shopifycloud.com
 web.global.merlin.shopifycloud.com
+webhook-metrics-elastic.shopifycloud.com
 webhook-metrics.es-kpvnz.shopifycloud.com
 webhook-metrics.kibana.i0.production-unrestricted.partners.shopifycloud.com
 webhook-metrics-kibana.shopifycloud.com
