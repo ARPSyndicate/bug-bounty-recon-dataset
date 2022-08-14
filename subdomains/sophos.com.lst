@@ -11293,6 +11293,7 @@ parquet-aggregator-alt.stn030syd.ctr.sophos.com
 parquet-aggregator-alt.stn030yul.ctr.sophos.com
 parquet-aggregator-alt.stn100bom.ctr.sophos.com
 parquet-aggregator-alt.stn100gru.ctr.sophos.com
+parquet-aggregator-alt.stn100hnd.ctr.sophos.com
 parquet-aggregator-alt.stn100syd.ctr.sophos.com
 parquet-aggregator-alt.stn100yul.ctr.sophos.com
 parquet-aggregator-cloudstation-eu-central-1.prod.hydra.sophos.com
@@ -11315,6 +11316,7 @@ parquet-aggregator.stn030syd.ctr.sophos.com
 parquet-aggregator.stn030yul.ctr.sophos.com
 parquet-aggregator.stn100bom.ctr.sophos.com
 parquet-aggregator.stn100gru.ctr.sophos.com
+parquet-aggregator.stn100hnd.ctr.sophos.com
 parquet-aggregator.stn100syd.ctr.sophos.com
 parquet-aggregator.stn100yul.ctr.sophos.com
 parquet-manager-cloudstation-eu-central-1.prod.hydra.sophos.com
@@ -12050,6 +12052,7 @@ q4jhf39q.cloudstation.eu-west-1.prod.hydra.sophos.com
 q4k4rbdu.cloudstation.eu-west-1.inf.hydra.sophos.com
 q548sbgx.cloudstation.eu-west-1.inf.hydra.sophos.com
 q5b4agne-cloudstation-eu-west-1.inf.hydra.sophos.com
+q5q9hctg.stn100hnd.ctr.sophos.com
 q60md30l.cloudstation.eu-west-1.dev.hydra.sophos.com
 q699i48j.cloudhub.eu-west-1.dev.hydra.sophos.com
 q6z9ka7b.cloudstation.eu-west-1.inf.hydra.sophos.com

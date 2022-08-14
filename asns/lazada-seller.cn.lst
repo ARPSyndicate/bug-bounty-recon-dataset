@@ -1,16 +1,60 @@
-id-pull-akamai.lazada-seller.cn AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.48.212.0/24
-pre-id-pull-akamai.lazada-seller.cn AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.48.212.0/24
-pre-sg-proxy-pull-akamai.lazada-seller.cn AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.213.48.0/22
+api-id.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+api.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+api-my.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+api-ph.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+api-sg.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+api-th.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+api-vn.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+cn-pull.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+cn-pull-rts.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+gmcp-id.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+gmcp-my.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+gmcp-ph.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+gmcp-sg.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+gsp-alimebot.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+gsp.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+gsp-stg.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+id-pull-akamai.lazada-seller.cn AS36183 AS36183 - AKAMAI TECHNOLOGIES, INC. US 23.192.228.0/24
+id-pull.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+id-pull-rts.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.24.0/24
+id-replay.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+m-id.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.89.92.0/23
+m-id-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+m-my.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+m-my-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+m-ph.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+m-ph-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
+m.sellercenter-id-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+m.sellercenter-ph-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
+m.sellercenter-sg-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+m.sellercenter-th-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+m.sellercenter-vn-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+msgacs-m.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
+m-sg.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+m-sg-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
+m-th.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+m-th-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+m-vn.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22
+m-vn-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+pages.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+pre-id-pull-akamai.lazada-seller.cn AS36183 AS36183 - AKAMAI TECHNOLOGIES, INC. US 23.192.228.0/24
+pre-sg-proxy-pull-akamai.lazada-seller.cn AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.52.92.0/22
+pre-sg-pull-akamai.lazada-seller.cn AS36183 AS36183 - AKAMAI TECHNOLOGIES, INC. US 23.192.228.0/24
+pre-sg-pull.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
 sellercenter-id.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
 sellercenter-id-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
 sellercenter-my.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
-sellercenter-my-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
+sellercenter-my-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
 sellercenter-ph.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
 sellercenter-ph-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
 sellercenter-sg.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
 sellercenter-sg-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
 sellercenter-th.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
-sellercenter-th-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
+sellercenter-th-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
 sellercenter-vn.lazada-seller.cn AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 106.11.224.0/19
-sellercenter-vn-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.72.0/22
-sg-pull-akamai.lazada-seller.cn AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.48.212.0/24
+sellercenter-vn-staging.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.160.0/21
+sg-pull-akamai.lazada-seller.cn AS36183 AS36183 - AKAMAI TECHNOLOGIES, INC. US 23.192.228.0/24
+sg-pull.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.20.0/24
+sg-pull-rts.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.24.0/24
+sg-replay.lazada-seller.cn AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+uac.lazada-seller.cn AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.108.0/22

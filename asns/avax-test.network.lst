@@ -15,5 +15,5 @@ subnet-explorer-api.avax-test.network AS13335 AS13335 - CLOUDFLARE, INC. US 104.
 subnetstunnel.avax-test.network AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
 tunnel.avax-test.network AS14618 AS14618 - AMAZON.COM, INC. US 54.87.0.0/16
 wallet.avax-test.network AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
-warden.avax-test.network AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+warden.avax-test.network AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
 www.avax-test.network AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20

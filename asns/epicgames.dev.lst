@@ -1,0 +1,6 @@
+api.epicgames.dev AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+connect.epicgames.dev AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
+epicgames.dev AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+weighted-epic-connect-manager-prod.epicgames.dev AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
+weighted-zh-connect.epicgames.dev AS132203 AS132203 - SHENZHEN TENCENT COMPUTER SYSTEMS COMPANY LIMITED CN 101.32.192.0/20
+www.epicgames.dev AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12

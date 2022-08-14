@@ -41,6 +41,7 @@
 [cddbp-alt] www.zksync.io:8880
 [cddbp-alt] zinc.zksync.io:8880
 [cddbp-alt] zksync.io:8880
+[clearvisn] checkout-sepolia.zksync.io:2052
 [clearvisn] rinkeby.zksync.io:2052
 [clearvisn] ropsten.zksync.io:2052
 [clearvisn] stage.zksync.io:2052
@@ -48,8 +49,10 @@
 [eli] api.zksync.io:2087
 [eli] beta.zksync.io:2087
 [eli] cb076aaae6da.zksync.io:2087
+[eli] checkout-goerli.zksync.io:2087
 [eli] checkout-rinkeby.zksync.io:2087
 [eli] checkout-ropsten.zksync.io:2087
+[eli] checkout-sepolia.zksync.io:2087
 [eli] checkout.zksync.io:2087
 [eli] community.zksync.io:2087
 [eli] docs.zksync.io:2087
@@ -162,8 +165,10 @@
 [https-alt] zinc.zksync.io:8443
 [https-alt] zksync.io:8443
 [https] cb076aaae6da.zksync.io:443
+[https] checkout-goerli.zksync.io:443
 [https] checkout-rinkeby.zksync.io:443
 [https] checkout-ropsten.zksync.io:443
+[https] checkout-sepolia.zksync.io:443
 [https] checkout.zksync.io:443
 [https] eth-gateway.zksync.io:443
 [https] events.zksync.io:443

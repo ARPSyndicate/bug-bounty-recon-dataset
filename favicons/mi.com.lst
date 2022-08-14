@@ -21,7 +21,6 @@
 116323821	springboot	https://hd.mina.mi.com/
 116323821	springboot	https://i2.business.smartcamera.api.io.mi.com/
 116323821	springboot	https://i2.processor.smartcamera.api.io.mi.com/
-116323821	springboot	https://in.business.smartcamera.api.io.mi.com/
 116323821	springboot	https://in.lis.be.mi.com/
 116323821	springboot	https://in.miquery.ind.mi.com/
 116323821	springboot	https://in.mismart.mi.com/
@@ -37,12 +36,9 @@
 116323821	springboot	https://sg.processor.smartcamera.api.io.mi.com/
 116323821	springboot	https://skillstore.mina.mi.com/
 116323821	springboot	http://sso.pc.mi.com/
-116323821	springboot	https://tw.business.smartcamera.api.io.mi.com/
 116323821	springboot	https://tw.processor.smartcamera.api.io.mi.com/
 116323821	springboot	https://us.business.smartcamera.api.io.mi.com/
 116323821	springboot	https://us.processor.smartcamera.api.io.mi.com/
--1252041730	vue.js	http://midvo.men.mi.com/
--1252041730	vue.js	https://midvo.men.mi.com/
 -1298108480	yii php framework (default favicon)	http://in.wps.be.mi.com/
 -1298108480	yii php framework (default favicon)	http://report.hr.mi.com/
 -1298108480	yii php framework (default favicon)	http://ru.wps.be.mi.com/
@@ -51,7 +47,6 @@
 -1298108480	yii php framework (default favicon)	https://report.hr.mi.com/
 -1298108480	yii php framework (default favicon)	https://ru.wps.be.mi.com/
 -1298108480	yii php framework (default favicon)	https://sg.wps.be.mi.com/
--1298108480	yii php framework (default favicon)	https://wms.be.mi.com/
 -1298108480	yii php framework (default favicon)	http://wms.be.mi.com/
 -1414475558	microsoft iis	http://icrm.be.mi.com/
 -1414475558	microsoft iis	https://icrm.be.mi.com/
@@ -60,7 +55,6 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://app.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://buy.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://cart.mi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://code.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://comment.huodong.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://dms.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://eco-staging.cloud.mi.com/
@@ -71,6 +65,7 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://in.app.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://in.backend.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://in.dms.mi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://in.oms.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://item.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://kenny.mgp.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://list.mi.com/
@@ -84,7 +79,6 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://owapp.zb.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://paytm.live.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://p.dun.mi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://ru.backend.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://ru.buy.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://s1.zb.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://activity.zb.mi.com/
@@ -95,7 +89,6 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://sc.bl.g.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://cnbj1.fds.api.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://coda.live.mi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://code.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://comment.huodong.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://demo.live.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://dms.mi.com/
@@ -105,6 +98,7 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://sg.app.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://sg.backend.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gmq.miquery.it.mi.com/
+5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://sg.oms.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://hd.c.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://hd.global.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://shopping.zb.mi.com/
@@ -115,7 +109,6 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://in-hd.c.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://in.oms.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://in.pos.d.mi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://kenny.mgp.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://list.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://live.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://mina.mi.com/
@@ -125,13 +118,11 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://owapp.zb.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://paytm.live.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://p.dun.mi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ru.backend.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ru.buy.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ru-hd.c.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://s1.zb.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://sc.bl.g.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://search.mi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://service.order.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://sg.app.men.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://sg.backend.mi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://sg.oms.men.mi.com/
@@ -159,7 +150,6 @@
 -927895498	xiaomi	http://app.men.mi.com/
 -927895498	xiaomi	http://buy.mi.com/
 -927895498	xiaomi	http://cart.mi.com/
--927895498	xiaomi	http://code.mi.com/
 -927895498	xiaomi	http://comment.huodong.mi.com/
 -927895498	xiaomi	http://dms.mi.com/
 -927895498	xiaomi	http://eco-staging.cloud.mi.com/
@@ -170,6 +160,7 @@
 -927895498	xiaomi	http://in.app.men.mi.com/
 -927895498	xiaomi	http://in.backend.mi.com/
 -927895498	xiaomi	http://in.dms.mi.com/
+-927895498	xiaomi	http://in.oms.men.mi.com/
 -927895498	xiaomi	http://item.mi.com/
 -927895498	xiaomi	http://kenny.mgp.mi.com/
 -927895498	xiaomi	http://list.mi.com/
@@ -183,7 +174,6 @@
 -927895498	xiaomi	http://owapp.zb.mi.com/
 -927895498	xiaomi	http://paytm.live.mi.com/
 -927895498	xiaomi	http://p.dun.mi.com/
--927895498	xiaomi	http://ru.backend.mi.com/
 -927895498	xiaomi	http://ru.buy.mi.com/
 -927895498	xiaomi	http://s1.zb.mi.com/
 -927895498	xiaomi	https://activity.zb.mi.com/
@@ -194,7 +184,6 @@
 -927895498	xiaomi	http://sc.bl.g.mi.com/
 -927895498	xiaomi	https://cnbj1.fds.api.xiaomi.com/
 -927895498	xiaomi	https://coda.live.mi.com/
--927895498	xiaomi	https://code.mi.com/
 -927895498	xiaomi	https://comment.huodong.mi.com/
 -927895498	xiaomi	https://demo.live.mi.com/
 -927895498	xiaomi	https://dms.mi.com/
@@ -204,6 +193,7 @@
 -927895498	xiaomi	http://sg.app.men.mi.com/
 -927895498	xiaomi	http://sg.backend.mi.com/
 -927895498	xiaomi	https://gmq.miquery.it.mi.com/
+-927895498	xiaomi	http://sg.oms.men.mi.com/
 -927895498	xiaomi	https://hd.c.mi.com/
 -927895498	xiaomi	https://hd.global.mi.com/
 -927895498	xiaomi	http://shopping.zb.mi.com/
@@ -214,23 +204,19 @@
 -927895498	xiaomi	https://in-hd.c.mi.com/
 -927895498	xiaomi	https://in.oms.men.mi.com/
 -927895498	xiaomi	https://in.pos.d.mi.com/
--927895498	xiaomi	https://kenny.mgp.mi.com/
 -927895498	xiaomi	https://list.mi.com/
 -927895498	xiaomi	https://live.mi.com/
 -927895498	xiaomi	https://mina.mi.com/
--927895498	xiaomi	https://my.mi.com/
 -927895498	xiaomi	https://oms.men.mi.com/
 -927895498	xiaomi	https://order.mi.com/
 -927895498	xiaomi	https://owapp.zb.mi.com/
 -927895498	xiaomi	https://paytm.live.mi.com/
 -927895498	xiaomi	https://p.dun.mi.com/
--927895498	xiaomi	https://ru.backend.mi.com/
 -927895498	xiaomi	https://ru.buy.mi.com/
 -927895498	xiaomi	https://ru-hd.c.mi.com/
 -927895498	xiaomi	https://s1.zb.mi.com/
 -927895498	xiaomi	https://sc.bl.g.mi.com/
 -927895498	xiaomi	https://search.mi.com/
--927895498	xiaomi	https://service.order.mi.com/
 -927895498	xiaomi	https://sg.app.men.mi.com/
 -927895498	xiaomi	https://sg.backend.mi.com/
 -927895498	xiaomi	https://sg.oms.men.mi.com/
@@ -246,9 +232,6 @@
 -927895498	xiaomi	https://tv.mi.com/
 -927895498	xiaomi	https://tw.mina.mi.com/
 -927895498	xiaomi	https://upload.zb.mi.com/
--927895498	xiaomi	https://weixin.zb.mi.com/
--927895498	xiaomi	https://wx.men.mi.com/
--927895498	xiaomi	https://xiaomishare.mi.com/
 -927895498	xiaomi	https://zbpay.zb.mi.com/
 -927895498	xiaomi	http://weixin.zb.mi.com/
 -927895498	xiaomi	http://wx.men.mi.com/
@@ -256,14 +239,12 @@
 -927895498	xiaomi	http://zbpay.zb.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://api.pinshang.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://callback.mier.mi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://camera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://cmcc.mina.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://gmq.miquery.it.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://in.lis.be.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://in.miquery.ind.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://in.mismart.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://in.mismart.pre.mi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://lbs.mina.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://market.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://order.xg.g.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://pinshang.mi.com/
@@ -277,7 +258,6 @@ e71ed563d9c0742ee87ad93ec1a22238	springboot	https://gmq.miquery.it.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://hd.mina.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://i2.business.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://i2.processor.smartcamera.api.io.mi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://in.business.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://in.lis.be.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://in.miquery.ind.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://in.mismart.mi.com/
@@ -291,9 +271,6 @@ e71ed563d9c0742ee87ad93ec1a22238	springboot	https://ru.business.smartcamera.api.
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://ru.processor.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://sg.business.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://sg.processor.smartcamera.api.io.mi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://skillstore.mina.mi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://sso.pc.mi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://tw.business.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://tw.processor.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://us.business.smartcamera.api.io.mi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://us.processor.smartcamera.api.io.mi.com/

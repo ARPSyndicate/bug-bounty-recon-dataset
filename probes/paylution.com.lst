@@ -57,7 +57,6 @@ https://lhd.paylution.com [302] [GET] [text/html] [Document moved] [] [vhost] [J
 https://lifeplus.paylution.com [400] [GET] [text/html] [Error] [] [vhost] [Java] [8ef735b4e0b12cc3a863ef77bea4c34f]
 https://limelight.paylution.com [302] [GET] [text/html] [Document moved] [] [vhost] [Java] [69b1e457f07b89de2c2552dce8b5e9d9]
 https://links.paylution.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [70461da8b94c6ca5d2fda3260c5a8c3b]
-https://links.paylution.com [404] [GET] [text/html] [404 Not Found] [nginx] [Nginx] [8e325dc2fea7c8900fc6c4b8c6c394fe]
 https://m5.paylution.com [302] [GET] [text/html] [Document moved] [] [vhost] [Java] [eb9eaab1c907c07d3d1945e7f393b5f4]
 https://maelle.paylution.com [503] [GET] [text/html] [Paylution - Welcome] [BigIP] [F5 BigIP,Google Font API] [d850d4fa30a38b20bb60de28a46fc5c0]
 https://makeuperaser.paylution.com [302] [GET] [text/html] [Document moved] [] [vhost] [Java] [de1e0e1275dc0c7860dfedbdf2bd5329]

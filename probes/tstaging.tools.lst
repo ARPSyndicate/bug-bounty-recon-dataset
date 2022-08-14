@@ -1,5 +1,5 @@
 https://jaeger.ue1.d2.tstaging.tools [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://jaeger.ue1.d3.tstaging.tools [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
-https://purchase-portal.ue1.d1.tstaging.tools [302] [GET] [text/plain] [] [nginx/1.13.9] [vhost] [Envoy,Express,Nginx,Node.js] [0b7f2a5c390c3e89565b9eae391ad462]
-https://purchase-portal.ue1.d4.tstaging.tools [302] [GET] [text/plain] [] [nginx/1.13.9] [vhost] [Envoy,Express,Nginx,Node.js] [0b7f2a5c390c3e89565b9eae391ad462]
-https://purchase-portal.ue1.stg1.tstaging.tools [302] [GET] [text/plain] [] [nginx/1.13.9] [vhost] [Envoy,Express,Nginx,Node.js] [0b7f2a5c390c3e89565b9eae391ad462]
+https://purchase-portal.ue1.d1.tstaging.tools [302] [GET] [text/plain] [] [nginx/1.13.9] [vhost] [Envoy,Express,Nginx:1.13.9,Node.js] [0b7f2a5c390c3e89565b9eae391ad462]
+https://purchase-portal.ue1.d4.tstaging.tools [302] [GET] [text/plain] [] [nginx/1.13.9] [vhost] [Envoy,Express,Nginx:1.13.9,Node.js] [0b7f2a5c390c3e89565b9eae391ad462]
+https://purchase-portal.ue1.stg1.tstaging.tools [302] [GET] [text/plain] [] [nginx/1.13.9] [vhost] [Envoy,Express,Nginx:1.13.9,Node.js] [0b7f2a5c390c3e89565b9eae391ad462]

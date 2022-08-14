@@ -1,3 +1,2 @@
-https://contributor.huffpost.kr [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
-https://staging.contributor.huffpost.kr [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
-https://www.huffpost.kr [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://www.huffpost.kr [403] [GET] [text/html] [403 Forbidden] [nginx/1.16.1] [Nginx:1.16.1] [5a3dde272190df6b38c4a65117b443d3]
+https://www.huffpost.kr [403] [GET] [text/html] [403 Forbidden] [nginx/1.16.1] [Nginx:1.16.1] [98ee65d0997d070df78f30e6cdde2445]

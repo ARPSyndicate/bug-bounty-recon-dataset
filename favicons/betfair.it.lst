@@ -29,6 +29,8 @@
 1099596916	betfair	http://scommesse.betfair.it:8080/
 1099596916	betfair	http://scommesseonline.betfair.it/
 1099596916	betfair	http://scommesseonline.betfair.it:8080/
+1099596916	betfair	http://segnalaeguadagna.betfair.it/
+1099596916	betfair	http://segnalaeguadagna.betfair.it:8080/
 1099596916	betfair	https://identitysso.betfair.it/
 1099596916	betfair	https://ie1-launcher.betfair.it/
 1099596916	betfair	https://maintenance.betfair.it/
@@ -41,17 +43,11 @@
 1099596916	betfair	http://ssc.betfair.it:8080/
 1099596916	betfair	https://scommesse.betfair.it/
 1099596916	betfair	https://scommesseonline.betfair.it/
+1099596916	betfair	https://segnalaeguadagna.betfair.it/
 1099596916	betfair	https://ssc.betfair.it/
 1099596916	betfair	https://www.betfair.it/
 1099596916	betfair	http://www.betfair.it/
 1099596916	betfair	http://www.betfair.it:8080/
-116323821	springboot	http://pphbf.betfair.it/
-116323821	springboot	http://pphbf.betfair.it:8080/
-116323821	springboot	https://pphbf.betfair.it/
-1772087922	asp.net favicon	http://simulator.betfair.it/
-1772087922	asp.net favicon	https://simulator.betfair.it/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://simulator.betfair.it/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://simulator.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.it:2052/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.it:2082/
@@ -83,6 +79,8 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://scommesse.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://scommesse.betfair.it:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://scommesseonline.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://scommesseonline.betfair.it:8080/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://segnalaeguadagna.betfair.it/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://segnalaeguadagna.betfair.it:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://identitysso.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://ie1-launcher.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://maintenance.betfair.it/
@@ -95,10 +93,8 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://ssc.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://ssc.betfair.it:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://scommesse.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://scommesseonline.betfair.it/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://segnalaeguadagna.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://ssc.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://www.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.it/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.it:8080/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://pphbf.betfair.it/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://pphbf.betfair.it:8080/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://pphbf.betfair.it/

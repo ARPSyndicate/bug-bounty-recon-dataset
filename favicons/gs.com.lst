@@ -44,17 +44,11 @@
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://www.help.gsmosaic.gs.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://www.help.gs-mosaic.qa.gs.com/
 1f2804bd63515db219aeea50f61df277	zendesk-support	http://www.help.gsmosaic.qa.gs.com/
--2009722838	react	http://americas.site1.sitehostingdemo.gs.com/
 -2009722838	react	http://americas.site2.sitehostingdemo.gs.com/
--2009722838	react	http://dev.site1.sitehostingdemo.gs.com/
 -2009722838	react	http://dev.site2.sitehostingdemo.gs.com/
--2009722838	react	http://qa.site1.sitehostingdemo.gs.com/
 -2009722838	react	http://qa.site2.sitehostingdemo.gs.com/
--2009722838	react	https://americas.site1.sitehostingdemo.gs.com/
 -2009722838	react	https://americas.site2.sitehostingdemo.gs.com/
--2009722838	react	https://dev.site1.sitehostingdemo.gs.com/
 -2009722838	react	https://dev.site2.sitehostingdemo.gs.com/
--2009722838	react	https://qa.site1.sitehostingdemo.gs.com/
 -2009722838	react	https://qa.site2.sitehostingdemo.gs.com/
 321909464	airwatch	https://mdm.gs.com/
 321909464	airwatch	https://prod.mdm.gs.com/

@@ -1,8 +1,7 @@
 autodiscover.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
-cynicaltechnology.com AS13335 AS13335 - CLOUDFLARE INC. US 104.21.48.0/20
-enterpriseenrollment.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.68.0.0/14
-enterpriseregistration.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
-falcon.cynicaltechnology.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.21.48.0/20
+cynicaltechnology.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.144.0/20
+enterpriseenrollment.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
+enterpriseregistration.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 40.126.0.0/18
 lyncdiscover.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
 sip.cynicaltechnology.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
-www.cynicaltechnology.com AS13335 AS13335 - CLOUDFLARE INC. US 104.21.48.0/20
+www.cynicaltechnology.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.144.0/20

@@ -1,2 +1,14 @@
-api.rocketleague.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
-support.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
+competitive.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+esports.rocketleague.com AS54113 AS54113 - FASTLY, INC. US 151.101.192.0/22
+oauth2.rocketleague.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+pass.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+rewards.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
+rewards-test.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.48.0/20
+rocketleague.com AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
+sideswipe.rocketleague.com AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
+support.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.48.0/20
+www.rocketleague.com AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+zendesk1.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
+zendesk2.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
+zendesk3.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19
+zendesk4.rocketleague.com AS13335 AS13335 - CLOUDFLARE, INC. US 162.159.128.0/19

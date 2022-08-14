@@ -1,61 +1,251 @@
-accounts.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
-alerts-prod-ck-bulk-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-alerts-prod-ck-bulk-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-alerts-prod-ck-front-end-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.100.0.0/14
-alerts-prod-ck-member-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-alerts-prod-ck-member-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+219783-web1.www.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+246656-web4.www.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.32.0.0/16
+accounts.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+accounts-fg-origin.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+accounts.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+accounts-origin.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+admax.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+admax.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+admax.us-central1.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+admin.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+admin.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+alerts-cktest-back-end.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+alerts-cktest-bulk-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+alerts-cktest-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+alerts-prod-ck-bulk-usc1.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+alerts-prod-ck-bulk-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+alerts-prod-ck-front-end-usc1.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+alerts-prod-ck-front-end-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+alerts-prod-ck-member-usc1.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+alerts-prod-ck-member-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 alerts-prod-ck-vault-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
-alerts-prod-ck-vault-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-apply.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.85.192.0/20
-artelb1.gcp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.92.0.0/14
+alerts-prod-ck-vault-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+altrafcu.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+api.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+api.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.3.128.0/17
+api.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+api-origin.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+api-sandbox.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.3.128.0/17
+apply.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.70.0.0/20
+architecture.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+artelb1.gcp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.94.0.0/15
+artelb2.gcp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
+auth-admin.vault.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+autodiscover.creditkarma.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
+bcu.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.32.0.0/16
+bcu.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.32.0.0/16
+bcuqa.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.32.0.0/16
 beta.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
-blog.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-cdn.native.creditkarma.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
-ck-partners-tableau.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.135.0.0/16
+beta.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+beta.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+blog1.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+blog.aws.creditkarma.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+blog.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+blog-origin.creditkarma.com AS2635 AS2635 - AUTOMATTIC, INC US 192.0.66.0/24
+capitalone.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.72.0/21
+capitaloneqa.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 50.56.160.0/19
+cdn.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+cdn.native.creditkarma.com AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
+ce.apply.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.70.0.0/20
+chat.creditkarma.com AS19165 AS19165 - WEBPASS INC. US 173.247.192.0/20
+ck-partners-tableau.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
 cms.creditkarma.com AS2635 AS2635 - AUTOMATTIC, INC US 192.0.66.0/24
-corp-logs.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.232.0.0/14
-creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 104.105.32.0/20
-creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.92.224.0/21
-creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.85.192.0/20
-creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.44.164.0/22
+corp-logs.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 35.232.0.0/16
+creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+csr-beta.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+csr-beta.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+csw.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+dev1.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
 eb1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
 eb2.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
 eb3.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
 eb4.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
 eb5.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 168.149.241.0/24
 eb.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
-engineering.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
+email.mail.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.127.80.0/20
+email.reminder.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+email.report.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+email.save.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+email.saving.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.127.80.0/20
+email.savings.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 54.211.0.0/16
+embedded.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+engineering.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
 envs.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
-falcon.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-files.savings.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.54.208.0/20
+falcon.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+files.savings.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.69.240.0/20
 flare-api.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
 flare.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
+fraud.assets.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
 fraud.assets.test.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+fraud.assets.test.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
 grafana-cktest-back-end.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
+grafana-cktest-bulk-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+grafana-cktest-front-end.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 grafana-cktest-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 grafana-prod-ck-bulk-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 grafana-prod-ck-bulk-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.244.0.0/14
 grafana-prod-ck-front-end-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
-grafana-prod-ck-front-end-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-grafana-prod-ck-member-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-grafana-prod-ck-member-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-grafana-prod-ck-vault-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-grr-admin.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+grafana-prod-ck-front-end-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+grafana-prod-ck-member-usc1.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+grafana-prod-ck-member-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+grafana-prod-ck-vault-usc1.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+grr-admin.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+grr-client.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 grr-dev-admin.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
-ivr.test.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
-jss.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+helpcenter.creditkarma.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.108.0.0/15
+help.creditkarma.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
+hvfcu.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+ivr.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+ivr.test.admin.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+jss.corp.creditkarma.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+looper.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
+lyncdiscover.creditkarma.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
+mail0.sjc1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+mail-182-151.reminder.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 23.253.160.0/19
+mail-182-152.reminder.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 23.253.160.0/19
+mail-182-153.save.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 23.253.160.0/19
+mail-182-154.saving.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 23.253.160.0/19
+mail-182-155.savings.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 23.253.160.0/19
+mail.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+mail.mailer.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
+mobile.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.3.128.0/17
+msoid.creditkarma.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
+ncfcu.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.32.0.0/16
+newton.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+newton.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+newton.us-central1.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
 nexus.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
 nexus.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+nexus.sjc1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+open.mail.creditkarma.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+partner.creditkarma.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
 platform-console.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
-prom-neg-cktest-back-end.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
-prom-neg-cktest-bulk-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
-prom-neg-cktest-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.116.0.0/14
+pmm-cktest-back-end.dbe.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+preprod.newton.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 130.211.0.0/16
+product.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+prom-cktest-back-end.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+prom-cktest-bulk-vault.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+prom-cktest-vault.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/17
+prom-neg-cktest-back-end.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
+prom-neg-cktest-bulk-vault.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
+prom-neg-cktest-vault.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
 prom-prod-ck-bulk-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.96.0.0/14
+prom-prod-ck-bulk-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+prom-prod-ck-front-end-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.244.0.0/14
+prom-prod-ck-front-end-use4.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
 prom-prod-ck-member-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+prom-prod-ck-member-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 prom-prod-ck-vault-usc1.paas.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+prom-prod-ck-vault-use4.paas.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+ptfcu.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 72.32.0.0/16
+readyfinancial.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+rec.admin.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+redirect.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+redirect.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+redirect-origin.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+reviews.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+savings.creditkarma.com AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 184.173.64.0/18
 smith.corp.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
 smith-remote.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
-taxsupport.creditkarma.com AS14340 AS14340 - SALESFORCE.COM INC. US 13.108.0.0/15
-vinyl.test.admin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+so254-166.reminder.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+so254-169.mail.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+so254-169mail.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+so254-207.reminder.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+so254-217.reminder.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+so254-228.reminder.creditkarma.com AS19994 AS19994 - RACKSPACE HOSTING US 198.61.224.0/19
+socketbus.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 35.199.0.0/20
+socketbus.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+socketbus.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+socketbus.us-central1.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 35.226.48.0/20
+sponge.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+sponge.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 98.129.0.0/17
+sponge.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+sponge-origin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+sponge.us-central1.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
+stage.newton.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
+staging.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+staging-origin.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+staging.us-central1.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+stash.creditkarma.com AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
+statsd.creditkarma.com AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
+support.creditkarma.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.110.0.0/16
+tags.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+tax.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.70.0.0/20
+taxhelp.creditkarma.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.48.0/20
+tax.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+tax-origin.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+tax-origin.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+taxsupport.creditkarma.com AS14340 AS14340 - SALESFORCE.COM, INC. US 13.110.0.0/16
+tax.us-central1.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+track.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail10.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail11.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail12.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail13.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail14.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail15.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail16.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail17.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail18.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail19.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail1.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail20.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail2.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail3.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail4.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail5.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail6.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail7.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail8.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.mail9.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications10.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications1.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications2.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications3.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications4.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications5.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications6.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications7.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications8.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications9.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.notifications.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder1.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder2.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder3.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder4.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder5.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder6.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder7.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder8.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.reminder9.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings10.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings1.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings2.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings3.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings4.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings5.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings6.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings7.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings8.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+track.savings9.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+truecredit.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+truecredit.widget.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+ukbms.corp.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.102.0.0/15
+uwcu.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+vinyl.test.admin.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
+vinyl.test.creditkarma.com AS396982 AS396982 - GOOGLE LLC US 34.120.0.0/15
 vpn.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
-www.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.92.224.0/21
+vpn.prod.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+vpn.sjc1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+widget.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+wladmin.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+wladmin.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+wladmin.sjc1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 206.169.134.0/23
+wp.api.creditkarma.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+www.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.72.0/21
+www.dfw.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16
+www.iad1.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+www.mail.creditkarma.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+www-origin.creditkarma.com AS19091 AS19091 - CREDIT KARMA, INC. US 64.128.79.0/24
+www-staging-origin.creditkarma.com AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+yml.creditkarma.com AS33070 AS33070 - RACKSPACE HOSTING US 174.143.0.0/16

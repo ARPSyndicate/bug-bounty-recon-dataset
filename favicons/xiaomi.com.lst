@@ -10,14 +10,12 @@
 116323821	springboot	http://mal.be.xiaomi.com/
 116323821	springboot	http://ru.video.intl.xiaomi.com/
 116323821	springboot	https://account-dcm.ai.xiaomi.com/
-116323821	springboot	https://browserapi.market.xiaomi.com/
 116323821	springboot	https://control.preload.xiaomi.com/
 116323821	springboot	https://device-proxy.sec.xiaomi.com/
 116323821	springboot	https://extranet.ap-southeast-1.mig1-l7-preload.vi13jhvky9.elb.xiaomi.com/
 116323821	springboot	https://extranet.c3.mig1-l7-preload.a4qd9egdul.elb.xiaomi.com/
 116323821	springboot	https://global.control.preload.xiaomi.com/
 116323821	springboot	https://global.video.intl.xiaomi.com/
-116323821	springboot	https://health.hr.xiaomi.com/
 116323821	springboot	https://id.video.intl.xiaomi.com/
 116323821	springboot	https://maf.be.xiaomi.com/
 116323821	springboot	https://mal.be.xiaomi.com/
@@ -50,7 +48,6 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://dms.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://dvb.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://gstat.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://huodong.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://i.huodong.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://in.zhuti.designer.intl.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	http://ipv4.account.xiaomi.com/
@@ -109,9 +106,7 @@
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gallery.cp.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gallery.pandora.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gstat.pandora.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gw8.pay.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://gw.pay.xiaomi.com/
-5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://huodong.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://in.zhuti.designer.intl.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://ipv4.account.xiaomi.com/
 5c86ac7d198a3f67f96e859f58cd1b51	xiaomi	https://jellyfish.pandora.xiaomi.com/
@@ -173,8 +168,8 @@
 -927895498	xiaomi	http://dms.xiaomi.com/
 -927895498	xiaomi	http://dvb.pandora.xiaomi.com/
 -927895498	xiaomi	http://gstat.pandora.xiaomi.com/
--927895498	xiaomi	http://huodong.xiaomi.com/
 -927895498	xiaomi	http://i.huodong.xiaomi.com/
+-927895498	xiaomi	http://in.zhuti.designer.intl.xiaomi.com/
 -927895498	xiaomi	http://ipv4.account.xiaomi.com/
 -927895498	xiaomi	http://jellyfish.pandora.xiaomi.com/
 -927895498	xiaomi	http://lg-bgp-misc.pandora.xiaomi.com/
@@ -231,9 +226,7 @@
 -927895498	xiaomi	https://gallery.cp.pandora.xiaomi.com/
 -927895498	xiaomi	https://gallery.pandora.xiaomi.com/
 -927895498	xiaomi	https://gstat.pandora.xiaomi.com/
--927895498	xiaomi	https://gw8.pay.xiaomi.com/
 -927895498	xiaomi	https://gw.pay.xiaomi.com/
--927895498	xiaomi	https://huodong.xiaomi.com/
 -927895498	xiaomi	https://in.zhuti.designer.intl.xiaomi.com/
 -927895498	xiaomi	https://ipv4.account.xiaomi.com/
 -927895498	xiaomi	https://jellyfish.pandora.xiaomi.com/
@@ -290,14 +283,12 @@ e71ed563d9c0742ee87ad93ec1a22238	springboot	http://maf.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mal.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://ru.video.intl.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://account-dcm.ai.xiaomi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://browserapi.market.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://control.preload.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://device-proxy.sec.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://extranet.ap-southeast-1.mig1-l7-preload.vi13jhvky9.elb.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://extranet.c3.mig1-l7-preload.a4qd9egdul.elb.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://global.control.preload.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://global.video.intl.xiaomi.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://health.hr.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://id.video.intl.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://maf.be.xiaomi.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://mal.be.xiaomi.com/

@@ -1,23 +1,18 @@
-eu.builtbygirls.com AS16509 AS16509 - AMAZON.COM INC. US 13.225.60.0/22
-eu.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 52.84.16.0/21
-eu.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
-eu-stage.builtbygirls.com AS16509 AS16509 - AMAZON.COM INC. US 13.226.32.0/21
-guce.builtbygirls.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
-oidc.builtbygirls.com AS26101 AS26101 - OATH HOLDINGS INC. US 67.195.204.0/24
-origin-www.builtbygirls.com AS53831 AS53831 - SQUARESPACE, INC. US 198.185.159.0/24
-referral.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 184.72.0.0/18
+api.login.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 74.6.160.0/24
+builtbygirls.com AS53831 AS53831 - SQUARESPACE, INC. US 198.49.23.0/24
+eu.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+gdpr-client.builtbygirls.com AS14618 AS14618 - AMAZON.COM, INC. US 54.92.128.0/17
+guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+oidc.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 74.6.160.0/24
+origin-www.builtbygirls.com AS53831 AS53831 - SQUARESPACE, INC. US 198.49.23.0/24
+privacy.builtbygirls.com AS14618 AS14618 - AMAZON.COM, INC. US 54.92.128.0/17
+referral.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 stage.api.login.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
-stage.guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+stage.guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
 stage.login.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
 stage.oidc.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24
-support.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
-toolkit.builtbygirls.com AS53831 AS53831 - SQUARESPACE, INC. US 198.185.159.0/24
-trunk.guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+support.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+toolkit.builtbygirls.com AS53831 AS53831 - SQUARESPACE, INC. US 198.49.23.0/24
+trunk.guce.builtbygirls.com AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
 wave.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
-wave-new.builtbygirls.com AS14618 AS14618 - AMAZON.COM INC. US 52.44.0.0/15
-wave-new.builtbygirls.com AS14618 AS14618 - AMAZON.COM INC. US 54.84.0.0/15
-wave-origin.builtbygirls.com AS14618 AS14618 - AMAZON.COM INC. US 52.44.0.0/15
-wave-stage.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
-wave-stage-origin.builtbygirls.com AS14618 AS14618 - AMAZON.COM INC. US 23.20.0.0/15
-wave-stage-origin.builtbygirls.com AS14618 AS14618 - AMAZON.COM INC. US 35.168.0.0/13
 www.builtbygirls.com AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24

@@ -1,4 +1,4 @@
-https://amm.hedgehog.markets [200] [GET] [text/html] [Hedgehog Markets] [Netlify] [vhost] [google] [Netlify] [c54fae770e9246eb44bb9f963eb577a6]
-https://hedgehog.markets [200] [GET] [text/html] [Hedgehog Markets] [Netlify] [vhost] [google] [Netlify] [37775d04f142746e621fc13d9366ba70]
-https://p2p.hedgehog.markets [200] [GET] [text/html] [Hedgehog Markets] [Netlify] [vhost] [google] [Netlify] [61b622fa3fe49acc6a60f07d6f66fe16]
+https://amm.hedgehog.markets [301] [GET] [text/plain] [] [Netlify] [vhost] [Netlify] [f1cd5f3152346356c02e41901dbe5a52]
+https://hedgehog.markets [200] [GET] [text/html] [Hedgehog Markets] [Netlify] [vhost] [google] [Netlify] [a1af4393c1571e89c325b8290f73e71c]
+https://p2p.hedgehog.markets [200] [GET] [text/html] [Hedgehog Markets] [Netlify] [vhost] [Netlify] [b9f9c986c579f90850f7281e877d3571]
 https://www.hedgehog.markets [301] [GET] [text/plain] [] [Netlify] [vhost] [google] [Netlify] [dd88fd6c36d6240f959936ce00bd9479]

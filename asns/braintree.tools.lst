@@ -1,28 +1,37 @@
-brisk.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+29bgh.lufc.us-east-1.cpair.dev.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+brisk.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+briskqa.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
 btufte.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
-ci.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.220.0.0/14
-cidevtools.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.220.0.0/14
-disputes-panel.sandbox.braintree.tools AS16509 AS16509 - AMAZON.COM INC. US 34.208.0.0/12
-disputes-panel.sandbox.braintree.tools AS16509 AS16509 - AMAZON.COM INC. US 50.112.192.0/18
-dockerhub.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 3.14.0.0/15
+ci.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.191.0.0/16
+cidevtools.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.191.0.0/16
+data-airflow.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 13.58.0.0/15
+disputes-panel.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+disputes-panel.sandbox.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+dockerhub.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.12.0.0/15
 environmentalist.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
+funding.chi.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 ghost.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
 grafana-auth.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
-grafana.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+grafana.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
 graphite.chi.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 graphite.produswest2.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 graphite.qa2.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 50.19.128.0/17
 graphite.qa.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
 graphite.qwt.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
 graphite.sand.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 50.18.128.0/18
-graphite.sav.braintree.tools AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+graphite.sav.braintree.tools AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
 graphite.stc.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
 graphite.stq.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 67.128.0.0/13
-jenkinsqa.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.116.0.0/14
+jenkinsqa.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.220.0.0/14
 jira.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 knowledge.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+knowledge-test.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 luigi.braintree.tools AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
-osquery-manager.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 18.189.0.0/16
+osquery-manager.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 3.128.0.0/15
+prodconf.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+prodconf-dev.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 puppetdb.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
-ratelimits.braintree.tools AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
-tugboat.braintree.tools AS16509 AS16509 - AMAZON.COM INC. US 18.220.0.0/14
+ratelimits.braintree.tools AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+tugboat.braintree.tools AS16509 AS16509 - AMAZON.COM, INC. US 3.130.0.0/16
+webmail.au.us-east-1.cpair.dev.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+webmail.ec.us-east-1.cpair.dev.braintree.tools AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13

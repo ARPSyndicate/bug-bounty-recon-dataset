@@ -1,102 +1,1598 @@
-activate.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-api-dev.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
+00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+33-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+34-208-14-95-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+34-212-75-93-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+34-213-155-140-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+34-214-85-87-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+34-215-215-95-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+35-160-67-60-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+35-161-33-245-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+35-161-73-244-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+35-166-27-184-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+35-167-121-140-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+35-167-121-60-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+35-167-125-160-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+44-232-105-124-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+45-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+52-10-239-20-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+52-11-220-170-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+52-11-226-164-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+52-13-190-144-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.12.0.0/15
+52-13-211-110-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.12.0.0/15
+52-24-228-150-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+52-34-41-80-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+52-37-118-110-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+52-38-34-40-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+52-38-6-200-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+52-39-158-230-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+52-39-82-120-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+52-40-105-110-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-123-80-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-130-130-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-137-250-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-138-160-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-138-70-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-147-220-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-151-140-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-152-20-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-152-40-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+52-40-98-130-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+54-148-123-10-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-148-186-60-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-148-234-240-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-148-246-50-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-148-250-170-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-148-251-200-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-148-253-200-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-149-24-180-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-149-26-150-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-149-26-160-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-149-26-40-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+54-200-25-10-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+54-200-28-70-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+54-213-111-210-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.213.0.0/16
+54-213-130-20-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.213.0.0/16
+54-213-131-90-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.213.0.0/16
+54-218-40-161-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.218.0.0/17
+54-218-40-170-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.218.0.0/17
+54-218-40-90-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.218.0.0/17
+54-68-153-250-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+54-68-158-80-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+54-68-163-210-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+54-68-166-80-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+54-69-52-230-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+a01.cdn.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+a02.cdn.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+a03.cdn.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+a04.cdn.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+a0.ww.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.156.0/22
+a0.ww.prod-qa.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+a0.ww.sp-int.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+a1.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+a1.ww.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.156.0/22
+a9.de.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+a9.gb.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.191.0.0/16
+a9.hk.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+a9.qa.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+a.ad.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+account.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+account.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+account.d1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+account.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+account.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+account.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+account.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+account.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+account.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+account.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+account.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.q1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+account.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+accounts.int.api.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+account.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+activate.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+activity01.ww.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+activity.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+activity.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+adrvdsstore.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+adyen.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+adyen.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ae-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+ae-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+agent-21001.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.12.0.0/15
+agent-21201.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+agent-22001.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+agent-22101.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+al01.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+al02.cdn.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+al02.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+al03.cdn.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+alb0001-apig-pffl01.usw2.01.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+alb0001-tcs-tool01.apne1.01.dev.etc.t1.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.92.0.0/17
+alb0001-unm-core01.usw2.01.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+alb001-ivt-edge01.ivt.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+alb001-push-cc2s01.push.usw2.e1-np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+alb001-push-cc2s01.push.usw2.np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+alb001-pushcl.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+alb001-push-cw2s01.push.usw2.np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+amsprd.msys.playstation.net AS15169 AS15169 - GOOGLE LLC US 35.186.0.0/16
+analytics.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+antivirus-booster-and-cleaner.br.superduper.ce.playstation.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+api.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-dev.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/10
 api.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.e1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.q1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
-api.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20
-apsnobj.non-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-apsnobj.stage.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
-bee-dev2.epo.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
-bee-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-bee-dev-origin.epo.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
-bee-i-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
+api-stg.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+api.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+apollo2.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+apollo.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+apollo.dev.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+apollo.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+apollo.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+apollo.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+appinfo.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+apsnobj.non-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+apsnobj.stage.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+ares.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+as01.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+as.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+asm.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+asm.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+asm.prod-qa.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+asm.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+athena.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+au-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+a.upload.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+auth.api.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+auth.api.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+auth.api.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth.api.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth.api.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+auth.d1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+auth.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+auth.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+auth.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+auth-int.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth-kamaji.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth-kamaji-lvp.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth-origin.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth-origin.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+auth-origin.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+auth-origin.d1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+auth-origin.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+auth-origin.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+auth-origin-lva.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.q1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+auth-roadster.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth-roadster-lvb.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth-roadster-lvb.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+auth.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+avira-free-antivirus.en.superduper.ce.playstation.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+b0.ww.np.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+b0.ww.prod-qa.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+b0.ww.sp-int.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+b6.de.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
+bbc.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+bbmon01.op.san.np.ad.playstation.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+bclog.np.rds.s0.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+bee-dev2.epo.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/10
+bee-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+bee-dev-origin.epo.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/10
+bee.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+bee-i-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+bee-i.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
 bee-i-origin.epo.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 117.104.128.0/19
-bee-origin.epo.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
-boku.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-cdnauth.prod-qa.scdn.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
-cdnauth.sp-int.scdn.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15
-cdn.nonprod.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
-cfss.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
-cfss.nonprod.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 50.112.192.0/18
-citrus.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.1.192.0/20
-citrus-test.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20
-citrus-test.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
+bee-origin.epo.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/10
+be-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+bg-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+bibit.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+bibit.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.d1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+bibit.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.e1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.e1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.e1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+bibit.nonprod.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+bibit.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+bibit.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+bibit.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.q1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.q1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bibit.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+bibit.test-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bivl.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bivl.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bivl.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+bivl.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+bivl.mgmt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+bivl.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+bivl.q1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+bivl.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+boku.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+boku.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+boku.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+book.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+bravia.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+bravia-e.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+briscola.ce.playstation.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+br-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+b.upload.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+ca-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+ca-gmsgp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+camblocks.demo-int.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ca-ntl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+catalog.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+cct.d1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cct.e1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cct.np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cct.q1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cdnauth.prod-qa.scdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cdnauth.sp-int.scdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cdn.d1-spint.ac.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+cdn.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+cdn.nonprod.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+cdn.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+cdn.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cfss.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+cfss.nonprod.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 18.236.0.0/15
+checkout.rnps.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+ch-tpy.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+citrus.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+citrus-test.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cma.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+cma-e.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+cmt.d1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.d1-pmgt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.d1-pqa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.d1-spint.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.e1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.e1-pmgt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.e1-pqa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.e1-spint.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.mgmt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cmt.prod-qa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cmt.q1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.q1-pmgt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.q1-pqa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.q1-spint.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cmt.sp-int.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cod.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
 cole.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
-compete-cdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.217.16.0/20
-doc-dev.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.71.176.0/20
-doc-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-doc-stg.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-email.qa.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-email.qa.pt.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
-email.sit.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+combine.upro.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.196.0.0/14
+comic.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+commerce1.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+commerce1.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+commerce1.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+commerce1-lv.api.np.km.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.241.128.0/19
+commerce.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+commerce.api.mgmt.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+commerce.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+commerce.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+commerce.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+commerce.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+commerce.d1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+commerce.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+commerce.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+commerce.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+commerce.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+commerce.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+commerce.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+commerce.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+commerce.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+commerce.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+commerce.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+commerce.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+commerce.q1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+commerce.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+commerce.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+compete-cdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+controller.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+coretest.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+crepo.ww.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+crgw.ww.e1-np.rbt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+crgw.ww.np.rbt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+csapi.d1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+csapi.e1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+csapi-ext.e1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+csapi.np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.91.208.0/20
+csapi.q1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+csla.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+cs.prd.msys.playstation.net AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+cx-api-dev.e1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+cx-api-dev.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.219.0.0/17
+cx-api.np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+cx-api.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.176.0.0/15
+dashboard.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 13.56.0.0/16
+dashboards.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 13.56.0.0/16
+dau01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dau01.ps4.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dau01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dau01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dbr01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dbr01.ps4.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dcn01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dcn01.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+dcn01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+d.dash.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 13.56.0.0/16
+de-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+de-ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+demome.mo.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+de.np.stun.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+de-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+deu01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+deu01.ps4.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+deu01.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+deu01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+deu01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+devadmin.mgmt.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+devadmin.prod-qa.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+devadmin.sp-int.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+dev.combine.upro.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.64.0.0/15
+develop.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+dev-public-cn.playstation.net AS4134 AS4134 - CHINA TELECOM CN 180.96.0.0/11
+dis.api.np.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+dis.np.lacloud.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+djp01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+djp01.ps4.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+djp01.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+djp01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+djp01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dkr01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dkr01.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+dkr01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dmx01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dmx01.ps4.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dmx01.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+dmx01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dmx01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+doc-dev.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.42.150.0/23
+doc.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+doc-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+doc-stg.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+download.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+download.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+download.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+drop.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+drop.e1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+drop.q1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+drop.sp-int.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.215.0/24
+dru01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dru01.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+dru01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dru01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dsa01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dsa01.ps4.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dsa01.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+dsa01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dsa01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dtw01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dtw01.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+dtw01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dtw01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+duk01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+duk01.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+duk01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+duk01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dus01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+dus01.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+dus01.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+dus01.psp2.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+dus01.psv.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+e1.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+e1-np.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+e1-pmgt.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+e1-pqa.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+e1-spint.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ecode.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+ecode.np.cs.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+e.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+edy.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.d1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+edy.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.e1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.e1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.e1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.mgmt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+edy.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+edy.prod-qa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+edy.q1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.q1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.q1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+edy.sp-int.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ei-np.signup.playstation.net AS4266 AS4266 - CALIFORNIA EDUCATION AND RESEARCH FEDERATION NETWORK US 63.241.0.0/18
+ei-pmgt.signup.playstation.net AS4266 AS4266 - CALIFORNIA EDUCATION AND RESEARCH FEDERATION NETWORK US 63.241.0.0/18
+ei-pqa.signup.playstation.net AS4266 AS4266 - CALIFORNIA EDUCATION AND RESEARCH FEDERATION NETWORK US 63.241.0.0/18
+ei-spint.signup.playstation.net AS4266 AS4266 - CALIFORNIA EDUCATION AND RESEARCH FEDERATION NETWORK US 63.241.0.0/18
+elb001-actv01.actv.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-asm-edge01a.asm.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 50.112.0.0/17
+elb001-asm-edge01.asm.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+elb001-asm-edge01.asm.usw2.prod-qa.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+elb001-asm-edge01.asm.usw2.sp-int.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-bsc-view-eu01.bsc.usw2.sp-int.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-bsc-view-jpn01.bsc.usw2.sp-int.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+elb001-csla-edge01.csla.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-evnt-edge01.evnt.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-fl-ft01.fl.usw2.e1-np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-fl-ft01.fl.usw2.np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+elb001-gcd-edge01.gcd.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+elb001-gems-cdna01.gems.usw2.prod-qa.etc.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
+elb001-gems-cdna01.gems.usw2.sp-int.etc.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-ivt-edge01.ivt.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+elb001-mtc-ag10.mtc.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.12.0.0/15
+elb001-mtc-ag12.mtc.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+elb001-mtc-ag20.mtc.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+elb001-mtc-ag21.mtc.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+elb001-ntl-edge01.ntl.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-p4ci01.p4ci.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-prof-edge01.prof.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+elb001-push-c2s01.push.usw2.np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-rnk-log03.rnk.usw2.sp-int.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-rnk-log-a03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+elb001-rnk-log-b03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.184.0.0/15
+elb001-rnk-log-c03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+elb001-rnk-log-d03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+elb001-rnk-log-e03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-rnk-log-f03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-rnk-log-g03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-rnk-log-h03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-rnk-log-i03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+elb001-rnk-log-k03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
+elb001-rnk-log-l03.rnk.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-stc-ft01.stc.usw2.e1-np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+elb001-stc-ft01.stc.usw2.mgmt.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-stc-ft01.stc.usw2.prod-qa.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
+elb001-stc-ft01.stc.usw2.sp-int.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+elb001-stc-tool01.stc.usw2.e1-np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-tpy-edge01.tpy.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+elb001-tus-ft01.tus.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+elb001-tus-ft02.tus.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+elb001-ubs-ft01.ubs.usw2.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+elb003-stc-ft01.stc.usw2.e1-np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+email.qa.pt.playstation.net AS396982 AS396982 - GOOGLE LLC US 34.127.80.0/20
+email.sit.pt.playstation.net AS396982 AS396982 - GOOGLE LLC US 34.127.80.0/20
 email.stg.pt.playstation.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-email.stg.pt.playstation.net AS14618 AS14618 - AMAZON.COM INC. US 52.72.0.0/15
-email.stg.pt.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 35.160.0.0/13
-escher.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.66.224.0/19
-escher-stg.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.66.224.0/19
-ext.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
-gs2-sec.ww.e1.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
-gs2-sec.ww.prod.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.219.92.0/23
-gst.prod.dl.playstation.net AS3356 AS3356 - LEVEL 3 PARENT, LLC US 8.240.0.0/12
-int.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
-kamajiwt.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.64.96.0/20
-kiki.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.64.0/21
-kiki-dev.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
-kiki-qa.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 99.84.226.0/23
-manuals.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.93.128.0/19
-mds.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.224.0/20
-m.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.10.128.0/20
-m.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
-nsx.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.224.0/20
-nsx.sec.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.194.116.0/24
-panup-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.1.192.0/20
-panup.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.1.192.0/20
-pc.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-psapp.updptl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.197.16.0/22
-psnobj.prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-psn-rsc.e1.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.127.160.0/19
-psn-rsc.prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.85.160.0/22
-pspc.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.127.64.0/19
-recorder-clust01-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
-recorder-clust02-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
-resource.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-resource.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.44.208.0/22
-robyn.mo.playstation.net AS16509 AS16509 - AMAZON.COM INC. US 52.40.0.0/14
-s2s.d1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
-s2s.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.44.208.0/22
-s2s.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-s2s.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.64.96.0/20
-s2s.sp-int.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-secure.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-sgs2.e1.scdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-signin.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 96.6.28.0/22
-signin.sit.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.64.96.0/20
-sprite-test.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
+ena.net.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+ep0006-bles02233-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ep0006-bles02250-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ep0006-npeb02045-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ep0017-bces01174-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ep0101-bles02252-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ep1004-bles01807-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ep4950-npeb02222-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+esb01.e1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+esb02.e1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+escher.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+escher-stg.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+es-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+es-ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+eu-vs.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+event.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+event.api.mgmt.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+event.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+event.api.prod-qa.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+event.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+eventcom.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+eventcom.api.mgmt.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+eventcom.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.26.156.0/22
+ext-gps-lvp.np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ext.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+extralife.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+fau01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fau01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fau01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fbr01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fbr01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fcn01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fcn01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fcn01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+feu01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+feu01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+feu01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+filter.br.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+filter.ca.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+filter.fr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+filter.gb.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+filter.sa.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+filter.us.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+fjp01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fjp01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fjp01.ps5.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fjp01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fkr01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fkr01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fkr01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fmx01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fmx01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fmx01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fr-fllw.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+friendfinder.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+friend-list-cpn.ww.e1-np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+friend-list-cpn.ww.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+friend-list-kmj-update.ww.e1-np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+friend-list-kmj-update.ww.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.184.0.0/15
+friend-list-kmj-view.ww.e1-np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+friend-list-kmj-view.ww.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.184.0.0/15
+friend-list-update.ww.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-update.ww.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ae.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ae.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ar.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ar.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.at.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.at.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.au.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.au.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.be.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.be.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.bg.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.bg.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.bh.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.bh.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.bo.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.bo.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.br.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.br.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ca.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ca.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ch.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ch.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.cl.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.cl.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.cn.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.cn.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.co.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.co.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.cr.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.cr.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.cy.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.cy.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.cz.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.cz.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.de.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.de.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.dk.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.dk.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ec.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ec.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.es.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.es.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.eu.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.eu.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.fi.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.fi.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.fr.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.fr.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.gb.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.gb.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.gr.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.gr.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.gt.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.gt.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.hk.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.hk.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.hn.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.hn.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.hr.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.hr.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.hu.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.hu.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.id.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.id.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ie.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ie.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.il.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.il.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.in.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.in.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.is.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.is.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.it.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.it.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.jp.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.jp.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.kr.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.kr.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.kw.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.kw.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.lb.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.lb.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.lu.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.lu.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.mt.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.mt.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.mx.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.mx.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.my.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.my.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ni.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ni.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.nl.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.nl.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.no.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.no.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.nz.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.nz.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.om.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.om.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.pa.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.pa.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.pe.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.pe.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.pl.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.pl.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.pt.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.pt.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.py.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.py.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.qa.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.qa.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ro.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ro.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ru.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ru.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.sa.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.sa.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.se.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.se.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.sg.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.sg.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.si.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.si.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.sk.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.sk.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.sv.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.sv.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.th.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.th.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.tr.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.tr.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.tw.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.tw.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ua.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ua.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.us.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.us.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.uy.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.uy.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.ww.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.ww.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friend-list-view.za.e1-np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+friend-list-view.za.np.communication.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+friends.rnps.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+fru01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fru01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fru01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fsa01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fsa01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fsa01.ps5.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fsa01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fshop01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fswitch.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+ftw01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ftw01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+ftw01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fuk01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fuk01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fuk01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fus01.ps3.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+fus01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fus01.ps5.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+fus01.psp2.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+galactica2.api.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+galactica2.tools.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+gb-evnt-edge.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+gb-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+gb-ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+gb-ntl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+gb-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+geotest.auth.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+get.net.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+getprof.ae.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ar.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.at.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.au.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.be.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.bg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.br.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ca.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ch.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.cl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.cn.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.co.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.cr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.cz.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.de.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.dk.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ec.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.es.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.fi.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.fr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.gb.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.gr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.gt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.hk.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.hn.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.hr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.id.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ie.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.il.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.in.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.it.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.jp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.kw.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.mx.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.my.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.nl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.no.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.nz.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.pa.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.pe.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.pl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.pt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.py.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.qa.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ro.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ru.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.sa.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.sa.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+getprof.se.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.sg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.sv.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.tr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.tw.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.ua.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.us.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.uy.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+getprof.za.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ghost.d1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ghost.e1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ghost.q1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+gps.mgmt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+gs2-sec.ww.e1.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+gs2-sec.ww.prod.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+gs2.ww.e1.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+gs2.ww.prod.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+gs-sec.ww.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.156.0/22
+gs-sec.ww.sp-int.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+gst.prod.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+gs.ww.np.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+gtav.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+guide.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+guide-origin.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+gvs.api.e1-np.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+gvs.api.np.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.184.0.0/15
+gvs.e1-np.lacloud.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+gvs-ext.np.lacloud.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+hakoniwa.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+hau01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+hcn01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+help-system-tools.kodama.e1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+help-system.tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+heu01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+hfs.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+hjp01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+hk-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+hk-ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+hk.np.stun.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+hk-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+hkr01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+hmx01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+homer.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+hru01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+hsa01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+httpiv0001-npxs01001-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+htw01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+huk01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+hus01.ps4.update.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+id-gcd.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+image.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+image.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+imply-pivot-dev.psn.tools.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.213.0.0/16
+imply-pivot.psn.tools.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+infoboard.ww.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+infoboard.xx.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ingester.d1.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ingester.e1.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+ingester-lv.e1.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ingester-lv.mgmt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ingester.mgmt.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+ingester.q1.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+in-gmsgp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+int001-kmj000001-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+int.pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+ip9100-npia00031-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+it-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+iv0001-npxs01001_00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+iv0001-npxs01001-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+iv0001-npxs20992-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+iv0001-npxs29005-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ivf.jp.biz.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 117.104.128.0/19
+ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+j0.upload.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+jp.np.stun.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+kairos-10.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-10-ssl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-18.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-18-ssl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-26.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-33.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-3.dev.dl.playstation.net AS36183 AS36183 - AKAMAI TECHNOLOGIES, INC. US 23.192.228.0/24
+kairos-47.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-4.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-53.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-65-ssl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-67.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-70.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-73.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-82.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-87.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-90-ssl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-92.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-95-ssl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+kairos-ssl-30.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-ssl-32.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-ssl-3.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-ssl-41.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-ssl-52.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kairos-ssl-95.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+kamaji-lvb.auth.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+kamaji-lvp.auth.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+kamajiwt.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+kamajiwt.api.stress.km.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+k.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+kfs.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.26.156.0/22
+kfscdn.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+kiki.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+kiki-dev.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+kiki-qa.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+kiki-stage.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+killzone.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+kr-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+l02.cdn.update.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+language-library.jp.biz.playstation.net AS18068 AS18068 - DREAM WAVE SHIZUOKA CO. LTD. JP 49.143.242.0/23
+leaderboards-dev.e1-np.tools.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.72.0.0/13
+learn.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+legaldoc.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+lfps.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+lfps-us.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+livearea.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+livearea.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+livearea.mgmt.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+livearea.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+livearea.sp-int.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+livegamer.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+livegamer.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+livegamer-lvp.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+livegamer.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+livegamer.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+lookup-20101.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+lookup-20102.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+lookup-20201.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+lookup-20202.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.213.0.0/16
+lookup-20301.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+lookup-20302.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+lookup-20401.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+lookup-20402.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+lookup-21001.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+lookup-21002.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+lookup-21201.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+lookup-21202.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+lookup-22001.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+lookup-22002.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+lookup-22101.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+lookup-22102.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+lookup-40101.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+lookup-40102.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+lookup-40201.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
+lookup-40202.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.77.0.0/16
+lookup-40301.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+lookup-40302.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.246.128.0/17
+lookup-40401.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+lookup-40402.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
+lovefilm.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+ltip01.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ltip02.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ltip03.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ltip04.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ltip05.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.149.0/24
+ltip06.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.149.0/24
+ltip07.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.149.0/24
+ltip08.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ltip09.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.149.0/24
+ltip10.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.149.0/24
+ltip1.auth.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+ltip2.auth.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+ltip.auth.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+ltip-auth-kamaji-lvb.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ltip.commerce.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ltip.native.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+ltip.native-s2s.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+ltip.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+ltip-origin-lvb.auth.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ltip.secure.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+mail.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.215.0/24
+manual.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+manuals.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+mds.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+mds.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+mds.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+mds.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+mds.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+mds.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+mds-origin.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+mds-origin.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+mds-origin.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+mds.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+mds.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+m.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+media.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+media.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+media.q1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+mediaremoteapp-e.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+mercury-1.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-30.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-58.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-60.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-67.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-6.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-85.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-94.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury-98.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mercury.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+mgmt.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+m.mgmt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+m.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+m.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+m.sp-int.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+native-chunk.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.d1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+native.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+native.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+native.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native-ps3.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+native-ps3.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+native-ps3.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native-ps3.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.q1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.q1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native-s2s.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native-s2s.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native-s2s.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native-s2s.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+native-s2s.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+native-s2s.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+native-s2s.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native-s2s.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native-s2s.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native-s2s.q1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native-s2s.q1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native-s2s.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+native.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+native-vita.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+native-vita.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+native-vita.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+native-vita.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ncst.mgmt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ncst.prod-qa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ncst.sp-int.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+ne01.dl.playstation.net AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+neardoc.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+netflix.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+nl-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+nl-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+nowtv.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+npam.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+npam-e.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+npam-test.etc.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+npam-wl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+npmt.d1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt.d1-pmgt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt.d1-pqa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt.d1-spint.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt.e1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+npmt.e1-pmgt.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+npmt.e1-pqa.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+npmt.e1-spint.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+npmt-lv.e1-np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt-lv.e1-pmgt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt-lv.e1-pqa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt-lv.e1-spint.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+npmt-lv.mgmt.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+npmt-lv.np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+npmt-lvp.np.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+npmt-lv.prod-qa.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+npmt-lv.sp-int.tools.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+npmt.mgmt.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+npmt.np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.91.208.0/20
+npmt.prod-qa.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+npmt.q1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+npmt.q1-pmgt.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+npmt.q1-pqa.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+npmt.q1-spint.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+npmt.sp-int.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+ns31.playstation.net AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 193.108.91.0/24
+ns32.playstation.net AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 184.26.160.0/24
+ns33.playstation.net AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 2.22.230.0/24
+ns34.playstation.net AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 95.100.174.0/24
+ns35.playstation.net AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 2.16.130.0/24
+ns36.playstation.net AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 96.7.49.0/24
+ns41.playstation.net AS62597 AS62597 - NSONE INC US 198.51.44.0/24
+ns42.playstation.net AS62597 AS62597 - NSONE INC US 198.51.45.0/24
+ns43.playstation.net AS62597 AS62597 - NSONE INC US 198.51.44.0/24
+ns44.playstation.net AS62597 AS62597 - NSONE INC US 198.51.45.0/24
+nsx-e.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+nsx-e.sec.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.156.0/22
+nsx.mgmt.admin.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+nsx.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+nsx.np.grs.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+nsx.sec.mgmt.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+nsx.sec.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+nsx.sec.prod-qa.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+nsx-tv.sec.mgmt.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+omsk-e.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+oqesn.np.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+p0.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+pacman.e1-np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+pacman.np.tools.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.91.208.0/20
+panup-dev.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+panup.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+partnermanagement.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+partners.dev.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+partners.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+partners-events.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+partners.sit.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+partners.stg.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+party.rnps.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+paypal.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+paypal.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+paypal.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+paypal.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+pc.ps4.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+pc.ps5.update.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+pcs-nonprod.nonprod.pcs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+playroom.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+pl-gmsgp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+pmcamera-apps.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+poseidon.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+post.net.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+prod-qa.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+profile.cn.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+profile.de.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+profile.gb.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+profile.hk.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+profile.jp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+profile.us.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+ps4.e1-np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps4-eb.ww.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.156.0/22
+ps4-eb.xx.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+ps4.mgmt.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps4.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps4.prod-qa.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps4.sp-int.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps4-system.sec.e1-np.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+ps4-system.sec.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+ps4updptl.au.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.br.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.eu.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.jp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.kr.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.mx.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4.updptl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+ps4updptl.ru.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.sa.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4-updptl.sec.e1-np.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+ps4updptl.tw.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.uk.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps4updptl.us.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.108.72.0/22
+ps5.d1-np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps5.e1-np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps5.mgmt.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps5.np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps5.prod-qa.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps5.q1-np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+ps5.sp-int.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+psapp.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+psapp-start.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+psapp.updptl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+psnobj.non-prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+psnobj.prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+psnobj.stage.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+psn-rsc.e1.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+psn-rsc.prod.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+psp2-eb.ww.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.156.0/22
+psp2-eb.xx.np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+psp2-e.np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+psp2.updptl.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+pspc.e1-np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+pss.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+publish.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+push-w2s01.push.ww.np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+qmusic.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+q-np.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+q-pmgt.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+q-pqa.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+q-spint.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+radio.psp.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+ranking-log02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+ranking-log02.ww.sp-int.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+ranking-log-b02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.184.0.0/15
+ranking-log-c02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+ranking-log-d02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+ranking-log-e02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+ranking-log-f02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+ranking-log-g02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+ranking-log-h02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+ranking-log-i02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+ranking-log-k02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.155.0.0/16
+ranking-log-l02.ww.np.community.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+ranking-rec-e01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-rec-f01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-rec-h01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-rec-k01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-rec-l01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-view-e01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-view-f01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-view-g01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-view-h01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-view-k01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ranking-view-l01.u0.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+rc.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+recap-ps3-product-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+recap-vita-product-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+recorder-clust01-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+recorder-clust02-lb.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+recs.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+recs.api.mgmt.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+recs.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+reg.api.km.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+regcam.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+regcam.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+register.dev.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+register.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+register.qa.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+register.sit.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+reg-mobile.ext.p1-np-usw2-01.h.km.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+remoteplay.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+report.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+resource.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+resource.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+resource.d1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+resource.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+resource.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+resource.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+resource.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+resource.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+resource.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+resource-kamaji-lvb.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+resource-kamaji-lvp.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+resource-kamaji.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+resource.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+resource.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+resource-origin.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+resource-origin.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+resource-origin.d1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+resource-origin.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+resource-origin.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+resource-origin.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+resource-origin.q1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+resource.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+resource.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+resource.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+resource.q1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+resource.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+resource.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+richprofile.ext.p1-np-usw2-01.h.km.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+rnps-crl.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+r-np.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+robyn.mo.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+roles.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+r-pmgt.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+r-pqa.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+rpt.msys.playstation.net AS396982 AS396982 - GOOGLE LLC US 34.94.0.0/15
+r-spint.signup.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+ru-evnt-edge.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+ru-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+ru-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+s2s.d1-np.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.58.92.0/24
+s2s.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+s2s.mgmt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+s2s.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+s2s.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+s2s.sp-int.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+sa-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+sa-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+sceerd.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+scei-0.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+sclock.ww.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+scp.auto3.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+scp-iarc.prod.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+sdknav-mx1.ac.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+sdknav-mx2.ac.playstation.net AS7018 AS7018 - AT&T SERVICES, INC. US 199.108.0.0/16
+searchjid.eu.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+searchjid.eu.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+searchjid.jpn.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+searchjid.jpn.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+searchjid.usa.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+secure.api.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+secure.api.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+secure.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+secure.api.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+secure-origin-lvb.api.np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+sensme.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+session-20113.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 18.236.0.0/15
+session-20135.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+session-20235.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+session-20304.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20306.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20309.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20310.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20311.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20312.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20315.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20317.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20318.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20319.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20324.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20326.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20329.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20332.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20336.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-20339.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20341.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20343.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20349.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20350.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20356.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20358.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20359.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20402.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20409.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20413.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20414.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20416.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-20419.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-20422.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20427.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20428.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20434.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20435.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+session-20437.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20438.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20440.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20441.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20442.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20445.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20446.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20447.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20448.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20455.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20456.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-20462.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.68.0.0/15
+session-21001.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21002.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21003.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21004.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21005.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21007.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21009.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21010.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21013.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.191.0.0/16
+session-21014.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.191.0.0/16
+session-21015.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.191.0.0/16
+session-21016.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.191.0.0/16
+session-21017.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21018.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21020.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21022.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21024.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21026.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21027.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21028.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21029.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21030.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21031.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21032.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21033.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21034.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21035.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21036.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21038.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21039.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21041.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21042.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21043.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21044.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21045.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21046.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21048.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21049.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21050.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21051.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21052.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21054.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21056.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21057.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21058.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21059.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21061.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+session-21063.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+session-21201.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21202.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21203.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21204.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21205.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21206.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21208.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21209.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21210.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21211.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+session-21213.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+session-21214.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+session-21215.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+session-22001.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+session-22002.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+session-22003.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-22004.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-22005.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-22006.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-22007.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22008.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22009.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22010.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22011.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22012.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22013.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22014.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22015.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22101.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+session-22102.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+session-22103.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+session-22104.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+session-22105.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22106.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22107.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22108.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22109.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22110.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22111.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22112.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22113.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22114.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-22115.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+session-40206.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+session-40451.ww.np.matching.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
+sf.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+sf.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+sgs2.e1.scdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+sgs2.prod.scdn.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+sgst.prod.dl.playstation.net AS36183 AS36183 - AKAMAI TECHNOLOGIES, INC. US 23.192.228.0/24
+signin.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+signin.sit.pt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+singstar-1.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+singstar-2.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+sk-ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+sn.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+sn.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+sp-int.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+sprite.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+sprite-test.epo.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
 sprite-test-origin.epo.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 117.104.128.0/19
-static-resource.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.73.224.0/19
-static-resource.mgmt.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.44.208.0/22
-static-resource.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.87.4.0/22
-stg2-api.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
-subs.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.1.192.0/20
-theia.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.4.224.0/20
-theia.mgmt.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.3.112.0/20
-theia.prod-qa.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.3.112.0/20
-theia.sp-int.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
-themis.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 104.97.96.0/19
-tmdb.e1-np.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
-tmdb.np.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 69.164.0.0/18
-tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
-ucltickets.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 18.132.0.0/14
-upload.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15
-uvp-assets.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-vl.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.94.208.0/22
-vulcan.dev.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.55.166.0/24
-vulcan.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.120.210.0/24
-vulcan.sp-int.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-web.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.44.208.0/22
-www.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
-www-dev.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/11
-www-stg.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20
+static-resource.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+static-resource.mgmt.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+static-resource.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+static-resource.prod-qa.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+static-resource.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+stg2-api.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/10
+stn.ww.np.cy.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+storage01.ww.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+store.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+store.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+store.d1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+store.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+store.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+store.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+store.e1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+store.e1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+store.e1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+store.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+store.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+store.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+store.q1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+store.q1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+store.q1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+store.q1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+store.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+stun.us.np.stun.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+stun.ww.np.cn.s0.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+subs.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+teslamq01.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+teslamq02.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+teslamq1.e1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+teslamq2.e1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.210.0/24
+test.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+theia.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.26.156.0/22
+theia.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.75.68.0/22
+theia.mgmt.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+theia.prod-qa.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+theia.sp-int.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+themis.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+theplayroomvr.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+titleid.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+tmdb.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+tmdb.mgmt.admin.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+tmdb.np.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+tokikane-test.jp.biz.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+tools.partners.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+tr-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+tridenttoken.psn.tools.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+trophy01.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.192.208.0/22
+trophy.ww.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+tr-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+tr-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+tw-gmsgp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+u0.upload.dl.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+ua-gcd.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+ubstorage01.ww.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+ucltickets.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.176.0.0/15
+up0001-blus30537-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0002-blus30591-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0002-blus30838-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0002-blus31011-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0002-blus31270-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0002-blus31527-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-blus31162-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-blus31410-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-blus31443-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-blus31543-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-blus31593-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-blus31610-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-npub30546-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0006-pcse00013-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0101-blus31598-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up0101-blus31612-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up1004-blus31156-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+up4433-npub31419-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+update.jp.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+upload.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+upload.nonprod.crs.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+us01.dl.playstation.net AS3356 AS3356 - LEVEL 3 PARENT, LLC US 8.240.0.0/12
+us02.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+us-gcd.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+us-gmsg.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+us-gmsg.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+us-ivt.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+us-ivt.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+us.np.stun.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+us-prof.e1-np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+us-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+us-push.e1-np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+uvp-assets.e1-np.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.47.200.0/22
+uvp-media.e1-np.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+v0001-npxs01001-00.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+v-ab.upload.dl.playstation.net AS2914 AS2914 - NTT AMERICA, INC. US 61.213.144.0/20
+venom.e1-mgmt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+venom.e1-np.lacloud.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 54.191.0.0/16
+venom.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+venom.q1-mgmt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+venom.q1-np.lacloud.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+venom.q1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+video.dl.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.224.0/19
+videoeditor.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+view.eu.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.31.24.0/22
+view.eu.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+view.jp.sp-int.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.78.144.0/20
+viruswall.superduper.ce.playstation.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+vitacl.ww.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+vitacl.xx.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+vl.api.e1-np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+vl.api.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+vl.api.np.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+vl.api.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+vl.api.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+vl.api.sp-int.km.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+vouchers.mgmt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+vouchers.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+vouchers.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.50.0.0/20
+vouchers.sp-int.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+vpn.jp.biz.playstation.net AS55901 AS55901 - SONY COMPUTER ENTERTAINMENT INC JP 103.123.136.0/22
+vshvideo.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+vuabstest.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+vulcan.dev.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+vulcan.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+vulcan.sp-int.dev.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+vulcan.sp-int.dl.playstation.net AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 104.99.238.0/23
+walkman-e.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+wboard.ww.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+web.e1-np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+web.mgmt.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+web.np.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+web.prod-qa.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+web.sp-int.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+whatsnewj.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+wild.auth.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.d1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.d1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.d1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.d3-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+wild.auth.e1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.e1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.e1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.e1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.mgmt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild.auth.prod-qa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild.auth.q1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.q1-pmgt.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.q1-pqa.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.q1-spint.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild.auth.sp-int.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild.d1-np.ac.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+wild-origin.auth.d1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild-origin.auth.d1-pmgt.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild-origin.auth.d1-pqa.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+wild-origin.auth.d1-spint.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+ww.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+www.auth.e1-np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+www.auth.np.ac.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+www-dev.upro.playstation.net AS4713 AS4713 - NTT COMMUNICATIONS CORPORATION JP 153.128.0.0/10
+ww-web-push.np.communication.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+www.register.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.84.0/23
+www.signup.playstation.net AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+www-stg.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
 www.ucltickets.playstation.net AS16509 AS16509 - AMAZON.COM, INC. US 35.176.0.0/15
-www.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.10.128.0/20
+www.upro.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+xmb.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+xmb-e.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23
+za-prof.np.community.playstation.net AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.7.42.0/23
+zeus.dl.playstation.net AS22822 AS22822 - LIMELIGHT NETWORKS, INC. US 208.111.152.0/23

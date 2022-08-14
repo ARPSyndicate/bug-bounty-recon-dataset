@@ -1,2 +1,9 @@
-huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
-thespoils.huffpost.co.uk AS54113 AS54113 - FASTLY US 199.232.36.0/22
+contributor.huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.contributor.huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.thespoils.huffpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+search.huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+staging.contributor.huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+staging.thespoils.huffpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+thespoils.huffpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+www.huffpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21

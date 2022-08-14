@@ -1,0 +1,25 @@
+origin-pollster.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+origin-staging-pollster.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 23.22.0.0/15
+production-chaski-public.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+production-elections-varnish-autoscale.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 107.22.0.0/16
+production-hector.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+production-hector-varnish.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+production-janus.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 100.24.0.0/13
+production-kraken-preview.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 204.236.224.0/19
+production-kraken-valencia-preview.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+production-leak.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.44.0.0/15
+production-widget.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
+puppet-assets.huffpo.net AS16509 AS16509 - AMAZON.COM, INC. US 54.231.159.0/24
+qa-hector.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+qa-janus.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+qa-userapi-api.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+rpms.huffpo.net AS16509 AS16509 - AMAZON.COM, INC. US 54.231.131.0/24
+staging-athena-image.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
+staging-elections-varnish-autoscale.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+staging-hector.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
+staging-janus.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+staging-kraken-preview.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
+staging-kraken-valencia-preview.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+staging-leak.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+staging-origin-life-ats.huffpo.net AS36647 AS36647 - OATH HOLDINGS INC. US 67.195.231.0/24
+staging-userapi-api.use1.huffpo.net AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12

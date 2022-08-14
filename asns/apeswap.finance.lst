@@ -19,7 +19,7 @@ dex.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 dex-evelynn.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 dex-s.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 dextrial.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
-discuss.apeswap.finance AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+discuss.apeswap.finance AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
 docs.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 e-graph.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 ethereum.info.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
@@ -102,7 +102,7 @@ testing1monitor2.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.
 testnet.dex.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 twitchgraph.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 vosecure.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
-vote.apeswap.finance AS60068 AS60068 - DATACAMP LIMITED GB 138.199.40.0/23
+vote.apeswap.finance AS60068 AS60068 - DATACAMP LIMITED GB 185.93.1.0/24
 westeurope-graph.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 www.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 xn--app-2y6a.apeswap.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24

@@ -9,6 +9,7 @@
 -1132923558	ok-status	http://admin-staging-8njb.shopifycloud.com/
 -1132923558	ok-status	http://admin-staging-c0n6.shopifycloud.com/
 -1132923558	ok-status	http://admin-staging-d9f2.shopifycloud.com/
+-1132923558	ok-status	http://admin-staging-ezky.shopifycloud.com/
 -1132923558	ok-status	http://admin-staging-pz8w.shopifycloud.com/
 -1132923558	ok-status	http://admin-staging.shopifycloud.com/
 -1132923558	ok-status	http://admin-staging-sxyc.shopifycloud.com/
@@ -19,7 +20,6 @@
 -1132923558	ok-status	http://org-admin-web-staging-4.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-5.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-7won.shopifycloud.com/
--1132923558	ok-status	http://org-admin-web-staging-c0n6.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-d9f2.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-ezky.shopifycloud.com/
 -1132923558	ok-status	http://org-admin-web-staging-pz8w.shopifycloud.com/
@@ -36,6 +36,7 @@
 -1132923558	ok-status	https://admin-staging-8njb.shopifycloud.com/
 -1132923558	ok-status	https://admin-staging-c0n6.shopifycloud.com/
 -1132923558	ok-status	https://admin-staging-d9f2.shopifycloud.com/
+-1132923558	ok-status	https://admin-staging-ezky.shopifycloud.com/
 -1132923558	ok-status	https://admin-staging-pz8w.shopifycloud.com/
 -1132923558	ok-status	https://admin-staging.shopifycloud.com/
 -1132923558	ok-status	https://admin-staging-sxyc.shopifycloud.com/
@@ -46,7 +47,6 @@
 -1132923558	ok-status	https://org-admin-web-staging-4.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-5.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-7won.shopifycloud.com/
--1132923558	ok-status	https://org-admin-web-staging-c0n6.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-d9f2.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-ezky.shopifycloud.com/
 -1132923558	ok-status	https://org-admin-web-staging-pz8w.shopifycloud.com/
@@ -68,6 +68,7 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging-8njb.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging-c0n6.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging-d9f2.shopifycloud.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging-ezky.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging-pz8w.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://admin-staging-sxyc.shopifycloud.com/
@@ -78,7 +79,6 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-4.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-5.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-7won.shopifycloud.com/
-7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-c0n6.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-d9f2.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-ezky.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://org-admin-web-staging-pz8w.shopifycloud.com/
@@ -95,6 +95,7 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging-8njb.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging-c0n6.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging-d9f2.shopifycloud.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging-ezky.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging-pz8w.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://admin-staging-sxyc.shopifycloud.com/
@@ -105,7 +106,6 @@
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-4.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-5.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-7won.shopifycloud.com/
-7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-c0n6.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-d9f2.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-ezky.shopifycloud.com/
 7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://org-admin-web-staging-pz8w.shopifycloud.com/

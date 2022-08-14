@@ -1442,6 +1442,8 @@ prod.csm.ops.gs.com
 prod-data-plane.iamhub-services.site.gs.com
 prod-emea.dashmobile.site.gs.com
 prod.eum.appd.gs.com
+prod.externalapi.ibdcloud.site.gs.com
+prod.externalapi.ibd.gs.com
 prod.gstransact.gs.com
 prod.jamstack.sitehostingdemo.gs.com
 prod.mdm.gs.com

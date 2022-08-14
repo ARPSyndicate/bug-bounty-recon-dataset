@@ -1,1 +1,7 @@
+autodiscover.teslainsuranceservices.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
+link.teslainsuranceservices.com AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+pm-bounces.teslainsuranceservices.com AS14061 AS14061 - DIGITALOCEAN, LLC US 138.197.16.0/20
+stage-assets.teslainsuranceservices.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+stage.teslainsuranceservices.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 static-assets.teslainsuranceservices.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.72.0/21
+www.teslainsuranceservices.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13

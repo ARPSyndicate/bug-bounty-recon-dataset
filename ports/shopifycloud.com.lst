@@ -5442,6 +5442,7 @@
 [https] probot-shopify-production-web-apps-us-central1-2.shopifycloud.com:443
 [https] probot-shopify.shopifycloud.com:443
 [https] prodex-game-day-2021.shopifycloud.com:443
+[https] production-app-store-unrestricted-x6j0.shopifycloud.com:443
 [https] production-change-visualization.shopifycloud.com:443
 [https] production-deploys-demo-app.shopifycloud.com:443
 [https] production-platform-productio-htaqtz65-management-us-central1-3.shopifycloud.com:443
@@ -6127,6 +6128,7 @@
 [https] spy-v2-staging.shopifycloud.com:443
 [https] spy-v2-staging-unrestricted-slack-api-apps-b-us-central1-8.shopifycloud.com:443
 [https] ssew-test.shopifycloud.com:443
+[https] staging-unrestricted-1yr4.shopifycloud.com:443
 [https] stargazer.growth-labs.shopifycloud.com:443
 [https] starmix.growth-labs.shopifycloud.com:443
 [https] starmix-v2.growth-labs.shopifycloud.com:443

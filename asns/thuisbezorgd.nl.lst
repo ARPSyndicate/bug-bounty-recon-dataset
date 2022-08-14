@@ -1,55 +1,59 @@
-azan.test.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-beta.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-blog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-bonuswinkel.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+acc-shop.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
+acc-vendors-shop.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+azan.test.thuisbezorgd.nl AS43350 AS43350 - NFORCE ENTERTAINMENT B.V. NL 151.236.14.0/24
+beta.shop.thuisbezorgd.nl AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
+beta.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+blog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+bonuswinkel.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
 click.update.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 cloud.update.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 connect.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 connect-tv.thuisbezorgd.nl AS8075 AS8075 - MICROSOFT CORPORATION US 65.52.0.0/14
-dominos.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-downloads.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+dominos.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+downloads.thuisbezorgd.nl AS20857 AS20857 - SIGNET B.V. NL 185.10.48.0/22
 emails.restaurants.thuisbezorgd.nl AS24940 AS24940 - HETZNER ONLINE GMBH DE 49.12.0.0/16
-enquete.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-faxserve.thuisbezorgd.nl AS3265 AS3265 - XS4ALL INTERNET BV NL 82.92.0.0/14
-foodtracker.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-image.update.thuisbezorgd.nl AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-imap.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
-join.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-live-orders.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-mail.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
-minisite.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-mobiel.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+enquete.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+events.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 35.71.128.0/20
+faxserve.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.155.0.0/16
+foodtracker.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+image.update.thuisbezorgd.nl AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+join.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+legacy-shop.thuisbezorgd.nl AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
+live-orders.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+loyaltyshop.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+minisite.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+mobiel.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
 mta.update.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
-m.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-newsletter.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+m.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
 ns1.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 ns2.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
 ns3.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.240.0.0/13
-orderprocessing2.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-orderprocessing.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+orderprocessing2.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+orderprocessing.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
 pages.update.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
-partnerblog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-pizzaweb.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-pop3.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
-pop.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
-restaurants.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-restaurant.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-ribrunner.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+partnerblog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+pizzaweb.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+restaurants.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+restaurant.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
+ribrunner.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
 shop.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.48.0/20
-smtp.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.18.0.0/15
-static.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-stats.thuisbezorgd.nl AS3265 AS3265 - XS4ALL INTERNET BV NL 82.92.0.0/14
-subfolder-proxy-drivers.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-subfolder-proxy-lb.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
-subfolder-proxy-partnerblog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-tacomundo.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-tags.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
-tealium.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+static.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+stats.thuisbezorgd.nl AS20857 AS20857 - SIGNET B.V. NL 185.10.48.0/22
+subfolder-proxy-drivers.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+subfolder-proxy-lb.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 63.32.0.0/14
+subfolder-proxy-partnerblog.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+tacomundo.thuisbezorgd.nl AS43350 AS43350 - NFORCE ENTERTAINMENT B.V. NL 151.236.14.0/24
+tags.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+tealium.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24
+test-shop.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.0.0/20
+testshop.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.22.48.0/20
 test.shop.thuisbezorgd.nl AS34762 AS34762 - COMBELL NV BE 83.217.64.0/19
-test.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-thuisbezorgd.nl AS54113 AS54113 - FASTLY US 151.101.192.0/22
-tv.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+test.thuisbezorgd.nl AS43350 AS43350 - NFORCE ENTERTAINMENT B.V. NL 151.236.14.0/24
+test-vendors-shop.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+thuisbezorgd.nl AS54113 AS54113 - FASTLY, INC. US 151.101.128.0/22
+tv.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.43.0/24
 update.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
+vendors-shop.thuisbezorgd.nl AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
 view.update.thuisbezorgd.nl AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 webmail.thuisbezorgd.nl AS3265 AS3265 - XS4ALL INTERNET BV NL 82.92.0.0/14
-www.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+www.thuisbezorgd.nl AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.144.0/24

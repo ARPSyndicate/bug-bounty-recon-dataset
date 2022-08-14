@@ -1,4 +1,5 @@
-guce.buildseries.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
-stage.guce.buildseries.com AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
-trunk.guce.buildseries.com AS16509 AS16509 - AMAZON.COM, INC. US 54.212.0.0/16
-www.buildseries.com AS26101 AS26101 - OATH HOLDINGS INC. US 74.6.136.0/24
+buildseries.com AS34010 AS34010 - YAHOO! UK SERVICES LIMITED GB 212.82.100.0/24
+guce.buildseries.com AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+stage.guce.buildseries.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+trunk.guce.buildseries.com AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+www.buildseries.com AS36647 AS36647 - OATH HOLDINGS INC. US 98.136.103.0/24

@@ -1,5 +1,19 @@
-chaski.huffingtonpost.co.uk AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
-huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+chaski.huffingtonpost.co.uk AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+home.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+horizon.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 76.223.16.0/20
+huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 link.huffingtonpost.co.uk AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-m.huffingtonpost.co.uk AS54113 AS54113 - FASTLY US 199.232.36.0/22
-www.huffingtonpost.co.uk AS54113 AS54113 - FASTLY US 199.232.36.0/22
+makers.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+m.huffingtonpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+preview.www.huffingtonpost.co.uk AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+projects.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+qa.m.huffingtonpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+qa.search.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.www.huffingtonpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+search.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+sourced.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+staging.preview.www.huffingtonpost.co.uk AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+staging.search.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+staging.www.huffingtonpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+thegauge.huffingtonpost.co.uk AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+www.huffingtonpost.co.uk AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22

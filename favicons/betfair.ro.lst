@@ -2,6 +2,7 @@
 1099596916	betfair	http://betfair.ro:2082/
 1099596916	betfair	http://betfair.ro:8080/
 1099596916	betfair	http://betfair.ro:8880/
+1099596916	betfair	http://cashout-service.betfair.ro/
 1099596916	betfair	http://cashrace.betfair.ro/
 1099596916	betfair	http://cashrace.betfair.ro:8080/
 1099596916	betfair	http://livevideo.betfair.ro/
@@ -24,6 +25,7 @@
 1099596916	betfair	https://betfair.ro:2083/
 1099596916	betfair	https://betfair.ro:2087/
 1099596916	betfair	https://betfair.ro:8443/
+1099596916	betfair	https://cashout-service.betfair.ro/
 1099596916	betfair	https://cashrace.betfair.ro/
 1099596916	betfair	https://identitysso.betfair.ro/
 1099596916	betfair	https://livevideo.betfair.ro/
@@ -54,17 +56,11 @@
 1099596916	betfair	http://upload.betfair.ro:8080/
 1099596916	betfair	http://www.betfair.ro/
 1099596916	betfair	http://www.betfair.ro:8080/
-116323821	springboot	http://mypromos.betfair.ro/
-116323821	springboot	http://mypromos.betfair.ro:8080/
-116323821	springboot	https://mypromos.betfair.ro/
-1772087922	asp.net favicon	http://simulator.betfair.ro/
-1772087922	asp.net favicon	https://simulator.betfair.ro/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://simulator.betfair.ro/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://simulator.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.ro:2082/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.ro:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.ro:8880/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://cashout-service.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://cashrace.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://cashrace.betfair.ro:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://livevideo.betfair.ro/
@@ -87,6 +83,7 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.ro:2083/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.ro:2087/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://betfair.ro:8443/
+e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://cashout-service.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://cashrace.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://identitysso.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://livevideo.betfair.ro/
@@ -117,6 +114,3 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://upload.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://upload.betfair.ro:8080/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.ro/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.ro:8080/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mypromos.betfair.ro/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mypromos.betfair.ro:8080/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://mypromos.betfair.ro/

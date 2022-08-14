@@ -229,6 +229,10 @@ http://developers.shopify.com:2086
 http://developers.shopify.com:8080
 http://developers.shopify.com:8880
 http://dev.shopify.com
+http://dev.shopify.com:2082
+http://dev.shopify.com:2086
+http://dev.shopify.com:8080
+http://dev.shopify.com:8880
 http://devs.shopify.com
 http://dksonlineshoppe.shopify.com
 http://dksonlineshoppe.shopify.com:8080
@@ -856,6 +860,7 @@ https://developers.shopify.com:2083
 https://developers.shopify.com:2087
 https://developers.shopify.com:8443
 https://dev.shopify.com
+https://dev.shopify.com:2087
 https://devs.shopify.com
 https://dksonlineshoppe.shopify.com
 https://dksonlineshoppe.shopify.com:8443

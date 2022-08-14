@@ -1,6 +1,4 @@
-http://hr.semrush.net [301] [GET] [text/html] [301 Moved Permanently] [nginx/1.19.9] [Nginx] [2238b51133ed2ad269c94050c90886bd]
+http://hr.semrush.net [301] [GET] [text/html] [301 Moved Permanently] [nginx/1.19.9] [Nginx:1.19.9] [2238b51133ed2ad269c94050c90886bd]
 https://i-test.semrush.net [200] [GET] [text/html] [] [Google Frontend] [google] [Express,Google App Engine,Google Cloud,Google Cloud CDN,Google Cloud Trace,Node.js] [c5c1d52e453f5b3b27ab24076b1c6392]
 https://kb-rc.semrush.net [302] [GET] [] [] [] [vhost] [google] [d41d8cd98f00b204e9800998ecf8427e]
 https://kb.semrush.net [302] [GET] [] [] [] [vhost] [google] [d41d8cd98f00b204e9800998ecf8427e]
-http://spb.semrush.net [301] [GET] [] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
-http://usa.semrush.net [301] [GET] [] [] [AmazonS3] [vhost] [Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]

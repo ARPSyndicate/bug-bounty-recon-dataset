@@ -43,8 +43,11 @@ admin-testci.fallguys-dev.oncatapult.com
 admin-testci.kittens-dev.oncatapult.com
 admin-testci.moncton-dev.oncatapult.com
 admin-tool-api-clientdev.fallguys-dev.oncatapult.com
+admin-tool-api-compatqa.fallguys-dev.oncatapult.com
 admin-tool-api-externalqa.fallguys-dev.oncatapult.com
+admin-tool-api-internalqa.fallguys-dev.oncatapult.com
 admin-tool-api-loadtest2.fallguys-dev.oncatapult.com
+admin-tool-api-mobileqa.fallguys-dev.oncatapult.com
 admin-tool-api-porting.fallguys-dev.oncatapult.com
 admin-tool-api-unstable.fallguys-dev.oncatapult.com
 admin-unstable.fallguys-dev.oncatapult.com

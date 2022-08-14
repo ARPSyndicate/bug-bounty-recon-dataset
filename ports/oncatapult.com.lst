@@ -40,8 +40,11 @@
 [https] admin-staging.fallguys.oncatapult.com:443
 [https] admin-testci.fallguys-dev.oncatapult.com:443
 [https] admin-tool-api-clientdev.fallguys-dev.oncatapult.com:443
+[https] admin-tool-api-compatqa.fallguys-dev.oncatapult.com:443
 [https] admin-tool-api-externalqa.fallguys-dev.oncatapult.com:443
+[https] admin-tool-api-internalqa.fallguys-dev.oncatapult.com:443
 [https] admin-tool-api-loadtest2.fallguys-dev.oncatapult.com:443
+[https] admin-tool-api-mobileqa.fallguys-dev.oncatapult.com:443
 [https] admin-tool-api-porting.fallguys-dev.oncatapult.com:443
 [https] admin-tool-api-unstable.fallguys-dev.oncatapult.com:443
 [https] admin-unstable.fallguys-dev.oncatapult.com:443

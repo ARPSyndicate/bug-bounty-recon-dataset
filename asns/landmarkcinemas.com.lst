@@ -1,41 +1,41 @@
 as.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
-autodiscover.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 207.148.128.0/18
-birthdays.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
+autodiscover.landmarkcinemas.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
+birthdays.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
 bookingapi.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 bookingapistage.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
 booking.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
-branding.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+branding.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 cms.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 contest.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
-extras.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+extras.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 filmdb.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 filmdbstage.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
-globalization-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-go.landmarkcinemas.com AS15169 AS15169 - GOOGLE LLC US 35.240.0.0/14
-identityserver-acc.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-identityserver.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+globalization-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+go.landmarkcinemas.com AS396982 AS396982 - GOOGLE LLC US 35.241.176.0/20
+identityserver-acc.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+identityserver.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 infomail.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.112.0/20
 innovation.landmarkcinemas.com AS26496 AS26496 - GODADDY.COM, LLC US 97.74.232.0/21
 landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
-loyaltycard-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+loyaltycard-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 mail.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 207.148.128.0/18
 mailout-m.landmarkcinemas.com AS200484 AS200484 - SENDINBLUE SAS FR 213.32.132.0/23
 mailout-t.landmarkcinemas.com AS200484 AS200484 - SENDINBLUE SAS FR 213.32.132.0/23
 m.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 movieapi.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
-moviecard-connection.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-moviecard.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+moviecard-connection.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+moviecard.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 pc.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
-peach.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
+peach.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
 portal.landmarkcinemas.com AS26496 AS26496 - GODADDY.COM, LLC US 97.74.232.0/21
 r.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.48.0/20
-stage.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
+stage.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.0.0/20
 survey.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.112.0/20
 tickets.landmarkcinemas.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.17.112.0/20
-userprofile-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-userprofile-ui-acc.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-userprofile-ui.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-wallet.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
+userprofile-api.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+userprofile-ui-acc.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+userprofile-ui.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+wallet.landmarkcinemas.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 web1.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 web2.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16
 web3.landmarkcinemas.com AS852 AS852 - TELUS COMMUNICATIONS INC. CA 205.206.0.0/16

@@ -154,6 +154,7 @@
 [cddbp-alt] believeatlanta.att.com:8880
 [cddbp-alt] believechicago.att.com:8880
 [cddbp-alt] believeneworleans.att.com:8880
+[cddbp-alt] electronics.att.com:8880
 [cddbp-alt] midatlanticregion.att.com:8880
 [cddbp-alt] pennsylvania.att.com:8880
 [cddbp-alt] southcarolina.att.com:8880
@@ -183,6 +184,7 @@
 [cisco-sccp] www.raptor-alt.pr.labs.voicetone.att.com:2000
 [cisco-sccp] www.telephones.att.com:2000
 [cisco-sccp] youshare.att.com:2000
+[clearvisn] electronics.att.com:2052
 [clearvisn] pennsylvania.att.com:2052
 [clearvisn] southwestregion.att.com:2052
 [commplex-link] ai-plfmdev.digitallife.att.com:5001
@@ -328,6 +330,7 @@
 [eli] believeatlanta.att.com:2087
 [eli] believechicago.att.com:2087
 [eli] believeneworleans.att.com:2087
+[eli] electronics.att.com:2087
 [eli] midatlanticregion.att.com:2087
 [eli] pennsylvania.att.com:2087
 [eli] southcarolina.att.com:2087
@@ -412,6 +415,7 @@
 [gnunet] believeatlanta.att.com:2086
 [gnunet] believechicago.att.com:2086
 [gnunet] believeneworleans.att.com:2086
+[gnunet] electronics.att.com:2086
 [gnunet] midatlanticregion.att.com:2086
 [gnunet] pennsylvania.att.com:2086
 [gnunet] southcarolina.att.com:2086
@@ -7179,6 +7183,7 @@
 [infowave] believeatlanta.att.com:2082
 [infowave] believechicago.att.com:2082
 [infowave] believeneworleans.att.com:2082
+[infowave] electronics.att.com:2082
 [infowave] midatlanticregion.att.com:2082
 [infowave] pennsylvania.att.com:2082
 [infowave] southcarolina.att.com:2082
@@ -7254,6 +7259,7 @@
 [knetd] believeatlanta.att.com:2053
 [knetd] believechicago.att.com:2053
 [knetd] believeneworleans.att.com:2053
+[knetd] electronics.att.com:2053
 [knetd] midatlanticregion.att.com:2053
 [knetd] pennsylvania.att.com:2053
 [knetd] southcarolina.att.com:2053
@@ -7388,6 +7394,7 @@
 [mysql] www.pr.labs.voicetone.att.com:3306
 [mysql] www.raptor-alt.pr.labs.voicetone.att.com:3306
 [mysql] youshare.att.com:3306
+[nbx-dir] electronics.att.com:2096
 [nbx-dir] pennsylvania.att.com:2096
 [nbx-ser] alabama.att.com:2095
 [nbx-ser] alaska.att.com:2095
@@ -7396,6 +7403,7 @@
 [nbx-ser] believeatlanta.att.com:2095
 [nbx-ser] believechicago.att.com:2095
 [nbx-ser] believeneworleans.att.com:2095
+[nbx-ser] electronics.att.com:2095
 [nbx-ser] midatlanticregion.att.com:2095
 [nbx-ser] pennsylvania.att.com:2095
 [nbx-ser] southcarolina.att.com:2095
@@ -7598,6 +7606,7 @@
 [radsec] believeatlanta.att.com:2083
 [radsec] believechicago.att.com:2083
 [radsec] believeneworleans.att.com:2083
+[radsec] electronics.att.com:2083
 [radsec] midatlanticregion.att.com:2083
 [radsec] pennsylvania.att.com:2083
 [radsec] southcarolina.att.com:2083

@@ -1,55 +1,32 @@
 116323821	springboot	https://shm-va-services.stage.att.com/
 116323821	springboot	https://wat-enhanced-rm.uc.att.com/
--1255347784	angular io (angularjs)	http://access.att.com/
--1255347784	angular io (angularjs)	http://dmp.att.com/
 -1255347784	angular io (angularjs)	http://expressportal.att.com/
--1255347784	angular io (angularjs)	http://hraccess.att.com/
--1255347784	angular io (angularjs)	https://access.att.com/
--1255347784	angular io (angularjs)	https://dmp.att.com/
--1255347784	angular io (angularjs)	https://dmp.wireless.att.com/
+-1255347784	angular io (angularjs)	http://ixsp.att.com/
 -1255347784	angular io (angularjs)	https://expressportal.att.com/
--1255347784	angular io (angularjs)	https://hraccess.att.com/
--1255347784	angular io (angularjs)	https://stayintouch.att.com/
--1255347784	angular io (angularjs)	http://stayintouch.att.com/
-1262005940	jamf pro login	http://jss-intl.att.com:8080/
-1262005940	jamf pro login	http://jss.intl.att.com:8080/
-1262005940	jamf pro login	https://jss.dp.att.com:8443/
+-1255347784	angular io (angularjs)	https://ixsp.att.com/
+-1255347784	angular io (angularjs)	https://usf.att.com/
+-1255347784	angular io (angularjs)	http://usf.att.com/
 1262005940	jamf pro login	https://jss-intl.att.com/
 1262005940	jamf pro login	https://jss.intl.att.com/
 1433417005	salesforce	http://alliancepartnersolutions.att.com/
-1433417005	salesforce	http://apiexchange-akamai.att.com/
-1433417005	salesforce	http://apiexchange.att.com/
-1433417005	salesforce	http://apiexchange-dev-akamai.att.com/
-1433417005	salesforce	http://apiexchange-dev.att.com/
 1433417005	salesforce	http://partnerexchange.att.com/
 1433417005	salesforce	https://alliancepartnersolutions.att.com/
-1433417005	salesforce	https://apiexchange-akamai.att.com/
-1433417005	salesforce	https://apiexchange.att.com/
-1433417005	salesforce	https://apiexchange-dev-akamai.att.com/
-1433417005	salesforce	https://apiexchange-dev.att.com/
 1433417005	salesforce	https://partnerexchange.att.com/
 1726027799	ibm server	http://osstoolbar-sat1.att.com/
-1726027799	ibm server	https://mobilegtwy.att.com/
-1726027799	ibm server	https://mobilegwstg.att.com/
-1726027799	ibm server	https://mobilegwtst.att.com/
 1726027799	ibm server	https://osstoolbar-sat1.att.com/
 1772087922	asp.net favicon	http://admin-workforcemanager.att.com/
 1772087922	asp.net favicon	http://login-workforcemanager.att.com/
 1772087922	asp.net favicon	https://admin-workforcemanager.att.com/
-1772087922	asp.net favicon	https://attuniversity.att.com/
 1772087922	asp.net favicon	https://attuniversity.az.cloud.att.com/
 1772087922	asp.net favicon	https://comrest-directvcommercial.att.com/
 1772087922	asp.net favicon	https://es.mst.att.com/
 1772087922	asp.net favicon	https://login-workforcemanager.att.com/
 1772087922	asp.net favicon	https://workforcemanager.att.com/
 1772087922	asp.net favicon	http://workforcemanager.att.com/
--2009722838	react	http://protectadvantage.att.com/
--2009722838	react	https://protectadvantage.att.com/
 -297069493	apache tomcat	https://api-iotdevice.att.com/
 -297069493	apache tomcat	https://cloudapi.synaptic.att.com/
 -297069493	apache tomcat	https://hc-analytics.idp.clogin.att.com/
 -297069493	apache tomcat	https://npwtsmartorigin.att.com/
--297069493	apache tomcat	https://npwtsmartorigin-test.att.com/
 -297069493	apache tomcat	https://restapi19.att.com/
 362091310	mobileiron	http://mdm03.dp.att.com:8080/
 362091310	mobileiron	http://retail2.dp.att.com:8080/
@@ -60,7 +37,6 @@
 362091310	mobileiron	https://mdm03.dp.att.com/
 362091310	mobileiron	https://mdm05.dp.att.com/
 362091310	mobileiron	https://mdm06.dp.att.com/
-362091310	mobileiron	https://mdm08.dp.att.com/
 362091310	mobileiron	https://mdmbyo.dp.att.com/
 362091310	mobileiron	https://mdmcim.dp.att.com/
 362091310	mobileiron	https://mdment01.dp.att.com/
@@ -77,7 +53,6 @@
 728788645	ibm notes	http://mdnsdom1.mdns.att.com/
 728788645	ibm notes	https://mdnsdom1.mdns.att.com/
 81586312	jenkins	https://jenkins-directvcommercial.test.att.com/
-81586312	jenkins	https://portal-west.flow.cloud.att.com/
 855273746	jira	http://darp-jira.test.att.com/
 855273746	jira	http://jira.darp.att.com/
 855273746	jira	https://darp-jira.test.att.com/
@@ -106,8 +81,6 @@
 97604680	tandberg	https://abot-cl1-expe.abbottvideo.att.com/
 -991123252	vmware horizon	https://agsdesktop.att.com/
 -991123252	vmware horizon	https://agsdesktop.att.com:443/
--991123252	vmware horizon	https://h-135-207-255-89.research.att.com/
--991123252	vmware horizon	https://horizon7.research.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin-workforcemanager.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://login-workforcemanager.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin-workforcemanager.att.com/

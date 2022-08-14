@@ -1,5 +1,7 @@
+116323821	springboot	http://activatecablecard.xfinity.com/
 116323821	springboot	http://iota-staging.xfinity.com/
 116323821	springboot	http://iota.xfinity.com/
+116323821	springboot	https://activatecablecard.xfinity.com/
 116323821	springboot	http://service-xcam-stg.xh-onboarding.xfinity.com/
 116323821	springboot	http://service-xcam.xh-onboarding.xfinity.com/
 116323821	springboot	https://fedsp-1p.gslb4.xfinity.com/
@@ -10,20 +12,18 @@
 116323821	springboot	https://service-xcam.xh-onboarding.xfinity.com/
 116323821	springboot	https://wwxh-service-prod.xh-onboarding.xfinity.com/
 116323821	springboot	http://wwxh-service-prod.xh-onboarding.xfinity.com/
-1611729805	elastic (database)	http://lmtp-ch2g.ge.xfinity.com:9200/
--1666561833	wildfly	https://swan.ge.xfinity.com/
 1772087922	asp.net favicon	http://api.ch2.prd.xfinity.com/
 1772087922	asp.net favicon	http://api.pdc.prd.xfinity.com/
-1772087922	asp.net favicon	http://cms9-build.sbox.xfinity.com/
 1772087922	asp.net favicon	http://dwk-comet-prod.cmp.xfinity.com/
 1772087922	asp.net favicon	http://portal.52538.cmp.xfinity.com/
 1772087922	asp.net favicon	http://portal.cmp.xfinity.com/
+1772087922	asp.net favicon	http://prodtest.xapi.int.xfinity.com/
 1772087922	asp.net favicon	http://sc.cmp.xfinity.com/
-1772087922	asp.net favicon	https://cms9-build.sbox.xfinity.com/
 1772087922	asp.net favicon	https://dwk-comet-prod.cmp.xfinity.com/
 1772087922	asp.net favicon	https://portal.52538.cmp.xfinity.com/
 1772087922	asp.net favicon	https://portal.cmp.xfinity.com/
 1772087922	asp.net favicon	https://prodtest.xapi.int.xfinity.com/
+1772087922	asp.net favicon	https://sc.cmp.xfinity.com/
 1772087922	asp.net favicon	https://xapi.int.xfinity.com/
 1772087922	asp.net favicon	https://xapi.stg.xfinity.com/
 1772087922	asp.net favicon	http://xapi.ch2.prd.xfinity.com/
@@ -34,8 +34,6 @@
 -2009722838	react	http://prod.mdu.xfinity.com/
 -2009722838	react	http://qa.mdu.xfinity.com/
 -2009722838	react	https://dev.mdu.xfinity.com/
--2009722838	react	https://doorbell-x1-dev.cac.xfinity.com/
--2009722838	react	https://doorbell-x1-stage.cac.xfinity.com/
 -2009722838	react	http://service-admin-east.xoe.xfinity.com/
 -2009722838	react	https://prod.mdu.xfinity.com/
 -2009722838	react	https://qa.mdu.xfinity.com/
@@ -60,206 +58,144 @@
 -629047854	jetty 404	https://xtv-pil.xfinity.com/
 -629047854	jetty 404	http://xdn.xfinity.com/
 -629047854	jetty 404	http://xtv-pil.xfinity.com/
--85386425	xfinity	http://acadeals.xfinity.com/
 -85386425	xfinity	http://cdn-ion.cws.xfinity.com/
--85386425	xfinity	http://cms9-build.stg.xfinity.com/
--85386425	xfinity	http://cms9-build.xfinity.com/
 -85386425	xfinity	http://compat.www.int.xfinity.com/
+-85386425	xfinity	http://compat.xapi.int.xfinity.com/
 -85386425	xfinity	http://ed.xfinity.com/
 -85386425	xfinity	http://es.stg.xfinity.com/
 -85386425	xfinity	http://es.xfinity.com/
 -85386425	xfinity	http://finder.wifi.xfinity.com/
 -85386425	xfinity	http://flex.xfinity.com/
--85386425	xfinity	http://getxfinity.xfinity.com/
--85386425	xfinity	http://jss-build.stg.xfinity.com/
--85386425	xfinity	http://jss-build.xfinity.com/
 -85386425	xfinity	http://jss.dev.xfinity.com/
 -85386425	xfinity	http://jss.ft1.xfinity.com/
 -85386425	xfinity	http://jss.sbox.xfinity.com/
 -85386425	xfinity	http://jss.stg.xfinity.com/
--85386425	xfinity	http://justmoved.xfinity.com/
--85386425	xfinity	http://military.xfinity.com/
 -85386425	xfinity	http://mobile.wifi.xfinity.com/
--85386425	xfinity	http://my-video-chat.xfinity.com/
 -85386425	xfinity	http://myxfn-cloud.g.xfinity.com/
 -85386425	xfinity	http://myxfn-qa.g.xfinity.com/
 -85386425	xfinity	http://prodtest.www.int.xfinity.com/
--85386425	xfinity	http://referafriend.xfinity.com/
--85386425	xfinity	https://acadeals.xfinity.com/
--85386425	xfinity	https://acadeals.xfinity.com:443/
 -85386425	xfinity	https://cdn-ion.cws.xfinity.com/
--85386425	xfinity	https://cms9-build.stg.xfinity.com/
--85386425	xfinity	https://cms9-build.xfinity.com/
 -85386425	xfinity	https://compat.www.int.xfinity.com/
 -85386425	xfinity	https://compat.xapi.int.xfinity.com/
--85386425	xfinity	https://digital-perf.xfinity.com/
 -85386425	xfinity	https://digital-qa.xfinity.com/
 -85386425	xfinity	https://digital-stage.xfinity.com/
 -85386425	xfinity	https://ed.xfinity.com/
 -85386425	xfinity	https://es.stg.xfinity.com/
 -85386425	xfinity	https://es.xfinity.com/
 -85386425	xfinity	https://finder.wifi.xfinity.com/
--85386425	xfinity	https://getxfinity.xfinity.com/
--85386425	xfinity	https://getxfinity.xfinity.com:443/
--85386425	xfinity	https://jss-build.stg.xfinity.com/
--85386425	xfinity	https://jss-build.xfinity.com/
 -85386425	xfinity	https://jss.dev.xfinity.com/
 -85386425	xfinity	https://jss.ft1.xfinity.com/
 -85386425	xfinity	https://jss.sbox.xfinity.com/
 -85386425	xfinity	https://jss.stg.xfinity.com/
--85386425	xfinity	https://justmoved.xfinity.com/
--85386425	xfinity	https://justmoved.xfinity.com:443/
--85386425	xfinity	https://military.xfinity.com/
--85386425	xfinity	https://military.xfinity.com:443/
 -85386425	xfinity	https://mobile.wifi.xfinity.com/
--85386425	xfinity	https://my-video-chat.xfinity.com/
 -85386425	xfinity	https://myxfn-cloud.g.xfinity.com/
 -85386425	xfinity	https://myxfn-qa.g.xfinity.com/
 -85386425	xfinity	http://spa.xfinity.com/
 -85386425	xfinity	https://prodtest.www.int.xfinity.com/
--85386425	xfinity	https://referafriend.xfinity.com/
--85386425	xfinity	https://referafriend.xfinity.com:443/
 -85386425	xfinity	https://sdx.xfinity.com/
 -85386425	xfinity	https://spa.xfinity.com/
 -85386425	xfinity	https://www.int.xfinity.com/
 -85386425	xfinity	https://www.stg.xfinity.com/
 -85386425	xfinity	https://www.xfinity.com/
--85386425	xfinity	https://xm100deal.xfinity.com/
--85386425	xfinity	https://xm100deal.xfinity.com:443/
 -85386425	xfinity	https://xm-buyflow-preview.prod.xfinity.com/
 -85386425	xfinity	https://xm-buyflow-preview.stg.xfinity.com/
 -85386425	xfinity	https://xm-buy-preview.prod.xfinity.com/
 -85386425	xfinity	https://xm-buy-preview.stg.xfinity.com/
 -85386425	xfinity	https://xm-learn-preview.prod.xfinity.com/
 -85386425	xfinity	https://xm-learn-preview.stg.xfinity.com/
--85386425	xfinity	https://xmtechdeal.xfinity.com/
--85386425	xfinity	https://xmtechdeal.xfinity.com:443/
 -85386425	xfinity	http://www.ch2.prd.xfinity.com/
 -85386425	xfinity	http://www.int.xfinity.com/
 -85386425	xfinity	http://www.pdc.prd.xfinity.com/
 -85386425	xfinity	http://www.stg.xfinity.com/
 -85386425	xfinity	http://www.xfinity.com/
 -85386425	xfinity	http://xfinity.com/
--85386425	xfinity	http://xm100deal.xfinity.com/
 -85386425	xfinity	http://xm-buyflow-preview.prod.xfinity.com/
 -85386425	xfinity	http://xm-buyflow-preview.stg.xfinity.com/
 -85386425	xfinity	http://xm-buy-preview.prod.xfinity.com/
 -85386425	xfinity	http://xm-buy-preview.stg.xfinity.com/
 -85386425	xfinity	http://xm-learn-preview.prod.xfinity.com/
 -85386425	xfinity	http://xm-learn-preview.stg.xfinity.com/
--85386425	xfinity	http://xmtechdeal.xfinity.com/
 86919334	servicenow	http://communitystage.re.xfinity.com/
 86919334	servicenow	http://communitytd3.re.xfinity.com/
 86919334	servicenow	https://communitystage.re.xfinity.com/
 86919334	servicenow	https://communitytd3.re.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://api.ch2.prd.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://api.pdc.prd.xfinity.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://cms9-build.sbox.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://dwk-comet-prod.cmp.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://portal.52538.cmp.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://portal.cmp.xfinity.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://cms9-build.sbox.xfinity.com/
+b0d1844949fe7dcdf210983feb285241	aspnet	http://prodtest.xapi.int.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://dwk-comet-prod.cmp.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://portal.52538.cmp.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://portal.cmp.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://prodtest.xapi.int.xfinity.com/
+b0d1844949fe7dcdf210983feb285241	aspnet	https://sc.cmp.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://xapi.int.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://xapi.stg.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://xapi.ch2.prd.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://xapi.int.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://xapi.pdc.prd.xfinity.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://xapi.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://acadeals.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn-ion.cws.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://cms9-build.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://cms9-build.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://compat.www.int.xfinity.com/
+b3df99581008cc1b010a803dd5260892	xfinity	http://compat.xapi.int.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://ed.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://es.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://es.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://finder.wifi.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://flex.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://getxfinity.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://jss-build.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://jss-build.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://jss.dev.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://jss.ft1.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://jss.sbox.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://jss.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://justmoved.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://military.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://mobile.wifi.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://my-video-chat.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://myxfn-cloud.g.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://myxfn-qa.g.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://prodtest.www.int.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://referafriend.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://acadeals.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://acadeals.xfinity.com:443/
 b3df99581008cc1b010a803dd5260892	xfinity	https://cdn-ion.cws.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://cms9-build.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://cms9-build.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://compat.www.int.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://compat.xapi.int.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://digital-perf.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://digital-qa.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://digital-stage.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://ed.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://es.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://es.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://finder.wifi.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://getxfinity.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://getxfinity.xfinity.com:443/
-b3df99581008cc1b010a803dd5260892	xfinity	https://jss-build.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://jss-build.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://jss.dev.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://jss.ft1.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://jss.sbox.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://jss.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://justmoved.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://justmoved.xfinity.com:443/
-b3df99581008cc1b010a803dd5260892	xfinity	https://military.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://military.xfinity.com:443/
 b3df99581008cc1b010a803dd5260892	xfinity	https://mobile.wifi.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://my-video-chat.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://myxfn-cloud.g.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://myxfn-qa.g.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://spa.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://prodtest.www.int.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://referafriend.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://referafriend.xfinity.com:443/
 b3df99581008cc1b010a803dd5260892	xfinity	https://sdx.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://spa.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://www.int.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://www.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://www.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://xm100deal.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://xm100deal.xfinity.com:443/
 b3df99581008cc1b010a803dd5260892	xfinity	https://xm-buyflow-preview.prod.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://xm-buyflow-preview.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://xm-buy-preview.prod.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://xm-buy-preview.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://xm-learn-preview.prod.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://xm-learn-preview.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://xmtechdeal.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://xmtechdeal.xfinity.com:443/
 b3df99581008cc1b010a803dd5260892	xfinity	http://www.ch2.prd.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://www.int.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://www.pdc.prd.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://www.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://www.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://xm100deal.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xm-buyflow-preview.prod.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xm-buyflow-preview.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xm-buy-preview.prod.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xm-buy-preview.stg.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xm-learn-preview.prod.xfinity.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://xm-learn-preview.stg.xfinity.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://xmtechdeal.xfinity.com/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://activatecablecard.xfinity.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://iota-staging.xfinity.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://iota.xfinity.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	https://activatecablecard.xfinity.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://service-xcam-stg.xh-onboarding.xfinity.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	http://service-xcam.xh-onboarding.xfinity.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://fedsp-1p.gslb4.xfinity.com/

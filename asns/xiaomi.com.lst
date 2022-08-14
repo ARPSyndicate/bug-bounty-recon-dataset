@@ -1,64 +1,1048 @@
-ai.api.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 120.133.32.0/20
+10-awsind.i18n.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+10-awsind.mikfs.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+10-awsind.miorder.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
+10-awsind.miwms.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
+10-awsind.mixms.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+10-awsind.sales.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+10-awsind.xmstore.pub.neo.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+10.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+15-ksymoscow.i18n.public.neo.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 104.166.180.0/23
+15-ksymoscow.mikfs.public.neo.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+15-ksymoscow.miwms.public.neo.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+15-ksymoscow.mixms.public.neo.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+3rd.mishop.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+5-c3.b2cback.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.b2cback.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.b2cgo.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.b2cgo.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 117.48.116.0/22
+5-c3.b2cop.bgp.neo.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+5-c3.b2cop.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.i18n.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.infoarch.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.infodata.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.mici.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+5-c3.mici.cnc.neo.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.64.0/18
+5-c3.mici.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.mikfs.bgp.neo.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+5-c3.mikfs.cnc.neo.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.64.0/18
+5-c3.mikfs.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.mims.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.mishop.bgp.neo.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+5-c3.mishop.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.misite.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.misite.cnc.neo.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.64.0/18
+5-c3.misite.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 117.48.116.0/22
+5-c3.miwms.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.miwms.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 117.48.116.0/22
+5-c3.mixms.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.sales.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+5-c3.sales.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.snsdev.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+5-c3.snsdev.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+5-c3.xmfe.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.xmstore.bgp.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+5-c3.xmstore.ctc.neo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+8h.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+9-alisgp.i18n.pub.neo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+9-alisgp.mikfs.pub.neo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.192.0/18
+9-alisgp.miorder.pub.neo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+9-alisgp.miwms.pub.neo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.192.0/18
+9-alisgp.mixms.pub.neo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+9-alisgp.xmstore.pub.neo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+a0.app.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+abtest.mistat.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.88.192.0/18
+ac.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+academy.designer.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.243.192.0/18
+access.speech.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+account.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+account-dcm.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+account.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+acct.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+act.account.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+actfile.cdn.pandora.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+activity.hybrid.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+act.passbook.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+admin.hybrid.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+admin.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+admin.xmpush.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+ad.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+ad.quickapp.hybrid.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+ai.api.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+alsgp0.fds.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+ams.maf.be.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.157.18.0/24
+ams-pdad.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
 ams.xms.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
-api.ad.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
-api.d.xiaomi.com AS23724 AS23724 - IDC CHINA TELECOMMUNICATIONS CORPORATION CN 120.133.32.0/20
-api.d.xiaomi.com AS4808 AS4808 - CNCGROUP IP NETWORK CHINA169 BEIJING PROVINCE NETWORK CN 120.133.32.0/20
-a.stat.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO. LTD CN 120.92.80.0/21
+api8.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+api.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+api.ad.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+api.ads.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 106.3.40.0/21
+api.ad.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+api.aiasst.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+api-aicall.aiasst.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+api.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+api.chat.cname.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+api.designer.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+api-dev.aiasst.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+api.developer.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+api.dushu.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+api.d.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+api.hybrid.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+api.kuai.cdn.mvideo.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+api.mibimagic.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.32.0/21
+api.miui.cn.security.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+api.miui.security.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+api.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+api.open.ai.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.64.0/21
+api.passbook.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+api.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+api-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+api.scraper.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+api.sdk.hybrid.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+api-translator.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+api.video.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+api.xmpush.global.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+api.xmpush.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+api.zhuti.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+api.zhuti.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+appauth.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+apply.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+app.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+app.migc.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+app.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+appstore.cdn.pandora.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+appstore.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+apps.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+app.wallpaper.cdn.pandora.xiaomi.com AS4837 AS4837 - CHINA UNICOM INDUSTRIAL INTERNET BACKBONE CN 221.204.0.0/15
+app.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+assistant.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+a.stat.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.80.0/21
+as.wms.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+a.union.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+autodiscover.xiaomi.com AS3491 AS3491 - PCCW GLOBAL, INC. US 207.226.244.0/22
+avatar.bbs.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+a.video.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+awsbj0-cdn.fds.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+awsbj0-cdn.fds-ssl.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 45.116.81.0/24
+awsbj0.fds.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.112.0/21
+awsbj0-files.fds.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.112.0/21
+awsde0-cdn.fds.api.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+awsde0-cdn.fds-ssl.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
+awsde0.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.58.0.0/15
+awsde0-files.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.58.0.0/15
+awsde0.sds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 18.194.0.0/15
+awsind0-eco.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
+awsind0-eco-files.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
+awsind0-fusion.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+awssgp0-cdn.fds.api.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+awssgp0-cdn.fds-ssl.api.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+awssgp0.emr.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 18.136.0.0/16
+awssgp0.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.250.0.0/15
+awssgp0-files.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.220.0.0/15
+awssgp0.sds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.220.0.0/15
+awssgp0-thumb.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.250.0.0/15
+awsusor0-cdn.fds.api.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+awsusor0-cdn.fds-ssl.api.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+awsusor0-cdn-thumb.fds-ssl.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+awsusor0.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+awsusor0-files.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+awsusor0.sds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+awsusor1.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+b0.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+b1.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b2capipay.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+b2capi.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+b2.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b3.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b4.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b5.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b6.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b7.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b8.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+b9.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+backend.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+bak-5-c3.xmstore.bgp.neo.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+bak-cdn.fds.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+bakctc.fe01.c3.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+bar.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.64.0/18
+bbs.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+bbs.mihome.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.112.0/21
+bbs.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bg0.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+bg1.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+bgp.bk01.c3.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+bgp.bk01.c4.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+bgp.c01.g0.cn.slb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+bgp.c3.big.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+bgp.c3.f.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+bgp.cdn.c3.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+bgp.data.game.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+bgp.fe01.c3.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+bgp.g0.cn.slb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+bgp.orig.cdn.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+bgp.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bgp.tv.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bgp.zhuti.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bigdata-lbs-pri-c3.alb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+billapi.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+bk01.c3.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+bk01.c4.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+blog.a.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.134.0.0/15
 boss.mvideo.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
-ccg.migc.xiaomi.com AS23724 AS23724 - IDC CHINA TELECOMMUNICATIONS CORPORATION CN 120.133.32.0/20
-cdn.exp.xiaomi.com AS4837 AS4837 - CHINA UNICOM INDUSTRIAL INTERNET BACKBONE CN 27.192.0.0/11
+box.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bp.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+b.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+browserapi.market.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bsp.misc.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bsp.sasdc.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+bss.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c01.g0.cn.slb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c1.b.mae.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.192.0/18
+c1.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c3.account.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+c3-api.music.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+c3.api.xmpush.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 220.181.32.0/19
+c3.bgp.big.mae.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+c3.bgp.mae.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+c3.big.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+c3.b.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+c3-cnc.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+c3.ctc.big.mae.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+c3.ctc.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+c3.f.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+c3.lp.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+c3.mihome.mae.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+c3mini.pandora.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+c3.new.cname.recommend.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+c3.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+c4.account.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c4.bgp.big.mae.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+c4.bgp.mae.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c4.big.mae.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c4.cnc.big.mae.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.202.0.0/24
+c4.ctc.big.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
+c4.ctc.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
+c4.f.mae.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+c4.mob.mae.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 39.156.0.0/17
+c4.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+callback.xmpush.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 111.13.192.0/18
+campus.hr.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+cash.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+cc2.sys.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+cc.ad.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+ccc.sys.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+ccg.migc.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+cc.sys.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+cdn-eco-tst.fds.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+cdn.experiment.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 43.132.66.0/23
+cdn.exp.xiaomi.com AS132203 AS132203 - SHENZHEN TENCENT COMPUTER SYSTEMS COMPANY LIMITED CN 101.33.21.0/24
+cdn.fds.api.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+cdn.fds-ssl.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.169.0/24
+cdn.hao.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+cdn.mae-cluster.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+cdn-test-miot.fds-ssl.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.169.0/24
+cdn-thumb.fds.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+cdn-thumb.fds-ssl.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 45.116.81.0/24
+center.hybrid.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+cesu.cdn.pandora.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 43.132.66.0/23
+channel.api.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 124.193.128.0/17
+chaxun.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+chemo.www.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+cherry.app-xae.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.72.0/21
+cloudcontrol.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+cms.nfcpay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+cnac.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+cn.account.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+cname.maeproxy01.c3.public.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+cn.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+cnbj0.fds.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+cnbj0-s0.sds.api.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+cnbj0.sds.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+cnbj1.fds.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+cnbj2.fds.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+cnbj2m.fds.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.16.0/21
+cnbj2.talos.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+cnbj2.vision.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.64.0/21
+cnbj3-fusion.fds.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+cnbj-s0.sds.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+cnc.c00.g0.cn.slb.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 123.125.64.0/18
+cnc.c3.big.mae.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.64.0/18
+cnc.data.game.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.202.0.0/24
+cnc.fe01.c3.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 123.125.64.0/18
+cnc.g0.cn.slb.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 123.125.64.0/18
+cnc.pandora.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 123.125.64.0/18
+cnc.zhuti.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 123.125.64.0/18
 cn.register.xmpush.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
-controller.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+comc1l7.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+comc3l7.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+comc4l7.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+comc5l7.pandora.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.64.0/21
+coml7.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+commonapi.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+content.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+contract.shopapi.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+controller.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+controller.intl.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+control.preload.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+corp2.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+corp3.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+corp4.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+corp5.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+coupon-center.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+creator.pre.xiaomi.com AS55960 AS55960 - BEIJING GUANGHUAN XINWANG DIGITAL CN 52.80.0.0/16
+creator.test.xiaomi.com AS55960 AS55960 - BEIJING GUANGHUAN XINWANG DIGITAL CN 52.81.0.0/16
+creator.xiaomi.com AS55960 AS55960 - BEIJING GUANGHUAN XINWANG DIGITAL CN 52.81.0.0/16
+creditcard.nfcpay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+cs.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+cs.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+ctc.bk01.c3.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 220.181.32.0/19
+ctc.c3.big.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 220.181.32.0/19
+ctc.c3.f.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 220.181.32.0/19
+ctc.data.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+ctc.g0.cn.slb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 117.48.116.0/22
+ctc.tv.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
+ctc.zhuti.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
+cupid.ad.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+custom.zhuti.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+data1.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+databi.ad.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
 data.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
-data.mistat.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
-data.mistat.rus.xiaomi.com AS137280 AS137280 - ASIA PACIFIC NETWORK INFORMATION CENTRE HK 107.155.53.0/24
+data.hybrid.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+data.mistat.india.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+data.mistat.intl.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+data.mistat.rus.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 data.mistat.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+default.sdkconfig.ad.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 111.13.128.0/20
+de.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+designer.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+developer.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+device-proxy.sec.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+dev.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+diagnosis.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+dms.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+doc.hybrid.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+docs.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
 drm.market.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
 drm.market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+dushu.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+dvb.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+d.www.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+dx.orig.file.market.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
+e.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+eb.hybrid.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+eco.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
 emq.api.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.64.0/18
-extern.sso.pt.xiaomi.com AS45102 AS45102 - ALIBABA CHINA TECHNOLOGY CO. LTD. US 47.74.128.0/18
-extranet.c3.online-support.mj2o8fpfeb.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM GROUP CN 58.83.160.0/24
-feedback.xmpush.xiaomi.com AS23724 AS23724 - IDC CHINA TELECOMMUNICATIONS CORPORATION CN 203.100.92.0/22
-game.xiaomi.com AS23724 AS23724 - IDC CHINA TELECOMMUNICATIONS CORPORATION CN 120.133.32.0/20
-gateway.sms.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+emq.xmpush.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+emr.api.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.243.192.0/18
+en.designer.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+eng.miui.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+es.video.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+exchange-dag1.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+exchange-dag2.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+exp.recommend.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extern.sso.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+extranet-ai-preview-pri-c3.alb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extranet-alllines-gameunion-pri-c3-c4.alb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet-alllines-pub-c3-c4.alb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.ap-south-1.mig1-l7-beehive.ytfbmje7zg.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+extranet.ap-south-1.mig5-l7-monetization.9zo9djbi9j.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
+extranet.ap-south-1.mig5-l7-theme.zfc4en8gew.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.66.64.0/18
+extranet.ap-south-1.miui-l7-bsp-unlock.buomuj33hr.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+extranet.ap-south-1.miui-l7-bsp-unlock.oqrooteybn.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+extranet.ap-south-1.miui-l7-controller.va0pzyo3wn.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+extranet.ap-south-1.miui-l7-coreapp.ig5zkotero.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+extranet.ap-south-1.miui-l7-coreapp.wvdrlslec2.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
+extranet.ap-south-1.miui-l7-global.54nbnq0jed.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+extranet.ap-south-1.miui-l7-global.czjrnusqy3.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+extranet.ap-south-1.miui-l7-middle.b207yqdrsy.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+extranet.ap-south-1.miui-l7-middle.hxyhdqwoey.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
+extranet.ap-south-1.miui-l7-middle.vab1p8mnqy.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+extranet.ap-south-1.miui-l7-sec.4lua3ataxk.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+extranet.ap-south-1.ngx-gameunion-ocean.rtqyktk8yf.elb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+extranet.ap-southeast-1.from-mfe-sec.gv0kuhzimn.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.mig1-l7-beehive.ycbqyccxx2.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.mig1-l7-preload.vi13jhvky9.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.mig5-l7-theme.ioa3hcxyzg.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.mipush-fe.kzny3slxm9.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bbs.ch3db6kf3g.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bbs.ec3zuiki72.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bbs.i2oxw4icyh.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-browser.4u6kki1iuk.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-browser.9rv1ldj0yi.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-browser.b5a13urgji.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-browser.c8ypuirvbs.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-browser.egp2iatnbr.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-browser.mq5m5xp2rn.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bsp-jupiter.fonnbp75bx.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bsp-jupiter.hmcyoomggf.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bsp-unlock.9qos5acwpj.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-bsp-unlock.qf68d5nrep.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-coreapp.rlvwaseey9.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-global.69jex2iktg.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-mgp.bvhawmvgcp.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-middle.flhmv7hsdq.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-middle.g5jt2g7t5o.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.192.0/18
+extranet.ap-southeast-1.miui-l7-ota.amj8w12ntn.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+extranet.ap-southeast-1.miui-l7-ota.u3p1nzvnwj.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-ota.v3qx9opfna.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-sas.tkj7tb2ffv.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-search.vmqhtvjuvm.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-sec.mp5pcorotq.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-sec.rnfliwmiif.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+extranet.ap-southeast-1.miui-l7-thm.6fmqonsxq3.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+extranet.ap-southeast-1.miui-l7-wtr.7bkowuwetr.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.miui-l7-wtr.btvammtdvp.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.ap-southeast-1.ngx-gameunion-ocean.xvtznfgdy6.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+extranet.c3.developers-zhuti-pc.qnwxnaownq.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.feedback.2ddfrkx42q.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extranet.c3.mig1-l7-preload.a4qd9egdul.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.mig5-l7-monetization.i98jfdu6gq.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extranet.c3.mimc-admin.pkqygosv1j.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-assistant.i4d5lxgbdh.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-assistant-pt.ghjxaejktw.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-bsp-jupiter.chunol2d0f.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extranet.c3.miui-l7-bsp-jupiter.rgp957hnij.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extranet.c3.miui-l7-coreapp.okdovfsjm5.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-coreapp.thukvju4xf.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-coreapp.ugabkyywhq.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-data-test.cllegj9qtj.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-middle.izlkng8clu.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-middle.nroxajo77s.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-miuiauto.tflctwn2t6.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-ota.4pjyk5y2fn.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-ota-bd.qerykcqdpq.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-search.colvxqbq8c.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-sec.ppmucdjufw.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.miui-l7-vip.4iurt3sqql.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-vip-xiaomi-cn.ic5znxsxzb.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.miui-l7-vip-xiaomi-cn.qcuw1esech.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+extranet.c3.nginx-production.njmvwkenhx.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.online-support.mj2o8fpfeb.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.tuishou-xiaomiyoupin-com.rcguqcslow.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c3.youpin-merchantdist.ew3g0prurn.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.youpin-nginx-data.0fzho9yfzw.elb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+extranet.c3.youpin-nginx-openapi.pbbogoq0i4.elb.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+extranet.c4.miui-l7-assistant.hli3ubyv3q.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.c4.miui-l7-bsp-jupiter.dbuxvaim4z.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.c4.miui-l7-bsp-unlock.dz9juywbpp.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.c4.miui-l7-coreapp.o0g6yxjfyb.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.c4.miui-l7-miuiauto.bcmmezkwb9.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.c4.miui-l7-sec.iydkpjbeca.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.c4.miui-l7-vip.2tvizjzldf.elb.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+extranet.eu-east-1.mig1-l7-beehive.3rmacskqa6.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+extranet.eu-east-1.miui-l7-bsp-jupiter.dynrnjopkp.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+extranet.eu-east-1.miui-l7-bsp-jupiter.jdvyzqar46.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.53.0/24
+extranet.eu-east-1.miui-l7-middle.8nlzhusin5.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+extranet.eu-east-1.miui-l7-middle.a3puvfl1ik.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+extranet.eu-east-1.miui-l7-middle.dwddxgqyqv.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+extranet.eu-east-1.miui-l7-middle.kekfw3jui8.elb.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+f10.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+f11.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.156.0/24
+f12.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.156.0/24
+f13.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.156.0/24
+f14.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+f16.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.156.0/24
+f17.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.156.0/24
+f19.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.180.0/24
+f1.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+f2.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+f3.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+f4.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+f5.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+f6.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+f7.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+f8.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+f9.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+falcon.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.243.192.0/18
+falcon.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.134.0.0/15
+fcw.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+fds.api.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+fdsc3.iss.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+fe01.lg.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+fe01.ny.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+fe02.lg.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.192.0/18
+fe02.ny.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+fe03.lg.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+fe04.lg.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.206.192.0/18
+feedback.d.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+feedback.xmpush.global.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.88.192.0/18
+feedback.xmpush.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+ff0.market.xiaomi.com AS132203 AS132203 - SHENZHEN TENCENT COMPUTER SYSTEMS COMPANY LIMITED CN 101.33.10.0/23
+fga0.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+fga1.market.xiaomi.com AS132203 AS132203 - SHENZHEN TENCENT COMPUTER SYSTEMS COMPANY LIMITED CN 101.33.10.0/23
+fgb0.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+fgc0.market.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 43.132.64.0/23
+fgc1.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+fgc2.market.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+file.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+file.cdn.mvideo.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+file.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+file.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+file-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+files.ai.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.48.85.0/24
+files.fds.api.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.74.0.0/16
+fm.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+fm.web.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+fn.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+fr.api.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
+fr.feedback.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15
+fr.register.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
+fuwu.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+g0.cn.slb.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+g0.fr.de.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
+g0.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+galleryc3l7.pandora.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.64.0/21
+gallery.cdn.pandora.xiaomi.com AS133775 AS133775 - XIAMEN CN 117.25.128.0/19
+gallery.cp.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+galleryl7.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+gallery.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+game.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+gateway.sms.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+g.cdn.pandora.xiaomi.com AS38283 AS38283 - CHINA TELECOM CN 171.220.245.0/24
+gimg.cdn.pandora.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+gl.maf.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+global.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+globalapi.ad.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
 global.control.preload.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+global.developer.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.128.0/17
+global.market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.0.0/17
+globalnileapi.market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+globalvideo.cdn.pandora.intl.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+global.video.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+gl.xms.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+g.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+grafana.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+grayconfig.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+grayconfig-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+gstat.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+gw8.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.88.0/21
+gw.pay.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+gzvpn.pt.xiaomi.com AS134773 AS134773 - CHINA TELECOM CN 211.147.224.0/20
+h0.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+h1.market.xiaomi.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+h2.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+h3.market.xiaomi.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
+h4.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+h5-es.video.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+h5-idn.video.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+h5.market.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+h5-ru.video.intl.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+h5.video.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+h6.market.xiaomi.com AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
+h7.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+h8.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+h9.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+hades.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+hao.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.0.0/17
+hd.c3.f.mae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 203.100.92.0/22
+heyue.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+hezi.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+hk-proxy-files.fds.api.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+hm.xiaomi.com AS135629 AS135629 - NINGXIA WEST CLOUD DATA TECHNOLOGY CO.LTD. CN 161.189.0.0/16
 hr.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+httpdns.dushu.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+hub.test.xiaomi.com AS55960 AS55960 - BEIJING GUANGHUAN XINWANG DIGITAL CN 52.81.0.0/16
+hub.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 52.58.0.0/15
+huodong.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+huosai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
 hybrid.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
-idmb.feedback.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
-idmb.register.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
+hy.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+hysdk.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+i18n.mae.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+ics-oms.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+ics-speech.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+ident.mistat.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+idmb.api.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+idmb.feedback.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+idmb.register.xmpush.global.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+id.video.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+i.huodong.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+image.box.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+image.cdn.mvideo.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+image.cdn.pandora.xiaomi.com AS58519 AS58519 - CLOUD COMPUTING CORPORATION CN 103.215.140.0/22
+images0.cdn.pt.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+images2.cdn.pt.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+images3.cdn.pt.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+images6.cdn.pt.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+images.cdn.pt.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+imap.kefu.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+imap.v.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+imap.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 114.255.0.0/18
 img.cdn.mvideo.xiaomi.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+imp.xmpush.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+inac.account.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 35.154.0.0/16
+in.account.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
+inapi.pay.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+infosec.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+infosec.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+ingw.pay.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.126.0.0/15
+in.lp.account.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.0.0.0/14
+ins.staging.mifi.pt.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+internet.13e639f518.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+internet.18a092b2d1.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.27b9718cd5.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+internet.36af5ed0b5.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.488b649984.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.4d2bb010ad.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.6b2b6aa4cf.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.6d9652a67f.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.9a2e623cf7.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.b477224653.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+internet.cbf3ef0c6d.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+internet.d9f544dd0f.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+internet.dd895376a8.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+internet.f75ba6adf0.elb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+intern.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+intranet.proxy.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+intranet.xiaomi.com AS18245 AS18245 - CHINA INTERNET NETWORK INFOMATION CENTER CN 59.108.40.0/24
+in.zhuti.designer.intl.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+ipv4.account.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.64.0/21
+ipv6.account.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.64.0/21
+iss.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
 i.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+jellyfish.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
 jira.n.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+jkt-milink.market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 149.129.192.0/19
+job.hr.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+job.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+kbs.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+kbssg.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+kds.market.xiaomi.com AS13335 AS13335 - CLOUDFLARE, INC. US 1.1.1.0/24
+ksbgp.fe01.c3.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+ksyru0-eco-cdn.fds.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+ksyru0-eco-cdn.fds-ssl.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+ksyru0-eco-cdn-thumb.fds.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+ksyru0-eco-cdn-thumb.fds-ssl.api.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+ksyru0-eco.fds.api.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+ksyru0-eco-files.fds.api.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+ksyru0-eco.sds.api.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+ksyru0-fusion.fds.api.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+kv.cdn.mvideo.xiaomi.com AS58542 AS58542 - TIANJIJ,300000 CN 42.81.0.0/16
+kv.cdn.pandora.xiaomi.com AS58542 AS58542 - TIANJIJ,300000 CN 42.81.0.0/16
+land.cname.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+lbs.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+lg.api.xmpush.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 39.156.128.0/18
+lg-bgp-misc.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+lg-cnc.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+libra.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 124.193.128.0/17
+log.ad.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+login.dushu.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+login.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+logout.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
 logout.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
-mail.xiaomi.com AS3491 AS3491 - PCCW GLOBAL, INC. US 207.226.244.0/22
+log.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+lp.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+lt.orig.file.market.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 111.202.0.0/24
+maf.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+mail.kefu.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+mail.v.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+mail.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+maizhenapi.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+mal.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+mantual.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+m.app.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+marketing.ad.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+market.music.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
 market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+matrix.api.ad.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+max.ad.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+m.a.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+mb-milink.market.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.0.0.0/14
+m.bss.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+m.corp.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+medial7.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+media.pre.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
+me.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+mf.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+m.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+m.hk.mibi.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+mias.market.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
 mibi.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+mibi.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+michat.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+micro.game.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mid.sys.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+mierapp.sec.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+mier.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+miliao.migc.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+milink.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+milink.pds.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mina.xmpush.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+minet.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+minos.a.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.134.0.0/15
+m.intern.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+mipop.bbs.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+mipop.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
 mipush.global.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
-miuirom.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.43.85.0/24
-mp.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 124.251.64.0/18
+misc.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+mishop.cdn.pandora.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+mishop.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+mis.migc.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+mitunes.market.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mitu.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+miuiapipay.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+miuiapi.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+miuirom.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+mivideo.cdn.pandora.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+mi.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+mixin.api.files.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+m.mibi.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+mobilevideo.cdn.pandora.xiaomi.com AS4837 AS4837 - CHINA UNICOM INDUSTRIAL INTERNET BACKBONE CN 58.20.0.0/16
+mobilevideo.kuai.dataserv.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mob.pandora.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 111.13.128.0/20
+mob.zhuti.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 39.156.0.0/17
+mon.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+monitor.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+mos-milink.market.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+m.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+msoid.xiaomi.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
+m.staging.mibi.n.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.32.0/21
+m.track.ad.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+music.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mvc4l7.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mvfile.cdn.pandora.xiaomi.com AS4837 AS4837 - CHINA UNICOM INDUSTRIAL INTERNET BACKBONE CN 123.8.0.0/13
+m.video.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+mvl7.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+mx1.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+mx1.mxmail.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+mx1.v.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+mx2.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+mx3.mxmail.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+mxhk.mxmail.xiaomi.com AS3491 AS3491 - PCCW GLOBAL, INC. US 207.226.244.0/22
+m.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+mxtest.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.48.0/20
+my.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+m.zhuti.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+ncn.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+netcheck.pandora.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+nileapi.market.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+nlp.ai.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+nlp-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+notice.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+nshoes.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+nuaa.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+o1.ptr6115.xiaomi.com AS11377 AS11377 - SENDGRID, INC. US 50.31.32.0/20
+o2o.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.0.0/17
+o2o.hybrid.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+ofile.market.xiaomi.com AS38283 AS38283 - CHINA TELECOM CN 171.220.245.0/24
+okr.hr.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
 omserver.ad.intl.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.108.0.0/14
-pc.gallery.cdn.pandora.xiaomi.com AS4134 AS4134 - CHINA TELECOM CN 124.228.0.0/14
-p.www.xiaomi.com AS58563 AS58563 - CHINA TELECOM CN 119.96.208.0/22
-quan.mis.migc.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+onebox.xmpush.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.112.0/21
+online.kefu.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+open.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+openbase.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+open.content.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+orig.cdn.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+orig.files.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+orig.globalvideo.cdn.pandora.intl.xiaomi.com AS42473 AS42473 - ANEXIA INTERNETDIENSTLEISTUNGS GMBH AT 185.81.209.0/24
+orig.hd.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+orig.image.cdn.pandora.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+orig.img.cdn.mvideo.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+origin-cnbj2.fds.api.xiaomi.com AS133119 AS133119 - CHINA UNICOM CN 120.52.128.0/17
+os.cdn.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+ota.cdn.pandora.xiaomi.com AS58563 AS58563 - CHINA TELECOM CN 119.96.208.0/22
+otf.wms.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+otr.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+ottimg.cdn.pandora.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+ottl7-l2.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+ottl7.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+outboundhk.mxmail.xiaomi.com AS3491 AS3491 - PCCW GLOBAL, INC. US 207.226.244.0/22
+outbound.mxmail.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+oversea.g0.cn.slb.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+package.box.xiaomi.com AS4134 AS4134 - CHINA TELECOM CN 180.96.0.0/11
+package.cdn.box.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+package.cdn.pandora.xiaomi.com AS58563 AS58563 - CHINA TELECOM CN 119.96.208.0/22
+package.wallpaper.cdn.pandora.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+pbialpha.ams.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.115.0/24
+pbialpha.ind.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
+pbialpha.sgp.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+pbialpha.tj.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.48.0/21
+pc.gallery.cdn.pandora.xiaomi.com AS139462 AS139462 - CHINA TELECOM CN 111.123.40.0/21
+peijian.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+pic-miui.game.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.178.0/24
+p.migc.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+policy.app.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+pop3.kefu.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+pop3.v.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+pop3.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 114.255.0.0/18
+pos.api.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+preload.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+preview.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.243.192.0/18
+preview.tsmapi.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+product.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+profile.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+project.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+proxy.recharge.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+ptmi.gitv.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+pub.relay.xiaomi.com AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 39.106.0.0/15
+pusherapi-iotdcm.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+push.inf.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.0.0/17
+push.o2o.api.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+pwupdate.cdn.pandora.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+p.www.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 211.152.146.0/24
+p.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+qiye.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+quan.mis.migc.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+query-suggestion.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+query-suggestion-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+r2.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+r.app.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+r.dushu.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+recharge.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+redirect.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+redpack.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+register.xmpush.global.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.88.192.0/18
+register.xmpush.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.192.0/18
+relay-dcm.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 123.59.192.0/19
+relay.xiaomi.com AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 39.104.0.0/15
+repos.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+resolver.mi.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+resource.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+riskcontrol.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+robot.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+ruac.account.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+ru.account.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+ruapi.pay.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.53.0/24
 ru.api.xmpush.global.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
 ru.feedback.xmpush.global.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
+rugw.pay.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.53.0/24
+ru.lp.account.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
 ru.register.xmpush.global.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.52.0/23
-sdkconfig.ad.eu.xiaomi.com AS45102 AS45102 - ALIBABA CHINA TECHNOLOGY CO. LTD. US 161.117.128.0/17
-sdkconfig.ad.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.0.0.0/14
+ruvideo.cdn.pandora.intl.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+ru.video.intl.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.51.0/24
+s010.iss.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+sandbox.xmpush.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+scraper.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+sdkconfig.ad.eu.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.128.0/17
+sdkconfig.ad.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+sdkconfig.ad.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.0.0/17
 sdkconfig.ad.rus.xiaomi.com AS137280 AS137280 - KINGSOFT CLOUD CORPORATION LIMITED HK 107.155.53.0/24
-sf.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
-sf.pay.xiaomi.com AS9802 AS9802 - ABITCOOL CHINA INC. CN 58.83.128.0/18
-static.haoda.xiaomi.com AS4134 AS4134 - CHINA TELECOM CN 182.84.0.0/14
+sdkconfig.ad.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.88.192.0/18
+sds.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+secode2.hd.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+secure.report.iss.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+sec.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+sentry.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+serviceapi.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+service.order.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+sf0.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+sf.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+sgpac.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+sgp.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+sgpapi.ad.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+sgp.g0.cn.slb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+sgp-l7-apm.slb.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+sgp.lp.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+sgp.o2o.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+sharemserver.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+share.xiaomi.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+shoes.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+shop.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+sjs.ptmi.gitv.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+slb.zhuti.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+sms.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+smsapib2c.pt.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+smsapi.notify.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+smtp.kefu.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+smtp.v.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 106.37.0.0/16
+sns.account.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+soundbar.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+s.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+speech.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+speech-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+spf_bj.mxmail.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+ssp.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+staging1.tsmapi.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+staging2.tsmactivity.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.131.12.0/23
+staging2.tsmapi.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+staging3.tsmapi.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+staging.ai.api.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+staging.api.mipay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+staging.cname.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+staging.emr.api.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.120.0/21
+staging.iss.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.243.192.0/18
+staging.mifi.pt.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.120.0/21
+staging.mipay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+staging.m.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+staging.nfcpay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+staging.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.243.192.0/18
+staging.sf.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+staging.static.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+staging.tsmapi.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.96.0/21
+starfish.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+stat.api.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+static.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+static.cdn.pandora.intl.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+static.game.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.160.0/21
+static.haoda.xiaomi.com AS4134 AS4134 - CHINA TELECOM CN 58.48.0.0/13
+static.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+static.oss.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+static.pay.xiaomi.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+static.union.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+static-verify.sec.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
 static.verify.sec.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+stat.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+stat.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+stats-fm.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+stats.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+stats.xiaomi.com AS9808 AS9808 - CHINA MOBILE CN 111.13.128.0/20
+stat.www.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+storage.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+storeapi02.pay.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+storeconfig.mistat.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.214.0.0/17
 storeconfig.mistat.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
-test.ad.intl.xiaomi.com AS4808 AS4808 - CNCGROUP IP NETWORK CHINA169 BEIJING PROVINCE NETWORK CN 120.133.32.0/20
-theme-intl.cdn.zhuti.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.215.130.0/23
-userid.xiaomi.com AS4835 AS4835 - CHINA TELECOM GROUP CN 183.84.4.0/22
+storegw02.pay.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
+sync.api.xiaomi.com AS4847 AS4847 - CHINA NETWORKS INTER-EXCHANGE CN 124.193.128.0/17
+sys.tv.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 3.6.0.0/15
+t001.ottcn.pandora.xiaomi.com AS4837 AS4837 - CHINA UNICOM INDUSTRIAL INTERNET BACKBONE CN 111.160.0.0/13
+t10.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t12.market.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+t13.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t14.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t15.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t18.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t19.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t1.a.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t1.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t2.a.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t2.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t3.a.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t3.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t4.a.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t4.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t5.a.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t5.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+t6.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+t7.a.market.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 43.132.64.0/23
+t7.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+t8.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 8.45.52.0/24
+t9.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+t.app.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+test.account.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+test.ad.intl.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+test.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+test.api.xmpush.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 117.48.116.0/22
+test.e.ad.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+test.log.ad.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+test.mi.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+test.mipay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+test.m.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.88.0/21
+test.music.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+test.relay.xiaomi.com AS37963 AS37963 - ALIBABA (US) TECHNOLOGY CO., LTD. US 39.104.0.0/15
+test.track.ad.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+theme-intl.cdn.zhuti.xiaomi.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+theme.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+themes.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+theme.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+thm.market.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+thm.market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.192.0/18
+thumb.fds.api.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+tj1.stagingouter.pay.xiaomi.com AS59019 AS59019 - BEIJING KINGSOFT CLOUD INTERNET TECHNOLOGY CO., LTD CN 120.92.40.0/21
+tools.hybrid.xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+track.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+tracker.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+tracker-preview.ai.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+translate.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+translator.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+tsmactivity.pay.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+tsmapi.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+t.track.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+tv.app.migc.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+tvboss.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+tvepg.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+tv.india.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
+tv.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+tvmanager.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+tvmgr.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+tvstat.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+tv.weixin.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+tw.access.speech.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+tw.account.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+tw.api.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+tw.file.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+tw.nlp.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+tw.speech.ai.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.128.0/17
+txshare.api.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+tz.sec.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+uaa.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+update.dushu.xiaomi.com AS8069 AS8069 - MICROSOFT CORPORATION US 20.47.96.0/23
+upgrade.mishop.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+upgrade.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+upload.xshare.api.xiaomi.com AS24138 AS24138 - CHINA TIETONG TELECOMMUNICATIONS CORPORATION CN 222.35.136.0/22
+url1028.in.passport.xiaomi.com AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+url8807.global.passport.xiaomi.com AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+userid.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+user.pandora.xiaomi.com AS63855 AS63855 - XIAOMI H.K. LIMITED HK 43.224.246.0/23
+userright.ai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+us.mixin.api.files.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+utility.recharge.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+v0.market.xiaomi.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+v1.market.xiaomi.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+v2.market.xiaomi.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+v2.t001.ottcn.pandora.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+vd0.market.xiaomi.com AS24429 AS24429 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.246.23.0/24
+verify.sec.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+video.market.xiaomi.com AS139341 AS139341 - ACEVILLE PTE.LTD. SG 43.132.66.0/23
+video-miui.game.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
 vip.api.xmpush.global.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.192.0/18
-vip.api.xmpush.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 118.26.240.0/20
-wallpaper.cdn.pandora.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
-wap.phonerecharge.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 183.84.0.0/15
-wtradv.market.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 183.84.0.0/15
+vip.api.xmpush.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 117.48.116.0/22
+voip.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.64.0/18
+v.wallpaper.cdn.pandora.xiaomi.com AS133775 AS133775 - XIAMEN CN 117.25.128.0/19
+w11.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w12.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w13.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w16.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w1.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w2.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w4.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w6.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w7.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+w8.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+wallpaper.cdn.pandora.xiaomi.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+wallpaper.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+wan.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+wap.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+wap.phonerecharge.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+wcs.market.xiaomi.com AS4134 AS4134 - CHINA TELECOM CN 111.224.0.0/14
+weatherapi.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.128.0/17
+weatherapi.market.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+weather.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+web.music.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+web.recharge.pay.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+weixin.cdn.pandora.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+weixin.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+wl.voip.game.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.64.0/18
+wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
+w.pandora.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+wps.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+wtradv.market.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+www.account.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 161.117.0.0/17
 www.mail.xiaomi.com AS3491 AS3491 - PCCW GLOBAL, INC. US 207.226.244.0/22
+www.shoes.app-xae.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 42.62.40.0/21
+www.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 120.133.32.0/20
 xiaomi.com AS9802 AS9802 - 21VIANET(CHINA) INC. CN 58.83.128.0/18
+xiazai.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+xms.api.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+xms.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+xmupdate.cdn.pandora.xiaomi.com AS4837 AS4837 - CHINA UNICOM INDUSTRIAL INTERNET BACKBONE CN 221.204.0.0/15
+xpharos.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+xunlei.scraper.cdn.pandora.xiaomi.com AS54994 AS54994 - QUANTIL NETWORKS INC US 157.185.145.0/24
+yingyong.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+yms.be.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+youpin.wms.be.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+yunying.game.xiaomi.com AS4808 AS4808 - CHINA UNICOM CN 123.125.64.0/18
+zeus.ad.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.32.0/19
+zeus.pt.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.74.128.0/18
+zhushou.xiaomi.com AS23724 AS23724 - CHINA TELECOM CN 124.251.64.0/18
+zhuti.designer.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
 zhuti.designer.xiaomi.com AS4835 AS4835 - CHINA TELECOM CN 183.84.4.0/22
+zhuti.intl.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17
+zhuti.xiaomi.com AS45102 AS45102 - ALIBABA (US) TECHNOLOGY CO., LTD. US 47.241.0.0/17

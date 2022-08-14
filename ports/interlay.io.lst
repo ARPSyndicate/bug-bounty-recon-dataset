@@ -14,6 +14,7 @@
 [clearvisn] shop.interlay.io:2052
 [clearvisn] static.interlay.io:2052
 [eli] graphql-beta.interlay.io:2087
+[eli] info.interlay.io:2087
 [eli] interlay.io:2087
 [eli] shop.interlay.io:2087
 [gnunet] graphql-beta.interlay.io:2086
@@ -37,6 +38,7 @@
 [http] mon.interlay-dev.interlay.io:80
 [http] mon.interlay-mgmt.interlay.io:80
 [http] mon.kintsugi-prod.interlay.io:80
+[http] pga.kintsugi-prod.interlay.io:80
 [http-proxy] graphql-beta.interlay.io:8080
 [http-proxy] interlay.io:8080
 [http-proxy] shop.interlay.io:8080
@@ -119,6 +121,7 @@
 [https] mon.kintsugi-prod.interlay.io:443
 [http] spec.interlay.io:80
 [https] pga.interlay.io:443
+[https] pga.kintsugi-prod.interlay.io:443
 [https] rococo-local.interlay-dev.interlay.io:443
 [https] shop.interlay.io:443
 [https] spec.interlay.io:443

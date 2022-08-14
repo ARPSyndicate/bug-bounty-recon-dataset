@@ -1,20 +1,256 @@
-4kuhd-cdn.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.102.128.0/20
+4kmpadm-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+4kmpadm-qa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+4kmpadm.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+4kmp-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+4kmp-qa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+4kmp.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+4kmp-test.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+4kuhd-cdn.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+4kuhd-qa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+4kuhdresource.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 4kuhd.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
-account.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.102.128.0/20
+account.d1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.d1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.d1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.d1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.e1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.e1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+account.e1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account-origin.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+account-origin.e1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+account-origin-lva.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+account-origin-lvb.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+account-origin.q1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+account-origin.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+account.prod-qa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.q1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.q1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.q1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+account.q1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+account.sp-int.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+admin-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+admin-legacy-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+admin-legacy.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+admin-legacy-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+admin.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+admin-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+a.mx.m.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 63.232.56.0/23
+a.ns.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 65.125.54.0/24
 api.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.d1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.d1-pqa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.d1-spint.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.e1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.e1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.e1-pqa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.e1-spint.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin.d1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin.d1-pqa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin.d1-spint.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin.e1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin-lva.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+api-origin-lvb.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+api-origin.q1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api-origin.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+api.q1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.q1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.q1-pqa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
 api.q1-spint.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
-auth.api.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-auth.api.prod-qa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.1.192.0/20
-auth.api.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.73.224.0/19
-cdn-a.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
+auth.api.d1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.d1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.d1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.d1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.e1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.e1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.e1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth.api.prod-qa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth.api.q1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.q1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.q1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+auth.api.q1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+auth.api.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+auth.api.sp-int.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+b.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 63.232.56.0/23
+b.mx.m.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 63.232.56.0/23
+b.ns.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 65.125.54.0/24
+br.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+camblocks.api.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+camblocks.sdk.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ca.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+cdn2.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cdn-a.d1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cdn-a.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+cdn-a-origin.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cdn-a-origin.e1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cdn-a-origin-lva.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cdn-a-origin-lvb.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+cdn-a-origin.q1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cdn-a.q1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cdn-a.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cdn-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+cdn.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+cdn-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+c.mx.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 63.148.46.0/24
+c.mx.m.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+c.ns.email.sonyentertainmentnetwork.com AS7393 AS7393 - CYBERCON, INC. US 216.15.128.0/17
+csx-al001.dl.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+csx-sl001.dl.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+csx-tl001.dl.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.56.0/23
+d1-pmgt.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+d1-pqa.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+d1-spint.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+de.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+devices-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+devices.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+devices-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+d.mx.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 63.148.46.0/24
+d.mx.m.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+d.ns.email.sonyentertainmentnetwork.com AS7393 AS7393 - CYBERCON, INC. US 216.15.128.0/17
+e1-np.portal.store.sonyentertainmentnetwork.com AS16509 AS16509 - AMAZON.COM, INC. US 52.8.0.0/16
 e1-np.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
-ebm.email.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.66.114.0/23
-f.email.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.66.114.0/23
-psnow.prod.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 184.85.192.0/20
+e1-pmgt.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+e1-pqa.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+e1-spint.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+ebm.email.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.254.0/24
+ebmtest.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 67.134.222.0/24
+email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+e.ns.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+en.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+es.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+f.email.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 184.25.254.0/24
+f.ns.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+fr.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+hh.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+hhgames.prod.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+hh.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+hh.prod.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.80.0/22
+husky.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+husky.q1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+husky.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.74.80.0/20
+id.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+id.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+id.q1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+id.q1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+id.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+id.sp-int.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+it.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+jp.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+la3pebmpriv01.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv02.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv03.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv04.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv05.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv06.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv07.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+la3pebmpriv08.email.sonyentertainmentnetwork.com AS3356 AS3356 - LEVEL 3 PARENT, LLC US 4.0.0.0/9
+legacy-cdn-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+legacy-cdn.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+legacy-cdn-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+ltip.account.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+m-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+m.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+mgmtbackend.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+mgmt.store.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 96.16.68.0/22
+m.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+m-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+mta246.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 8.30.201.0/24
+music.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+mx.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+native.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.d1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.e1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.e1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.mgmt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+native.q1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.q1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+native.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+nj5pebmpriv01.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv02.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv03.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv04.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv05.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv06.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv07.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv08.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv09.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nj5pebmpriv10.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 72.166.182.0/23
+nl.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+ns31.dl.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 193.108.91.0/24
+ns32.dl.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 184.26.160.0/24
+ns32.muwebapi.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 184.26.160.0/24
+ns33.dl.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 2.22.230.0/24
+ns34.dl.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 95.100.174.0/24
+ns35.dl.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 2.16.130.0/24
+ns35.muwebapi.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 2.16.130.0/24
+ns36.dl.sonyentertainmentnetwork.com AS21342 AS21342 - AKAMAI INTERNATIONAL B.V. NL 96.7.49.0/24
+ns41.dl.sonyentertainmentnetwork.com AS62597 AS62597 - NSONE INC US 198.51.44.0/24
+ns42.dl.sonyentertainmentnetwork.com AS62597 AS62597 - NSONE INC US 198.51.45.0/24
+ns43.dl.sonyentertainmentnetwork.com AS62597 AS62597 - NSONE INC US 198.51.44.0/24
+ns44.dl.sonyentertainmentnetwork.com AS62597 AS62597 - NSONE INC US 198.51.45.0/24
+ny7p01lpebmd206.email.sonyentertainmentnetwork.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.224.0.0/12
+ny7p01lpmtax203.email.sonyentertainmentnetwork.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.224.0.0/12
+ny7p01lpmtax204.email.sonyentertainmentnetwork.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.224.0.0/12
+ny7p01lppmta271.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 8.30.201.0/24
+ny7p01lppmta272.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 8.30.201.0/24
+origin-cdn.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+origin-legacy-cdn.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+padmin-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+pdr-srlc.api.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+portal.store.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+prodbackend.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+promo.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+promo-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+psnow.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+psnow.prod.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+pt.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
 q1-np.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
-sonyentertainmentnetwork.com AS6130 AS6130 - AMERICAN INTERNET SERVICES, LLC. US 0.0.0.0/0
-store.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
+q1-pmgt.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+q1-pqa.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+q1-spint.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+raf.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+reg.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 207.251.96.0/23
+secure.api.d1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.d1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+secure.api.d1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.d1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+secure.api.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.e1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.e1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.e1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+secure.api.prod-qa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+secure.api.q1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.q1-pmgt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+secure.api.q1-pqa.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+secure.api.q1-spint.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+secure.api.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+secure.api.sp-int.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+secure-origin-lva.api.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+sf.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+sf-lv.prod.sonyentertainmentnetwork.com AS16509 AS16509 - AMAZON.COM, INC. US 54.215.128.0/18
+sf-lv.stress.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+sf.mgmt.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+sf.prod.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+sni-test-origin.d1-np.sonyentertainmentnetwork.com AS20115 AS20115 - CHARTER COMMUNICATIONS US 75.142.48.0/20
+sonyentertainmentnetwork.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+store-lv.stress.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+store.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.64.0/20
+test-origin-cdn.sonyentertainmentnetwork.com AS13720 AS13720 - DAYBREAK GAME COMPANY LLC US 64.37.160.0/19
+trig.email.sonyentertainmentnetwork.com AS53316 AS53316 - CHEETAHMAIL US 173.213.0.0/23
+try.sonyentertainmentnetwork.com AS44009 AS44009 - SLEEK NETWORKS LTD GB 188.65.56.0/21
+us.support.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.62.46.0/24
+vupreview-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+webstore.e1-np.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.100.48.0/20
+www2.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.216.0/22
+www-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+www-legacy-dev.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+www-legacy-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+www.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 104.86.0.0/19
+www-stage2.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+www-stage.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21

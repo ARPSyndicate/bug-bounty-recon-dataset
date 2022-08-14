@@ -1,5 +1,5 @@
 autodiscover.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 52.96.0.0/14
-enterpriseenrollment.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
-enterpriseregistration.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 20.184.0.0/13
+enterpriseenrollment.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 52.160.0.0/11
+enterpriseregistration.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 40.126.0.0/18
 lyncdiscover.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14
 sip.intergamma-test.nl AS8075 AS8075 - MICROSOFT CORPORATION US 52.112.0.0/14

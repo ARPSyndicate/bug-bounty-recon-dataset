@@ -23,6 +23,11 @@ http://cb076aaae6da.zksync.io:2087
 http://cb076aaae6da.zksync.io:8080
 http://cb076aaae6da.zksync.io:8443
 http://cb076aaae6da.zksync.io:8880
+http://checkout-goerli.zksync.io
+http://checkout-goerli.zksync.io:2086
+http://checkout-goerli.zksync.io:2087
+http://checkout-goerli.zksync.io:8080
+http://checkout-goerli.zksync.io:8443
 http://checkout-rinkeby.zksync.io
 http://checkout-rinkeby.zksync.io:2083
 http://checkout-rinkeby.zksync.io:2086
@@ -37,6 +42,14 @@ http://checkout-ropsten.zksync.io:2087
 http://checkout-ropsten.zksync.io:8080
 http://checkout-ropsten.zksync.io:8443
 http://checkout-ropsten.zksync.io:8880
+http://checkout-sepolia.zksync.io
+http://checkout-sepolia.zksync.io:2052
+http://checkout-sepolia.zksync.io:2086
+http://checkout-sepolia.zksync.io:2087
+http://checkout-sepolia.zksync.io:2096
+http://checkout-sepolia.zksync.io:8080
+http://checkout-sepolia.zksync.io:8443
+http://checkout-sepolia.zksync.io:8880
 http://checkout.zksync.io
 http://checkout.zksync.io:2083
 http://checkout.zksync.io:2086
@@ -255,8 +268,10 @@ http://ropsten.zksync.io:8880
 https://api.zksync.io
 https://beta.zksync.io
 https://cb076aaae6da.zksync.io
+https://checkout-goerli.zksync.io
 https://checkout-rinkeby.zksync.io
 https://checkout-ropsten.zksync.io
+https://checkout-sepolia.zksync.io
 https://checkout.zksync.io
 https://community.zksync.io
 https://community.zksync.io:2053

@@ -14,6 +14,6 @@ https://nonprofits.twitterflightschool.com [302] [GET] [text/html] [] [Apache] [
 https://omd.twitterflightschool.com [404] [GET] [text/html] [Exceed Fail] [Apache] [Apache] [d668a678dcaed4682b9d4d8013573dc0]
 https://omg.twitterflightschool.com [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [82a6fcb391a3a54bdd68163c9ea724e1]
 https://publicis.twitterflightschool.com [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [3c2008df19145203dde9b8678068430d]
-https://twitterflightschool.com [302] [GET] [text/html] [302 Found] [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips] [vhost] [Apache,CentOS,OpenSSL] [93a9c1b14b0d726ef63fe676d855605e]
+https://twitterflightschool.com [302] [GET] [text/html] [302 Found] [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips] [vhost] [Apache:2.4.6,CentOS,OpenSSL:1.0.2k] [93a9c1b14b0d726ef63fe676d855605e]
 https://wpp.twitterflightschool.com [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [5a1fbcde316dc4c67820adec44974388]
 https://www.twitterflightschool.com [302] [GET] [text/html] [] [Apache] [vhost] [Apache] [74ca52701bb1f41259f700859668913e]

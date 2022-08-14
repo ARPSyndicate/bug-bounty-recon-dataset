@@ -89,6 +89,7 @@ asis.halophile.staging.search.usa.gov
 asis.hardcoded2177.staging.infr.search.usa.gov
 asis.hardcoded2177.staging.search.usa.gov
 asis.hedgehog.staging.search.usa.gov
+asis.honeybadger.staging.search.usa.gov
 asis.jackalope.staging.infr.search.usa.gov
 asis.jackalope.staging.search.usa.gov
 asis.jumpy.staging.infr.search.usa.gov
@@ -240,6 +241,7 @@ hardcoded2177.staging.infr.search.usa.gov
 hardcoded2177.staging.search.usa.gov
 hec.sites.infr.search.usa.gov
 hedgehog.staging.search.usa.gov
+honeybadger.staging.search.usa.gov
 i14y.anthozoa.staging.infr.search.usa.gov
 i14y.anthozoa.staging.search.usa.gov
 i14y.apocrita.staging.search.usa.gov
@@ -266,6 +268,7 @@ i14y.halophile.staging.search.usa.gov
 i14y.hardcoded2177.staging.infr.search.usa.gov
 i14y.hardcoded2177.staging.search.usa.gov
 i14y.hedgehog.staging.search.usa.gov
+i14y.honeybadger.staging.search.usa.gov
 i14y.jackalope.staging.infr.search.usa.gov
 i14y.jackalope.staging.search.usa.gov
 i14y.jumpy.staging.infr.search.usa.gov
@@ -390,6 +393,7 @@ kibana.guineapig.staging.search.usa.gov
 kibana.halophile.staging.search.usa.gov
 kibana.hardcoded2177.staging.search.usa.gov
 kibana.hedgehog.staging.search.usa.gov
+kibana.honeybadger.staging.search.usa.gov
 kibana.jackalope.staging.search.usa.gov
 kibana.jumpy.staging.search.usa.gov
 kibana.lemonade79.staging.search.usa.gov

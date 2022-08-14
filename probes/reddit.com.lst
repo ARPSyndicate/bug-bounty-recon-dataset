@@ -1,4 +1,4 @@
 http://rhs.reddit.com [301] [GET] [text/html] [301 Moved Permanently] [awselb/2.0] [4aa7a432bb447f094408f1bd6229c605]
-https://amp.reddit.com [301] [GET] [text/html] [] [] [vhost] [fastly] [3c4a7af9857a3e7fd508b89f750f7c19]
-https://email.reddit.com [200] [GET] [application/octet-stream] [] [nginx] [Nginx] [9f36c1c909fa94ed5e7af41387ae3dae]
+https://amp.reddit.com [301] [GET] [text/html] [] [] [vhost] [fastly] [Varnish] [3c4a7af9857a3e7fd508b89f750f7c19]
+https://email.reddit.com [404] [GET] [text/plain] [] [] [google] [595e88012a6521aae3e12cbebe76eb9e]
 https://gql-realtime.reddit.com [401] [GET] [application/json] [] [] [e2c878df332a65b138aa909baf341c86]

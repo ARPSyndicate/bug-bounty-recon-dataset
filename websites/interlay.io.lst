@@ -144,6 +144,7 @@ http://pga.interlay.io:2053
 http://pga.interlay.io:2083
 http://pga.interlay.io:2087
 http://pga.interlay.io:8443
+http://pga.kintsugi-prod.interlay.io
 http://rococo-local.interlay-dev.interlay.io
 https://api-beta.interlay.io
 https://api-dev-demo.interlay.io
@@ -205,6 +206,7 @@ https://mon.interlay-mgmt.interlay.io
 https://mon.kintsugi-prod.interlay.io
 http://spec.interlay.io
 https://pga.interlay.io
+https://pga.kintsugi-prod.interlay.io
 https://rococo-local.interlay-dev.interlay.io
 https://shop.interlay.io
 https://shop.interlay.io:2053

@@ -1,4 +1,4 @@
-https://app.sense.finance [200] [GET] [text/html] [] [Vercel] [vhost] [Vercel] [90033cc1208762035d9eb407779e32da]
+https://app.sense.finance [200] [GET] [text/html] [] [Vercel] [vhost] [Vercel] [0e36bb54a92cb4cc24f8d15973b3d8f6]
 https://docs.sense.finance [200] [GET] [text/html] [Sense] [Vercel] [vhost] [Vercel,Vue.js,VuePress:1.8.2] [e10b86f4350662a470a1e5f3dcbbc0a0]
 https://graph.sense.finance [200] [GET] [text/plain] [] [Caddy] [vhost] [Caddy,Go] [75a2fe556e01f4f2478f5919e3db0314]
 https://sense.finance [200] [GET] [text/html] [Sense Landing] [Vercel] [vhost] [MailChimp,Vercel] [8c9f7132c7a9f92a982b789324f9b5eb]

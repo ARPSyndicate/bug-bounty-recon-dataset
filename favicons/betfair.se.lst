@@ -29,13 +29,6 @@
 1099596916	betfair	https://www.betfair.se/
 1099596916	betfair	http://www.betfair.se/
 1099596916	betfair	http://www.betfair.se:8080/
-116323821	springboot	http://mypromos.betfair.se/
-116323821	springboot	http://mypromos.betfair.se:8080/
-116323821	springboot	https://mypromos.betfair.se/
-1772087922	asp.net favicon	http://simulator.betfair.se/
-1772087922	asp.net favicon	https://simulator.betfair.se/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://simulator.betfair.se/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://simulator.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.se:2082/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://betfair.se:2086/
@@ -67,6 +60,3 @@ e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://ssc.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	https://www.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.se/
 e1a5e31d7c92c7ad54b8fd072f53b1b5	betfair	http://www.betfair.se:8080/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mypromos.betfair.se/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	http://mypromos.betfair.se:8080/
-e71ed563d9c0742ee87ad93ec1a22238	springboot	https://mypromos.betfair.se/

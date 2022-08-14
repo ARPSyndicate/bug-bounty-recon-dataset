@@ -1,45 +1,140 @@
-agent.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
-api.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
-api.qa.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
-arcgis-nonprod.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
-beta.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
+ablink.insights.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.154.0/24
+aec-prod.acqueon.infra.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+aec-qa.acqueon.infra.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+agent.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+akastg.api.marcus.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.197.88.0/21
+akastg.blue.api.marcus.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.197.88.0/21
+akastg.blue.marcus.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.197.88.0/21
+akastg.www.marcus.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.197.88.0/21
+api.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+api.dev.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+api.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.19.144.0/20
+api.qa.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+api.uat2.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+api.uat3.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+api.uat.consumercloud.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+api.vendor.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.19.160.0/20
+arcgis-nonprod.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
+b2bapi.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 207.17.33.0/24
+beta.invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+beta.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+blue.api.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.208.0/20
+blue.dev2.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+blue.dev.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.70.0.0/15
+blue.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.16.208.0/20
+blue.perf.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+blue.uat2.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+blue.uat.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 ca.e.marcus.com AS46263 AS46263 - E-DIALOG, INC US 96.47.24.0/24
+chat.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
 click.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
-dev.alation.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
-dev.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
-dev.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 54.86.0.0/16
+consumer.communications.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+corecredit.cc-pod2.infra.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+dev2.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+dev.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+dev.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.92.128.0/17
+dev.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+dev.agent.ui.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+dev.alation.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.226.0.0/15
+dev.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+dev.billpay.consumercloud.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+dev.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.70.0.0/15
+dev.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
+dev.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
 e.e.marcus.com AS46263 AS46263 - E-DIALOG, INC US 96.47.24.0/24
-forwarder-aws.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 52.200.0.0/13
-forwarder.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 50.16.0.0/16
-images.e.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 108.156.120.0/21
-invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
-invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
-ivr.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP INC. US 148.86.15.0/24
-ivr-origin.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP INC. US 148.86.15.0/24
-kpmg.invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
-kpmg.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
-login.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 138.8.25.0/24
-patqa.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 54.196.0.0/15
-patuat.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 23.20.0.0/15
-perf.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 54.208.0.0/15
-pilot.invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
-pilot.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.132.0/24
-preprod.analytics.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 3.33.192.0/20
+elbaec-prod.acqueon.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 50.17.0.0/16
+elbaec-qa.acqueon.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
+enlbaec-prod.acqueon.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 50.19.0.0/17
+enlbaec-qa.acqueon.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+finapp.marcus.com AS19701 AS19701 - YODLEE INC. US 104.207.190.0/24
+forwarder-aws.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+forwarder.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+green.dev2.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+green.dev.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+green.perf.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+green.uat2.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+green.uat.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+images.e.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+ivr.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 148.86.15.0/24
+ivr-origin.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 138.8.25.0/24
+kpmg.invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+kpmg.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+login.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 148.86.15.0/24
+marcus.com AS397213 AS397213 - NEUSTAR, INC. US 204.74.99.0/24
+mck1.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
+mck1.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+metrics.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 63.140.38.0/23
+o3288.abmail.insights.marcus.com AS11377 AS11377 - SENDGRID, INC. US 149.72.64.0/19
+patperf.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.164.0.0/15
+patperf.atm.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 107.23.128.0/17
+patqa.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+patqa.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
+patqa.atm.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+patqa.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
+patuat.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+patuat.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.242.0.0/15
+patuat.atm.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+patuat.corecredit.cc-pod2.infra.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+patuat.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
+perf.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+perf.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
+perfprod.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
+pfm.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+pilot.invest.api.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+pilot.invest.marcus.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.67.33.0/24
+post.tw.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+preprod.analytics.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+preprod.consumer.communications.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 prod.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
-prod.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 54.90.0.0/15
-prod.alation.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
-prod.analytics.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
-prod.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 107.23.128.0/17
+prod.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
+prod.alation.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+prod.analytics.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+prod.api.infra.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 prod.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
-prod.tableau.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.156.0.0/14
+prod.ogw.infra.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+prod-pilot.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
+prod.tableau.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+prod-vip-splunk.vendor.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 148.86.15.0/24
 prod-vip.vendor.marcus.com AS6195 AS6195 - THE GOLDMAN SACHS GROUP, INC. US 148.86.15.0/24
-qa.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
-qa.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
-qa.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 52.200.0.0/13
-splunk-hec-apps-nonprod-core-sdlc.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 34.192.0.0/12
-splunk-hec-apps-prod.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
-training.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 18.232.0.0/14
-tw.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
-uat.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM INC. US 54.88.0.0/16
-u.tw.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
-view.e.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+prod-wallboard.emite.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
+qa.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+qa.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 23.22.0.0/15
+qa.agent.ui.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+qa.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+qa.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 23.22.0.0/15
+qa.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+qa-wallboard.emite.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
+smetrics.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 63.140.38.0/23
+splunk-hec-apps-nonprod-core-sdlc.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.221.0.0/16
+splunk-hec-apps-prod.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+splunk-tools-hec.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.236.128.0/17
+s.tw.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 18.236.0.0/15
+test.infra.marcus.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS 0.0.0.0/0
+training.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+training.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
+training.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+training.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+training.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+training.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+tw.marcus.com AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+uat1.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 107.22.0.0/16
+uat1.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 50.19.0.0/17
+uat2.agent.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.70.0.0/15
+uat2.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+uat2.consumer.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+uat.agent.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+uat.agent.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+uat.agent.ui.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+uat.api.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
+uat.atm.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
+uat.cards.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+uat.ogw.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 54.88.0.0/16
+uat.tableau.infra.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+uat-vip-splunk.vendor.marcus.com AS18593 AS18593 - THE GOLDMAN SACHS GROUP, INC. US 138.8.74.0/24
+vendor.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.19.144.0/20
+view.e.marcus.com AS14618 AS14618 - AMAZON.COM, INC. US 52.70.0.0/15
+v.marcus.com AS30286 AS30286 - THREATMETRIX INC. US 192.225.156.0/22
+www.marcus.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.19.144.0/20

@@ -1,8 +1,8 @@
-offers-api.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
-offers-api.staging.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
-orders-api.staging.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
-selfservice-api.dev.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 54.89.0.0/16
-selfservice-api.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
-selfservice-api.staging.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 107.21.128.0/17
-translation.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
-translation.staging.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+offers-api.dh-commerce.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+offers-api.staging.dh-commerce.com AS16509 AS16509 - AMAZON.COM, INC. US 54.186.0.0/15
+orders-api.staging.dh-commerce.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+selfservice-api.dev.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 54.80.0.0/14
+selfservice-api.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+selfservice-api.staging.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
+translation.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+translation.staging.dh-commerce.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12

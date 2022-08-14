@@ -1,6 +1,39 @@
-api.internal.waypoint.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
-api.us-east-2.internal.waypoint.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
+2625a019b068474d8fdabb3e6868f582.es-kibana.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+andromeda.gts.myteksi.net AS4808 AS4808 - CHINA UNICOM CN 211.94.64.0/18
+api.grabview.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
+api.internal.waypoint.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.131.0.0/16
+api.us-east-2.internal.waypoint.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.131.0.0/16
+audit.es-kibana.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+autocall.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+aws.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 54.151.128.0/17
+azkaban.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 54.169.0.0/17
+baru.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 18.136.0.0/16
 camera-management.grabview.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
+config-portal.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+enterprise-api.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 52.74.0.0/16
+enterprise-gfb-portal-api.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 3.0.0.0/15
+fish.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 18.138.0.0/15
+food-cms.azure.myteksi.net AS8068 AS8068 - MICROSOFT CORPORATION US 13.107.246.0/24
+geo-tools.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+go.internal-tools.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 18.142.0.0/15
 id.kartamap.geo.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 20.192.0.0/10
+id.myteksi.net AS9905 AS9905 - LINKNET ASN ID 139.255.52.0/22
+jarvis.geo.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 40.112.0.0/13
+jenkins-webhook.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 52.76.0.0/17
+juno.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 52.76.128.0/17
+kibana.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 175.41.128.0/18
+map.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+maps.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+my.myteksi.net AS9534 AS9534 - MAXIS BROADBAND SDN BHD MY 121.120.0.0/16
+oncall.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+partner-profile-pic.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+ph.myteksi.net AS9658 AS9658 - EASTERN TELECOMMUNICATIONS PHILIPPINES, INC. PH 180.232.64.0/19
 scim-bridge2.foundation.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 20.192.0.0/10
 scim-bridge.foundation.azure.myteksi.net AS8075 AS8075 - MICROSOFT CORPORATION US 20.192.0.0/10
+sg.myteksi.net AS17547 AS17547 - M1 NET LTD SG 118.189.0.0/16
+slam.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 54.169.0.0/17
+stratus.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+tawish.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+tis-content.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+ucm-gk.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+web-api.myteksi.net AS16509 AS16509 - AMAZON.COM, INC. US 13.250.0.0/15

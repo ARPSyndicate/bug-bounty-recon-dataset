@@ -6,7 +6,7 @@ api-testnet.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 blockexplorer-devnet.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 blockexplorer.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 blockexplorer-testnet.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-data.sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
+data.sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 devnet.sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 dex.sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 docs.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
@@ -21,5 +21,5 @@ sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 staging.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 test2.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 token-recovery.sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
-www.sifchain.finance AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
+www.sifchain.finance AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 x.sifchain.finance AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

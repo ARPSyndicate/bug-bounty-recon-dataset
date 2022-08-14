@@ -1,3 +1,4 @@
+https://acceptatie.rest.restintergamma.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://acceptatie.rest.restintergamma.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [bad2e8579dcdb79399aac2064216a37d]
 https://adobe-gamma-be.acc.restintergamma.nl [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [905b1fbb26e082557ff0b3b3553cda6c]
 https://adobe-gamma-be.prd.restintergamma.nl [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [905b1fbb26e082557ff0b3b3553cda6c]
@@ -12,7 +13,6 @@ https://auth.supplier.restintergamma.nl [200] [GET] [text/html] [Signin] [Server
 https://hr.acc.restintergamma.nl [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [bc45704aad57d445b6dfa58b101071e3]
 https://hr.restintergamma.nl [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [bc45704aad57d445b6dfa58b101071e3]
 https://rest.restintergamma.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
-https://rest.restintergamma.nl [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [bad2e8579dcdb79399aac2064216a37d]
 https://squadra.acc.restintergamma.nl [404] [GET] [application/json] [] [] [vhost] [e66a7a6c91e2c26803f3f49feb7a883f]
 https://squadra.restintergamma.nl [404] [GET] [application/json] [] [] [vhost] [e66a7a6c91e2c26803f3f49feb7a883f]
 https://supplier.acc.restintergamma.nl [403] [GET] [application/json] [] [] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [bc45704aad57d445b6dfa58b101071e3]

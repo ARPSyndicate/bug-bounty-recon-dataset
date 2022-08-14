@@ -79,6 +79,8 @@
 2119363447	reflexion	http://performasys.reflexion.net/
 2119363447	reflexion	http://pinnacle.reflexion.net/
 2119363447	reflexion	http://portal.reflexion.net/
+2119363447	reflexion	http://qa.reflexion.net/
+2119363447	reflexion	http://qa-submit.reflexion.net/
 2119363447	reflexion	http://qlan.reflexion.net/
 2119363447	reflexion	http://rfx-asp.reflexion.net/
 2119363447	reflexion	http://rfx-monitor.reflexion.net/
@@ -165,6 +167,10 @@
 2119363447	reflexion	https://pinnacle.reflexion.net/
 2119363447	reflexion	https://portal.reflexion.net/
 2119363447	reflexion	https://portal.reflexion.net:443/
+2119363447	reflexion	https://qa.reflexion.net/
+2119363447	reflexion	https://qa.reflexion.net:443/
+2119363447	reflexion	https://qa-submit.reflexion.net/
+2119363447	reflexion	https://qa-submit.reflexion.net:8443/
 2119363447	reflexion	https://qlan.reflexion.net/
 2119363447	reflexion	https://rfx-asp.reflexion.net/
 2119363447	reflexion	https://rfx-monitor.reflexion.net/
@@ -272,6 +278,8 @@ cd3028624a7dda7444ceb0a974b2897c	reflexion	http://pchelp.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://performasys.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://pinnacle.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://portal.reflexion.net/
+cd3028624a7dda7444ceb0a974b2897c	reflexion	http://qa.reflexion.net/
+cd3028624a7dda7444ceb0a974b2897c	reflexion	http://qa-submit.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://qlan.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://rfx-asp.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://rfx-monitor.reflexion.net/
@@ -358,6 +366,10 @@ cd3028624a7dda7444ceb0a974b2897c	reflexion	https://performasys.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://pinnacle.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://portal.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://portal.reflexion.net:443/
+cd3028624a7dda7444ceb0a974b2897c	reflexion	https://qa.reflexion.net/
+cd3028624a7dda7444ceb0a974b2897c	reflexion	https://qa.reflexion.net:443/
+cd3028624a7dda7444ceb0a974b2897c	reflexion	https://qa-submit.reflexion.net/
+cd3028624a7dda7444ceb0a974b2897c	reflexion	https://qa-submit.reflexion.net:8443/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://qlan.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://rfx-asp.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://rfx-monitor.reflexion.net/
@@ -370,7 +382,6 @@ cd3028624a7dda7444ceb0a974b2897c	reflexion	https://thenetnow.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://tmsnet.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://tns.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://unified.reflexion.net/
-cd3028624a7dda7444ceb0a974b2897c	reflexion	https://webserv.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://xbar.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	http://sysarc.reflexion.net/
 cd3028624a7dda7444ceb0a974b2897c	reflexion	https://zconnect.reflexion.net/

@@ -1,2 +1,15 @@
+alerts.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+aws-fw-0.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+customer.mc.starlinkisp.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 geoip.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
-geoip.starlinkisp.net AS29802 AS29802 - HIVELOCITY INC. US 66.165.254.0/23
+git.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+grafana-prom.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+kafka01.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+librenms.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+netbox.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+ntop.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
+observium.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+per-agg-0-oobmgmt.starlinkisp.net AS45437 AS45437 - REAL WORLD TECHNOLOGY SOLUTIONS PTY LTD AU 103.57.3.0/24
+per-agg-1-oobmgmt.starlinkisp.net AS45437 AS45437 - REAL WORLD TECHNOLOGY SOLUTIONS PTY LTD AU 103.57.3.0/24
+prometheus.starlinkisp.net AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+sea-six.starlinkisp.net AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0

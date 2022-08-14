@@ -1,2 +1,4 @@
-https://lex.com.my [301] [GET] [text/html] [301 Moved Permanently] [Tengine/Aserver] [vhost] [Tengine] [67194376ec810b1466000b45b043ab94]
-https://pre.lex.com.my [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [85aacd5f9c8121db46efd5bd1c429cab]
+https://lex.com.my [404] [GET] [text/html] [404 Not Found] [Tengine/Aserver] [Tengine] [4095ddb4a81d2f21d2883c7c0432a32a]
+https://lex.com.my [404] [GET] [text/html] [404 Not Found] [Tengine/Aserver] [Tengine] [df7ee0c07e151f041421d93d1a4d6da6]
+https://pre.lex.com.my [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [5a68f652e18acf296561402bf4e41c04]
+https://pre.lex.com.my [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [8f2a5fbe032ef1df40119522d99b63ad]

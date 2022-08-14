@@ -1,4 +1,4 @@
-https://m.huffingtonpost.co.za [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
-https://projects.huffingtonpost.co.za [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
-https://stories.huffingtonpost.co.za [200] [GET] [text/html] [] [GitHub.com] [vhost] [GitHub Pages,Ruby on Rails] [49773db6c00d93f0ba10cf400dd59f98]
-https://www.huffingtonpost.co.za [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://m.huffingtonpost.co.za [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd:1.4.55] [d41d8cd98f00b204e9800998ecf8427e]
+https://projects.huffingtonpost.co.za [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd:1.4.55] [d41d8cd98f00b204e9800998ecf8427e]
+https://stories.huffingtonpost.co.za [200] [GET] [text/html] [] [GitHub.com] [vhost] [Fastly,GitHub Pages,Varnish] [49773db6c00d93f0ba10cf400dd59f98]
+https://www.huffingtonpost.co.za [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd:1.4.55] [d41d8cd98f00b204e9800998ecf8427e]

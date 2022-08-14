@@ -669,6 +669,7 @@ scripts-pipeline-failure-staging.flink.shopifykloud.com
 scripts-pipeline-staging.flink.shopifykloud.com
 scrubbed-ctmr-info-signup-bcfl-stg.flink.shopifykloud.com
 scrubbed-customer-info-staging.flink.shopifykloud.com
+scrubbed-customer-signup-bcfl-prod.flink.shopifykloud.com
 seamster-b.shopify-data-presto-global.shopifykloud.com
 server.pansta-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 session-attribution-staging.flink.shopifykloud.com

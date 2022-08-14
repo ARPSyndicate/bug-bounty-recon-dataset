@@ -1,5 +1,14 @@
-chaski.huffingtonpost.gr AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
-huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 13.226.26.0/23
+chaski.huffingtonpost.gr AS14618 AS14618 - AMAZON.COM, INC. US 52.72.0.0/15
+horizon.huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 76.223.16.0/20
+huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 link.huffingtonpost.gr AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-m.huffingtonpost.gr AS54113 AS54113 - FASTLY US 151.101.208.0/22
-www.huffingtonpost.gr AS54113 AS54113 - FASTLY US 151.101.208.0/22
+m.huffingtonpost.gr AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+projects.huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.m.huffingtonpost.gr AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+qa.search.huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.www.huffingtonpost.gr AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+search.huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+staging.m.huffingtonpost.gr AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+staging.search.huffingtonpost.gr AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+staging.www.huffingtonpost.gr AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+www.huffingtonpost.gr AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22

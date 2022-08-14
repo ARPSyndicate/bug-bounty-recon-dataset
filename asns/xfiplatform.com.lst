@@ -1,13 +1,13 @@
-activation-ext.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
+activation-ext.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 activation-integration-ext.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 activation-integration.xfiplatform.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
-activation-staging-ext.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+activation-staging-ext.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 activation-staging.xfiplatform.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 activation.xfiplatform.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
 gateway-activation-test.xfiplatform.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 96.96.0.0/12
-gw-act-int.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 13.33.60.0/23
-gw-act-stage.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.120.0/21
-gw-act.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.36.0/22
-transfersfile-integration.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
-transfersfile-staging.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 54.236.64.0/18
-transfersfile.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+gw-act-int.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+gw-act-stage.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+gw-act.xfiplatform.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+transfersfile-integration.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 54.226.0.0/15
+transfersfile-staging.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 54.152.0.0/16
+transfersfile.xfiplatform.com AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13

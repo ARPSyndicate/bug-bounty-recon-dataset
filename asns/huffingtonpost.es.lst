@@ -1,5 +1,14 @@
-chaski.huffingtonpost.es AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
-huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+chaski.huffingtonpost.es AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+horizon.huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 76.223.16.0/20
+huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
 link.huffingtonpost.es AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
-m.huffingtonpost.es AS54113 AS54113 - FASTLY US 151.101.208.0/22
-www.huffingtonpost.es AS54113 AS54113 - FASTLY US 151.101.208.0/22
+m.huffingtonpost.es AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+projects.huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.m.huffingtonpost.es AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+qa.search.huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+qa.www.huffingtonpost.es AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
+search.huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+staging.m.huffingtonpost.es AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+staging.search.huffingtonpost.es AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+staging.www.huffingtonpost.es AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+www.huffingtonpost.es AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22

@@ -40,6 +40,7 @@
 [https] analyticsv1.iotexscan.io:443
 [https] api.iotexscan.io:443
 [https] cdn.iotexscan.io:443
+[https] graphcdn.iotexscan.io:443
 [https] iotexscan.io:443
 [https] nightly.iotexscan.io:443
 [https] testnet.iotexscan.io:443

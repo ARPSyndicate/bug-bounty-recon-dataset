@@ -1,0 +1,10 @@
+cerberus.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 54.166.0.0/15
+cerberus-shared-development.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+charon-shared-development.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 52.90.0.0/15
+charon-themis.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+hypnos.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
+origin-events.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
+origin-one.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+origin-www.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
+orthrus.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 100.24.0.0/13
+traffic-monitor.airbnb-aws.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12

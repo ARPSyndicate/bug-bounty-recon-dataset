@@ -1,6 +1,3 @@
-1485257654	sonarqube	https://sonarqube.dev.odyssey.withbuddies.com/
-1772087922	asp.net favicon	http://admin.design.odyssey.withbuddies.com/
-1772087922	asp.net favicon	http://admin.dev.odyssey.withbuddies.com/
 1772087922	asp.net favicon	http://admin.dev.panda.withbuddies.com/
 1772087922	asp.net favicon	http://admin.dev.pantheon.withbuddies.com/
 1772087922	asp.net favicon	http://admin.dev.sample.withbuddies.com/
@@ -8,7 +5,6 @@
 1772087922	asp.net favicon	http://admin.dev.tuscany.withbuddies.com/
 1772087922	asp.net favicon	http://admin.loadtest.tophat.withbuddies.com/
 1772087922	asp.net favicon	http://admin.preview.pantheon.withbuddies.com/
-1772087922	asp.net favicon	http://admin.prod.odyssey.withbuddies.com/
 1772087922	asp.net favicon	http://admin.prod.panda.withbuddies.com/
 1772087922	asp.net favicon	http://admin.qa2.panda.withbuddies.com/
 1772087922	asp.net favicon	http://admin.qa.panda.withbuddies.com/
@@ -17,9 +13,6 @@
 1772087922	asp.net favicon	http://admin.sandbox2.tophat.withbuddies.com/
 1772087922	asp.net favicon	http://admin.stage.panda.withbuddies.com/
 1772087922	asp.net favicon	http://admin.stage.tophat.withbuddies.com/
-1772087922	asp.net favicon	http://admin.staging.odyssey.withbuddies.com/
-1772087922	asp.net favicon	https://admin.design.odyssey.withbuddies.com/
-1772087922	asp.net favicon	https://admin.dev.odyssey.withbuddies.com/
 1772087922	asp.net favicon	https://admin.dev.panda.withbuddies.com/
 1772087922	asp.net favicon	https://admin.dev.pantheon.withbuddies.com/
 1772087922	asp.net favicon	https://admin.dev.sample.withbuddies.com/
@@ -27,7 +20,6 @@
 1772087922	asp.net favicon	https://admin.dev.tuscany.withbuddies.com/
 1772087922	asp.net favicon	https://admin.loadtest.tophat.withbuddies.com/
 1772087922	asp.net favicon	https://admin.preview.pantheon.withbuddies.com/
-1772087922	asp.net favicon	https://admin.prod.odyssey.withbuddies.com/
 1772087922	asp.net favicon	https://admin.prod.panda.withbuddies.com/
 1772087922	asp.net favicon	https://admin.qa2.panda.withbuddies.com/
 1772087922	asp.net favicon	https://admin.qa.panda.withbuddies.com/
@@ -36,9 +28,6 @@
 1772087922	asp.net favicon	https://admin.sandbox2.tophat.withbuddies.com/
 1772087922	asp.net favicon	https://admin.stage.panda.withbuddies.com/
 1772087922	asp.net favicon	https://admin.stage.tophat.withbuddies.com/
-1772087922	asp.net favicon	https://admin.staging.odyssey.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.design.odyssey.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.dev.odyssey.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.dev.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.dev.pantheon.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.dev.sample.withbuddies.com/
@@ -46,7 +35,6 @@ b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.dev.tophat.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.dev.tuscany.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.loadtest.tophat.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.preview.pantheon.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.prod.odyssey.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.prod.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.qa2.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.qa.panda.withbuddies.com/
@@ -55,9 +43,6 @@ b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.sandbox1.tophat.withbuddies
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.sandbox2.tophat.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.stage.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.stage.tophat.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://admin.staging.odyssey.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.design.odyssey.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.dev.odyssey.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.dev.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.dev.pantheon.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.dev.sample.withbuddies.com/
@@ -65,7 +50,6 @@ b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.dev.tophat.withbuddies.com
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.dev.tuscany.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.loadtest.tophat.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.preview.pantheon.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.prod.odyssey.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.prod.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.qa2.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.qa.panda.withbuddies.com/
@@ -74,4 +58,3 @@ b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.sandbox1.tophat.withbuddie
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.sandbox2.tophat.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.stage.panda.withbuddies.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.stage.tophat.withbuddies.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	https://admin.staging.odyssey.withbuddies.com/

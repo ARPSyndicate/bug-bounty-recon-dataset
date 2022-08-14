@@ -8,96 +8,276 @@ amex-sftp-card.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT
 amex-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 amex.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 android-pay.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-apt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 63.144.0.0/12
+api-apply.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+api.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+api.production.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+api.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+api.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.208.0.0/15
+api.sandbox.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+api-sand.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+api.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+api.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+app.go.braintreepayments.com AS7160 AS7160 - ORACLE CORPORATION US 209.167.231.0/24
+apply.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+apply.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+apply.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+apply.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+apt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+arbiter-cosmos.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+arbiter.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
+arbiter.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+articles.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
+articles.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+assets.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+assets.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 atmosphere-cosmos.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+atmosphere-prod-ap-southeast-2.production.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.153.128.0/17
+atmosphere-prod-us-east-1.production.cosmos.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+atmosphere-prod-us-east-2.production.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 18.216.0.0/14
+atmosphere-prod-us-west-2.production.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+atmosphere-sand-ap-southeast-2.sandbox.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.206.0.0/17
+atmosphere-sand-us-east-1.sandbox.cosmos.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+atmosphere-sand-us-east-2.sandbox.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.15.64.0/18
+atmosphere-sand-us-west-2.sandbox.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+authy.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
+authy.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+authy.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.57.0.0/16
 bambora-sftp.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 bambora.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 billing.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+billing.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+billing-registration.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+billing.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
+bin.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
+bin.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.84.0.0/15
+bin.sandbox.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 blue-front-door-us-east-1-proxy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 blue-front-door-us-east-2-proxy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 blue-front-door-us-west-2-proxy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+brand01.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 67.128.0.0/13
 brand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+brand.staging.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 67.128.0.0/13
 c3.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+cardinal-passive-a.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 cardinal-passive-b.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 cardinal.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+cmt.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 collins.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+collins.qwt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+collins.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
 collins.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
 collins.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
 cosmos-authy.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+cosmos-authy.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 184.72.0.0/18
+cosmos-authy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 cosmos-first-data-vpn.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
 cosmos-first-data-vpn.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+cosmos-funding.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+cosmos-funding.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+cosmos-keymaster.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+cosmos-provisioner.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+cosmos-provisioner.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 cosmos-proxy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+decisions.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+decisions.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+demo.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+developer.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 developers.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
+developers.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+disputenotifier.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+disputin.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+disputin.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
+disputin.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+doorman-cosmos.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 experian.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 falcon.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+fat-zebra-gateway.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 fat-zebra.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 first-data-file-gateway-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 first-data-file-gateway.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 first-data.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 first-data-vpn-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-funding.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
-funding.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+fiveninesftp.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+forwarding.qa.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+funding.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+funding.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+funding.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+funding.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+gatewayapi.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+gatewayproxy-api.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+gatewayproxy.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 gateway.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
-graphql.staging.braintreepayments.com AS16509 AS16509 - AMAZON.COM INC. US 13.226.32.0/21
-gstatic.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
-gstatic.qa.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+gateway.qa.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+gateway.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+gateway.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+gitmirror.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+go.braintreepayments.com AS7160 AS7160 - ORACLE CORPORATION US 142.0.173.0/24
+graphql.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+graphql.staging.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+gstatic.dev.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+gstatic.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+gstatic.qa.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 heartland.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 help.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
+help.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+images.go.braintreepayments.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.216.149.0/24
+integrations.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+integrations.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+internetproxy.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.56.0.0/16
+internetproxy.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 js-sdk-integration.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 184.169.128.0/17
+js-sdk-integration.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+js.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+js.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+keymaster.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 107.23.128.0/17
+keymaster.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+keymaster.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.241.128.0/19
 kount-beta.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+kount-test.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 184.169.128.0/17
 kount-test.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-login.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 52.20.0.0/14
+kubecontroller.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+kubecontroller.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 18.208.0.0/13
+kubecontroller.stc.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+kubecontroller.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+ldap.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+ldap.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.52.0.0/16
+login.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.211.0.0/16
+looker5.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+mail01.go.braintreepayments.com AS7160 AS7160 - ORACLE CORPORATION US 204.92.114.0/24
+mail1.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+mail2.braintreepayments.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
+mail3.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+mail4.braintreepayments.com AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
+marketing.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 184.73.0.0/16
 mastercard.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 masterpass.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 mes.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+migs.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 moneris.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 nab-aus.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 nab.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 nagdash.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 nagdash.qwt.braintreepayments.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
+nagdash.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+nagdash.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
 nagios-api.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 nagios-api.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
-nagios-api.qwt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
-nagios-api.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM INC. US 52.52.0.0/15
+nagios-api.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
+nagios-api.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+nagios-api.qwt.braintreepayments.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
+nagios-api.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.57.0.0/16
 nagios-api.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
-nagios-api.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 65.128.0.0/11
-nagios-api.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 67.128.0.0/13
+nagios-api.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
+nagios-api.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
 nagios.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 nagios.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
-nagios.qwt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
-nagios.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM INC. US 52.52.0.0/15
-nagios.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 65.128.0.0/11
-nagios.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 67.128.0.0/13
+nagios.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.210.0.0/16
+nagios.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
+nagios.qwt.braintreepayments.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
+nagios.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.52.0.0/15
+nagios.sav.braintreepayments.com AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
+nagios.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
+nagios.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
 netcetera.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+ns1.braintreepayments.com AS397225 AS397225 - NEUSTAR, INC. US 156.154.64.0/24
+ns1.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+ns2.braintreepayments.com AS31898 AS31898 - ORACLE CORPORATION US 108.59.161.0/24
+ns2.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+ns3.braintreepayments.com AS397233 AS397233 - NEUSTAR, INC. US 156.154.65.0/24
+ns3.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 omnipay-direct-dr-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 omnipay-direct-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 omnipay-direct.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 omnipay-sftp.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-opscenter.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 67.128.0.0/13
+opscenter.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.174.0.0/15
+opscenter.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15
+opscenter.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 50.18.128.0/18
+opscenter.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+opscenter.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 67.128.0.0/13
 orange.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-panel.sandbox.braintreepayments.com AS16509 AS16509 - AMAZON.COM INC. US 52.32.0.0/14
+origin-atmosphere-prod.production.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 35.160.0.0/13
+origin-atmosphere-sand.sandbox.cosmos.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
+origin-www.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
+panel.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+panel.gateway.qa.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
+panel.sandbox.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 paypal.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 paypal-switch.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 paypal-tsp.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 pay-with-venmo.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-provisioner.sand.braintreepayments.com AS14618 AS14618 - AMAZON.COM INC. US 18.232.0.0/14
+provisioner.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
+provisioner.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+provisioner.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.144.0.0/14
+provisioner.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.36.0.0/14
+pwpp.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
+rabbitmq.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+rabbitmq.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 18.232.0.0/14
+rabbitmq.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.234.0.0/15
+rabbitmq.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+rabbitmq.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+rundeck.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+rundeck.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
+rundeck.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.242.0.0/15
+rundeck.qwt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+rundeck.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+rundeck.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 67.128.0.0/13
 salem-batch-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 salem-batch.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 salem-ssl.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 salem.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+seb-sftp.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+seb.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+sftp.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 184.73.0.0/16
+sftp.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+signups.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+signups.qa2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.24.0.0/14
+signups.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12
+signups.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+signups.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+signups.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+smtp.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+solidfire.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+solidfire.qwt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+solidfire.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
 solidfire.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
 solidfire.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
-staging.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 208.44.0.0/14
+staging.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
 stats.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
-stats.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM INC. US 50.18.128.0/18
-stats.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 65.128.0.0/11
-stats.stq.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS LLC US 67.128.0.0/13
+stats.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+stats.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+stats.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
+stats.qwt.braintreepayments.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
+stats.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 50.18.128.0/18
+stats.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+stats.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
+stats.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
+status.braintreepayments.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+support01.chi.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 208.44.0.0/14
+support01.produswest2.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
+support01.qa.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 54.224.0.0/15
+support01.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.241.0.0/17
+support01.stc.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 65.128.0.0/11
+support01.stg.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 216.33.64.0/19
+support01.stq.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 159.242.246.0/24
 support.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 173.0.88.0/21
 tokenizer-cosmos.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 tsys.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+venmosdk.qa2.braintreepayments.com AS14618 AS14618 - AMAZON.COM, INC. US 67.202.0.0/18
 visa-checkout.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 visa.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
+warp1.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+warp2.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+warp.braintreepayments.com AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
+warp-he.qwt.braintreepayments.com AS6939 AS6939 - HURRICANE ELECTRIC LLC US 184.105.248.0/21
+warp.qwt.braintreepayments.com AS17012 AS17012 - PAYPAL, INC. US 64.4.244.0/22
+warp-qwt.qwt.braintreepayments.com AS209 AS209 - CENTURYLINK COMMUNICATIONS, LLC US 63.144.0.0/12
+warp.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+warp-sav.sav.braintreepayments.com AS3561 AS3561 - CENTURYLINK COMMUNICATIONS, LLC US 205.219.64.0/18
+warp-xo.sav.braintreepayments.com AS2828 AS2828 - VERIZON BUSINESS US 209.116.0.0/14
+watchtower.qwt.braintreepayments.com AS22510 AS22510 - BRAINTREE PAYMENT SOLUTIONS, LLC US 204.109.13.0/24
+watchtower.sand.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 54.219.0.0/17
 wells-sftp.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 wells.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
 worldpay.staging.braintreepayments.com AS23250 AS23250 - BRAINTREE PAYMENT SOLUTIONS, LLC US 184.105.254.0/24
-www.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.122.0/23
+www.braintreepayments.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21

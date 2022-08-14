@@ -44,6 +44,7 @@ mon.interlay-dev.interlay.io
 mon.interlay-mgmt.interlay.io
 mon.kintsugi-prod.interlay.io
 pga.interlay.io
+pga.kintsugi-prod.interlay.io
 rococo-local.interlay-dev.interlay.io
 shop.interlay.io
 spec.interlay.io

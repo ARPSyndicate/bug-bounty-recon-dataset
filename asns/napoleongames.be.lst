@@ -1,13 +1,13 @@
-01.acties.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
-01.newsletter.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
-01.transactional.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
-1620006.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
-1622686.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
-2343863.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.114.0/23
-adserving.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.34.59.0/24
-affiliateadmin.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.34.59.0/24
-affiliate.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.34.59.0/24
-affiliates.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.34.59.0/24
+01.acties.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+01.newsletter.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+01.transactional.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+1620006.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.122.0/23
+1622686.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+2343863.napoleongames.be AS11377 AS11377 - SENDGRID, INC. US 167.89.118.0/24
+adserving.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+affiliateadmin.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+affiliate.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
+affiliates.napoleongames.be AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 69.192.139.0/24
 airdice-callback.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 airdice-test.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 api.int.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
@@ -32,6 +32,7 @@ en-gb.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 en-gb.sports.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 evolution-callback.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 evolution-test.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+extranet.napoleongames.be AS8075 AS8075 - MICROSOFT CORPORATION US 40.127.0.0/16
 feelinglucky.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 fr-be.casino.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 fr-be.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
@@ -44,7 +45,7 @@ kaagent.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 koc.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 lb-ocp.int.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 lb-web.int.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
-livecasino.napoleongames.be AS16509 AS16509 - AMAZON.COM, INC. US 13.226.32.0/21
+livecasino.napoleongames.be AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 lp.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 mailing.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 mail.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
@@ -73,8 +74,6 @@ quickfire-callback.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66
 quickfire-test.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 retentieek2016.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 rvv.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
-sfs-1.int.napoleongames.be AS201366 AS201366 - NAPOLEON GAMES NV BE 185.77.13.0/24
-sfs-2.int.napoleongames.be AS201366 AS201366 - NAPOLEON GAMES NV BE 185.77.13.0/24
 shared-host-01.int.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 shared-host-01.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 sms.napoleongames.be AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
@@ -97,6 +96,7 @@ wimi-api.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 wimi-test.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 www.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 www.shared-host-01.int.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
+www.shared-host-01.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 www.sports.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 xmas.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21
 yggdrasil-api.napoleongames.be AS13335 AS13335 - CLOUDFLARE, INC. US 172.66.40.0/21

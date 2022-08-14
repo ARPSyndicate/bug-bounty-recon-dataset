@@ -1,6 +1,5 @@
 https://chainweaver.kadena.network [200] [GET] [text/html] [(BETA) Kadena Chainweaver: Wallet & IDE] [nginx] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,Font Awesome,Google Font API,Nginx] [5b505234884074328f7cc3a10cae294a]
-https://chainweaver-test.kadena.network [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [8f1981578490f61f1b10f30bc684fdb3]
-https://chainweaver-test.kadena.network [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [cd39b93f0d126e66c515874483877632]
+https://chainweaver-test.kadena.network [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [e585a8c7d9dd87bf9cba8190ce1a64c9]
 https://savedby.kadena.network [200] [GET] [text/html] [savedby Kadena] [GitHub.com] [vhost] [Fastly,GitHub Pages,Varnish] [7ef7560d06b0b18da773b356ab99d936]
-https://testnetqueries.kadena.network [404] [GET] [text/html] [404 Not Found] [nginx/1.21.6] [google] [Nginx:1.21.6] [841102042dfedb8a9dcc0e6a9966307f]
+https://testnetqueries.kadena.network [404] [GET] [text/html] [404 Not Found] [nginx/1.21.6] [google] [Nginx:1.21.6] [9b9278a3fc0e0dcb812e81d6072a9f99]
 https://txlib.kadena.network [200] [GET] [text/html] [Kadena Wallet] [nginx] [Nginx] [a5039ec004a48e40e4781f85db519b11]

@@ -1,5 +1,6 @@
 116323821	springboot	http://mediasvc-as.sys.comcast.net/
 116323821	springboot	http://mediasvc-ho.sys.comcast.net/
+116323821	springboot	https://bigid-prod-collibra-connector.sys.comcast.net:8443/
 116323821	springboot	https://cameraservice-beta-cvr-aws-eu1.sys.comcast.net/
 116323821	springboot	https://cameraservice-cvr-aws-eu1.sys.comcast.net/
 116323821	springboot	https://cameraservice-qa-cvr-aws-eu1.sys.comcast.net/
@@ -8,7 +9,6 @@
 116323821	springboot	https://mediasvc-po.sys.comcast.net/
 116323821	springboot	https://mediasvc-wc.sys.comcast.net/
 -1441956789	tableau	https://ct-tableau.sys.comcast.net/
-1611729805	elastic (database)	https://a-96-118-151-213.sys.comcast.net:9200/
 1624375939	zimbra	https://aamail.sys.comcast.net/
 4a5b37666948d3bab5abd91629070c30	zimbra	https://aamail.sys.comcast.net/
 628535358	atlassian	https://ccp.sys.comcast.net/

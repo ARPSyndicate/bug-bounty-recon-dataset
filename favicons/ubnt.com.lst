@@ -27,6 +27,7 @@
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://prd-www.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://rma.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://stg-demo.ubnt.com/
+10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://testing-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://stg-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://ulabs.ubnt.com/
@@ -35,8 +36,10 @@
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://unifi-protect.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://unifi-sdn.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://unifi-video.ubnt.com/
+10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://unms-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://unstable-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	https://www.ubnt.com/
+10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://testing-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://ulabs.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://unifi-elite.ubnt.com/
@@ -44,6 +47,7 @@
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://unifi-protect.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://unifi-sdn.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://unifi-video.ubnt.com/
+10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://unms-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://unstable-demo.ubnt.com/
 10e8c18238d6f15eb666998e19f5f603	ubiquiti-unifi	http://www.ubnt.com/
 -1279294674	zendesk-support	http://help.ubnt.com/
@@ -79,6 +83,7 @@
 -832035931	ubiquiti-unifi	https://prd-www.ubnt.com/
 -832035931	ubiquiti-unifi	https://rma.ubnt.com/
 -832035931	ubiquiti-unifi	https://stg-demo.ubnt.com/
+-832035931	ubiquiti-unifi	https://testing-demo.ubnt.com/
 -832035931	ubiquiti-unifi	http://stg-demo.ubnt.com/
 -832035931	ubiquiti-unifi	https://ubnt.com/
 -832035931	ubiquiti-unifi	https://ulabs.ubnt.com/
@@ -87,8 +92,10 @@
 -832035931	ubiquiti-unifi	https://unifi-protect.ubnt.com/
 -832035931	ubiquiti-unifi	https://unifi-sdn.ubnt.com/
 -832035931	ubiquiti-unifi	https://unifi-video.ubnt.com/
+-832035931	ubiquiti-unifi	https://unms-demo.ubnt.com/
 -832035931	ubiquiti-unifi	https://unstable-demo.ubnt.com/
 -832035931	ubiquiti-unifi	https://www.ubnt.com/
+-832035931	ubiquiti-unifi	http://testing-demo.ubnt.com/
 -832035931	ubiquiti-unifi	http://ubnt.com/
 -832035931	ubiquiti-unifi	http://ulabs.ubnt.com/
 -832035931	ubiquiti-unifi	http://unifi-elite.ubnt.com/
@@ -96,5 +103,6 @@
 -832035931	ubiquiti-unifi	http://unifi-protect.ubnt.com/
 -832035931	ubiquiti-unifi	http://unifi-sdn.ubnt.com/
 -832035931	ubiquiti-unifi	http://unifi-video.ubnt.com/
+-832035931	ubiquiti-unifi	http://unms-demo.ubnt.com/
 -832035931	ubiquiti-unifi	http://unstable-demo.ubnt.com/
 -832035931	ubiquiti-unifi	http://www.ubnt.com/

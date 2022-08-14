@@ -3,7 +3,6 @@
 -1249852061	microsoft outlook	http://autodiscover.cable.comcast.com/
 -1249852061	microsoft outlook	http://autodiscover.comcast.com/
 -1249852061	microsoft outlook	http://autodiscover.sv.comcast.com/
-1262005940	jamf pro login	https://jps.comcast.com:8443/
 -1399433489	prometheus time series collection and processing server	http://alertmanager-prod-fo-us-east-1.r53.merlin.comcast.com/
 -1399433489	prometheus time series collection and processing server	http://alertmanager-prod-fo-us-east-1.r53.merlin.comcast.com:9002/
 -1399433489	prometheus time series collection and processing server	http://alertmanager-prod-fo-us-east-1.r53.merlin.comcast.com:9003/
@@ -35,7 +34,6 @@
 1772087922	asp.net favicon	http://admissionauthority.smartoffice.comcast.com/
 1772087922	asp.net favicon	http://api.ch2.prd.comcast.com/
 1772087922	asp.net favicon	http://api.pdc.prd.comcast.com/
-1772087922	asp.net favicon	http://api-prd.g.comcast.com/
 1772087922	asp.net favicon	http://cameraprobe.smartoffice.comcast.com/
 1772087922	asp.net favicon	http://captest.comcast.com/
 1772087922	asp.net favicon	http://capweb-as-1t.slb.comcast.com/
@@ -63,6 +61,7 @@
 1772087922	asp.net favicon	https://ieweb-a3s.gslb2.comcast.com/
 1772087922	asp.net favicon	https://mobiledatacollector-ch2-1p.slb.comcast.com/
 1772087922	asp.net favicon	https://mobiledatacollector-wc-1p.slb.comcast.com/
+1772087922	asp.net favicon	https://ordersubmit-hub.fxbuyflow.business.comcast.com/
 1772087922	asp.net favicon	https://ordersubmit-hub-g.fxbuyflow.business.comcast.com/
 1772087922	asp.net favicon	https://poladarchive.comcast.com/
 1772087922	asp.net favicon	https://qa-transcripts.chat.comcast.com/
@@ -74,7 +73,6 @@
 1772087922	asp.net favicon	https://umd-cablehelp.comcast.com/
 1772087922	asp.net favicon	http://transcripts.chat.comcast.com/
 1772087922	asp.net favicon	http://umd-cablehelp.comcast.com/
-1772087922	asp.net favicon	http://xapi.comcast.com/
 -2009722838	react	http://beta.esign.digital.business.comcast.com/
 -2009722838	react	http://dev.esign.np.digital.business.comcast.com/
 -2009722838	react	http://esign.digital.business.comcast.com/
@@ -144,8 +142,8 @@
 -85386425	xfinity	http://cdn.ch2.int.comcast.com/
 -85386425	xfinity	http://cdn.ch2.stg.comcast.com/
 -85386425	xfinity	http://cdn.comcast.com/
+-85386425	xfinity	http://cdn.int.comcast.com/
 -85386425	xfinity	http://cdn.pdc.comcast.com/
--85386425	xfinity	http://cdn.pdc.int.comcast.com/
 -85386425	xfinity	http://cdn.stg.comcast.com/
 -85386425	xfinity	http://cdn.wcdc.comcast.com/
 -85386425	xfinity	http://cdn.wcdc.stg.comcast.com/
@@ -156,7 +154,6 @@
 -85386425	xfinity	http://internetessentials.comcast.com/
 -85386425	xfinity	http://prod.ibis.comcast.com/
 -85386425	xfinity	http://prodtest.business.int.comcast.com/
--85386425	xfinity	http://referafriend.comcast.com/
 -85386425	xfinity	https://cdn.ch2.comcast.com/
 -85386425	xfinity	https://cdn.ch2.int.comcast.com/
 -85386425	xfinity	https://cdn.ch2.stg.comcast.com/
@@ -178,7 +175,6 @@
 -85386425	xfinity	http://spa.comcast.com/
 -85386425	xfinity	https://prod.ibis.comcast.com/
 -85386425	xfinity	https://prodtest.business.int.comcast.com/
--85386425	xfinity	https://referafriend.comcast.com/
 -85386425	xfinity	https://spa.comcast.com/
 -85386425	xfinity	https://www.comcast.com/
 -85386425	xfinity	https://www.int.comcast.com/
@@ -186,7 +182,6 @@
 -85386425	xfinity	http://www.comcast.com/
 -85386425	xfinity	http://www.int.comcast.com/
 -85386425	xfinity	http://www.stg.comcast.com/
-86919334	servicenow	https://comcastecom.service-now.com/
 86919334	servicenow	https://lea.comcast.com/
 86919334	servicenow	https://lea.gslb2.comcast.com/
 86919334	servicenow	https://techspot.comcast.com/
@@ -211,7 +206,6 @@
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admissionauthority.smartoffice.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://api.ch2.prd.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://api.pdc.prd.comcast.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://api-prd.g.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://cameraprobe.smartoffice.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://captest.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://capweb-as-1t.slb.comcast.com/
@@ -239,6 +233,7 @@ b0d1844949fe7dcdf210983feb285241	aspnet	https://ieweb-a3p.gslb2.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://ieweb-a3s.gslb2.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://mobiledatacollector-ch2-1p.slb.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://mobiledatacollector-wc-1p.slb.comcast.com/
+b0d1844949fe7dcdf210983feb285241	aspnet	https://ordersubmit-hub.fxbuyflow.business.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://ordersubmit-hub-g.fxbuyflow.business.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://poladarchive.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://qa-transcripts.chat.comcast.com/
@@ -250,13 +245,12 @@ b0d1844949fe7dcdf210983feb285241	aspnet	https://transcripts.chat.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://umd-cablehelp.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://transcripts.chat.comcast.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://umd-cablehelp.comcast.com/
-b0d1844949fe7dcdf210983feb285241	aspnet	http://xapi.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.ch2.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.ch2.int.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.ch2.stg.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.comcast.com/
+b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.int.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.pdc.comcast.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.pdc.int.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.stg.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.wcdc.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://cdn.wcdc.stg.comcast.com/
@@ -267,7 +261,6 @@ b3df99581008cc1b010a803dd5260892	xfinity	http://ieweb-a2p.g.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://internetessentials.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://prod.ibis.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	http://prodtest.business.int.comcast.com/
-b3df99581008cc1b010a803dd5260892	xfinity	http://referafriend.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://cdn.ch2.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://cdn.ch2.int.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://cdn.ch2.stg.comcast.com/
@@ -289,7 +282,6 @@ b3df99581008cc1b010a803dd5260892	xfinity	https://internetessentials-stg.comcast.
 b3df99581008cc1b010a803dd5260892	xfinity	http://spa.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://prod.ibis.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://prodtest.business.int.comcast.com/
-b3df99581008cc1b010a803dd5260892	xfinity	https://referafriend.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://spa.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://www.comcast.com/
 b3df99581008cc1b010a803dd5260892	xfinity	https://www.int.comcast.com/
