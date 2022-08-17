@@ -946,6 +946,9 @@ hvardhan.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 ianv.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 ianv.dev.network-auth.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 ianv.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+ihor.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+ihor.dev.network-auth.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+ihor.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 imapsha.artifactory.prod.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 54.183.128.0/17
 ingress.dse-integration.usw.development.k8s.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
 ios.meraki.dev.ikarem.io AS395831 AS395831 - MERAKI LLC US 209.206.50.0/24
@@ -1186,6 +1189,9 @@ kinglis.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 kisampat.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 kisampat.dev.network-auth.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 kisampat.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+kjh0928.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+kjh0928.dev.network-auth.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+kjh0928.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 kkarigha.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 kkarigha.dev.network-auth.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 kkarigha.meraki-go.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
@@ -2236,6 +2242,7 @@ sso.hrashid.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.hsanjeev.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.hussain.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.ianv.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+sso.ihor.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.jackshih.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.jakelill.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.jalemg.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
@@ -2291,6 +2298,7 @@ sso.kgardner.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.khogan.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.kiminno.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.kinglis.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
+sso.kjh0928.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.kkruzich.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.klidralp.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16
 sso.kmaddu.dev.ikarem.io AS16509 AS16509 - AMAZON.COM, INC. US 52.9.0.0/16

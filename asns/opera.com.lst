@@ -735,7 +735,7 @@ spiderman.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 91.203.97.0/24
 sports.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 185.26.180.0/22
 staging.opera-website.route53.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 52.57.0.0/16
 static-activity-ams.op-mobile.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 82.145.213.0/24
-static-dev.tvstore.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
+static-dev.tvstore.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 static.op-mobile.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 82.145.213.0/24
 static.tvstore.opera.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 stats.opera.com AS39832 AS39832 - OPERA SOFTWARE AS NO 82.145.212.0/24

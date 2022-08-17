@@ -31,6 +31,7 @@ helm.interlay.io AS54113 AS54113 - FASTLY, INC. US 185.199.109.0/24
 id.interlay.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
 info.interlay.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 interlay.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
+kck.interlay-mgmt.interlay.io AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
 kintnet.interlay.io AS16509 AS16509 - AMAZON.COM, INC. US 76.76.21.0/24
 kintsugi-dev.interlay-dev.interlay.io AS16509 AS16509 - AMAZON.COM, INC. US 18.196.0.0/15
 kintsugi-info-only.interlay.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20

@@ -40,6 +40,7 @@
 [http] graph-monitor.fuse.io:80
 [http] health.fuse.io:80
 [http] roadmap.fuse.io:80
+[http] rpc.fuse.io:80
 [https] 3box.fuse.io:443
 [https] agnin.fuse.io:443
 [https] alm.fuse.io:443

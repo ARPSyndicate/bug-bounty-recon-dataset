@@ -532,6 +532,11 @@ atlbceladm06-ilom.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0
 atlbceladm06-oam.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
 atlbdbadm01.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
 atlbdbadm02.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
+atlcdpapxy01a.wireless.labops.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
+atlcdpapxy02a.wireless.labops.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
+atlcdpareport01a.wireless.labops.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
+atlcdpasync01a.wireless.labops.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
+atlcdpasync02a.wireless.labops.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
 atlcdpaxas01-oam.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
 atlcdpaxdb01-ilo.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14
 atlcdpaxdb01-oam.wireless.labs.att.com AS6389 AS6389 - AT&T CORP. US 74.188.0.0/14

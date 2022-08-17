@@ -95,6 +95,7 @@ qa-proofit.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 qa-speakerly-shared.vpce-prod-nlp-sprawl.core-prod.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 qa-subscription.private.qa-subscription.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 qa-subscription.qa-subscription.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+qa-temporal-server.qa-billing.grammarlyaws.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS 0.0.0.0/0
 reader.qa-reader.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 redshift.qa-data-warehouse.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 roman-test.sandbox.grammarlyaws.com AS16509 AS16509 - AMAZON.COM, INC. US 75.2.112.0/20

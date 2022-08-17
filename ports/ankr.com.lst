@@ -66,6 +66,7 @@
 [] bridge-dev.ankr.com:8545
 [] bsc-erigon-01.dccn.ankr.com:30303
 [] bsc-erigon-01.dccn.ankr.com:8545
+[cddbp-alt] binance.ankr.com:8880
 [cisco-aqos] apis-sj.ankr.com:9081
 [cisco-aqos] bridge-backend.ankr.com:9081
 [cisco-aqos] vault.ankr.com:9081
@@ -539,6 +540,7 @@
 [https] ads.game.ankr.com:443
 [https-alt] api.blog.ankr.com:8443
 [https-alt] apis-hk.ankr.com:8443
+[https-alt] binance.ankr.com:8443
 [https-alt] bridge-backend.ankr.com:8443
 [https-alt] hub.ankr.com:8443
 [https-alt] hub-cn.ankr.com:8443
@@ -1004,6 +1006,7 @@
 [http] stakefi-parachain.ankr.com:80
 [http] status.ankr.com:80
 [https] teleport.ankr.com:443
+[https] teleport.devops-k8s.ankr.com:443
 [https] test.harbor.stkr-dev.ankr.com:443
 [https] testnet.ankr.com:443
 [https] testnetscan.ankr.com:443
@@ -1034,6 +1037,7 @@
 [http] sydney-modmc-equinix-sy1-206-246-106-230.ankr.com:80
 [http] sydney-mysau-221-121-158-57.ankr.com:80
 [http] team-service.ankr.com:80
+[http] teleport.devops-k8s.ankr.com:80
 [http] test-eth.ankr.com:80
 [http] test.harbor.stkr-dev.ankr.com:80
 [http] testnet.ankr.com:80
@@ -1619,6 +1623,7 @@
 [ssh] sydney-modmc-equinix-sy1-206-246-106-230.ankr.com:22
 [ssh] sydney-mysau-221-121-158-57.ankr.com:22
 [ssh] teleport.ankr.com:22
+[ssh] teleport.devops-k8s.ankr.com:22
 [ssh] test-eth.ankr.com:22
 [ssh] testnet.ankr.com:22
 [ssh] testnetscan.ankr.com:22
@@ -1658,6 +1663,7 @@
 [sun-sr-https] image.ankr.com:6443
 [sun-sr-https] notary.ankr.com:6443
 [sun-sr-https] prod.ankr.com:6443
+[sun-sr-https] teleport.devops-k8s.ankr.com:6443
 [sun-sr-https] vault.ankr.com:6443
 [sun-sr-https] vault-dev.ankr.com:6443
 [swdtp-sv] ape-dev.ankr.com:10009

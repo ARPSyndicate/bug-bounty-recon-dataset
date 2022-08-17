@@ -7717,6 +7717,13 @@
 [sip-tls] join.uscfpdweb.att.com:5061
 [sip-tls] tmvideo.att.com:5061
 [sip-tls] upd-expe-vid2.uscfpdweb.att.com:5061
+[sip-tls] wat-vcse-c1-1.video.att.com:5061
+[sip-tls] wat-vcse-c1-2.video.att.com:5061
+[sip-tls] wat-vcse-c1-3.video.att.com:5061
+[sip-tls] wat-vcse-c1-4.video.att.com:5061
+[sip-tls] wat-vcse-c1-5.video.att.com:5061
+[sip-tls] wat-vcse-c1-6.video.att.com:5061
+[sip-tls] wat-vcse-c1.video.att.com:5061
 [sip] tmvideo.att.com:5060
 [sip] upd-expe-vid1.uscfpdvideo.att.com:5060
 [sip] upd-expe-vid2.uscfpdweb.att.com:5060

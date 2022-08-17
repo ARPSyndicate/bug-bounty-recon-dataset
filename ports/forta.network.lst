@@ -47,6 +47,7 @@
 [https-alt] api.forta.network:8443
 [https] api-dev.forta.network:443
 [https] api.forta.network:443
+[https] forta.network:443
 [https] gov.forta.network:443
 [https] staging.app.forta.network:443
 [https] staging.explorer.forta.network:443

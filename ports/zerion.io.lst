@@ -1,3 +1,4 @@
+[cddbp-alt] scan.zerion.io:8880
 [cddbp-alt] zerion.io:8880
 [clearvisn] zerion.io:2052
 [dc] go.zerion.io:2001
@@ -11,6 +12,7 @@
 [http] feedback.zerion.io:80
 [http] go.zerion.io:80
 [http] mail.zerion.io:80
+[http-proxy] scan.zerion.io:8080
 [http-proxy] zerion.io:8080
 [http] roadmap.zerion.io:80
 [https-alt] zerion.io:8443
@@ -20,6 +22,7 @@
 [https] app.zerion.io:443
 [https] beta.zerion.io:443
 [https] blog.zerion.io:443
+[http] scan.zerion.io:80
 [https] click.zerion.io:443
 [https] cryptotrader.zerion.io:443
 [https] defisdk.zerion.io:443
@@ -52,6 +55,7 @@
 [ldap] go.zerion.io:389
 [listcrt-port-2] go.zerion.io:3914
 [mit-ml-dev] go.zerion.io:83
+[nbx-ser] scan.zerion.io:2095
 [nbx-ser] zerion.io:2095
 [pop3] roadmap.zerion.io:110
 [pop3s] roadmap.zerion.io:995

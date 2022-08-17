@@ -82,6 +82,7 @@ http://email-engagement-production.flink.shopifykloud.com
 http://email-engagement-staging.flink.shopifykloud.com
 http://email-engagement-v2-production.flink.shopifykloud.com
 http://email-engagement-v2-staging.flink.shopifykloud.com
+http://etl-b.shopify-data-presto-global.shopifykloud.com
 http://exp-caching-staging.shopify-data-presto-global.shopifykloud.com
 http://facebook-ads-staging.flink.shopifykloud.com
 http://fastapi.k8s-exp.shopifykloud.com
@@ -317,6 +318,7 @@ https://email-engagement-staging.flink.shopifykloud.com
 https://email-engagement-v2-production.flink.shopifykloud.com
 https://email-engagement-v2-staging.flink.shopifykloud.com
 http://session-attribution-staging.flink.shopifykloud.com
+https://etl-b.shopify-data-presto-global.shopifykloud.com
 https://exp-caching-staging.shopify-data-presto-global.shopifykloud.com
 https://facebook-ads-staging.flink.shopifykloud.com
 https://fastapi.k8s-exp.shopifykloud.com

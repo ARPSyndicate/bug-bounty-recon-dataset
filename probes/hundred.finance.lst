@@ -8,7 +8,7 @@ http://docs.hundred.finance:8080 [302] [GET] [] [] [cloudflare] [vhost] [cloudfl
 http://docs.hundred.finance:8880 [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://api.hundred.finance [200] [GET] [text/html] [] [nginx/1.18.0 (Ubuntu)] [Express,Nginx:1.18.0,Node.js,Ubuntu] [dafa049e997059edc75b0f2c01e81432]
 https://blog.hundred.finance [307] [GET] [text/html] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Envoy] [f39675dbe7ed9dd81ae7a4d54f7822dd]
-https://dashboard.hundred.finance [200] [GET] [text/html] [Dashboard - Hundred Finance] [Netlify] [vhost] [Netlify] [3b53892051b6136fb0bfd60d187cbee1]
+https://dashboard.hundred.finance [200] [GET] [text/html] [Dashboard - Hundred Finance] [Netlify] [vhost] [google] [Netlify] [3b53892051b6136fb0bfd60d187cbee1]
 https://docs.hundred.finance [200] [GET] [text/html] [Hundred Finance - Hundred Finance] [cloudflare] [vhost] [cloudflare] [Algolia,Cloudflare,Google Cloud,Google Cloud Trace,React] [74598933c435a3d1b3d57b9f02b475bb]
 https://docs.hundred.finance:2083 [200] [GET] [text/html] [Hundred Finance - Hundred Finance] [cloudflare] [vhost] [cloudflare] [Algolia,Cloudflare,Google Cloud,Google Cloud Trace,React] [c9ae25b2d337cf67b2d712ace88b1276]
 https://docs.hundred.finance:2087 [200] [GET] [text/html] [Hundred Finance - Hundred Finance] [cloudflare] [vhost] [cloudflare] [Algolia,Cloudflare,Google Cloud,Google Cloud Trace,React] [38d8af7e2e9fac8b9305b57980f8a990]

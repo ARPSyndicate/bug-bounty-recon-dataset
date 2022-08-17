@@ -2,6 +2,7 @@
 [arepa-cas] eidoo--sendtx-dynlink.ptokens.io:3030
 [arepa-cas] pbtc-on-eth--pegout-proxy.ptokens.io:3030
 [cddbp-alt] ptokens.io:8880
+[cddbp-alt] www.test.ptokens.io:8880
 [domain] ltc-testnet-node-1.ptokens.io:53
 [eli] ptokens.io:2087
 [ftp] ltc-testnet-node-1.ptokens.io:21
@@ -46,9 +47,11 @@
 [http-proxy] pbtc-on-eth-kovan-node-1a.ptokens.io:8080
 [http-proxy] telos-mainnet-1-new.ptokens.io:8080
 [http-proxy] telos-mainnet-1.ptokens.io:8080
+[http-proxy] www.test.ptokens.io:8080
 [http] ptokens.io:80
 [https] algorand-node-1.ptokens.io:443
 [https-alt] ptokens.io:8443
+[https-alt] www.test.ptokens.io:8443
 [https] bridge2.ptokens.io:443
 [https] btc-node-3.ptokens.io:443
 [https] btc-node-4.ptokens.io:443
@@ -93,9 +96,11 @@
 [http] webapi.ptokens.io:80
 [http] www.bridge.ptokens.io:80
 [http] www.dapp.ptokens.io:80
+[http] www.test.ptokens.io:80
 [infowave] ptokens.io:2082
 [mysql] ltc-testnet-node-1.ptokens.io:3306
 [nbx-ser] ptokens.io:2095
+[nbx-ser] www.test.ptokens.io:2095
 [nessus] eos-mainnet-7.ptokens.io:3001
 [nessus] ipfs.ptokens.io:3001
 [nessus] libre-node-1.ptokens.io:3001

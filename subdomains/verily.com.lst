@@ -382,6 +382,7 @@ terra-devel-sam-terra.api.verily.com
 terra-devel-ui-terra.api.verily.com
 terra-devel-wsm.api.verily.com
 terra-dev-workspace.api.verily.com
+terra-ecm.api.verily.com
 terra-preprod-ecm.api.verily.com
 terra-preprod-sam.api.verily.com
 terra-preprod-sam-terra.api.verily.com
@@ -454,6 +455,7 @@ verily-datascience-dev3-policy-bot-cluster.api.verily.com
 verily-datascience-test-flask-service.api.verily.com
 verily-eng-edu-adriannawenz-ai-adriannawenz.api.verily.com
 verily-eng-edu-alexlaurin-ai-alexlaurin.api.verily.com
+verily-eng-edu-brianbray-ai-http.api.verily.com
 verily-eng-edu-carusom-ai-carusom-http-cluster.api.verily.com
 verily-eng-edu-carusom-docker-cluster.api.verily.com
 verily-eng-edu-carusom-sql-carusom-sql-cluster.api.verily.com
@@ -482,6 +484,7 @@ verily-plato-demos-react-20211118.api.verily.com
 verily-plato-demos-staging-demo-ng-democluster.api.verily.com
 verily-plato-demos-stg-ng-20211014-democluster.api.verily.com
 verily-tanagra-dev-ui-cluster.api.verily.com
+vhp-assessment-engine-dev-be-server-cluster.api.verily.com
 vhp-assessment-engine-dev-fe-client-cluster.api.verily.com
 vhp-enrollment-ahernsdorf-ai-ahernsdorf.api.verily.com
 vhp-enrollment-dev-fe-client-cluster.api.verily.com

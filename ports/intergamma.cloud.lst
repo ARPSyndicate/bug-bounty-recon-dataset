@@ -1,4 +1,6 @@
 [http] hr.acc.intergamma.cloud:80
+[http] radius.intergamma.cloud:80
 [https] hr.acc.intergamma.cloud:443
 [http] sorry.intergamma.cloud:80
+[https] radius.intergamma.cloud:443
 [https] sorry.intergamma.cloud:443

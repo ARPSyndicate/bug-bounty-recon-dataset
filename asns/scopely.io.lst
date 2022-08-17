@@ -1614,7 +1614,7 @@ preview-umbriel.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
 prod-api.spinnaker.playgami.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 54.160.0.0/14
 prod.spinnaker.playgami.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 54.236.128.0/17
 prometheus.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
-puck.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+puck.scopely.io AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 pypi.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
 raven.adev.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 54.90.0.0/15
 raven.aprod.scopely.io AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13

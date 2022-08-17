@@ -2201,6 +2201,9 @@ hvardhan.meraki-go.ikarem.io
 ianv.dev.ikarem.io
 ianv.dev.network-auth.ikarem.io
 ianv.meraki-go.ikarem.io
+ihor.dev.ikarem.io
+ihor.dev.network-auth.ikarem.io
+ihor.meraki-go.ikarem.io
 ikarem.io
 imapsha.artifactory.prod.ikarem.io
 ingress.dse-integration.usw.development.k8s.ikarem.io
@@ -2445,6 +2448,9 @@ kinglis.meraki-go.ikarem.io
 kisampat.dev.ikarem.io
 kisampat.dev.network-auth.ikarem.io
 kisampat.meraki-go.ikarem.io
+kjh0928.dev.ikarem.io
+kjh0928.dev.network-auth.ikarem.io
+kjh0928.meraki-go.ikarem.io
 kkarigha.dev.ikarem.io
 kkarigha.dev.network-auth.ikarem.io
 kkarigha.meraki-go.ikarem.io
@@ -4826,6 +4832,7 @@ sso.hrashid.dev.ikarem.io
 sso.hsanjeev.dev.ikarem.io
 sso.hussain.dev.ikarem.io
 sso.ianv.dev.ikarem.io
+sso.ihor.dev.ikarem.io
 sso.jackshih.dev.ikarem.io
 sso.jakelill.dev.ikarem.io
 sso.jalemg.dev.ikarem.io
@@ -4881,6 +4888,7 @@ sso.kgardner.dev.ikarem.io
 sso.khogan.dev.ikarem.io
 sso.kiminno.dev.ikarem.io
 sso.kinglis.dev.ikarem.io
+sso.kjh0928.dev.ikarem.io
 sso.kkruzich.dev.ikarem.io
 sso.klidralp.dev.ikarem.io
 sso.kmaddu.dev.ikarem.io

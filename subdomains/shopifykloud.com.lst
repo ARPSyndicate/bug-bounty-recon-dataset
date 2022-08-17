@@ -234,6 +234,7 @@ email-engagement-production.flink.shopifykloud.com
 email-engagement-staging.flink.shopifykloud.com
 email-engagement-v2-production.flink.shopifykloud.com
 email-engagement-v2-staging.flink.shopifykloud.com
+etl-b.shopify-data-presto-global.shopifykloud.com
 event-routing-service-staging.flink.shopifykloud.com
 event-routing-subs-staging.flink.shopifykloud.com
 exp-caching-staging.shopify-data-presto-global.shopifykloud.com

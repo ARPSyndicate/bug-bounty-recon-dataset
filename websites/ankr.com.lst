@@ -108,6 +108,9 @@ http://backoffice.multirpc.ankr.com
 http://bas-archive.ankr.com
 http://bas-testnet.ankr.com
 http://binance.ankr.com
+http://binance.ankr.com:2082
+http://binance.ankr.com:2086
+http://binance.ankr.com:8880
 http://binance-protocol-02.ankr.com:8081
 http://binance-protocol-05.ankr.com
 http://binance-protocol-07.ankr.com
@@ -594,6 +597,9 @@ https://bas-archive.ankr.com
 https://bas-testnet.ankr.com
 https://bep-stage.dccn.ankr.com
 https://binance.ankr.com
+https://binance.ankr.com:2083
+https://binance.ankr.com:2087
+https://binance.ankr.com:8443
 https://binance-cn.ankr.com
 https://binance-protocol-05.ankr.com
 https://binance-protocol-07.ankr.com
@@ -996,6 +1002,8 @@ http://staking.dev-02.bas.ankr.com:9000
 http://status.ankr.com
 https://team-service.ankr.com
 https://teleport.ankr.com
+https://teleport.devops-k8s.ankr.com
+https://teleport.devops-k8s.ankr.com:6443
 https://test.harbor.stkr-dev.ankr.com
 https://testnet.ankr.com
 https://testnetscan.ankr.com
@@ -1039,6 +1047,7 @@ http://team-service.ankr.com:2087
 http://team-service.ankr.com:8080
 http://team-service.ankr.com:8443
 http://team-service.ankr.com:8880
+http://teleport.devops-k8s.ankr.com
 http://test-eth.ankr.com
 http://test.harbor.stkr-dev.ankr.com
 http://testnet.ankr.com

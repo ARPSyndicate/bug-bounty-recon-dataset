@@ -127,6 +127,7 @@ http://interlay.io
 http://interlay.io:2083
 http://interlay.io:2087
 http://interlay.io:8443
+http://kck.interlay-mgmt.interlay.io
 http://kintnet.interlay.io
 http://kintsugi-dev.interlay-dev.interlay.io
 http://kintsugi-info-only.interlay.io
@@ -195,6 +196,7 @@ https://info.interlay.io:2083
 https://info.interlay.io:2087
 https://info.interlay.io:8443
 https://interlay.io
+https://kck.interlay-mgmt.interlay.io
 https://kintnet.interlay.io
 https://kintsugi-dev.interlay-dev.interlay.io
 https://kintsugi-info-only.interlay.io

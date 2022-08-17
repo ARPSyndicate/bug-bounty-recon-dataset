@@ -13,6 +13,7 @@ asis.honeybadger.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54
 asis.lemonade.staging.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 asis.lemonade.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
 asis.penguin.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+asis.porcupine.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 asis.search.usa.gov AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 asis.toothpick.staging.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15
 asis.toothpick.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
@@ -71,6 +72,7 @@ i14y.honeybadger.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54
 i14y.lemonade.staging.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
 i14y.lemonade.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
 i14y.penguin.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 35.80.0.0/12
+i14y.porcupine.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.32.0.0/14
 i14y.search.usa.gov AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 i14y.toothpick.staging.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 i14y.toothpick.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15

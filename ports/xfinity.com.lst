@@ -1981,6 +1981,8 @@
 [https] sfp-1p.gslb4.xfinity.com:443
 [https] sfp-config-1p.gslb4.xfinity.com:443
 [https] sfp-config.traxion.xfinity.com:443
+[https] sfp-recordingvalidations-api-1p.gslb4.xfinity.com:443
+[https] sfp-recordingvalidations-api.traxion.xfinity.com:443
 [https] sfp-validations-1p.gslb4.xfinity.com:443
 [https] sfp-validations-api-1p.gslb4.xfinity.com:443
 [https] shared.xfinity.com:443

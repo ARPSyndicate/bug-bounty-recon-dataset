@@ -6758,6 +6758,9 @@ ss-help-article-content-pqa.np.digital.business.comcast.com AS16509 AS16509 - AM
 ss-help-article-content-prod-va.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 ss-help-article-content-qa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 ss-help-article-content-stg-va.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
+ss-help-article-ui-content-dev.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+ss-help-article-ui-content-int.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+ss-help-article-ui-content-prod-va.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 ss-help-article-ui-dev.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
 ss-help-article-ui-pqa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 ss-help-article-ui-prod-va.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21

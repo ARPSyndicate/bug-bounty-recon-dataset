@@ -61,6 +61,7 @@ https://druid-general-druid-router-ingress-druid-global-us-east1-2.global.druid.
 https://druid-general-druid-router-ingress-druid-global-us-east1-2.global.druid.shopifykloud.com [404] [GET] [text/html] [404 Not Found] [] [google] [8eec510e57f5f732fd2cce73df7b73ef]
 https://druid-general-druid-router--oxtu23mu-druid-global-us-central1-2.global.druid.shopifykloud.com [404] [GET] [text/html] [404 Not Found] [] [google] [370e16c3b7dba286cff055f93b9a94d8]
 https://druid-general-druid-router--oxtu23mu-druid-global-us-central1-2.global.druid.shopifykloud.com [404] [GET] [text/html] [404 Not Found] [] [google] [8eec510e57f5f732fd2cce73df7b73ef]
+https://etl-b.shopify-data-presto-global.shopifykloud.com [303] [GET] [] [] [] [vhost] [google] [d41d8cd98f00b204e9800998ecf8427e]
 https://flower.canada.airflow.shopifykloud.com [302] [GET] [text/html] [302 Found] [] [vhost] [google] [aff950cab4c0265e21d401db15f1026d]
 https://flower.dev.airflow.shopifykloud.com [302] [GET] [text/html] [302 Found] [] [vhost] [google] [aff950cab4c0265e21d401db15f1026d]
 https://flower.global.airflow.shopifykloud.com [302] [GET] [text/html] [302 Found] [] [vhost] [google] [aff950cab4c0265e21d401db15f1026d]

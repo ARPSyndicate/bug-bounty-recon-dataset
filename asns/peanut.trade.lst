@@ -1,5 +1,4 @@
 api-beta-smart-lp.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
-api-dev-hedge.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.90.176.0/20
 api-fair-launch.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.89.48.0/20
 api-feeno.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.89.48.0/20
 api.peanut.trade AS13335 AS13335 - CLOUDFLARE, INC. US 104.21.80.0/20
@@ -15,7 +14,6 @@ dev-dark-forest.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
 dev-fair-launch.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
 dev-feeno.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
 dev-feeno-uniswap.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
-dev-hedge.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
 dev-ingress.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.91.0.0/20
 dex-ingress.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.90.240.0/20
 dex-liquidity-console.peanut.trade AS396982 AS396982 - GOOGLE LLC US 34.90.240.0/20

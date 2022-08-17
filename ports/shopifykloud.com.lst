@@ -316,6 +316,7 @@
 [https] email-engagement-v2-production.flink.shopifykloud.com:443
 [https] email-engagement-v2-staging.flink.shopifykloud.com:443
 [http] session-attribution-staging.flink.shopifykloud.com:80
+[https] etl-b.shopify-data-presto-global.shopifykloud.com:443
 [https] facebook-ads-staging.flink.shopifykloud.com:443
 [https] fast-monorail.shopify-data-presto-global.shopifykloud.com:443
 [https] flink-deploy-sample.flink.shopifykloud.com:443

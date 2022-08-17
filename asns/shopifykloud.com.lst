@@ -50,6 +50,7 @@ druid-general-druid-router-ingress-druid-dev-us-east1-1.dev.druid.shopifykloud.c
 druid-general-druid-router-ingress-druid-global-us-central1-2.global.druid.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.144.0/20
 druid-general-druid-router-ingress-druid-global-us-east1-2.global.druid.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.80.0/20
 druid-general-druid-router--oxtu23mu-druid-global-us-central1-2.global.druid.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.144.0/20
+etl-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.67.128.0/20
 flower.canada.airflow.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.48.0/20
 flower.dev.airflow.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.96.0/20
 flower.global.airflow.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.202.160.0/20

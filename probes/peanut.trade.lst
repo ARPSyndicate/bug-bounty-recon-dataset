@@ -51,7 +51,6 @@ https://dev-dark-forest.peanut.trade [200] [GET] [text/html] [DEX MM Platform] [
 https://dev-fair-launch.peanut.trade [200] [GET] [text/html] [Fair Launch] [] [vhost] [google] [Google Font API] [85dfdab1c54a514864290b85f0754f0e]
 https://dev-feeno.peanut.trade [200] [GET] [text/html] [Feeno Transfer] [] [vhost] [google] [717f4315a087c8e13fb762132a1a8c55]
 https://dev-feeno-uniswap.peanut.trade [200] [GET] [text/html] [Feeno Uniswap Interface] [] [vhost] [google] [7fe0b2427afb483a5070ff281cebb080]
-https://dev-hedge.peanut.trade [200] [GET] [text/html] [Peanut] [] [vhost] [google] [8352edea8693729e8ac14014506970a9]
 https://dev-ingress.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [370e16c3b7dba286cff055f93b9a94d8]
 https://dex-ingress.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [370e16c3b7dba286cff055f93b9a94d8]
 https://dex-ingress.peanut.trade [404] [GET] [text/html] [404 Not Found] [] [google] [8eec510e57f5f732fd2cce73df7b73ef]

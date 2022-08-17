@@ -87,7 +87,7 @@ https://login-prod3.fallguys.oncatapult.com [401] [GET] [] [] [] [d41d8cd98f00b2
 https://matchmaking-gateway-clientdev.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [fcbe973febd7553d301e3f02dad8e86f]
 https://matchmaking-gateway-closedbeta.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [8861fb6bd5d52fb453658e7d39231cf0]
 https://matchmaking-gateway-compatqa.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [fcbe973febd7553d301e3f02dad8e86f]
-https://matchmaking-gateway-complianceqa.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [8861fb6bd5d52fb453658e7d39231cf0]
+https://matchmaking-gateway-complianceqa.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [fcbe973febd7553d301e3f02dad8e86f]
 https://matchmaking-gateway-externalqa.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [fcbe973febd7553d301e3f02dad8e86f]
 https://matchmaking-gateway-internalqa.fallguys-dev.oncatapult.com [403] [GET] [text/html] [403 Forbidden] [Microsoft-Azure-Application-Gateway/v2] [vhost] [azure] [8861fb6bd5d52fb453658e7d39231cf0]
 https://matchmaking-gateway-loadtest2.fallguys-dev.oncatapult.com [404] [GET] [text/html] [404 Not Found] [Microsoft-Azure-Application-Gateway/v2] [4f5db5fbd243fd4c08d77bbd2e2e8af1]

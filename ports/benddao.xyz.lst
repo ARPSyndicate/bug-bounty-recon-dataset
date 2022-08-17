@@ -33,10 +33,12 @@
 [http] looksrare-api-rinkeby.benddao.xyz:80
 [http] main.benddao.xyz:80
 [http-proxy] benddao.xyz:8080
+[http-proxy] bend-subgraph-mainnet.benddao.xyz:8080
 [http-proxy] rinkeby.benddao.xyz:8080
 [http] rinkeby.benddao.xyz:80
 [https-alt] benddao.xyz:8443
 [https-alt] bend-nft-info.benddao.xyz:8443
+[https-alt] bend-subgraph-mainnet.benddao.xyz:8443
 [https-alt] develop.benddao.xyz:8443
 [https] benddao.xyz:443
 [https] bend-goservice-mainnet.benddao.xyz:443

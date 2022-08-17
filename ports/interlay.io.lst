@@ -30,6 +30,7 @@
 [http] helm.interlay.io:80
 [http] hubble.interbtc-prod.interlay.io:80
 [http] interlay.io:80
+[http] kck.interlay-mgmt.interlay.io:80
 [http] kintnet.interlay.io:80
 [http] kintsugi-dev.interlay-dev.interlay.io:80
 [http] kintsugi.interlay.io:80
@@ -110,6 +111,7 @@
 [https] id.interlay.io:443
 [https] info.interlay.io:443
 [https] interlay.io:443
+[https] kck.interlay-mgmt.interlay.io:443
 [https] kintnet.interlay.io:443
 [https] kintsugi-dev.interlay-dev.interlay.io:443
 [https] kintsugi-info-only.interlay.io:443
