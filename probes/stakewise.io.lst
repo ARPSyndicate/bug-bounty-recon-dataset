@@ -90,6 +90,7 @@ https://node-03.stakewise.io [403] [GET] [text/plain] [] [cloudflare] [vhost] [c
 https://node-04.stakewise.io:2083 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [7b5ea53ba332630e5aca8e4abb807f70]
 https://node-04.stakewise.io:2087 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [7b5ea53ba332630e5aca8e4abb807f70]
 https://node-04.stakewise.io [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [7b5ea53ba332630e5aca8e4abb807f70]
+https://node-06.stakewise.io [200] [GET] [text/html] [Welcome to nginx!] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [e3eb0a1df437f3f97a64aca5952c8ea0]
 https://preview-app.stakewise.io [200] [GET] [text/html] [Staking | StakeWise] [Vercel] [vhost] [Google Font API,Vercel] [e3f53ea0a9400e7fa31db4f83a8fca6f]
 https://rc.stakewise.io [200] [GET] [text/html] [Ethereum Proof Of Stake Pool and Solo Staking | StakeWise] [cloudflare] [vhost] [cloudflare] [Amazon Web Services,Cloudflare,Cloudflare Network Error Logging,Google Font API,React] [57ced6303a17059042fcf86eb3c7c92c]
 https://rc.stakewise.io [200] [GET] [text/html] [Ethereum Proof Of Stake Pool and Solo Staking | StakeWise] [cloudflare] [vhost] [cloudflare] [Amazon Web Services,Cloudflare,Cloudflare Network Error Logging,Google Font API,React] [598802d53242b00757697e7d693859bd]

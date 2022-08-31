@@ -1273,6 +1273,7 @@
 [http] hvd.att.com:80
 [http] hvd-intl01.att.com:80
 [http] hvd-intl05.att.com:80
+[http] iam.dev.cloud.att.com:80
 [http] ice-projectone.att.com:80
 [http] idaho.att.com:80
 [http] identity.att.com:80
@@ -3934,6 +3935,7 @@
 [https] hvd-intl13.att.com:443
 [https] hvd-intl14.att.com:443
 [https] hvd-intl.att.com:443
+[https] iam.dev.cloud.att.com:443
 [https] ibmmeeting.att.com:443
 [https] ibs.eia.att.com:443
 [https] icam.att.com:443

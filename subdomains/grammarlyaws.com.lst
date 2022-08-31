@@ -143,6 +143,7 @@ funnel.qa-acquisition-web.grammarlyaws.com
 g4.sandbox.grammarlyaws.com
 gandalf.qa-text-processing.grammarlyaws.com
 gb-audit-log-es.preprod-gb-audit-log.grammarlyaws.com
+gb-audit-log-es.prod-gb-audit-log.grammarlyaws.com
 gdpr.db.subscription.grammarlyaws.com
 gdpr-qa2.db.subscription.grammarlyaws.com
 gdpr-qa.db.subscription.grammarlyaws.com
@@ -205,6 +206,7 @@ knots-db.qa-core.grammarlyaws.com
 knots.private.core-prod.grammarlyaws.com
 knots.private.qa-core.grammarlyaws.com
 knots.qa-core.grammarlyaws.com
+kuma-token-manager.qa-platform.grammarlyaws.com
 kurtan-test.sandbox.grammarlyaws.com
 kutran-test-vpc-private-endpoint.sandbox.grammarlyaws.com
 lemma-lb.prod-lemma.grammarlyaws.com
@@ -222,6 +224,7 @@ metrics-extractor.qa-experimentation.grammarlyaws.com
 metrics-rest-api.qa-experimentation.grammarlyaws.com
 misha.proofit.grammarlyaws.com
 mobile.db.acquisition.grammarlyaws.com
+mv-test.qa-billing.grammarlyaws.com
 narnia.it.grammarlyaws.com
 narnia-test.it.grammarlyaws.com
 new-tf-features-playground.sandbox.grammarlyaws.com
@@ -551,6 +554,7 @@ snippets.preprod-snippets.grammarlyaws.com
 snippets.prod-snippets.grammarlyaws.com
 snippets.qa-snippets.grammarlyaws.com
 speakerly.qa-speakerly.grammarlyaws.com
+speak.prod-speakerly.grammarlyaws.com
 speak.qa-speakerly.grammarlyaws.com
 spellcheck.preprod-core.grammarlyaws.com
 spellcheck.qa-core.grammarlyaws.com

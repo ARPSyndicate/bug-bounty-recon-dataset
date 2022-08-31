@@ -1,7 +1,4 @@
 http://alpha.yin.finance:8086 [400] [GET] [text/html] [Bad Request (400)] [gunicorn] [Python,gunicorn] [d4fa651ac72fe0026823084e47702b7b]
-http://app.yin.finance:8086 [400] [GET] [text/html] [Bad Request (400)] [gunicorn] [Python,gunicorn] [d4fa651ac72fe0026823084e47702b7b]
-http://devhome.yin.finance:8086 [400] [GET] [text/html] [Bad Request (400)] [gunicorn] [Python,gunicorn] [d4fa651ac72fe0026823084e47702b7b]
-http://dev.yin.finance:8086 [400] [GET] [text/html] [Bad Request (400)] [gunicorn] [Python,gunicorn] [d4fa651ac72fe0026823084e47702b7b]
 http://docs.yin.finance:2082 [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://docs.yin.finance:2086 [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://docs.yin.finance:8080 [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]

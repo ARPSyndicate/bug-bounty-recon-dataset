@@ -436,6 +436,7 @@
 [http] abtesting.spotify.net:80
 [http] admin.staging.elastic.gew1.spotify.net:80
 [http] adstudio-debugger.spotify.net:80
+[http] amplify-status.spotify.net:80
 [http] backstage.spotify.net:80
 [http] backups-status.spotify.net:80
 [http] bandmanager-api.spotify.net:80

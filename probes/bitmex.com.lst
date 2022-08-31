@@ -28,7 +28,6 @@ http://auth.devsf.bitmex.com:8880 [301] [GET] [] [] [cloudflare] [vhost] [cloudf
 http://devhk.bitmex.com:2052 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 http://devhk.bitmex.com:2086 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 http://devhk.bitmex.com:8080 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
-http://documents.bitmex.com:8080 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]
 http://documents.devhk.bitmex.com:8080 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]
 http://documents.devsf3.bitmex.com:8080 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]
 http://documents.testnet.bitmex.com:8080 [407] [GET] [text/html] [407 Proxy Authentication Required] [] [e5906397caf758a488f2e042dd7388e1]

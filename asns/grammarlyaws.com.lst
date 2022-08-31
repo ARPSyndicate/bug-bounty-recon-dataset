@@ -54,11 +54,13 @@ gramspaces.qa-gramspaces.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA 
 hidden.fridge.qa-fridge.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 identity-admin-preprod.preprod-auth.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 identity-admin-qa.qa-auth.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+kuma-token-manager.qa-platform.grammarlyaws.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS 0.0.0.0/0
 lumpkin.subscription.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 52.54.0.0/15
 main.preprod-design-system.grammarlyaws.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 mercury.preprod-mercury.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 mercury.qa-mercury.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 metrics-rest-api.qa-experimentation.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+mv-test.qa-billing.grammarlyaws.com AS13004 AS13004 - SERBIAN OPEN EXCHANGE DOO RS 0.0.0.0/0
 narnia.it.grammarlyaws.com AS16509 AS16509 - AMAZON.COM, INC. US 52.223.32.0/20
 narnia-test.it.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 one-pass.qa-text-processing.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
@@ -105,6 +107,7 @@ service.qa-takeaways.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0
 sherlock.preprod-sherlock.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 snippets.preprod-snippets.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 snippets.qa-snippets.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
+speak.prod-speakerly.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 35.168.0.0/13
 speak.qa-speakerly.grammarlyaws.com AS39923 AS39923 - UNIX-SOLUTIONS BVBA BE 0.0.0.0/0
 subscription.subscription.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 18.204.0.0/14
 support-automations.subscription.grammarlyaws.com AS14618 AS14618 - AMAZON.COM, INC. US 23.20.0.0/15

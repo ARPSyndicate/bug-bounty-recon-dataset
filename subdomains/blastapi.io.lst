@@ -7,6 +7,7 @@ astar.blastapi.io
 astar.public.blastapi.io
 ava-mainnet.blastapi.io
 ava-mainnet.public.blastapi.io
+aws.blastapi.io
 bedev.blastapi.io
 blastapi.io
 bsc-testnet.public.blastapi.io
@@ -45,6 +46,7 @@ moonriver.blastapi.io
 moonriver.public.blastapi.io
 moonriver.qa.blastapi.io
 optimism-mainnet.public.blastapi.io
+palm-testnet.blastapi.io
 polygon-mainnet.blastapi.io
 polygon-mainnet.public.blastapi.io
 polygon-testnet.blastapi.io

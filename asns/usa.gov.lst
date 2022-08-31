@@ -66,6 +66,7 @@ goarmy.sites.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 108.138.2
 gov.sites.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 gsa-gov.sites.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 hec.sites.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
+hedgehog.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
 honeybadger.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 i14y.dachshund.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
 i14y.honeybadger.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.188.0.0/15
@@ -92,6 +93,7 @@ kansas-gov.sites.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 65.8.
 kaztas-com.iaf.sites.infr.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 kibana6.search.usa.gov AS14618 AS14618 - AMAZON.COM, INC. US 54.236.128.0/17
 kibana.dachshund.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+kibana.hedgehog.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 kibana.honeybadger.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 kibana.lemonade.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.70.0.0/15
 kibana.penguin.staging.search.usa.gov AS16509 AS16509 - AMAZON.COM, INC. US 54.200.0.0/15

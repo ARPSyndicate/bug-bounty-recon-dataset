@@ -75,6 +75,7 @@ https://status.blockfi.com [200] [GET] [text/html] [BlockFi Status] [] [vhost] [
 https://status.blockfi.com [200] [GET] [text/html] [BlockFi Status] [] [vhost] [Atlassian Statuspage,Fastly] [d0c26999b1a2933d437873e1e0d48da9]
 https://storm.blockfi.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://try.blockfi.com [404] [GET] [text/plain] [] [] [f9ae9006943e3a67b95ca4c6c733b6d4]
+https://vis792.shield-sandbox.aws.blockfi.com [200] [GET] [text/html] [Shield - BlockFi] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [4380250d9ce2358f13e86806b7bde63f]
 https://www.app.blockfi.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://www.blockfi.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]
 https://www.blockfi.com:8443 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [7b5ea53ba332630e5aca8e4abb807f70]

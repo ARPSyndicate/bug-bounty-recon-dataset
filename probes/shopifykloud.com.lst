@@ -188,7 +188,7 @@ https://usage-service-reporting-production.flink.shopifykloud.com [302] [GET] [t
 https://vpnify.data-acq-canada.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [vhost] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
 https://vpnify.playground.yarn.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
 https://vpnify.shopify-data-cloud-infra.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
-https://vpnify.shopify-data-yap-experiment.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [vhost] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
+https://vpnify.shopify-data-yap-experiment.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
 https://vpnify.starscream-adhoc-canada.yarn.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
 https://vpnify.starscream-adhoc.yarn.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]
 https://vpnify.starscream-canada.yarn.shopifykloud.com [302] [GET] [text/html] [302 Found] [nginx] [vhost] [google] [Nginx] [aff950cab4c0265e21d401db15f1026d]

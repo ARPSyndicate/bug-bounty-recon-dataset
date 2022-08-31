@@ -59,6 +59,7 @@
 [http] insights.lazada.com:80
 [http] iopaccount.lazada.com:80
 [http] ipp.lazada.com:80
+[http] iterator.lazada.com:80
 [http] itso.lazada.com:80
 [http] lazada.com:80
 [http] lazada-sg-2.wagbridge.lazada-pre.lazada.com:80
@@ -180,6 +181,7 @@
 [https] insights.lazada.com:443
 [https] iopaccount.lazada.com:443
 [https] ipp.lazada.com:443
+[https] iterator.lazada.com:443
 [https] itso.lazada.com:443
 [https] lazada.com:443
 [https] lazada-sg-2.wagbridge.lazada-pre.lazada.com:443

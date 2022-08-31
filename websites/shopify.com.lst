@@ -494,6 +494,12 @@ http://merchandise.shopify.com:8880
 http://merchant-feedback.shopify.com
 http://merch.shopify.com
 http://merch.shopify.com:8080
+http://mikestott.shopify.com
+http://mikestott.shopify.com:2082
+http://mikestott.shopify.com:2086
+http://mikestott.shopify.com:2095
+http://mikestott.shopify.com:8080
+http://mikestott.shopify.com:8880
 http://mobile.shopify.com
 http://mobile.shopify.com:2086
 http://mobile.shopify.com:8080
@@ -909,6 +915,7 @@ https://experiments.shopify.com:8443
 https://expert.shopify.com
 https://expert.shopify.com:2083
 https://expert.shopify.com:2087
+https://expert.shopify.com:2096
 https://expert.shopify.com:8443
 https://experts.shopify.com
 https://experts.shopify.com:2083
@@ -1104,6 +1111,11 @@ https://merchandise.shopify.com:8443
 https://merchant-feedback.shopify.com
 https://merch.shopify.com
 https://merch.shopify.com:8443
+https://mikestott.shopify.com
+https://mikestott.shopify.com:2053
+https://mikestott.shopify.com:2083
+https://mikestott.shopify.com:2087
+https://mikestott.shopify.com:8443
 http://smiley.shopify.com
 https://mobile.shopify.com
 https://mobile.shopify.com:2053

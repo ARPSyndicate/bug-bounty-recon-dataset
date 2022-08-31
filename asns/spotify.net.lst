@@ -10,6 +10,7 @@ adtools.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 afs.spotify.net AS3301 AS3301 - TELIA COMPANY AB SE 217.208.0.0/13
 alchemy.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 amplifier.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
+amplify-status.spotify.net AS396982 AS396982 - GOOGLE LLC US 35.245.48.0/20
 analytics-dashboard.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 analytics.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 arcade.spotify.net AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14

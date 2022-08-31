@@ -50,6 +50,7 @@ https://looksrare-api-rinkeby.benddao.xyz [404] [GET] [application/json] [] [clo
 https://main.benddao.xyz [301] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Vercel] [571056bfc08a9a2dec33855853a7e994]
 https://rinkeby.benddao.xyz [200] [GET] [text/html] [BendDAO - Best WEB3 Data Liquidity] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,React,Vercel] [6162fcfe109ac0945333159a1292ea60]
 https://testnet.benddao.xyz [200] [GET] [text/html] [BendDAO - Best WEB3 Data Liquidity] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,React,Vercel] [6162fcfe109ac0945333159a1292ea60]
+https://ws-bend-subgraph-mainnet.benddao.xyz [502] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [50eeaf590dac7639a660d8ba98d009d8]
 https://ws-bend-subgraph-rinkeby.benddao.xyz [502] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [50eeaf590dac7639a660d8ba98d009d8]
 https://www.benddao.xyz [200] [GET] [text/html] [BendDAO - Best WEB3 Data Liquidity] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,React,Vercel] [3af7ff739223438c76fb970e5e721792]
 https://www.benddao.xyz:2083 [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [4f20b85ce5ebf225720e040314a7966a]

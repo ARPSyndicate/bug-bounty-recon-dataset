@@ -8,8 +8,6 @@ api.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
 api.prod.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 api-sandbox.cryptology.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.224.0/20
 api.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
-autoconfig.blog.cryptology.com AS396982 AS396982 - GOOGLE LLC US 34.90.64.0/20
-autodiscover.blog.cryptology.com AS396982 AS396982 - GOOGLE LLC US 34.90.64.0/20
 backoffice.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 backoffice-payments-internal-api.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14
 balance-api.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
@@ -57,7 +55,6 @@ eth-signer.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/1
 exchange.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 exchange.sandbox.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 exchange.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
-ftp.blog.cryptology.com AS396982 AS396982 - GOOGLE LLC US 34.90.64.0/20
 futures.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 futures.sandbox.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 futures.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
@@ -90,7 +87,6 @@ litecoind.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 18.194.0.0/15
 litecoind.prod.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 52.28.0.0/16
 litecoind.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
 locales.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
-mail.blog.cryptology.com AS396982 AS396982 - GOOGLE LLC US 34.90.64.0/20
 margin.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 margin.sandbox.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 margin.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
@@ -143,7 +139,6 @@ spot-api.cryptology.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
 spot-api-sandbox.cryptology.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.20.240.0/20
 sse-prod.cryptology.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
 sse-staging.cryptology.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.16.0/20
-ssh.blog.cryptology.com AS396982 AS396982 - GOOGLE LLC US 34.90.64.0/20
 staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 static.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
 tomo-signer.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
@@ -160,7 +155,6 @@ web2.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/
 web3.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
 web4.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 web.staging.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23
-www.blog.cryptology.com AS396982 AS396982 - GOOGLE LLC US 34.90.64.0/20
 www.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 xlm-signer.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
 xrp-signer.dev.cryptology.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14

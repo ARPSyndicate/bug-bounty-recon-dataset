@@ -63,6 +63,13 @@ http://node-03.stakewise.io:8880
 http://node-04.stakewise.io
 http://node-04.stakewise.io:8080
 http://node-04.stakewise.io:8880
+http://node-06.stakewise.io
+http://node-06.stakewise.io:2053
+http://node-06.stakewise.io:2086
+http://node-06.stakewise.io:2087
+http://node-06.stakewise.io:8080
+http://node-06.stakewise.io:8443
+http://node-06.stakewise.io:8880
 http://preview-app.stakewise.io
 http://rc.stakewise.io
 http://rc.stakewise.io:2053
@@ -101,6 +108,7 @@ https://node-03.stakewise.io:2087
 https://node-04.stakewise.io
 https://node-04.stakewise.io:2083
 https://node-04.stakewise.io:2087
+https://node-06.stakewise.io
 https://preview-app.stakewise.io
 https://rc.stakewise.io
 https://stage-api.stakewise.io

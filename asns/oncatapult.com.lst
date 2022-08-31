@@ -42,7 +42,6 @@ events-api-test-ci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORA
 gateway-admin-clientdev.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 gateway-admin-closedbeta.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 104.40.0.0/13
 gateway-admin-compatqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15
-gateway-admin-complianceqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 104.40.0.0/13
 gateway-admin-externalqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 gateway-admin-internalqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 52.136.0.0/13
 gateway-admin-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
@@ -72,7 +71,6 @@ loadtest-api-westeurope-0.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT 
 login-admin-clientdev.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 login-admin-closedbeta.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 login-admin-compatqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
-login-admin-complianceqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 login-admin-externalqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 login-admin-internalqa.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 login-admin-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10

@@ -1027,6 +1027,7 @@ http://hvd.att.com
 http://hvd.att.com:8080
 http://hvd-intl01.att.com
 http://hvd-intl05.att.com
+http://iam.dev.cloud.att.com
 http://ice-projectone.att.com
 http://idaho.att.com
 http://idaho.att.com:8443
@@ -3131,6 +3132,7 @@ https://hvd-intl14.att.com
 https://hvd-intl14.att.com:8443
 https://hvd-intl.att.com
 https://hvd-intl.att.com:8443
+https://iam.dev.cloud.att.com
 https://ibmmeeting.att.com
 https://ibs.eia.att.com
 https://icam.att.com

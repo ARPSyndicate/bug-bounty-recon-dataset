@@ -2454,6 +2454,7 @@ hyprsense.it.epicgames.com
 ib-usw2.it.epicgames.com
 identity.live.on.epicgames.com
 image.news.epicgames.com
+infosec.on.epicgames.com
 ingest.hostman.ci.adda.dev.use1a.on.epicgames.com
 ingest.hostman.livefn.adad.live.use1a.on.epicgames.com
 ingest.hostman.prod.adad.live.use1a.on.epicgames.com
@@ -2739,6 +2740,8 @@ ps-mgmt-portal-okta.stage.it.epicgames.com
 ps-mgmt-portal-oktav1.eut.it.epicgames.com
 ps-mgmt-portal.stage.it.epicgames.com
 ps-mgmt-portalv1.eut.it.epicgames.com
+puppet.it.epicgames.com
+puppet-management.it.epicgames.com
 push.epicgames.com
 pvuvpn.epicgames.com
 qos1.ol.epicgames.com
@@ -2925,6 +2928,7 @@ tools.lt-use1a.lt.qstv.on.epicgames.com
 tools.lt-use1b.lt.qstv.on.epicgames.com
 tools.prod-euc1a.qstv.on.epicgames.com
 tools.prod-usw2a.qstv.on.epicgames.com
+tools.prod-usw2b.qstv.on.epicgames.com
 tools.stage-usw2b.stage.qstv.on.epicgames.com
 tp.epicgames.com
 tracking.epicgames.com

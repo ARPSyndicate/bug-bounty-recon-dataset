@@ -15,4 +15,11 @@
 [https] testnet.raydex.org:443
 [https] www.raydex.org:443
 [https] www.testnet.raydex.org:443
+[http] testnet.raydex.org:80
 [http] www.raydex.org:80
+[http] www.testnet.raydex.org:80
+[infowave] testnet.raydex.org:2082
+[infowave] www.testnet.raydex.org:2082
+[nbx-ser] testnet.raydex.org:2095
+[radsec] testnet.raydex.org:2083
+[radsec] www.testnet.raydex.org:2083

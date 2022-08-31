@@ -532,6 +532,7 @@ cart-preprod-uw2.spil.xfinity.com
 cart-prod.cws.xfinity.com
 cart-prod-ue1.spil.xfinity.com
 cart-prod-uw2.spil.xfinity.com
+catalog-ingestion-dev.np.gpe.xfinity.com
 cavyui-build.dev.xfinity.com
 cavyui-build.stg.xfinity.com
 cavyui-build.xfinity.com
@@ -1629,6 +1630,8 @@ ft-test.cxco-chat.xfinity.com
 ft.xchat.xfinity.com
 games.xfinity.com
 games.xfinity.comcast.net
+gamex-perf.np.gpe.xfinity.com
+gamex-staging.np.gpe.xfinity.com
 gazette.cms.xfinity.com
 gemini.home.xfinity.com
 gerrit.xfinity.com
@@ -3328,6 +3331,7 @@ services.wcdc.stg.xfinity.com
 services.xfinity.com
 service-xcam-stg.xh-onboarding.xfinity.com
 service-xcam.xh-onboarding.xfinity.com
+session-dev.np.gpe.xfinity.com
 session-dev.xoe.xfinity.com
 session-int.xoe.xfinity.com
 session-perf.xoe.xfinity.com

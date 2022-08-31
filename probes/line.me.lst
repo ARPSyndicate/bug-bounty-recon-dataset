@@ -449,7 +449,7 @@ https://music-jp-cms.line.me [301] [GET] [text/html] [301 Moved Permanently] [ng
 https://music-jp-coupon.line.me [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
 https://music-jp.line.me [303] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://music.line.me [303] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
-https://music-mag-ja.line.me [200] [GET] [text/html] [LINE MUSIC MAGAZINE] [nginx] [vhost] [Nginx] [3f75e5c9393831faca01c138742a3f7a]
+https://music-mag-ja.line.me [200] [GET] [text/html] [LINE MUSIC MAGAZINE] [nginx] [vhost] [Nginx] [b97326126f3d5ba1716ae8291549f82b]
 https://music-refund.line.me [200] [GET] [text/html] [LINE MUSIC コイン払戻し申請フォーム] [VOS] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [ef1ebb5b7b4188f2c3ba1e9b5cc495e3]
 https://music-tw.line.me [200] [GET] [text/html] [LINE MUSIC - LINE鈴聲、來電答鈴、背景音樂、音樂焦點、音樂排行榜、最新專輯等豐富的音樂內容] [nginx] [vhost] [Google Tag Manager,Nginx,Node.js,Nuxt.js,Vue.js] [fb1eb126dc0c8bb39cfef1649f2689d1]
 https://mycard.line.me [403] [GET] [text/html] [403 Forbidden] [nginx] [Nginx] [4b074b0b59693fa9f94fb71b175fb187]

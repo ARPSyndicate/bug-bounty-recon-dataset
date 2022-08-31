@@ -5087,6 +5087,7 @@ identity.shopifycloud.com
 identity-staging.shopifycloud.com
 identity-staging-unrestricted-web-apps-b-us-central1-4.shopifycloud.com
 identity-staging-web-tier4.shopifycloud.com
+idx-o11y-splunk-staging-us-ce1-ka37.shopifycloud.com
 idx-splunk-na-ne1-a-1.shopifycloud.com
 idx-splunk-na-ne1-b-1.shopifycloud.com
 idx-splunk-na-ne1-c-1.shopifycloud.com
@@ -9356,6 +9357,7 @@ splunk-hec-hf.shopifycloud.com
 splunk-hec-hf-staging-observability.shopifycloud.com
 splunk-hec-staging-observability.shopifycloud.com
 splunk-hec-staging-us-central1-a-1.shopifycloud.com
+splunk-hec-staging-us-central-a-1.shopifycloud.com
 splunk-hec-staging-us-east1-b-1.shopifycloud.com
 splunk-hec-us-east1-b-1.shopifycloud.com
 splunk-hec-us-east1-c-1.shopifycloud.com

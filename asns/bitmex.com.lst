@@ -14,7 +14,7 @@ compliance-fbnotify.prod.services.bitmex.com AS16509 AS16509 - AMAZON.COM, INC. 
 devhk.bitmex.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.41.0/24
 devhk-static.bitmex.com AS16509 AS16509 - AMAZON.COM, INC. US 99.84.232.0/21
 devsf3.bitmex.com AS16509 AS16509 - AMAZON.COM, INC. US 54.154.0.0/16
-documents.bitmex.com AS16509 AS16509 - AMAZON.COM, INC. US 52.29.0.0/16
+documents.bitmex.com AS16509 AS16509 - AMAZON.COM, INC. US 3.124.0.0/14
 documents.devhk.bitmex.com AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
 documents.devsf3.bitmex.com AS14618 AS14618 - AMAZON.COM, INC. US 107.20.0.0/16
 documents.testnet.bitmex.com AS16509 AS16509 - AMAZON.COM, INC. US 3.120.0.0/14

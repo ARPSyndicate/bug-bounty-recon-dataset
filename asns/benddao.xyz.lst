@@ -14,5 +14,6 @@ looksrare-api-rinkeby.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 104.21.4
 main.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 104.21.48.0/20
 rinkeby.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.192.0/20
 testnet.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.192.0/20
+ws-bend-subgraph-mainnet.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.192.0/20
 ws-bend-subgraph-rinkeby.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 172.67.192.0/20
 www.benddao.xyz AS13335 AS13335 - CLOUDFLARE, INC. US 104.21.48.0/20

@@ -22,6 +22,7 @@
 [cddbp-alt] moonriver.blastapi.io:8880
 [cddbp-alt] moonriver.public.blastapi.io:8880
 [cddbp-alt] optimism-mainnet.public.blastapi.io:8880
+[cddbp-alt] palm-testnet.blastapi.io:8880
 [cddbp-alt] polygon-mainnet.blastapi.io:8880
 [cddbp-alt] polygon-mainnet.public.blastapi.io:8880
 [cddbp-alt] polygon-testnet.blastapi.io:8880
@@ -33,6 +34,8 @@
 [cddbp-alt] status.blastapi.io:8880
 [cddbp-alt] www.blastapi.io:8880
 [clearvisn] blastapi.io:2052
+[eli] blastapi.io:2087
+[eli] palm-testnet.blastapi.io:2087
 [gnunet] blastapi.io:2086
 [http] api.blastapi.io:80
 [http] api.dev.blastapi.io:80
@@ -43,6 +46,7 @@
 [http] astar.public.blastapi.io:80
 [http] ava-mainnet.blastapi.io:80
 [http] ava-mainnet.public.blastapi.io:80
+[http] aws.blastapi.io:80
 [http] blastapi.io:80
 [http] bsc-testnet.public.blastapi.io:80
 [http] bwareadmin.blastapi.io:80
@@ -74,12 +78,15 @@
 [http] moonriver.blastapi.io:80
 [http] moonriver.public.blastapi.io:80
 [http] optimism-mainnet.public.blastapi.io:80
+[http] palm-testnet.blastapi.io:80
 [http] polygon-mainnet.blastapi.io:80
 [http] polygon-mainnet.public.blastapi.io:80
 [http] polygon-testnet.blastapi.io:80
 [http] polygon-testnet.dev1.blastapi.io:80
 [http] polygon-testnet.public.blastapi.io:80
 [http] polygon-testnet.public.dev1.blastapi.io:80
+[http-proxy] blastapi.io:8080
+[http-proxy] palm-testnet.blastapi.io:8080
 [http] public.dev1.blastapi.io:80
 [http] public.houston.blastapi.io:80
 [http] public.qa.blastapi.io:80
@@ -116,6 +123,7 @@
 [https] api.qa.blastapi.io:443
 [https] astar.aws.blastapi.io:443
 [https] astar.blastapi.io:443
+[https] aws.blastapi.io:443
 [https] blastapi.io:443
 [https] bsc-testnet.public.blastapi.io:443
 [https] bwareadmin.dev1.blastapi.io:443
@@ -139,6 +147,7 @@
 [https] moonbeam.blastapi.io:443
 [https] moonriver.public.blastapi.io:443
 [https] moonriver.qa.blastapi.io:443
+[https] palm-testnet.blastapi.io:443
 [https] polygon-testnet.dev1.blastapi.io:443
 [https] polygon-testnet.public.dev1.blastapi.io:443
 [https] provider-manager.dev.blastapi.io:443
@@ -167,9 +176,11 @@
 [http] test.qa.blastapi.io:80
 [http] www.blastapi.io:80
 [infowave] blastapi.io:2082
+[infowave] palm-testnet.blastapi.io:2082
 [knetd] blastapi.io:2053
 [nbx-dir] blastapi.io:2096
 [postgresql] bwareadmin.houston.blastapi.io:5432
 [postgresql] public.houston.blastapi.io:5432
 [postgresql] test.houston.blastapi.io:5432
 [radsec] blastapi.io:2083
+[radsec] palm-testnet.blastapi.io:2083

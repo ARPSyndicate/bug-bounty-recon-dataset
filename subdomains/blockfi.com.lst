@@ -35,6 +35,7 @@ api.ss229.shield-sandbox.aws.blockfi.com
 api.ss253.shield-sandbox.aws.blockfi.com
 api.test.blockfi.com
 api.vis1171.shield-sandbox.aws.blockfi.com
+api.vis388.shield-sandbox.aws.blockfi.com
 app.blockfi.com
 app-local.blockfi.com
 apply.blockfi.com
@@ -51,6 +52,7 @@ auth-stage.blockfi.com
 backstage.deployment-infra-dev.aws.blockfi.com
 beta.torchtwo.blockfi.com
 bitcoind-testnet.chain-infrastructure-sandbox.aws.blockfi.com
+blink-internal.retail-dev.aws.blockfi.com
 blockfi.com
 blockfi-cypher-1-prod.blockfi.com
 blockfi-cypher-2-prod.blockfi.com
@@ -227,6 +229,7 @@ vis1147.shield-sandbox.aws.blockfi.com
 vis591b.shield-sandbox.aws.blockfi.com
 vis591.shield-sandbox.aws.blockfi.com
 vis-661.shield-sandbox.aws.blockfi.com
+vis792.shield-sandbox.aws.blockfi.com
 vis880.shield-sandbox.aws.blockfi.com
 vis930.shield-sandbox.aws.blockfi.com
 vis930test2.shield-sandbox.aws.blockfi.com

@@ -79,6 +79,7 @@ https://insights.lazada.com [404] [GET] [text/html] [404 Not Found] [Tengine/Ase
 https://insights.lazada.com [404] [GET] [text/html] [404 Not Found] [Tengine/Aserver] [Tengine] [6574fadfaad242dcf32b519829f47b50]
 https://iopaccount.lazada.com [302] [GET] [] [] [Tengine/Aserver] [vhost] [Java,Spring,Tengine] [d41d8cd98f00b204e9800998ecf8427e]
 https://ipp.lazada.com [302] [GET] [text/html] [302 Found] [Tengine/Aserver] [vhost] [Tengine] [bf11367cdd015f5296d7a972a183430e]
+https://iterator.lazada.com [400] [GET] [text/html] [] [] [vhost] [4d55a4bfc2c6e587d363ba129aac41a6]
 https://lazada.com [302] [GET] [text/html] [] [Tengine/Aserver] [vhost] [Tengine] [d41d8cd98f00b204e9800998ecf8427e]
 https://lazada-sg-2.wagbridge.lazada-pre.lazada.com [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [5e390d5a6f809a238a428d43e920667d]
 https://lazada-sg-2.wagbridge.lazada-pre.lazada.com [200] [GET] [text/html] [] [Tengine/Aserver] [Tengine] [5fd1d059cd0dd609c03e8c2e71a712ec]

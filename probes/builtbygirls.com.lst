@@ -7,7 +7,6 @@ https://guce.builtbygirls.com [404] [GET] [text/html] [built_by_girls] [guce] [d
 https://guce.builtbygirls.com:4443 [404] [GET] [application/json] [] [guce] [b528230b3d55854845b988305f7f3b9f]
 https://oidc.builtbygirls.com [404] [GET] [application/json] [] [ATS] [Apache Traffic Server] [2e0f364cef7e93e58404283a5cde7fde]
 https://oidc.builtbygirls.com [404] [GET] [application/json] [] [ATS] [vhost] [Apache Traffic Server] [2e0f364cef7e93e58404283a5cde7fde]
-https://origin-www.builtbygirls.com [301] [GET] [] [] [Squarespace] [vhost] [Squarespace,Squarespace Commerce] [d41d8cd98f00b204e9800998ecf8427e]
 https://privacy.builtbygirls.com [404] [GET] [] [] [GDPR] [d41d8cd98f00b204e9800998ecf8427e]
 https://referral.builtbygirls.com [200] [GET] [text/html] [] [openresty] [vhost] [Nginx,OpenResty] [bc3420a7b98e0600bc5e413c228b5122]
 https://referral.builtbygirls.com [307] [GET] [] [] [openresty] [vhost] [Nginx,OpenResty] [d41d8cd98f00b204e9800998ecf8427e]
@@ -23,4 +22,4 @@ https://toolkit.builtbygirls.com [200] [GET] [text/html] [BBG Toolkit] [Squaresp
 https://trunk.guce.builtbygirls.com [404] [GET] [text/html] [built_by_girls] [guce] [c56df08fd51b8168025b763fcc5b9237]
 https://trunk.guce.builtbygirls.com:4443 [404] [GET] [application/json] [] [guce] [b528230b3d55854845b988305f7f3b9f]
 https://wave.builtbygirls.com [301] [GET] [text/html] [Document Has Moved] [ATS] [vhost] [Apache Traffic Server] [0aa8fbdc80fbed09fdbf17eed999ed06]
-https://www.builtbygirls.com [200] [GET] [text/html] [BUILT BY GIRLS] [ATS] [vhost] [Apache Traffic Server,Google Font API,Google Tag Manager,MailChimp,Stimulus] [5bd4d9841ca276446b805d6bab07889f]
+https://www.builtbygirls.com [200] [GET] [text/html] [BUILT BY GIRLS] [ATS] [vhost] [Apache Traffic Server,Google Font API,Google Tag Manager,MailChimp,Stimulus] [0c2e2bd3e49bc977ab1a95ef54253bc4]

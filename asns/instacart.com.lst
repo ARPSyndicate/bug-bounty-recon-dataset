@@ -316,7 +316,7 @@ picknsaveconvenience.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.
 pick-n-save-delivery-now.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 piggly-wiggly.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 plummarket-onecart.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-post.assets.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 34.208.0.0/12
+post.assets.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 52.88.0.0/15
 prd.cbc.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 prd.cca.cf.enterprise.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 prd-cub-platform-preview-api.enterprise.instacart.com AS15169 AS15169 - GOOGLE LLC US 35.200.0.0/14
@@ -367,7 +367,7 @@ rite-aid.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0
 rouses.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 sameday-staples.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 samsclub.instacart.com AS14618 AS14618 - AMAZON.COM, INC. US 52.4.0.0/14
-s.assets.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 54.190.0.0/16
+s.assets.instacart.com AS16509 AS16509 - AMAZON.COM, INC. US 52.10.0.0/15
 savealot.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 savealot.pbis-cf.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 savemart.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
@@ -389,7 +389,6 @@ shopper-auth.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 shopper.instacart.com AS14618 AS14618 - AMAZON.COM, INC. US 44.192.0.0/11
 shoppers-admin-edge.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 shoppers-admin.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
-shoppers-assets.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 shoppers-edge.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.16.0/20
 shoppersfood.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 shoppers.instacart.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20

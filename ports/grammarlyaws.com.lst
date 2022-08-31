@@ -53,6 +53,7 @@
 [https] narnia.it.grammarlyaws.com:443
 [https] new-tf-features-playground.sandbox.grammarlyaws.com:443
 [https] opassscimgc.it.grammarlyaws.com:443
+[http] speak.prod-speakerly.grammarlyaws.com:80
 [http] speak.qa-speakerly.grammarlyaws.com:80
 [https] pollock.prod-reader.grammarlyaws.com:443
 [https] pollock.qa-reader.grammarlyaws.com:443
@@ -67,6 +68,7 @@
 [https] qa-billing-events.qa-billing.grammarlyaws.com:443
 [https] renovate-all-gr-bazel-baz.preprod-design-system.grammarlyaws.com:443
 [https] rtmp.zoommarly.core-prod.grammarlyaws.com:443
+[https] speak.prod-speakerly.grammarlyaws.com:443
 [https] speak.qa-speakerly.grammarlyaws.com:443
 [https] subscription.subscription.grammarlyaws.com:443
 [https] support-automations.subscription.grammarlyaws.com:443

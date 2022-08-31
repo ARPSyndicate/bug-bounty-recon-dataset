@@ -36,13 +36,16 @@ http://ava-mainnet.public.blastapi.io:2087
 http://ava-mainnet.public.blastapi.io:2096
 http://ava-mainnet.public.blastapi.io:8080
 http://ava-mainnet.public.blastapi.io:8880
+http://aws.blastapi.io
 http://blastapi.io
 http://blastapi.io:2052
 http://blastapi.io:2053
 http://blastapi.io:2082
 http://blastapi.io:2083
 http://blastapi.io:2086
+http://blastapi.io:2087
 http://blastapi.io:2096
+http://blastapi.io:8080
 http://blastapi.io:8443
 http://blastapi.io:8880
 http://bsc-testnet.public.blastapi.io
@@ -213,6 +216,13 @@ http://optimism-mainnet.public.blastapi.io:2087
 http://optimism-mainnet.public.blastapi.io:8080
 http://optimism-mainnet.public.blastapi.io:8443
 http://optimism-mainnet.public.blastapi.io:8880
+http://palm-testnet.blastapi.io
+http://palm-testnet.blastapi.io:2082
+http://palm-testnet.blastapi.io:2083
+http://palm-testnet.blastapi.io:2086
+http://palm-testnet.blastapi.io:2087
+http://palm-testnet.blastapi.io:8080
+http://palm-testnet.blastapi.io:8880
 http://polygon-mainnet.blastapi.io
 http://polygon-mainnet.blastapi.io:2053
 http://polygon-mainnet.blastapi.io:2083
@@ -260,6 +270,7 @@ https://astar.blastapi.io
 https://astar.public.blastapi.io
 https://ava-mainnet.blastapi.io
 https://ava-mainnet.public.blastapi.io
+https://aws.blastapi.io
 https://blastapi.io
 https://bsc-testnet.public.blastapi.io
 https://bwareadmin.blastapi.io
@@ -321,6 +332,7 @@ https://moonriver.blastapi.io
 https://moonriver.public.blastapi.io
 https://moonriver.qa.blastapi.io
 https://optimism-mainnet.public.blastapi.io
+https://palm-testnet.blastapi.io
 https://polygon-mainnet.blastapi.io
 https://polygon-mainnet.public.blastapi.io
 https://polygon-testnet.blastapi.io

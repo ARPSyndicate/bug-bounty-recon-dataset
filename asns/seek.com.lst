@@ -73,7 +73,7 @@ jobsdb.unified.staging.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.152
 jobstreet.unified.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.42.0/24
 jobstreet.unified.staging.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.152.0/24
 korea-idle.sg-dev.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.39.0/24
-login.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.35.0/24
+login.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.152.0/24
 login.staging.seek.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.155.0/24
 manage.developer.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 manage.developer.staging.seek.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23

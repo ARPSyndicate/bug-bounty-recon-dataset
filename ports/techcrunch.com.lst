@@ -30,9 +30,12 @@
 [http] networking.techcrunch.com:80
 [http] oidc.techcrunch.com:80
 [http] on.techcrunch.com:80
+[http] partnerevents.techcrunch.com:80
 [http] pixel.techcrunch.com:80
 [http] podcast.techcrunch.com:80
+[http] preprod22.techcrunch.com:80
 [http] preprod.techcrunch.com:80
+[http] prod22.techcrunch.com:80
 [http-proxy] info.techcrunch.com:8080
 [http-proxy] mailing.techcrunch.com:8080
 [http] ryot.techcrunch.com:80
@@ -62,9 +65,12 @@
 [http] social.techcrunch.com:80
 [https] oidc.techcrunch.com:443
 [https] on.techcrunch.com:443
+[https] partnerevents.techcrunch.com:443
 [https] pixel.techcrunch.com:443
 [https] podcast.techcrunch.com:443
+[https] preprod22.techcrunch.com:443
 [https] preprod.techcrunch.com:443
+[https] prod22.techcrunch.com:443
 [https] ryot.techcrunch.com:443
 [https] search.techcrunch.com:443
 [https] social.techcrunch.com:443

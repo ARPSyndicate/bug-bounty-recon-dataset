@@ -29,6 +29,7 @@ https://prod-redirect.acquisition.grammarlyaws.com [303] [GET] [] [] [] [d41d8cd
 https://public-treatment.prod-experimentation.grammarlyaws.com [401] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://qa-anniversary-swag-store.grammarlyaws.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://qa-billing-events.qa-billing.grammarlyaws.com [403] [GET] [application/json] [] [] [vhost] [bc45704aad57d445b6dfa58b101071e3]
+https://speak.prod-speakerly.grammarlyaws.com [404] [GET] [text/plain] [] [awselb/2.0] [9e076f5885f5cc16a4b5aeb8de4adff5]
 https://subscription.subscription.grammarlyaws.com [403] [GET] [text/html] [403 Forbidden] [awselb/2.0] [2e40045efe5134ada9942798c090d269]
 https://support-automations.subscription.grammarlyaws.com [403] [GET] [text/html] [Error 403 Forbidden] [grammarly.com] [796d9f854b87e2d2e19d73133d800553]
 https://tableuqa.sandbox.grammarlyaws.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]

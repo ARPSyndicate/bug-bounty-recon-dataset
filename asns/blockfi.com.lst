@@ -47,6 +47,7 @@ status.blockfi.com AS16509 AS16509 - AMAZON.COM, INC. US 18.246.0.0/16
 storm.blockfi.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.146.0/24
 togepi.chain-infrastructure-sandbox.aws.blockfi.com AS14618 AS14618 - AMAZON.COM, INC. US 52.2.0.0/15
 try.blockfi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.56.0.0/16
+vis792.shield-sandbox.aws.blockfi.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 webmail.blockfi.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.app.blockfi.com AS13335 AS13335 - CLOUDFLARE, INC. US 172.64.146.0/24
 www.blockfi.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.41.0/24

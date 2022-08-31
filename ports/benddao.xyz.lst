@@ -1,6 +1,8 @@
 [clearvisn] benddao.xyz:2052
+[clearvisn] ws-bend-subgraph-mainnet.benddao.xyz:2052
 [eli] benddao.xyz:2087
 [eli] rinkeby.benddao.xyz:2087
+[eli] ws-bend-subgraph-mainnet.benddao.xyz:2087
 [gnunet] bend-goservice-mainnet.benddao.xyz:2086
 [gnunet] bend-goservice-rinkeby.benddao.xyz:2086
 [gnunet] bend-subgraph-mainnet.benddao.xyz:2086
@@ -35,11 +37,13 @@
 [http-proxy] benddao.xyz:8080
 [http-proxy] bend-subgraph-mainnet.benddao.xyz:8080
 [http-proxy] rinkeby.benddao.xyz:8080
+[http-proxy] ws-bend-subgraph-mainnet.benddao.xyz:8080
 [http] rinkeby.benddao.xyz:80
 [https-alt] benddao.xyz:8443
 [https-alt] bend-nft-info.benddao.xyz:8443
 [https-alt] bend-subgraph-mainnet.benddao.xyz:8443
 [https-alt] develop.benddao.xyz:8443
+[https-alt] ws-bend-subgraph-mainnet.benddao.xyz:8443
 [https] benddao.xyz:443
 [https] bend-goservice-mainnet.benddao.xyz:443
 [https] bend-goservice-rinkeby.benddao.xyz:443
@@ -67,6 +71,7 @@
 [http] x2y2-api.benddao.xyz:80
 [infowave] benddao.xyz:2082
 [infowave] rinkeby.benddao.xyz:2082
+[infowave] ws-bend-subgraph-mainnet.benddao.xyz:2082
 [radsec] benddao.xyz:2083
 [radsec] bend-goservice-mainnet.benddao.xyz:2083
 [radsec] bend-goservice-rinkeby.benddao.xyz:2083

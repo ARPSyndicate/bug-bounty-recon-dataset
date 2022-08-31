@@ -190,7 +190,6 @@ https://p.paypal.com [403] [GET] [text/html] [403 Forbidden] [Varnish] [vhost] [
 https://ppo.glb.paypal.com [404] [GET] [text/html] [404 - Not Found] [EOS (vny/1B64)] [vhost] [4a8b5abca9e7e6bbc4b2e881a86821db]
 https://ppo-ru.glb.paypal.com [500] [GET] [text/html] [Fastly error: unknown domain ppo-ru.glb.paypal.com] [Varnish] [vhost] [fastly] [Fastly,Varnish] [1fc56d0cf818ec4b51e878324f08dbed]
 https://ppo-ru.glb.paypal.com [500] [GET] [text/html] [Fastly error: unknown domain ppo-ru.glb.paypal.com] [Varnish] [vhost] [fastly] [Fastly,Varnish] [f996a04ec7e7fc03eb5de27b6b3e3c86]
-https://qwac.paypal.com [200] [GET] [text/html] [] [] [vhost] [fastly] [Fastly,PayPal,Varnish] [cdd5d74cf77b2d146c8eeec9c05b4869]
 https://qwac.paypal.com [302] [GET] [text/plain] [] [] [vhost] [fastly] [Fastly,PayPal,Varnish] [27d9e0513dbfc591f6ed4db57ec1713c]
 https://registration.paypal.com [200] [GET] [text/html] [PayPal - Registration] [nginx] [vhost] [Java,Nginx,PayPal] [5701026048596d5f96abf42f26cd99d6]
 https://registration.paypal.com [200] [GET] [text/html] [PayPal - Registration] [nginx] [vhost] [Java,Nginx,PayPal] [9936106625f3d62352e60985a953d68f]

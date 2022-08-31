@@ -1283,6 +1283,7 @@
 [https] gby186ld.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] gd65ftce.cloudstation.us-west-2.prod.hydra.sophos.com:443
 [https] get.sophos.com:443
+[https] ggtjdf9s.cloudstation.eu-west-1.inf.hydra.sophos.com:443
 [https] givao1ek.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] gjgw74us.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [http] sgnlic.sophos.com:80
@@ -2257,6 +2258,7 @@
 [https] wifix-monitoring.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] wifix-monitoring.stn010yul.ctr.sophos.com:443
 [https] wifix-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com:443
+[https] wifix-push-rest.cloudstation.us-west-2.qa.hydra.sophos.com:443
 [https] wifix-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com:443
 [https] wp4fve3y.cloudhub.eu-west-1.dev.hydra.sophos.com:443
 [https] wsa-reg.sophos.com:443

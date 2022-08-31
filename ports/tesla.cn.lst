@@ -6,6 +6,8 @@
 [http] autodiscover.tesla.cn:80
 [http] community.tesla.cn:80
 [http] crossdock.tesla.cn:80
+[http] digitalassets-accounts.tesla.cn:80
+[http] digitalassets-energy.tesla.cn:80
 [http] digitalassets-shop.tesla.cn:80
 [http] digitalassets.tesla.cn:80
 [http] enterpriseenrollment.tesla.cn:80
@@ -37,6 +39,8 @@
 [https] auth.tesla.cn:443
 [https] community.tesla.cn:443
 [https] crossdock.tesla.cn:443
+[https] digitalassets-accounts.tesla.cn:443
+[https] digitalassets-energy.tesla.cn:443
 [https] digitalassets-shop.tesla.cn:443
 [https] digitalassets.tesla.cn:443
 [https] enterpriseenrollment.tesla.cn:443

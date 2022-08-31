@@ -120,7 +120,7 @@ insights.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 inst.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 ipa.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
 jenkins-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 108.128.0.0/13
-jenkinsplay-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 54.228.0.0/16
+jenkinsplay-github-hook.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
 joeribot.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 k2.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
 k3.mobilevikings.be AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22

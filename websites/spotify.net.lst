@@ -4,6 +4,7 @@ http://admin.staging.elastic.gew1.spotify.net
 http://admin.staging.elastic.gew1.spotify.net:8080
 http://adstudio-debugger.spotify.net
 http://adstudio-debugger.spotify.net:8080
+http://amplify-status.spotify.net
 http://backstage.spotify.net
 http://backstage.spotify.net:8080
 http://backups-status.spotify.net
@@ -131,6 +132,7 @@ http://saml.feedzai-sandbox.spotify.net
 http://saml.feedzai-sandbox.spotify.net:8080
 http://saml.feedzai.spotify.net
 http://saml.feedzai.spotify.net:8080
+https://amplify-status.spotify.net
 https://backstage.spotify.net
 https://bandmanager-api.spotify.net
 https://bandmanager-dev-api.spotify.net

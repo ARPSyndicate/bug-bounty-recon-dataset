@@ -7,6 +7,7 @@ http://podcast-charts.spotify.net [404] [GET] [text/html] [Error 404 (Not Found)
 http://podztools.spotify.net [404] [GET] [text/html] [Error 404 (Not Found)!!1] [ghs] [b81150861bf911f947660cf73bce77f6]
 https://abtesting.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [google] [Apache,Google Cloud,Google Cloud CDN] [b3c8789230c39e705c197ed768c7b246]
 https://adstudio-debugger.spotify.net [303] [GET] [text/html] [303 See Other] [Apache] [vhost] [google] [Apache,Google Cloud,Google Cloud CDN] [8854e52c1eb2da5c769fe8371ca97b0d]
+https://amplify-status.spotify.net [200] [GET] [text/html] [Status] [openresty/1.15.8.1] [vhost] [google] [Google Font API,Nginx,OpenResty:1.15.8.1] [8f8eccd8301860df882735de1866d3ed]
 https://backstage.spotify.net [302] [GET] [] [] [] [vhost] [google] [d41d8cd98f00b204e9800998ecf8427e]
 https://boost-lighthouse.spotify.net [200] [GET] [text/html] [Opengear] [lighthouse] [google] [lighttpd] [f1c0f3a533378e591d654cc6fbbc11b7]
 https://brand.spotify.net [302] [GET] [text/html] [] [Google Frontend] [vhost] [Google App Engine] [d41d8cd98f00b204e9800998ecf8427e]

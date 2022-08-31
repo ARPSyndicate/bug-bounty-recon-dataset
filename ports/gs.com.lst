@@ -285,13 +285,16 @@
 [http] qa-360.gs.com:80
 [http] qa.accounts.gs.com:80
 [http] qaaon.gs.com:80
+[http] qa-api-higher.gs.com:80
 [http] qa.confluence.devcollab.gs.com:80
 [http] qaderivativesuniversity.gs.com:80
 [http] qa.developer.gs.com:80
 [http] qafx.gs.com:80
 [http] qaglobal-liquidity.gs.com:80
 [http] qa.growth.gs.com:80
+[http] qa-gscredit.gs.com:80
 [http] qagtam-external-vendor-srp.gs.com:80
+[http] qa-higher.gs.com:80
 [http] qaias.gs.com:80
 [http] qainstitutionaladvisoryservices.gs.com:80
 [http] qa.jira3.devcollab.gs.com:80
@@ -303,6 +306,7 @@
 [http] qamortgagecredituniversity.gs.com:80
 [http] qa-portal.valueaccelerator.gs.com:80
 [http] qareditrader.gs.com:80
+[http] qa.reit.gs.com:80
 [http] qasecurities.mobile.gs.com:80
 [http] qa.site1.sitehostingdemo.gs.com:80
 [http] qa.site2.sitehostingdemo.gs.com:80
@@ -615,6 +619,7 @@
 [https] qafx.gs.com:443
 [https] qaglobal-liquidity.gs.com:443
 [https] qa.growth.gs.com:443
+[https] qa-gscredit.gs.com:443
 [https] qagsmarkets.gs.com:443
 [https] qagtam-external-vendor-srp.gs.com:443
 [https] qa.jira3.devcollab.gs.com:443
@@ -629,6 +634,7 @@
 [https] qa.nyrail1.orbit.gs.com:443
 [https] qa-portal.valueaccelerator.gs.com:443
 [https] qareditrader.gs.com:443
+[https] qa.reit.gs.com:443
 [https] qasecurities.mobile.gs.com:443
 [https] qa.site1.sitehostingdemo.gs.com:443
 [https] qa.site2.sitehostingdemo.gs.com:443
