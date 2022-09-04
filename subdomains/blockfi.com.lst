@@ -24,6 +24,7 @@
 54.81.192.241api.blockfi.com
 alertmanager.blockfi.com
 alertmanager-prod.blockfi.com
+alteryx.blockfi.com
 alteryx-dev.tun.blockfi.com
 api.blockfi.com
 apiecs.goldfinger-sandbox.aws.blockfi.com
@@ -203,6 +204,8 @@ storm2-st.retail-staging.aws.blockfi.com
 storm.blockfi.com
 storm-st.retail-staging.aws.blockfi.com
 tableau.blockfi.com
+tableau-dev.tun.blockfi.com
+tableau.tun.blockfi.com
 test.blockfi.com
 testdeploy.shield-sandbox.aws.blockfi.com
 thor.thor-sandbox.aws.blockfi.com
@@ -226,6 +229,7 @@ vis1013.shield-sandbox.aws.blockfi.com
 vis1023.shield-sandbox.aws.blockfi.com
 vis1032.shield-sandbox.aws.blockfi.com
 vis1147.shield-sandbox.aws.blockfi.com
+vis1199.shield-sandbox.aws.blockfi.com
 vis591b.shield-sandbox.aws.blockfi.com
 vis591.shield-sandbox.aws.blockfi.com
 vis-661.shield-sandbox.aws.blockfi.com

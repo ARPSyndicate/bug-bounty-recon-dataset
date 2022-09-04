@@ -1,4 +1,5 @@
 [amqp] api.taxes.cashstaging.app:5672
+[amqp] beta.taxes.cashstaging.app:5672
 [amqp] collector.taxes.cashstaging.app:5672
 [ansoft-lm-2] admin.taxes.cashstaging.app:1084
 [ansoft-lm-2] admin.usc1.taxes.cashstaging.app:1084
@@ -14,6 +15,7 @@
 [blackice-icecap] admin.usc1.taxes.cashstaging.app:8081
 [blackice-icecap] api.taxes.cashstaging.app:8081
 [blackice-icecap] api.usc1.taxes.cashstaging.app:8081
+[blackice-icecap] beta.taxes.cashstaging.app:8081
 [blackice-icecap] collector.taxes.cashstaging.app:8081
 [blackice-icecap] collector.usc1.taxes.cashstaging.app:8081
 [blackice-icecap] taxes.cashstaging.app:8081
@@ -37,6 +39,7 @@
 [dnp] admin.usc1.taxes.cashstaging.app:20000
 [dnp] api.taxes.cashstaging.app:20000
 [dnp] api.usc1.taxes.cashstaging.app:20000
+[dnp] beta.taxes.cashstaging.app:20000
 [dnp] collector.taxes.cashstaging.app:20000
 [dnp] collector.usc1.taxes.cashstaging.app:20000
 [dnp] taxes.cashstaging.app:20000
@@ -47,6 +50,7 @@
 [d-s-n] admin.usc1.taxes.cashstaging.app:8086
 [d-s-n] api.taxes.cashstaging.app:8086
 [d-s-n] api.usc1.taxes.cashstaging.app:8086
+[d-s-n] beta.taxes.cashstaging.app:8086
 [d-s-n] collector.taxes.cashstaging.app:8086
 [d-s-n] collector.usc1.taxes.cashstaging.app:8086
 [d-s-n] taxes.cashstaging.app:8086
@@ -73,12 +77,15 @@
 [ff-annunc] taxeshelp-devprobox.cashstaging.app:1089
 [ff-annunc] web.taxes.cashstaging.app:1089
 [ff-annunc] web.usc1.taxes.cashstaging.app:1089
+[globalcatLDAP] beta.taxes.cashstaging.app:3268
+[globalcatLDAPssl] beta.taxes.cashstaging.app:3269
 [http] admin.taxes.cashstaging.app:80
 [http] admin.usc1.taxes.cashstaging.app:80
 [http] api.cashstaging.app:80
 [http] api.taxes.cashstaging.app:80
 [http] api.usc1.taxes.cashstaging.app:80
 [http] apparel-supporter.cashstaging.app:80
+[http] beta.taxes.cashstaging.app:80
 [http] cashstaging.app:80
 [http] collector.taxes.cashstaging.app:80
 [http] collector.usc1.taxes.cashstaging.app:80
@@ -105,6 +112,7 @@
 [https] api.taxes.cashstaging.app:443
 [https] api.usc1.taxes.cashstaging.app:443
 [https] apparel-supporter.cashstaging.app:443
+[https] beta.taxes.cashstaging.app:443
 [https] cashstaging.app:443
 [https] collector.taxes.cashstaging.app:443
 [https] collector.usc1.taxes.cashstaging.app:443
@@ -139,6 +147,7 @@
 [imap] admin.usc1.taxes.cashstaging.app:143
 [imap] api.taxes.cashstaging.app:143
 [imap] api.usc1.taxes.cashstaging.app:143
+[imap] beta.taxes.cashstaging.app:143
 [imap] collector.taxes.cashstaging.app:143
 [imap] collector.usc1.taxes.cashstaging.app:143
 [imaps] admin.taxes.cashstaging.app:993
@@ -155,6 +164,7 @@
 [imap] taxeshelp-devprobox.cashstaging.app:143
 [imap] web.taxes.cashstaging.app:143
 [imap] web.usc1.taxes.cashstaging.app:143
+[infowave] beta.taxes.cashstaging.app:2082
 [jetdirect] admin.taxes.cashstaging.app:9100
 [jetdirect] admin.usc1.taxes.cashstaging.app:9100
 [jetdirect] api.taxes.cashstaging.app:9100
@@ -165,9 +175,13 @@
 [jetdirect] taxeshelp-devprobox.cashstaging.app:9100
 [jetdirect] web.taxes.cashstaging.app:9100
 [jetdirect] web.usc1.taxes.cashstaging.app:9100
+[ldap] beta.taxes.cashstaging.app:389
+[ldapssl] beta.taxes.cashstaging.app:636
 [memcache] api.taxes.cashstaging.app:11211
+[memcache] beta.taxes.cashstaging.app:11211
 [memcache] collector.taxes.cashstaging.app:11211
 [memcache] taxes.cashstaging.app:11211
+[micromuse-ncpw] beta.taxes.cashstaging.app:9600
 [mit-ml-dev] admin.taxes.cashstaging.app:83
 [mit-ml-dev] admin.taxes.cashstaging.app:85
 [mit-ml-dev] admin.usc1.taxes.cashstaging.app:83
@@ -176,6 +190,7 @@
 [mit-ml-dev] api.taxes.cashstaging.app:85
 [mit-ml-dev] api.usc1.taxes.cashstaging.app:83
 [mit-ml-dev] api.usc1.taxes.cashstaging.app:85
+[mit-ml-dev] beta.taxes.cashstaging.app:83
 [mit-ml-dev] collector.taxes.cashstaging.app:83
 [mit-ml-dev] collector.taxes.cashstaging.app:85
 [mit-ml-dev] collector.usc1.taxes.cashstaging.app:83
@@ -189,6 +204,7 @@
 [mit-ml-dev] web.usc1.taxes.cashstaging.app:83
 [mit-ml-dev] web.usc1.taxes.cashstaging.app:85
 [mqtt] api.taxes.cashstaging.app:1883
+[mqtt] beta.taxes.cashstaging.app:1883
 [mqtt] collector.taxes.cashstaging.app:1883
 [mqtt] taxes.cashstaging.app:1883
 [ms-wbt-server] admin.taxes.cashstaging.app:3389
@@ -221,6 +237,7 @@
 [ndmps] taxeshelp-devprobox.cashstaging.app:30000
 [ndmps] web.taxes.cashstaging.app:30000
 [ndmps] web.usc1.taxes.cashstaging.app:30000
+[nntp] beta.taxes.cashstaging.app:119
 [opsmessaging] admin.taxes.cashstaging.app:8090
 [opsmessaging] admin.usc1.taxes.cashstaging.app:8090
 [opsmessaging] api.taxes.cashstaging.app:8090
@@ -235,6 +252,7 @@
 [pop3] admin.usc1.taxes.cashstaging.app:110
 [pop3] api.taxes.cashstaging.app:110
 [pop3] api.usc1.taxes.cashstaging.app:110
+[pop3] beta.taxes.cashstaging.app:110
 [pop3] collector.taxes.cashstaging.app:110
 [pop3] collector.usc1.taxes.cashstaging.app:110
 [pop3s] admin.taxes.cashstaging.app:995
@@ -255,6 +273,7 @@
 [postgresql] admin.usc1.taxes.cashstaging.app:5432
 [postgresql] api.taxes.cashstaging.app:5432
 [postgresql] api.usc1.taxes.cashstaging.app:5432
+[postgresql] beta.taxes.cashstaging.app:5432
 [postgresql] collector.taxes.cashstaging.app:5432
 [postgresql] collector.usc1.taxes.cashstaging.app:5432
 [postgresql] taxes.cashstaging.app:5432
@@ -271,6 +290,7 @@
 [radan-http] taxeshelp-devprobox.cashstaging.app:8088
 [radan-http] web.taxes.cashstaging.app:8088
 [radan-http] web.usc1.taxes.cashstaging.app:8088
+[radsec] beta.taxes.cashstaging.app:2083
 [redis] api.taxes.cashstaging.app:6379
 [redis] collector.taxes.cashstaging.app:6379
 [redis] taxes.cashstaging.app:6379
@@ -294,6 +314,7 @@
 [smtps] admin.usc1.taxes.cashstaging.app:465
 [smtps] api.taxes.cashstaging.app:465
 [smtps] api.usc1.taxes.cashstaging.app:465
+[smtps] beta.taxes.cashstaging.app:465
 [smtps] collector.taxes.cashstaging.app:465
 [smtps] collector.usc1.taxes.cashstaging.app:465
 [smtps] taxes.cashstaging.app:465
@@ -308,6 +329,7 @@
 [submission] admin.usc1.taxes.cashstaging.app:587
 [submission] api.taxes.cashstaging.app:587
 [submission] api.usc1.taxes.cashstaging.app:587
+[submission] beta.taxes.cashstaging.app:587
 [submission] collector.taxes.cashstaging.app:587
 [submission] collector.usc1.taxes.cashstaging.app:587
 [submission] taxes.cashstaging.app:587
@@ -336,6 +358,8 @@
 [unknown] api.usc1.taxes.cashstaging.app:8085
 [unknown] api.usc1.taxes.cashstaging.app:8089
 [unknown] api.usc1.taxes.cashstaging.app:8099
+[unknown] beta.taxes.cashstaging.app:8089
+[unknown] beta.taxes.cashstaging.app:8099
 [unknown] collector.taxes.cashstaging.app:8085
 [unknown] collector.taxes.cashstaging.app:8089
 [unknown] collector.taxes.cashstaging.app:8099
@@ -409,6 +433,7 @@
 [xmpp-client] admin.usc1.taxes.cashstaging.app:5222
 [xmpp-client] api.taxes.cashstaging.app:5222
 [xmpp-client] api.usc1.taxes.cashstaging.app:5222
+[xmpp-client] beta.taxes.cashstaging.app:5222
 [xmpp-client] collector.taxes.cashstaging.app:5222
 [xmpp-client] collector.usc1.taxes.cashstaging.app:5222
 [xmpp-client] taxes.cashstaging.app:5222

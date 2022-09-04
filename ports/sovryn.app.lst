@@ -48,8 +48,10 @@
 [https] forum.sovryn.app:443
 [https] gsn-relayer-xp3.sovryn.app:443
 [http] shop.sovryn.app:80
+[https] mailservice.sovryn.app:443
 [https] mainnet2.sovryn.app:443
 [https] mainnet.sovryn.app:443
+[https] monitor.sovryn.app:443
 [http] sovryn.app:80
 [http] sovrython.sovryn.app:80
 [http] sovvpn.sovryn.app:80

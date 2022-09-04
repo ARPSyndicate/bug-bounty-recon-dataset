@@ -249,6 +249,7 @@ https://rinkeby.zksync.io [301] [GET] [text/plain] [] [cloudflare] [vhost] [clou
 https://ropsten-beta.zksync.io [200] [GET] [text/html] [zkSync] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Fastly,Google Font API] [d64ec7de8a58d38adff85b518c669d03]
 https://ropsten-stage.zksync.io [404] [GET] [text/html] [Site Not Found] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Fastly,Google Font API] [9043fb5164b8a1a5fea8031025fe9ef8]
 https://ropsten.zksync.io [301] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management,Fastly] [7ae355d89122338cb158185450f15524]
+https://sepolia-api.zksync.io [404] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
 https://stage.zksync.io [200] [GET] [text/html] [zkSync Wallet | zkSync: secure, scalable crypto payments] [cloudflare] [vhost] [cloudflare] [AMP,Cloudflare,Cloudflare Bot Management,Fastly,Node.js,Nuxt.js,Vue.js] [c54f25bd4c6361198085dabc23f3af90]
 http://stage2a-api.zksync.io:2052 [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Bot Management] [d41d8cd98f00b204e9800998ecf8427e]
 http://stage2a-api.zksync.io:2053 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cloudflare] [Cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]

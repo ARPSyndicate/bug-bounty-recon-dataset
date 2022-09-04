@@ -44,7 +44,6 @@
 3ajmwe8s.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 3-edge-chat.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 3-edge-chat-latest.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-3-edge-chat.p.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 3ia40tvy.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 3rj3dm4g.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 3ucciwkf.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -372,9 +371,6 @@
 69-171-232-169.mail-work-hipri.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
 69-171-232-170.mail-work-hipri.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
 69-171-232-171.mail-work-hipri.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
-69-171-232-172.mail-work-camp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
-69-171-232-173.mail-work-camp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
-69-171-232-174.mail-work-camp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
 69-171-232-175.mail-work-unconf.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
 69-171-232-176.mail-work-unconf.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
 69-171-232-177.mail-work-unconf.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.171.224.0/20
@@ -572,7 +568,6 @@ a6q7dtih.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 a7zwx2wv.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 aaaaaa.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 aa.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-aap.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 aauacores.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 abacus.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 abbvie.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -641,7 +636,6 @@ accountscenter.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 accounts-graph.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 acctv.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 acer.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-actcorp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 actingteachers.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 activefleetsolutions.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 adamscounty.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -652,7 +646,6 @@ admintest.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 a.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 adobe.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 adopteunmec.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-adp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 adresimoteka.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ads.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 adtest.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -661,7 +654,6 @@ advokat.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ae-no.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 afa.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 africa-ab-inbev.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-afsip.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 af-za.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 af-za.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 aggrounion.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -706,13 +698,11 @@ amd.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 am-et.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 amfamfitness.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 amigo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-ampwp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 an3wbasq.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 analytics.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 an.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 angie.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 anpde.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-anp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 a.ns.c10r.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 129.134.30.0/24
 a.ns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 129.134.30.0/24
 a.ns.t.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 129.134.30.0/24
@@ -1075,7 +1065,6 @@ apollo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 apple.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 applegate.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 apps.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-apps.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 apps.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 apps.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 apps.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1141,7 +1130,6 @@ arctic.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 arena.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 arg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ark.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-armaninollp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 arnold.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 arsenal.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 artefact.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1254,7 +1242,6 @@ bjc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 bkyf80u5.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 blackbird.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 blackbox.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-blacksheep.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 blink.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 blog.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 blog.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1301,7 +1288,6 @@ builder.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 build.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 bunnylol.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 business.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-business.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 business.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 business.th-th.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 b-www.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1374,7 +1360,6 @@ cim-api.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cim-dev.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cim-geo-dev.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cim-geo-dev.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-cimgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cineplexstudios.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cinyour.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cinyourrc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1387,7 +1372,6 @@ citrix.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 citroen.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cj90du67.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cj.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-claremont.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 clevy.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 click.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 click.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1514,7 +1498,6 @@ cloud-x2p-edge-http-shv-03-sin6.facebook.com AS32934 AS32934 - FACEBOOK, INC. US
 cloud-x2p-edge-http-shv-03-xsp1.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.68.0/24
 cloud-x2p-edge-http-shv-04-sin6.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.235.0/24
 clunet.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-cmp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cmu.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cname.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cname.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1525,7 +1508,6 @@ cnx25m0n.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 coach.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cobalt.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cocnl.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-codeapp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 code-brew.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 code.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 code.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1543,7 +1525,6 @@ comodo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 compass.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 compass-tech.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 comvirus.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-com.wmlwww.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 comwww.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 comwww.ro-ro.fbjs.facebook.comwww.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 concorde.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1556,7 +1537,6 @@ continental.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 convtrack.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 coph.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 coravineuambassadors.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-coregroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 corganisers.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cornerstone.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 cortland.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1684,7 +1664,6 @@ dellfoundation.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 deloitte.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 deltaairlines.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 deltatest.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-delwp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 demo7.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 demo8.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 democracy.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1696,7 +1675,6 @@ dept.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 design.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 designpickle.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 designscodes.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-designworksgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 det.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 develodevelopers.ru-ru.m.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developer.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1730,7 +1708,6 @@ developers.google.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.
 developers.ha.lite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.hr-hr.google.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.id-id.youghaluniteda.f.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-developers.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.is-is.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.it-it.en-gb.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.it-it.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -1761,7 +1738,6 @@ developers.youghaluniteda.f.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 1
 developers.zer.o.lite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.zh-cn.af-za.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 developers.zh-tw.tr-tr.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-develop.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 development.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 d.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 dgw-mini.c10r.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -7679,7 +7655,6 @@ edge-z-p4-shv-04-sin6.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.2
 edhec.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 education.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ef.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-effectiveerp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ehealthresearch.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 eika.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 eir.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -7716,7 +7691,6 @@ en-gb.th-th.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/2
 en-gb.tr-tr.ja-jp.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 en-gb.zh-tw.pt-pt.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 engineer.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-enginefjp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 en-in.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 en-pi.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 en-ud.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8019,7 +7993,6 @@ fr-ca.ms-my.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/2
 fr-ca.www.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 fr-ca.zh-hk.ku-tr.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 fr-ca.zh-tw.tr-tr.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-freecomgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 free.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 freeliance.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 fr.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8148,13 +8121,11 @@ griegseafood.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 groupecolisee.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 groupon.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 growth.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-grupomap.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 grupomarista.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 gruppovos.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 grvty.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 gsbalumni.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 gsk-workplace.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-gsshop.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 gui.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 gui.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 gu-in.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8268,7 +8239,6 @@ hiusj.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hoangviet.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 home.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 home.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-homegroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hootsuite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hoover.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 horizonsctorg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8277,7 +8247,6 @@ hostmaster.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hotdeal.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 housingandcare21.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 housing.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-hp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hr-hr.af-za.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hr-hr.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 hr-hr.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8302,13 +8271,10 @@ hybrid.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 iadvize.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 iahe.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 iam.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-ibagroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ibc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ica.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 icarebenefits.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 icare.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-icelandairgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-icip.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 icirs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 icye-dk.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 id-id.ca-es.pt-pt.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8708,7 +8674,6 @@ ja-jp.es-es.f.b.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/
 ja-jp.es-es.lite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ja-jp.es-es.youghaluniteda.f.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ja-jp.f1.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-ja-jp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ja-jp.f.b.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ja-jp.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ja-jp.fr-ca.ms-my.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8740,7 +8705,6 @@ ja-ks.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ja-ks.ja-jp.m.lite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 japankai.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 jarvisinc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-jazz-clap-coop.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 jazz.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 jewishboard.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 job.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8849,7 +8813,6 @@ labdavanac.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 l.af-za.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 l.ak.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 lancaster.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-landmarkgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 landspitali.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 langkawiport.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 lapositivaseguros.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -8863,14 +8826,12 @@ la-va.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 la-va.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 lb.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 l.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-lcgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 l.da-dk.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 l.da-dk.lite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 l.de-de.ms-my.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 lds.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 lea.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 leaf.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-leap.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 learning.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 leedsac.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 leedsccg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -9596,7 +9557,6 @@ madewell.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 madrid.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 mail2000.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 mail2.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-mail-np.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 mailout-snc1.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.63.176.0/21
 mailserver.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 m.alpha.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10228,9 +10188,7 @@ nb-no.pt-pt.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/2
 nbn-test.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 nchs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ncs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-ne-np.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 neo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-nepgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 neseapl.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 nestle.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 netcito.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10278,7 +10236,6 @@ noe3-0.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 no.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 nokia.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 non-prod.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-norcap.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 nordvik.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 norskluftambulanse.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 northstar.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10572,7 +10529,6 @@ orcart.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 orders.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 orient.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 origami.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-origamijp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 or-in.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 oscaro.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 oscars.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10585,7 +10541,6 @@ otis.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 otpbank.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 otw.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 our.extern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-our.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 outlook.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ovidiu.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 owa.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10599,7 +10554,6 @@ pa-in.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pan.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 partners.c10r.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 partners.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-partners.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 passiton.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 path.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 paxylca.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10673,19 +10627,16 @@ perseus.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 p.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 phabricatorextern.vvv.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-phabricator.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pharos.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 phi.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 philippelaw.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 philips.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 photon.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 phs-uni.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-physiorehabgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pidilite.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pieroni.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pioneer.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pixel.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-pixels-pixels-pixels.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pixnet.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pjh.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 planning.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10774,7 +10725,6 @@ prairietownshiporg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0
 precise.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 pre.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 premier.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-premiumwp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 preventivehealth.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 preview.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 preview.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10874,7 +10824,6 @@ qa.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 qiwi.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 qs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 quandoo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-quiip.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 qurba.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rad.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 raja.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10884,7 +10833,6 @@ rana.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rbg-mit.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rbs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rcn.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-rcp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rcs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rdg.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 realinnovate.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10912,7 +10860,6 @@ res.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 resolutionmedia.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 respiratorytherapycave.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 retriever.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-review.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 revity.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 reykjavik-university.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ripley.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10923,7 +10870,6 @@ rockstagvid.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rodanandfields.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ro.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 roland.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-rooftopgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ro-ro.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ro-ro.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -10936,66 +10882,7 @@ rozhlas.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rt17.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rte.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 rtmp-api.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-rtmp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-rupload-arn2-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.72.0/24
-rupload-atl3-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.65.0/24
-rupload-atl3-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.88.0/24
-rupload-bcn1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-bog1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.0.0/17
-rupload-cdt1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.21.0/24
-rupload-cgk1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-cgk1-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.64.0/18
-rupload-del1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-dfw5-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.19.0/24
-rupload-dfw5-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.93.0/24
 rupload.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-rupload-gig.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.64.0/18
-rupload-gua1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-hel.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.205.0/24
-rupload-hkg4-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.199.0/24
-rupload-hkg4-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.211.0/24
-rupload-hkt1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.77.0/24
-rupload-hkt1-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.75.0/24
-rupload-hou1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.24.0/24
-rupload-iad3-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.66.0/24
-rupload-iad3-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.229.0/24
-rupload-ist1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-kut2-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.0.0/17
-rupload-kut2-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 179.60.192.0/22
-rupload-lax3-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.70.0/24
-rupload-lax3-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.11.0/24
-rupload-lcy1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.240.0/24
-rupload-lga3-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.71.0/24
-rupload-lga3-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.241.0/24
-rupload-lhr8-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.221.0/24
-rupload-maa2-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.0.0/17
-rupload-maa2-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-mad1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.83.0/24
-rupload-mct1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.192.0/18
-rupload-mia3-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.67.0/24
-rupload-mia3-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.14.0/24
-rupload-msp1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.26.0/24
-rupload-nrt1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.82.0/24
-rupload-ord5-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.249.0/24
-rupload-ort2-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.2.0/24
-rupload-ort2-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.18.0/24
-rupload-otp1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 185.60.218.0/24
-rupload-qro1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.89.0/24
-rupload-qro1-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.25.0/24
-rupload-sea1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.3.0/24
-rupload-sea.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.3.0/24
-rupload-sin6-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.7.0/24
-rupload-sin6-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.13.0/24
-rupload-sin6-3.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.15.0/24
-rupload-sin6-4.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.235.0/24
-rupload-sin.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.13.0/24
-rupload-sjc3-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-rupload-sof1-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.234.0/24
-rupload-tpe.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.64.0/18
-rupload-vie1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.84.0/24
-rupload-xsp1-1.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.217.0/24
-rupload-xsp1-2.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.218.0/24
-rupload-xsp1-3.up.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.68.0/24
 ru-ru.es-es.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ru-ru.es-es.pt-pt.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ru-ru.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11023,7 +10910,6 @@ samsung.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sanantonio.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sandbox.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 san.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-sap.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sas.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 savencia.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 savethechildren.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11169,7 +11055,6 @@ secure-edge-latest-shv-03-xsp1.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 
 secure-edge-latest-shv-04-sin6.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.235.0/24
 secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 secure.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-secure.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 secure.internmc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 secure-latest.c10r.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 secure.latest.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11185,14 +11070,12 @@ sgs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 share.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sha.secure.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 shelter.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-shop.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 shortwave.c10r.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 shortwave.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sia.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 siemens.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 signup.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 si-lk.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-simbasleep.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 simon.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sip.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sisea.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11200,7 +11083,6 @@ sixstar.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sjoraddning.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 skat.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 skaut.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-skb-group.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sk-sk.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sk-sk.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sk-sk.id-id.pt-br.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11254,10 +11136,8 @@ sq-al.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sq-al.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sql.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sql.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-sr-group.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sr-rs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 srt.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-srt.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ssl.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ssl.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ssl.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11267,7 +11147,6 @@ sso.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sso.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ssotest.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 s-static.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-s-static.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 stage.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 stage.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 staging.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11294,7 +11173,6 @@ static.ak.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 static-dev.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 69.63.176.0/21
 static.dns.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 static.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-static.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 static.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 staticxx.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 statped.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11318,7 +11196,6 @@ subdomain9.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 succeedtogether.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sunyedu.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 superiorambulance.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-sushishop.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sv.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 svf.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 sv-se.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11580,7 +11457,6 @@ tbs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tbwaworld.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tcs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-tdcgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 td.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 teach.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 teainc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11609,8 +11485,6 @@ tg-tj.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 thecrewcommunication.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 theodo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 thera.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-theship.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-thetowbesgroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 thework.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 th.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 threestar.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11631,19 +11505,16 @@ time5.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 129.134.27.0/24
 time.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 129.134.28.0/24
 timmy.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tintafresca.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-tip.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tl-ph.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tl-ph.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tl-ph.he-il.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tls.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tmg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-tmp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tnschools.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tocantins.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 today.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tools.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tools.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-tools.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 toonsmag.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 topgolf.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 touch.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11789,7 +11660,6 @@ true.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 trunkstable.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tsa.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tskoli.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-tssp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tti-us.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tt-ru.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 tuc.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11845,7 +11715,6 @@ uvm-edu.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 uvu.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 uwplatt.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 uz-uz.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-v4help.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 va.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 valtaxa.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vananservices.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11866,7 +11735,6 @@ vietpencil.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 view.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 viewpoints.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vince.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-vip.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vi-vn.alex.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vi-vn.en-gb.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vi-vn.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11886,7 +11754,6 @@ vupload-edge-business.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.2
 vupload-edge.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vupload.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 vupload.new.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-w2ogroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wa-api-alt.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.93.0/24
 wagtailuk.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wallstreetenglish.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -11898,7 +11765,6 @@ warzone.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wasla.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 watch.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wave.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-wcsjp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 web-chat-e2ee.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 webconnection.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 webdav.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -12745,7 +12611,6 @@ wit-edge-shv-03-sin6.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.15
 wit-edge-shv-03-xsp1.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 31.13.68.0/24
 wit-edge-shv-04-sin6.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.235.0/24
 wittyfeed.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-wmlwww.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 woitmail.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wolcircle.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wondermark.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -12904,7 +12769,6 @@ work-trusted-paramount-8294.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157
 work-useful-guardian-6201.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wow.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wp.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-wpp.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wsi.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 wts.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 ww1.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -12949,7 +12813,6 @@ www.hr-hr.google.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.2
 www.hs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 www.hu-hu.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 www.id-id.youghaluniteda.f.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-www.intern.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 www.is-is.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 www.it-it.en-gb.ro-ro.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 www.it-it.es-es.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
@@ -12996,7 +12859,6 @@ xpo.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 xwf-p3.c10r.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 yellow.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 yncrea.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
-yomagroup.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 yorkrsg.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 youghaluniteda.f.c.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24
 yo-yo.fbjs.facebook.com AS32934 AS32934 - FACEBOOK, INC. US 157.240.22.0/24

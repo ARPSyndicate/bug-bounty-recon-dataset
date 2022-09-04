@@ -22,7 +22,7 @@ https://events.rbx.com [200] [GET] [text/html] [Events Home | Roblox] [nginx] [v
 https://forensics.rbx.com [302] [GET] [] [] [] [vhost] [google] [d41d8cd98f00b204e9800998ecf8427e]
 https://fossa.rbx.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://github-flow.rbx.com [503] [GET] [text/plain] [] [awselb/2.0] [d41d8cd98f00b204e9800998ecf8427e]
-https://hkg-gw.bpo-vpn.rbx.com [502] [GET] [text/html] [502 Bad Gateway] [] [1bbe96c37fd18f08054036c3684cdac3]
+https://hkg-gw.bpo-vpn.rbx.com [502] [GET] [text/html] [502 Bad Gateway] [] [967fea9bf419f24f2bf014bcc02ae480]
 https://iad-gw.bpo-vpn.rbx.com [502] [GET] [text/html] [502 Bad Gateway] [] [967fea9bf419f24f2bf014bcc02ae480]
 https://jira.rbx.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]
 https://jira-ros.rbx.com [302] [GET] [text/html] [302 Found] [awselb/2.0] [vhost] [f366e0e18b589cb6f243bf43ce75e83c]

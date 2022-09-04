@@ -6,6 +6,7 @@ api.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 54.255.0.0/17
 api.stats.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 18.140.0.0/15
 api.trading-competition.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 54.254.0.0/17
 app.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+devnet-alpha.lcd.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 13.232.0.0/14
 dev.pathfinder.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15
 dev.routerprotocol.com AS13335 AS13335 - CLOUDFLARE, INC. US 104.18.0.0/20
 dev.stats.routerprotocol.com AS16509 AS16509 - AMAZON.COM, INC. US 15.206.0.0/15

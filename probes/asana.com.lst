@@ -2531,6 +2531,7 @@ https://sync-eu1.app.asana.com [302] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b2
 https://synceu1.app.asana.com [302] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://sync-prod-2019disaster3.app.asana.com [302] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://sync-prod-2020disaster4.app.asana.com [302] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
+https://sync-prod-2022disaster.app.asana.com [302] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://sync-prod-au1.app.asana.com [200] [GET] [text/html] [Asana] [nginx] [Nginx,PayPal] [a2921184ad96f995231029584912393f]
 https://sync-prod-au1.app.asana.com [302] [GET] [] [] [nginx] [Nginx] [d41d8cd98f00b204e9800998ecf8427e]
 https://sync-prod-eu1.app.asana.com [200] [GET] [text/html] [Asana] [nginx] [Nginx,PayPal] [874257eaa5c985cefcf60c0c0f88a8b6]

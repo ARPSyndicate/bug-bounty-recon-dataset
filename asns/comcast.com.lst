@@ -6880,6 +6880,9 @@ sso-login.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US
 sso-login.g.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
 sso-login.gslb2.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 24.40.0.0/18
 sso-login-test.cable.comcast.com AS7922 AS7922 - COMCAST CABLE COMMUNICATIONS, LLC US 69.240.0.0/12
+ss-order-summary-ui-int.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.139.0.0/21
+ss-order-summary-ui-prod-va.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 13.35.124.0/22
+ss-order-summary-ui-qa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 ssotest.comcast.com AS8075 AS8075 - MICROSOFT CORPORATION US 13.64.0.0/11
 ss-outage-optin-content-qa.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 108.138.240.0/21
 ss-outage-optin-content-stg-va.np.digital.business.comcast.com AS16509 AS16509 - AMAZON.COM, INC. US 65.8.158.0/23

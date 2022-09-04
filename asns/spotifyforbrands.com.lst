@@ -14,7 +14,7 @@ aroma0063.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 asia.spotifyforbrands.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 b2b.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 bose-segments.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.38.0/24
-bose-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.36.0/24
+bose-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 216.239.32.0/24
 bpcosmedi.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 c114.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 capricho.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
@@ -126,7 +126,6 @@ www.api1.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.api1-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.api2.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.bose-segments.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
-www.bose-segments-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 www.creativeportal.spotifyforbrands.com AS1257 AS1257 - TELE2 SVERIGE AB EU 193.12.0.0/14
 www.creativeportfolio.spotifyforbrands.com AS1257 AS1257 - TELE2 SVERIGE AB EU 193.12.0.0/14
 www.creativeportfolio-staging.spotifyforbrands.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15

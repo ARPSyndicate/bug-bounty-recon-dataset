@@ -4,6 +4,7 @@ aovpn.onduo.com AS62947 AS62947 - IRON MOUNTAIN DATA CENTER US 205.235.84.0/24
 authform.onduo.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 badcall.onduo.com AS15169 AS15169 - GOOGLE LLC US 142.250.0.0/15
 care.api.playground.internal.onduo.com AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
+care.api.qa-milestone.internal.onduo.com AS15169 AS15169 - GOOGLE LLC US 34.149.0.0/16
 click.email1.onduo.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 click.email.onduo.com AS22606 AS22606 - SALESFORCE.COM, INC. US 13.111.0.0/16
 clicks2.onduo.com AS14618 AS14618 - AMAZON.COM, INC. US 3.80.0.0/12

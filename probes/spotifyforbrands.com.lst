@@ -63,7 +63,6 @@ https://www.api1.spotifyforbrands.com [302] [GET] [text/plain] [] [Google Fronte
 https://www.api1-staging.spotifyforbrands.com [302] [GET] [text/plain] [] [Google Frontend] [vhost] [Express,Google App Engine,Google Cloud,Google Cloud Trace,Node.js] [1c7d56982c5e5a452caa5e1b01991277]
 https://www.api2.spotifyforbrands.com [302] [GET] [text/plain] [] [Google Frontend] [vhost] [Express,Google App Engine,Google Cloud,Google Cloud Trace,Node.js] [1c7d56982c5e5a452caa5e1b01991277]
 https://www.bose-segments.spotifyforbrands.com [200] [GET] [text/html] [Spotify | Audience Segment Explorer] [Google Frontend] [vhost] [Express,Google App Engine,Google Cloud,Google Cloud Trace,Google Tag Manager,Node.js] [1ec3b41df1740148e87fe8b90f0c6b72]
-https://www.bose-segments-staging.spotifyforbrands.com [302] [GET] [text/html] [] [Google Frontend] [vhost] [Google App Engine] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.creativeportal.spotifyforbrands.com [301] [GET] [text/html] [] [Apache] [vhost] [Apache,Varnish:6.1] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.creativeportfolio.spotifyforbrands.com [301] [GET] [text/html] [] [Apache] [vhost] [Apache,Varnish:6.1] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.creativeportfolio-staging.spotifyforbrands.com [302] [GET] [text/html] [] [Google Frontend] [vhost] [Google App Engine] [d41d8cd98f00b204e9800998ecf8427e]

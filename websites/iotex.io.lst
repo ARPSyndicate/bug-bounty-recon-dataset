@@ -160,6 +160,16 @@ http://fullsync.iotex.io:2096
 http://fullsync.iotex.io:8080
 http://fullsync.iotex.io:8443
 http://fullsync.iotex.io:8880
+http://fullsync.testnet.iotex.io
+http://fullsync.testnet.iotex.io:2052
+http://fullsync.testnet.iotex.io:2082
+http://fullsync.testnet.iotex.io:2083
+http://fullsync.testnet.iotex.io:2086
+http://fullsync.testnet.iotex.io:2087
+http://fullsync.testnet.iotex.io:2095
+http://fullsync.testnet.iotex.io:8080
+http://fullsync.testnet.iotex.io:8443
+http://fullsync.testnet.iotex.io:8880
 http://github.iotex.io
 http://github.iotex.io:8082
 http://github.iotex.io:8084
@@ -240,6 +250,7 @@ http://ipfs.mainnet.iotex.io:2086
 http://ipfs.mainnet.iotex.io:2087
 http://ipfs.mainnet.iotex.io:8080
 http://ipfs.mainnet.iotex.io:8443
+http://json.mainnet.iotex.io
 http://masterservice-ucam.iotex.io
 http://member-api.iotex.io
 http://member-api.iotex.io:2082
@@ -378,6 +389,7 @@ https://files.iotex.io
 https://files.iotex.io:1935
 https://forum.iotex.io
 https://fullsync.iotex.io
+https://fullsync.testnet.iotex.io
 https://github.iotex.io
 https://github.iotex.io:1935
 https://gov.iotex.io
@@ -417,6 +429,7 @@ https://iotexproject.iotex.io:1935
 https://iotube-analytics-api.iotex.io
 https://iotube-analytics.iotex.io
 https://ipfs.mainnet.iotex.io
+https://json.mainnet.iotex.io
 https://masterservice-ucam.iotex.io
 https://member-api.iotex.io
 https://member.iotex.io

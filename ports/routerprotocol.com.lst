@@ -12,6 +12,7 @@
 [http] api.stats.routerprotocol.com:80
 [http] api.trading-competition.routerprotocol.com:80
 [http] app.routerprotocol.com:80
+[http] devnet-alpha.lcd.routerprotocol.com:80
 [http] dev.routerprotocol.com:80
 [http] docs.routerprotocol.com:80
 [http] explorer.routerprotocol.com:80
@@ -29,6 +30,7 @@
 [https] api.routerprotocol.com:443
 [https] api.stats.routerprotocol.com:443
 [https] api.trading-competition.routerprotocol.com:443
+[https] devnet-alpha.lcd.routerprotocol.com:443
 [https] faucet-api.routerprotocol.com:443
 [https] faucet.routerprotocol.com:443
 [https] forum.routerprotocol.com:443
@@ -48,6 +50,7 @@
 [http] vote.routerprotocol.com:80
 [http] www.routerprotocol.com:80
 [rtmp] vote.routerprotocol.com:1935
+[ssh] devnet-alpha.lcd.routerprotocol.com:22
 [ssh] vote.routerprotocol.com:22
 [unknown] vote.routerprotocol.com:8084
 [unknown] vote.routerprotocol.com:8085

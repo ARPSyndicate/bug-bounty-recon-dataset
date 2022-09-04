@@ -140,4 +140,5 @@
 [https] testhost-rest-testci.catapult-dev.oncatapult.com:443
 [https] testhost-testaksupgrades.catapult-dev.oncatapult.com:443
 [https] testhost-testci.catapult-dev.oncatapult.com:443
+[https] upm-feed.catapult-dev.oncatapult.com:443
 [http] testhost-rest-testci.catapult-dev.oncatapult.com:80

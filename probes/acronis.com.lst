@@ -97,7 +97,7 @@ https://bt01-cloud.acronis.com:8443 [200] [GET] [text/xml] [] [] [eb6a1564f8d54e
 https://ca01-cloud.acronis.com [302] [GET] [application/json] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://ca01-cloud.acronis.com:8443 [200] [GET] [text/xml] [] [] [eb6a1564f8d54e80e485a49ff146e670]
 https://careers.acronis.com [301] [GET] [text/html] [301 Moved Permanently] [nginx] [vhost] [google] [Nginx] [4f8e702cc244ec5d4de32740c0ecbd97]
-https://casestudies.acronis.com [200] [GET] [text/html] [SlapFive] [] [vhost] [google] [6fc707a8a19bdf48084f0f41f384ffa6]
+https://casestudies.acronis.com [200] [GET] [text/html] [SlapFive] [] [vhost] [google] [140c521a338ef2f84f06c6a3de9aa30f]
 https://cftp.acronis.com [302] [GET] [text/html] [302 Found] [Apache] [Apache] [49823a27437e8220b230b197e6538f50]
 https://cleverbridge.acronis.com [401] [GET] [text/html] [401 Authorization Required] [nginx] [vhost] [Basic,Nginx] [f57a3c55b9ee68511146438d2c65b732]
 https://cloud.acronis.com [200] [GET] [text/html] [Login] [nginx] [Nginx] [d596bf76b8e224228a583ec6ce56ea55]

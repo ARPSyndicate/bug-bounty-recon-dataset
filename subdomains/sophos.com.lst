@@ -10926,10 +10926,12 @@ ntal-push-rest.cloudstation.eu-west-1.dev.hydra.sophos.com
 ntal-push-ws.cloudstation.eu-west-1.dev.hydra.sophos.com
 nta-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com
 nta-proxy.cloudstation.us-west-2.prod.hydra.sophos.com
+nta-proxy.stn030gru.ctr.sophos.com
 nta-push-rest.cloudstation.eu-central-1.qa.hydra.sophos.com
 nta-push-rest.cloudstation.us-west-2.qa.hydra.sophos.com
 nta-push-ws.cloudstation.us-west-2.prod.hydra.sophos.com
 nta-push-ws.cloudstation.us-west-2.qa.hydra.sophos.com
+nta-push-ws.stn030gru.ctr.sophos.com
 nta-registration-alt.stn030gru.ctr.sophos.com
 nta-registration-cloudstation-eu-west-1.dev.hydra.sophos.com
 nta-registration.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -15342,6 +15344,7 @@ y0f6jlf1.cloudstation.eu-west-1.dev.hydra.sophos.com
 y0i592wl.cloudstation.us-west-2.qa.hydra.sophos.com
 y0krb54f-cloudstation-eu-west-1.dev.hydra.sophos.com
 y0rgcyps.cloudstation.eu-west-1.inf.hydra.sophos.com
+y12h8s62.cloudstation.eu-central-1.qa.hydra.sophos.com
 y19hzkqu.ap-southeast-2.prod.o365.sophos.com
 y1e9fmmp.cloudstation.eu-west-1.inf.hydra.sophos.com
 y1ofq8yc.cloudstation.eu-west-1.dev.hydra.sophos.com

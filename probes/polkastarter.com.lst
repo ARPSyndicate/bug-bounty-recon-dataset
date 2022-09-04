@@ -115,7 +115,7 @@ https://staging.polkastarter.com:2096 [302] [GET] [] [] [cloudflare] [vhost] [cl
 https://staging.polkastarter.com [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 https://staging.polkastarter.com [403] [GET] [text/plain] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [4f20b85ce5ebf225720e040314a7966a]
 https://staging.polkastarter.com:8443 [302] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
-https://support.polkastarter.com [200] [GET] [text/html] [Polkastarter Knowledge Base] [openresty] [vhost] [Google Font API,Nginx,OpenResty,Play,Scala] [5c538bc79395ce08c64a751122b11586]
+https://support.polkastarter.com [200] [GET] [text/html] [Polkastarter Knowledge Base] [openresty] [vhost] [Google Font API,Nginx,OpenResty,Play,Scala] [be796905df16cde2236a7c6114fc59c9]
 http://staging-admin.polkastarter.com:2082 [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://staging-admin.polkastarter.com:2086 [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]
 http://staging-admin.polkastarter.com:2095 [301] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare] [d41d8cd98f00b204e9800998ecf8427e]

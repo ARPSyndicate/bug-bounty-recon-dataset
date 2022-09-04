@@ -230,6 +230,7 @@
 [https] abandonment-pipeline-production.flink.shopifykloud.com:443
 [https] abandonment-pipeline-staging.flink.shopifykloud.com:443
 [https] ad-audience-sharing-log-production.flink.shopifykloud.com:443
+[https] ad-audience-sharing-log-staging.flink.shopifykloud.com:443
 [https] ad-audience-staging.flink.shopifykloud.com:443
 [https] affiliate-signal-trickle-production.flink.shopifykloud.com:443
 [https] affiliate-signal-trickle-staging2.flink.shopifykloud.com:443
@@ -481,6 +482,7 @@
 [https] session-attribution-staging.flink.shopifykloud.com:443
 [https] shopify-audience-gen-staging.flink.shopifykloud.com:443
 [https] shopify-audience-gen-test.flink.shopifykloud.com:443
+[https] shopifyvm-failure-production.flink.shopifykloud.com:443
 [https] shop-onboarding-milestone-prod.flink.shopifykloud.com:443
 [https] shop-onboarding-milestone-stg.flink.shopifykloud.com:443
 [https] shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com:443

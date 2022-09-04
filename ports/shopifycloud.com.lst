@@ -777,6 +777,7 @@
 [http] cloud-portal-production-web-ping-tier1-us-central1-9.shopifycloud.com:80
 [http] cloud-portal-production-web-ping-tier1-us-east1-9.shopifycloud.com:80
 [http] cloud-portal-pxu-na-ne1-2.shopifycloud.com:80
+[http] cloud-portal-redis-apps-us-ea1-cl97.shopifycloud.com:80
 [http] cloud-portal-reportify-canada-na-ne1-wj55.shopifycloud.com:80
 [http] cloud-portal-reportify-na-ne1-1.shopifycloud.com:80
 [http] cloud-portal-reportify-us-central1-3.shopifycloud.com:80
@@ -1356,6 +1357,7 @@
 [http] flashsales-staging-unrestricted-web-api-apps-b-us-east1-9.shopifycloud.com:80
 [http] flex.shopifycloud.com:80
 [http] flink-deploy-sample.flink.shopifycloud.com:80
+[http] flow-benchmark.shopifycloud.com:80
 [http] flow-canada.shopifycloud.com:80
 [http] flow-connectors-canada.shopifycloud.com:80
 [http] flow-connectors.shopifycloud.com:80
@@ -1420,6 +1422,7 @@
 [http] godoc.shopifycloud.com:80
 [http] godog-production-web-apps-a-us-central1-10.shopifycloud.com:80
 [http] godog.shopifycloud.com:80
+[http] go-email-practice.shopifycloud.com:80
 [http] gollum-demo.shopifycloud.com:80
 [http] goodtime-smartrecruiters-sync.shopifycloud.com:80
 [http] google-shopping.shopifycloud.com:80
@@ -3346,6 +3349,7 @@
 [https] cloud-portal-production-web-ping-tier1-us-central1-9.shopifycloud.com:443
 [https] cloud-portal-production-web-ping-tier1-us-east1-9.shopifycloud.com:443
 [https] cloud-portal-pxu-na-ne1-2.shopifycloud.com:443
+[https] cloud-portal-redis-apps-us-ea1-cl97.shopifycloud.com:443
 [https] cloud-portal-reportify-na-ne1-1.shopifycloud.com:443
 [https] cloud-portal-reportify-us-central1-3.shopifycloud.com:443
 [https] cloud-portal-reportify-us-east1-3.shopifycloud.com:443
@@ -3743,10 +3747,12 @@
 [https] elasticsearch-failover-dev-pro-vn5zt7cs-es-apps-a-us-central1-2.shopifycloud.com:443
 [https] elasticsearch-failover-dev.shopifycloud.com:443
 [https] elasticsearch-failover-dev-staging.shopifycloud.com:443
+[https] elasticsearch.fluffy-go-si-production-unrestricted-8xev.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com:443
 [https] elasticsearch.hackdays-es-playground-production-unrestricted-31r6.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.production-unrestricted-2v48.atlas.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.production-unrestricted-31r6.hackdays-es-playground.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.production-unrestricted-3qpx.elasticsearch-failover-dev.shopifycloud.com:443
+[https] elasticsearch.kibana.i0.production-unrestricted-8xev.fluffy-go-si.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.production-unrestricted.data-portal.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com:443
 [https] elasticsearch.kibana.i0.production-unrestricted-jpix.deep-understanding-similarity.shopifycloud.com:443
@@ -3980,6 +3986,7 @@
 [https] flashsales-staging-unrestricted-web-api-apps-b-us-east1-9.shopifycloud.com:443
 [https] flex.shopifycloud.com:443
 [https] flink-deploy-sample.flink.shopifycloud.com:443
+[https] flow-benchmark.shopifycloud.com:443
 [https] flow-canada.shopifycloud.com:443
 [https] flow-connectors-canada.shopifycloud.com:443
 [https] flow-connectors.shopifycloud.com:443
@@ -4074,6 +4081,7 @@
 [https] godoc.shopifycloud.com:443
 [https] godog-production-web-apps-a-us-central1-10.shopifycloud.com:443
 [https] godog.shopifycloud.com:443
+[https] go-email-practice.shopifycloud.com:443
 [https] gollum-demo.shopifycloud.com:443
 [https] goodtime-smartrecruiters-sync.shopifycloud.com:443
 [https] google-shopping.shopifycloud.com:443
@@ -4287,6 +4295,7 @@
 [http] shipit-mobile-staging.shopifycloud.com:80
 [http] shipit-mobile-staging-web-public-apps-b-us-east1-9.shopifycloud.com:80
 [http] shipit-next.shopifycloud.com:80
+[http] shipit-restricted-stg.shopifycloud.com:80
 [http] shipit.shopifycloud.com:80
 [http] shipit-sox-staging.shopifycloud.com:80
 [http] shipping-manifests-production-unr-pzgdyclq-apps-a-us-central1-3.shopifycloud.com:80
@@ -5788,6 +5797,7 @@
 [https] shipit-mobile-staging.shopifycloud.com:443
 [https] shipit-mobile-staging-web-public-apps-b-us-east1-9.shopifycloud.com:443
 [https] shipit-next.shopifycloud.com:443
+[https] shipit-restricted-stg.shopifycloud.com:443
 [https] shipit.shopifycloud.com:443
 [https] shipit-sox-staging.shopifycloud.com:443
 [https] shipping-manifests-production-unr-pzgdyclq-apps-a-us-central1-3.shopifycloud.com:443
@@ -6296,6 +6306,7 @@
 [https] test-plus-merchant-onboarding.shopifycloud.com:443
 [https] thanos-global-staging.shopifycloud.com:443
 [https] thanos-qfe-observability-thanos-us-ea1-zy70.shopifycloud.com:443
+[https] thanos-query-frontend-prometheus-eu-we1-bx03.shopifycloud.com:443
 [https] thanos-query-grpc-prometheus-as-se1-wq60.shopifycloud.com:443
 [https] thanos-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com:443
 [https] thanos-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com:443
@@ -6640,6 +6651,7 @@
 [https] xwvvp.kibana.shopifycloud.com:443
 [https] ykalc.kibana.shopifycloud.com:443
 [https] ywydv.kibana.shopifycloud.com:443
+[https] yzbao.kibana.shopifycloud.com:443
 [https] zendesk-realtime-data.shopifycloud.com:443
 [https] zendesk-rt-tms.shopifycloud.com:443
 [https] zendesk-shopify-consumer.shopifycloud.com:443
@@ -6704,6 +6716,7 @@
 [http] test-plus-merchant-onboarding.shopifycloud.com:80
 [http] thanos-global.shopifycloud.com:80
 [http] thanos-qfe-observability-thanos-us-ea1-zy70.shopifycloud.com:80
+[http] thanos-query-frontend-prometheus-eu-we1-bx03.shopifycloud.com:80
 [http] thanos-query-grpc-prometheus-as-se1-wq60.shopifycloud.com:80
 [http] thanos-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com:80
 [http] thanos-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com:80

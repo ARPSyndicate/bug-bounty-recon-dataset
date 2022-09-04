@@ -247,6 +247,7 @@ jira.infra.marcus.com
 kafkaworker.dev.bnb.infra.marcus.com
 kafkaworker.gsqa.bnb.infra.marcus.com
 kafkaworker.patuat.bnb.infra.marcus.com
+kafkaworker.pat-uat.sys.infra.marcus.com
 kibana.astronomer.dev.de.infra.marcus.com
 kpmg.invest.api.marcus.com
 kpmg.invest.marcus.com

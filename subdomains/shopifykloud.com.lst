@@ -1,6 +1,7 @@
 abandonment-pipeline-production.flink.shopifykloud.com
 abandonment-pipeline-staging.flink.shopifykloud.com
 ad-audience-sharing-log-production.flink.shopifykloud.com
+ad-audience-sharing-log-staging.flink.shopifykloud.com
 ad-audience-staging.flink.shopifykloud.com
 adhoc.presto-canada.presto.shopifykloud.com
 adhoc-test-coordinator.presto.shopifykloud.com
@@ -380,6 +381,7 @@ logs.magnesia-staging.shopifykloud.com
 magnesia.shopifykloud.com
 magnesia-staging.shopifykloud.com
 main-hive-us-east1-b-data-148903.shopifykloud.com
+mark-engagements-backfill-stg.flink.shopifykloud.com
 marketing-event-sales-production.flink.shopifykloud.com
 marketing-event-sales-staging.flink.shopifykloud.com
 marketing-event-sales-staging-red.flink.shopifykloud.com
@@ -679,6 +681,7 @@ shipping-insights-staging.flink.shopifykloud.com
 shopify-audience-gen-staging.flink.shopifykloud.com
 shopify-audience-gen-test.flink.shopifykloud.com
 shopify-data-presto-qa.shopifykloud.com
+shopifyvm-failure-production.flink.shopifykloud.com
 shop-onboarding-milestone-prod.flink.shopifykloud.com
 shop-onboarding-milestone-stg.flink.shopifykloud.com
 shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com

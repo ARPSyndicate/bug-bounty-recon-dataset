@@ -1,6 +1,7 @@
 abandonment-pipeline-production.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 abandonment-pipeline-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 ad-audience-sharing-log-production.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
+ad-audience-sharing-log-staging.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 affiliate-signal-trickle-production.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 airflow-airflow-flower-ingress-airflow-dev-us-central1-1.dev.airflow.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.96.0/20
 airflow-airflow-flower-ingress-airflow-global-us-central1-1.global.airflow.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 35.202.160.0/20
@@ -132,6 +133,7 @@ presto-support-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 -
 production.notebooks-canada.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.95.48.0/20
 production.notebooks.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.67.160.0/20
 seamster-b.shopify-data-presto-global.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.67.128.0/20
+shopifyvm-failure-production.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 shop-onboarding-milestone-prod.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 shop-onboarding-milestone-stg.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20
 shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.128.0/20

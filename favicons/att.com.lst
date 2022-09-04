@@ -1,32 +1,53 @@
 116323821	springboot	https://shm-va-services.stage.att.com/
+116323821	springboot	https://teneo-aws-nginx.stage.att.com:16080/
+116323821	springboot	https://teneo-aws-nginx.stage-e.att.com:16080/
 116323821	springboot	https://wat-enhanced-rm.uc.att.com/
+-1255347784	angular io (angularjs)	http://access.att.com/
+-1255347784	angular io (angularjs)	http://dmp.att.com/
 -1255347784	angular io (angularjs)	http://expressportal.att.com/
--1255347784	angular io (angularjs)	http://ixsp.att.com/
+-1255347784	angular io (angularjs)	http://hraccess.att.com/
+-1255347784	angular io (angularjs)	http://hr-access-dev.att.com/
+-1255347784	angular io (angularjs)	https://access.att.com/
+-1255347784	angular io (angularjs)	https://dmp.att.com/
+-1255347784	angular io (angularjs)	https://dmp.wireless.att.com/
 -1255347784	angular io (angularjs)	https://expressportal.att.com/
--1255347784	angular io (angularjs)	https://ixsp.att.com/
--1255347784	angular io (angularjs)	https://usf.att.com/
--1255347784	angular io (angularjs)	http://usf.att.com/
+-1255347784	angular io (angularjs)	https://hraccess.att.com/
+-1255347784	angular io (angularjs)	https://stayintouch.att.com/
+-1255347784	angular io (angularjs)	http://stayintouch.att.com/
+1262005940	jamf pro login	https://jss.dp.att.com:8443/
 1262005940	jamf pro login	https://jss-intl.att.com/
 1262005940	jamf pro login	https://jss.intl.att.com/
 1433417005	salesforce	http://alliancepartnersolutions.att.com/
+1433417005	salesforce	http://apiexchange-dev-akamai.att.com/
+1433417005	salesforce	http://apiexchange-dev.att.com/
 1433417005	salesforce	http://partnerexchange.att.com/
 1433417005	salesforce	https://alliancepartnersolutions.att.com/
+1433417005	salesforce	https://alliancepartnersolutions.att.com:8443/
+1433417005	salesforce	https://alliancepartnersolutions.att.com:9443/
+1433417005	salesforce	https://apiexchange-dev-akamai.att.com/
+1433417005	salesforce	https://apiexchange-dev.att.com/
 1433417005	salesforce	https://partnerexchange.att.com/
+1433417005	salesforce	https://partnerexchange.att.com:8443/
 1726027799	ibm server	http://osstoolbar-sat1.att.com/
 1726027799	ibm server	https://osstoolbar-sat1.att.com/
 1772087922	asp.net favicon	http://admin-workforcemanager.att.com/
 1772087922	asp.net favicon	http://login-workforcemanager.att.com/
 1772087922	asp.net favicon	https://admin-workforcemanager.att.com/
+1772087922	asp.net favicon	https://attuniversity.att.com/
 1772087922	asp.net favicon	https://attuniversity.az.cloud.att.com/
 1772087922	asp.net favicon	https://comrest-directvcommercial.att.com/
 1772087922	asp.net favicon	https://es.mst.att.com/
 1772087922	asp.net favicon	https://login-workforcemanager.att.com/
 1772087922	asp.net favicon	https://workforcemanager.att.com/
 1772087922	asp.net favicon	http://workforcemanager.att.com/
+-2009722838	react	http://protectadvantage.att.com/
+-2009722838	react	https://protectadvantage.att.com/
 -297069493	apache tomcat	https://api-iotdevice.att.com/
 -297069493	apache tomcat	https://cloudapi.synaptic.att.com/
 -297069493	apache tomcat	https://hc-analytics.idp.clogin.att.com/
 -297069493	apache tomcat	https://npwtsmartorigin.att.com/
+-297069493	apache tomcat	https://reporting-platform.att.com/
+-297069493	apache tomcat	https://reportingplatform.att.com/
 -297069493	apache tomcat	https://restapi19.att.com/
 362091310	mobileiron	http://mdm03.dp.att.com:8080/
 362091310	mobileiron	http://retail2.dp.att.com:8080/
@@ -50,8 +71,6 @@
 479413330	webmin	https://miseleccionmx.att.com:10000/
 628535358	atlassian	https://darp-jira.test.att.com/
 628535358	atlassian	https://jira.darp.att.com/
-728788645	ibm notes	http://mdnsdom1.mdns.att.com/
-728788645	ibm notes	https://mdnsdom1.mdns.att.com/
 81586312	jenkins	https://jenkins-directvcommercial.test.att.com/
 855273746	jira	http://darp-jira.test.att.com/
 855273746	jira	http://jira.darp.att.com/
@@ -84,6 +103,7 @@
 b0d1844949fe7dcdf210983feb285241	aspnet	http://admin-workforcemanager.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://login-workforcemanager.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://admin-workforcemanager.att.com/
+b0d1844949fe7dcdf210983feb285241	aspnet	https://attuniversity.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://attuniversity.az.cloud.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://comrest-directvcommercial.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://es.mst.att.com/
@@ -91,4 +111,6 @@ b0d1844949fe7dcdf210983feb285241	aspnet	https://login-workforcemanager.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	https://workforcemanager.att.com/
 b0d1844949fe7dcdf210983feb285241	aspnet	http://workforcemanager.att.com/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://shm-va-services.stage.att.com/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	https://teneo-aws-nginx.stage.att.com:16080/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	https://teneo-aws-nginx.stage-e.att.com:16080/
 e71ed563d9c0742ee87ad93ec1a22238	springboot	https://wat-enhanced-rm.uc.att.com/

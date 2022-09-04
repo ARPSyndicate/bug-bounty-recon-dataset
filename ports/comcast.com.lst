@@ -3337,6 +3337,9 @@
 [https] soeastus2in23.smartoffice.comcast.com:443
 [https] soeastusin01.smartoffice.comcast.com:443
 [http] sso.g.comcast.com:80
+[http] ss-order-summary-ui-int.np.digital.business.comcast.com:80
+[http] ss-order-summary-ui-prod-va.digital.business.comcast.com:80
+[http] ss-order-summary-ui-qa.np.digital.business.comcast.com:80
 [http] ssotest.comcast.com:80
 [http] ss-outage-optin-content-qa.np.digital.business.comcast.com:80
 [http] ss-outage-optin-content-stg-va.np.digital.business.comcast.com:80
@@ -3501,6 +3504,9 @@
 [https] ssm-host-us-hillsboro-98.spn.comcast.com:443
 [https] sso.g.comcast.com:443
 [https] sso-login-test.cable.comcast.com:443
+[https] ss-order-summary-ui-int.np.digital.business.comcast.com:443
+[https] ss-order-summary-ui-prod-va.digital.business.comcast.com:443
+[https] ss-order-summary-ui-qa.np.digital.business.comcast.com:443
 [https] ssotest.comcast.com:443
 [https] ss-outage-optin-content-qa.np.digital.business.comcast.com:443
 [https] ss-outage-optin-content-stg-va.np.digital.business.comcast.com:443

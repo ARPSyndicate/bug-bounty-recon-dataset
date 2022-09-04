@@ -1391,6 +1391,7 @@
 [https] synceu1.app.asana.com:443
 [https] sync-prod-2019disaster3.app.asana.com:443
 [https] sync-prod-2020disaster4.app.asana.com:443
+[https] sync-prod-2022disaster.app.asana.com:443
 [https] sync-prod-au1.app.asana.com:443
 [https] sync-prod-eu1.app.asana.com:443
 [https] syncprodeu1.app.asana.com:443
@@ -1450,6 +1451,7 @@
 [http] synceu1.app.asana.com:80
 [http] sync-prod-2019disaster3.app.asana.com:80
 [http] sync-prod-2020disaster4.app.asana.com:80
+[http] sync-prod-2022disaster.app.asana.com:80
 [http] sync-prod-au1.app.asana.com:80
 [http] sync-prod-eu1.app.asana.com:80
 [http] syncprodeu1.app.asana.com:80

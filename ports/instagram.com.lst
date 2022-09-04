@@ -1,12 +1,14 @@
 [http] graph.instagram.com:80
 [http] i.instagram.com:80
 [http] instagram.com:80
+[http] maps.instagram.com:80
 [http] m.instagram.com:80
 [http] secure.instagram.com:80
 [http] secure.latest.instagram.com:80
 [https] graph.instagram.com:443
 [https] i.instagram.com:443
 [https] instagram.com:443
+[https] maps.instagram.com:443
 [https] m.instagram.com:443
 [https] secure.instagram.com:443
 [https] secure.latest.instagram.com:443

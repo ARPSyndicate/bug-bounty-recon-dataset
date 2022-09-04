@@ -99,6 +99,7 @@ https://optimism-mainnet.public.blastapi.io [400] [GET] [application/json] [] [c
 https://palm-testnet.blastapi.io [404] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [d41d8cd98f00b204e9800998ecf8427e]
 https://polygon-testnet.dev1.blastapi.io [404] [GET] [] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://provider-manager.houston.blastapi.io [403] [GET] [application/json] [] [] [vhost] [f6851ea3359702fd4ab5db7ba5e45bbe]
+https://public.dev1.blastapi.io [404] [GET] [] [] [] [d41d8cd98f00b204e9800998ecf8427e]
 https://qa.blastapi.io [401] [GET] [text/html] [401 Authorization Required] [] [vhost] [Basic] [55f69d37caed0efafa4d15970ed5f18e]
 https://shiden.blastapi.io [404] [GET] [] [] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [d41d8cd98f00b204e9800998ecf8427e]
 https://stats-exporter.dev.blastapi.io [404] [GET] [text/html] [404 Not Found] [] [8eec510e57f5f732fd2cce73df7b73ef]

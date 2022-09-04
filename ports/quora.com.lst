@@ -5,9 +5,11 @@
 [clearvisn] info.quora.com:2052
 [eli] help.quora.com:2087
 [eli] info.quora.com:2087
+[eli] tch.corp.quora.com:2087
 [eli] www.quora.com:2087
 [gnunet] help.quora.com:2086
 [gnunet] info.quora.com:2086
+[gnunet] tch.corp.quora.com:2086
 [http] aws-east-www.edge.quora.com:80
 [http] docs.net.quora.com:80
 [http] go.ad.quora.com:80
@@ -25,6 +27,7 @@
 [http] quora.com:80
 [https-alt] help.quora.com:8443
 [https-alt] info.quora.com:8443
+[https-alt] tch.corp.quora.com:8443
 [https] aws-east-www.edge.quora.com:443
 [https] docs.net.quora.com:443
 [https] go.ad.quora.com:443
@@ -52,8 +55,12 @@
 [infowave] info.quora.com:2082
 [infowave] www.quora.com:2082
 [knetd] info.quora.com:2053
+[knetd] tch.corp.quora.com:2053
 [nbx-dir] info.quora.com:2096
+[nbx-dir] tch.corp.quora.com:2096
 [nbx-ser] info.quora.com:2095
+[nbx-ser] tch.corp.quora.com:2095
 [radsec] help.quora.com:2083
 [radsec] info.quora.com:2083
+[radsec] tch.corp.quora.com:2083
 [radsec] www.quora.com:2083

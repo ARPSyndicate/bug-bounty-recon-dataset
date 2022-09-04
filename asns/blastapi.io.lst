@@ -46,7 +46,6 @@ polygon-mainnet.public.blastapi.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.
 polygon-testnet.blastapi.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
 polygon-testnet.dev1.blastapi.io AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 polygon-testnet.public.blastapi.io AS13335 AS13335 - CLOUDFLARE, INC. US 104.26.0.0/20
-polygon-testnet.public.dev1.blastapi.io AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 provider-manager.dev.blastapi.io AS16509 AS16509 - AMAZON.COM, INC. US 18.156.0.0/14
 provider-manager.houston.blastapi.io AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
 public.dev1.blastapi.io AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12

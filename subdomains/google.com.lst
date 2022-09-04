@@ -53909,9 +53909,11 @@ prometheuslens-color.printer.corp.google.com
 prom-gfe-nightly.sandbox.google.com
 prom-gfe-qa.sandbox.google.com
 promintechche.google.com
+prom-nightly-gp.sandbox.google.com
 prom-nightly.sandbox.google.com
 prom-qa.corp.google.com
 prom-qa.corp.testonly.google.com
+prom-qa-gs.sandbox.google.com
 prom-qa.sandbox.google.com
 prom-qa.testonly.google.com
 prom-test.corp.google.com

@@ -2778,6 +2778,7 @@ aegis-iqd-ho-1s.slb.comcast.com
 aegisiris.comcast.com
 aegis-license-1d.gslb2.comcast.com
 aegis-license-1d.gslb4.comcast.com
+aegis-lighthouse-dev.cable.comcast.com
 aegis-monitor.cable.comcast.com
 aegis-nb-dashboard.cable.comcast.com
 aegis-nsx.cable.comcast.com
@@ -35372,6 +35373,9 @@ or.ss-help-tier-topic-content-prod-va.digital.business.comcast.com
 or.ss-help-topic-ui-int.np.digital.business.comcast.com
 or.ss-help-topic-ui-stg-or.np.digital.business.comcast.com
 or.ss-help-topic-ui-stg-va.np.digital.business.comcast.com
+or.ss-order-summary-ui-int.np.digital.business.comcast.com
+or.ss-order-summary-ui-prod-va.digital.business.comcast.com
+or.ss-order-summary-ui-qa.np.digital.business.comcast.com
 or.ss-outage-optin-content-dev.np.digital.business.comcast.com
 or.ss-outage-optin-content-int.np.digital.business.comcast.com
 or.ss-outage-optin-content-prod-va.digital.business.comcast.com
@@ -45022,6 +45026,9 @@ sso-login-test.cable.comcast.com
 ssop-api-dev.idbroker.comcast.com
 ssop-api-stg.idbroker.comcast.com
 ssopoc-po-1s.cable.comcast.com
+ss-order-summary-ui-int.np.digital.business.comcast.com
+ss-order-summary-ui-prod-va.digital.business.comcast.com
+ss-order-summary-ui-qa.np.digital.business.comcast.com
 ssotest.comcast.com
 ss-outage-optin-content-qa.np.digital.business.comcast.com
 ss-outage-optin-content-stg-or.np.digital.business.comcast.com
@@ -45970,6 +45977,7 @@ stg-3.comcast.com
 stg.ac-gateway.api-business.comcast.com
 stg.ac-gateway.np.api-business.comcast.com
 stg.activecore.mobileapp.np.digital.business.comcast.com
+stgadm-ch2-10p.cable.comcast.com
 stgaegis-mdm.cable.comcast.com
 stg-amp.xhi.comcast.com
 stg.api-business.comcast.com
@@ -46877,7 +46885,9 @@ testilp-ch2-1d.slb.comcast.com
 testilpsvc.cable.comcast.com
 testilpsvc-ch2-1d.slb.comcast.com
 testing-acme.scl.svic.comcast.com
+testing.cil.comcast.com
 testing.scl.svic.comcast.com
+testing-script-1.scl.svic.comcast.com
 testinseasonal.cable.comcast.com
 testittools.cable.comcast.com
 test.janus-prod.us-east-1.janus.comcast.com
@@ -49792,6 +49802,9 @@ va.ss-help-tier-topic-content-pqa.np.digital.business.comcast.com
 va.ss-help-tier-topic-content-qa.np.digital.business.comcast.com
 va.ss-help-topic-ui-int.np.digital.business.comcast.com
 va.ss-help-topic-ui-qa.np.digital.business.comcast.com
+va.ss-order-summary-ui-int.np.digital.business.comcast.com
+va.ss-order-summary-ui-prod-va.digital.business.comcast.com
+va.ss-order-summary-ui-qa.np.digital.business.comcast.com
 va.ss-outage-optin-content-dev.np.digital.business.comcast.com
 va.ss-outage-optin-content-pqa.np.digital.business.comcast.com
 va.ss-outage-optin-content-prod-va.digital.business.comcast.com

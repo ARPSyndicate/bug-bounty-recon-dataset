@@ -134,7 +134,7 @@ https://help.coinmetro.com [403] [GET] [text/html] [Attention Required! | Cloudf
 https://help.coinmetro.com:8443 [403] [GET] [text/html] [Attention Required! | Cloudflare] [cloudflare] [vhost] [cloudflare] [Cloudflare] [10d10a1ba08586d3163628d68b67371d]
 https://invest.coinmetro.com [200] [GET] [text/html] [Coinmetro Goal] [openresty] [vhost] [google] [Google Cloud,Google Cloud CDN,Google Font API,Google Tag Manager,Nginx,OpenResty] [12a41954576dcfa07004b1f3ca5c2c31]
 https://invest.coinmetro.com [200] [GET] [text/html] [Coinmetro Goal] [openresty] [vhost] [google] [Google Cloud,Google Cloud CDN,Google Font API,Google Tag Manager,Nginx,OpenResty] [9cfe78dd844d31fb72b1b23fdfa8120b]
-https://investment.coinmetro.com [404] [GET] [text/html] [Pageserver 404] [openresty] [google] [Google Cloud,Google Cloud CDN,Nginx,OpenResty] [1f8631d046393ef77310f3149560294f]
+https://investment.coinmetro.com [404] [GET] [text/html] [Pageserver 404] [openresty] [google] [Google Cloud,Google Cloud CDN,Nginx,OpenResty] [5e794dc934c9f779b28e8c338fbc8b81]
 https://leaderboard.coinmetro.com [404] [GET] [text/html] [Pageserver 404] [openresty] [google] [Google Cloud,Google Cloud CDN,Nginx,OpenResty] [1f8631d046393ef77310f3149560294f]
 https://leaderboard.coinmetro.com [404] [GET] [text/html] [Pageserver 404] [openresty] [google] [Google Cloud,Google Cloud CDN,Nginx,OpenResty] [ef564f78b902902ce86b9352a8353ba5]
 https://margin.coinmetro.com [404] [GET] [text/html] [Pageserver 404] [openresty] [google] [Google Cloud,Google Cloud CDN,Nginx,OpenResty] [ef564f78b902902ce86b9352a8353ba5]

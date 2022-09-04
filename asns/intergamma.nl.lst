@@ -25,6 +25,7 @@ mailserver.intergamma.nl AS1136 AS1136 - KPN B.V. NL 193.172.0.0/15
 msoid.intergamma.nl AS8075 AS8075 - MICROSOFT CORPORATION US 40.126.0.0/18
 nexus.intergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
 nieuws.intergamma.nl AS17378 AS17378 - TIERPOINT, LLC US 216.27.48.0/20
+qa.pricetool.intergamma.nl AS15169 AS15169 - GOOGLE LLC US 34.104.0.0/14
 recruitment.intergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.29.0.0/16
 rest.intergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 3.248.0.0/13
 service-cp.intergamma.nl AS1136 AS1136 - KPN B.V. NL 46.144.0.0/15

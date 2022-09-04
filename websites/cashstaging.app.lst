@@ -8,6 +8,7 @@ http://api.taxes.cashstaging.app:8080
 http://api.usc1.taxes.cashstaging.app
 http://api.usc1.taxes.cashstaging.app:8080
 http://apparel-supporter.cashstaging.app
+http://beta.taxes.cashstaging.app
 http://cashstaging.app
 http://collector.taxes.cashstaging.app
 http://collector.taxes.cashstaging.app:8080
@@ -26,6 +27,7 @@ https://api.cashstaging.app
 https://api.taxes.cashstaging.app
 https://api.usc1.taxes.cashstaging.app
 https://apparel-supporter.cashstaging.app
+https://beta.taxes.cashstaging.app
 https://cashstaging.app
 https://collector.taxes.cashstaging.app
 https://collector.usc1.taxes.cashstaging.app

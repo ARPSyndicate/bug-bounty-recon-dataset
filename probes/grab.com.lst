@@ -138,7 +138,7 @@ https://hawkeye.grab.com [403] [GET] [text/html] [ERROR: The request could not b
 https://hawkeye.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [ab721b4422f5355c9ecea4b917d81fa3]
 https://hawkeye-v.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [5e42279de6b017ddf2d793865d2d6844]
 https://hawkeye-v.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [a9cb2a12c514c4eca2fe0c5a5e05abfb]
-https://hc-doc.grab.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [e256cd1fd8ed2fc41f5bfe4ef8f9540b]
+https://hc-doc.grab.com [502] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [cb1e3b90c8164785ed4bc55d64eed8bb]
 https://hedwig-dash.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [2f05a0e48ff5be733e03770718b59565]
 https://hedwig-dash.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [8f54fac6ef1201898d5a009b765a1d84]
 https://hedwig.grab.com [403] [GET] [text/html] [ERROR: The request could not be satisfied] [CloudFront] [cloudfront] [Amazon Cloudfront,Amazon Web Services] [1a625da47cf96fd2e321f759ccad6e03]

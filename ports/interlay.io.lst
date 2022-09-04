@@ -143,8 +143,10 @@
 [infowave] interlay.io:2082
 [infowave] shop.interlay.io:2082
 [knetd] graphql-beta.interlay.io:2053
+[knetd] interlay.io:2053
 [knetd] shop.interlay.io:2053
 [nbx-dir] shop.interlay.io:2096
+[nbx-ser] interlay.io:2095
 [nbx-ser] shop.interlay.io:2095
 [radsec] graphql-beta.interlay.io:2083
 [radsec] interlay.io:2083

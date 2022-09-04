@@ -259,6 +259,7 @@ cloud-portal-production-web-custom-data-platform-a-us-east1-1.shopifycloud.com A
 cloud-portal-production-web-custom-pxu-na-ne1-2.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.16.0/20
 cloud-portal-production-web-ping-sox-staging-us-east1-1.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.139.144.0/20
 cloud-portal-pxu-na-ne1-2.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.203.16.0/20
+cloud-portal-redis-apps-us-ea1-cl97.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.185.48.0/20
 cloud-portal-reportify-canada-na-ne1-wj55.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.152.48.0/20
 cloud-portal.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.80.0/20
 cloud-portal-sox-staging-us-east1-1.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.139.144.0/20
@@ -411,10 +412,12 @@ elasticsearch-failover-dev-produ-cjt4dcsz-es-staging-us-east1-1.shopifycloud.com
 elasticsearch-failover-dev-produ-irhlwzga-es-staging-us-east1-1.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.231.128.0/17
 elasticsearch-failover-dev.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.139.208.0/20
 elasticsearch-failover-dev-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.192.112.0/20
+elasticsearch.fluffy-go-si-production-unrestricted-8xev.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.72.208.0/20
 elasticsearch.hackdays-es-playground-production-unrestricted-31r6.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.224.0/20
 elasticsearch.kibana.i0.production-unrestricted-2v48.atlas.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.160.0/20
 elasticsearch.kibana.i0.production-unrestricted-31r6.hackdays-es-playground.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.224.0/20
 elasticsearch.kibana.i0.production-unrestricted-3qpx.elasticsearch-failover-dev.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.172.128.0/17
+elasticsearch.kibana.i0.production-unrestricted-8xev.fluffy-go-si.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.72.208.0/20
 elasticsearch.kibana.i0.production-unrestricted.data-portal.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.224.0/20
 elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.72.208.0/20
 elasticsearch.kibana.i0.production-unrestricted-jpix.deep-understanding-similarity.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.72.208.0/20
@@ -520,6 +523,7 @@ first-sale.streamlit-service.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 
 flashsales.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 flashsales-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 flex.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
+flow-benchmark.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.238.16.0/20
 flow-connectors.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.237.0.0/16
 flow-connectors-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 flow.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.139.208.0/20
@@ -542,6 +546,7 @@ global-search-sandbox.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.
 glyi4.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.224.0/20
 gm-shop-merchant-app.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
 godog.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.135.96.0/20
+go-email-practice.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.144.0/20
 google-shopping.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.160.0/20
 google-shopping-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 gradle-build-cache.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
@@ -1166,6 +1171,7 @@ shipify-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 shipit-mobile.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.237.0.0/16
 shipit-mobile-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 shipit-next.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
+shipit-restricted-stg.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.134.112.0/20
 shipit.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.0.0/20
 shipit-sox-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.138.128.0/20
 shipping-manifests.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.135.96.0/20
@@ -1405,6 +1411,7 @@ test-oversight-service.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121
 test-plus-merchant-onboarding.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
 thanos-global.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.226.112.0/20
 thanos-global-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.71.240.0/20
+thanos-query-frontend-prometheus-eu-we1-bx03.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.140.64.0/20
 thanos-query-frontend-prom-staging-us-ce1-vr63.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.135.160.0/20
 themekit-access.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 themekit-access-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
@@ -1525,6 +1532,7 @@ xray.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.68.144.0/20
 xray-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
 ykalc.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.172.128.0/17
 ywydv.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.72.208.0/20
+yzbao.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.72.208.0/20
 zendesk-realtime-data.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.176.0/20
 zm7wo.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.196.160.0/20
 zozhj.kibana.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.148.224.0/20

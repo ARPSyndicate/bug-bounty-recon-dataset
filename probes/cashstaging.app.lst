@@ -4,6 +4,7 @@ https://api.cashstaging.app [404] [GET] [] [] [envoy] [vhost] [fastly] [Envoy,Fa
 https://api.taxes.cashstaging.app [403] [GET] [text/html] [403] [] [vhost] [google] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://api.usc1.taxes.cashstaging.app [404] [GET] [text/plain] [] [] [google] [Google Cloud,Google Cloud CDN] [1cd7bc4b228010dbdf01f2df97123407]
 https://apparel-supporter.cashstaging.app [404] [GET] [text/plain] [] [envoy] [vhost] [fastly] [Envoy,Fastly,Varnish] [8a66449950a9e624fb9562d6a3f75626]
+https://beta.taxes.cashstaging.app [403] [GET] [text/html] [403] [] [google] [cf4bf23ae244e6fd5ca63598d4dcc82d]
 https://cashstaging.app [403] [GET] [text/html] [403 Forbidden] [Varnish] [vhost] [fastly] [Fastly,Varnish] [2f574a83c65e6247328e5a0773c881c6]
 https://cashstaging.app [403] [GET] [text/html] [403 Forbidden] [Varnish] [vhost] [fastly] [Fastly,Varnish] [322413cd98e3de88e2afaad1e7851e3c]
 https://collector.taxes.cashstaging.app [403] [GET] [text/html] [403] [] [vhost] [google] [cf4bf23ae244e6fd5ca63598d4dcc82d]

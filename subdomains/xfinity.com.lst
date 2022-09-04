@@ -3729,6 +3729,8 @@ techtools.gslb2.xfinity.com
 test.captive.xfinity.com
 test.cl-speedtest-staging.xfinity.com
 test.gslb2.xfinity.com
+testing.gpe.xfinity.com
+testing.np.gpe.xfinity.com
 testoauthclient1-dev.identity.xfinity.com
 testoauthclient1.identity.xfinity.com
 testoauthclient1-qa.identity.xfinity.com

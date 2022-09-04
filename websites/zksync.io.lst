@@ -280,6 +280,12 @@ https://community.zksync.io:2096
 https://community.zksync.io:8443
 https://docs.zksync.io
 https://ecosystem.zksync.io
+http://sepolia-api.zksync.io
+http://sepolia-api.zksync.io:2083
+http://sepolia-api.zksync.io:2086
+http://sepolia-api.zksync.io:2087
+http://sepolia-api.zksync.io:8080
+http://sepolia-api.zksync.io:8443
 https://eth-gateway.zksync.io
 https://eth-gateway.zksync.io:2083
 https://eth-gateway.zksync.io:2087
@@ -323,6 +329,7 @@ https://ropsten-beta-api.zksync.io
 https://ropsten-beta.zksync.io
 https://ropsten-stage.zksync.io
 https://ropsten.zksync.io
+https://sepolia-api.zksync.io
 https://stage2a-api.zksync.io
 https://stage.zksync.io
 http://stage2a-api.zksync.io

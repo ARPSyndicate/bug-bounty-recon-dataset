@@ -178,6 +178,7 @@
 [https] ropsten-beta-api.zksync.io:443
 [https] ropsten-beta.zksync.io:443
 [https] ropsten.zksync.io:443
+[https] sepolia-api.zksync.io:443
 [https] stage.zksync.io:443
 [http] stage2a-api.zksync.io:80
 [http] stage.zksync.io:80

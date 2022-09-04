@@ -10,6 +10,7 @@ http://api.stats.routerprotocol.com
 http://api.trading-competition.routerprotocol.com
 http://api.trading-competition.routerprotocol.com:3005
 http://app.routerprotocol.com
+http://devnet-alpha.lcd.routerprotocol.com
 http://dev.routerprotocol.com
 http://dev.routerprotocol.com:2082
 http://dev.routerprotocol.com:2086
@@ -36,6 +37,7 @@ https://api.routerprotocol.com
 https://api.stats.routerprotocol.com
 https://api.trading-competition.routerprotocol.com
 https://app.routerprotocol.com
+https://devnet-alpha.lcd.routerprotocol.com
 https://dev.routerprotocol.com
 https://dev.routerprotocol.com:2083
 https://dev.routerprotocol.com:2087

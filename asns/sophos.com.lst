@@ -7259,10 +7259,12 @@ nta-config-cloudstation-eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZO
 nta-config.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.64.0.0/12
 nta-proxy.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.216.0.0/15
 nta-proxy.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+nta-proxy.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.233.128.0/17
 nta-push-rest.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.192.0.0/15
 nta-push-rest.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.40.0.0/14
 nta-push-ws.cloudstation.us-west-2.prod.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.148.0.0/15
 nta-push-ws.cloudstation.us-west-2.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 52.12.0.0/15
+nta-push-ws.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.230.0.0/16
 nta-registration-alt.stn030gru.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 177.71.192.0/20
 nta-registration.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 54.171.0.0/16
 nta-registration-cloudstation-eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 99.80.0.0/15

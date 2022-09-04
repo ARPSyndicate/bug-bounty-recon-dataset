@@ -31,8 +31,11 @@ http://blog.lido.fi:8080
 http://blog.lido.fi:8443
 http://blog.lido.fi:8880
 http://careers.lido.fi
+http://careers.lido.fi:2052
 http://careers.lido.fi:2082
 http://careers.lido.fi:2086
+http://careers.lido.fi:2095
+http://careers.lido.fi:8080
 http://careers.lido.fi:8880
 http://docs.cosmos.lido.fi
 http://docs.kusama.lido.fi
@@ -154,6 +157,7 @@ https://blog.lido.fi
 https://careers.lido.fi
 https://careers.lido.fi:2083
 https://careers.lido.fi:2087
+https://careers.lido.fi:8443
 http://scorecard.lido.fi
 https://docs.cosmos.lido.fi
 https://docs.kusama.lido.fi

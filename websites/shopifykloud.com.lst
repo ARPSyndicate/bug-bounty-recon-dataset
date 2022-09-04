@@ -1,6 +1,7 @@
 http://abandonment-pipeline-production.flink.shopifykloud.com
 http://abandonment-pipeline-staging.flink.shopifykloud.com
 http://ad-audience-sharing-log-production.flink.shopifykloud.com
+http://ad-audience-sharing-log-staging.flink.shopifykloud.com
 http://ad-audience-staging.flink.shopifykloud.com
 http://affiliate-signal-trickle-production.flink.shopifykloud.com
 http://affiliate-signal-trickle-staging2.flink.shopifykloud.com
@@ -231,6 +232,7 @@ http://russ-sp-reconciliation-staging.flink.shopifykloud.com
 https://abandonment-pipeline-production.flink.shopifykloud.com
 https://abandonment-pipeline-staging.flink.shopifykloud.com
 https://ad-audience-sharing-log-production.flink.shopifykloud.com
+https://ad-audience-sharing-log-staging.flink.shopifykloud.com
 https://ad-audience-staging.flink.shopifykloud.com
 https://affiliate-signal-trickle-production.flink.shopifykloud.com
 https://affiliate-signal-trickle-staging2.flink.shopifykloud.com
@@ -340,6 +342,7 @@ https://honeybee.shopify-data-presto-global.shopifykloud.com
 https://honeybee-staging.shopify-data-presto-global.shopifykloud.com
 http://shopify-audience-gen-staging.flink.shopifykloud.com
 http://shopify-audience-gen-test.flink.shopifykloud.com
+http://shopifyvm-failure-production.flink.shopifykloud.com
 http://shop-onboarding-milestone-prod.flink.shopifykloud.com
 http://shop-onboarding-milestone-stg.flink.shopifykloud.com
 http://shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com
@@ -499,6 +502,7 @@ https://seamster-b.shopify-data-presto-global.shopifykloud.com
 https://session-attribution-staging.flink.shopifykloud.com
 https://shopify-audience-gen-staging.flink.shopifykloud.com
 https://shopify-audience-gen-test.flink.shopifykloud.com
+https://shopifyvm-failure-production.flink.shopifykloud.com
 https://shop-onboarding-milestone-prod.flink.shopifykloud.com
 https://shop-onboarding-milestone-stg.flink.shopifykloud.com
 https://shop-prdt-impressions-user-hour-prd.flink.shopifykloud.com

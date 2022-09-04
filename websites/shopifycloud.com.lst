@@ -643,6 +643,7 @@ http://cloud-portal-production-web-ping-tier1-na-ne1-6.shopifycloud.com
 http://cloud-portal-production-web-ping-tier1-us-central1-9.shopifycloud.com
 http://cloud-portal-production-web-ping-tier1-us-east1-9.shopifycloud.com
 http://cloud-portal-pxu-na-ne1-2.shopifycloud.com
+http://cloud-portal-redis-apps-us-ea1-cl97.shopifycloud.com
 http://cloud-portal-reportify-na-ne1-1.shopifycloud.com
 http://cloud-portal-reportify-us-central1-3.shopifycloud.com
 http://cloud-portal-reportify-us-east1-3.shopifycloud.com
@@ -1010,10 +1011,12 @@ http://elasticsearch-failover-dev-produ-irhlwzga-es-staging-us-east1-1.shopifycl
 http://elasticsearch-failover-dev-pro-vn5zt7cs-es-apps-a-us-central1-2.shopifycloud.com
 http://elasticsearch-failover-dev.shopifycloud.com
 http://elasticsearch-failover-dev-staging.shopifycloud.com
+http://elasticsearch.fluffy-go-si-production-unrestricted-8xev.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 http://elasticsearch.hackdays-es-playground-production-unrestricted-31r6.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
 http://elasticsearch.kibana.i0.production-unrestricted-2v48.atlas.shopifycloud.com
 http://elasticsearch.kibana.i0.production-unrestricted-31r6.hackdays-es-playground.shopifycloud.com
 http://elasticsearch.kibana.i0.production-unrestricted-3qpx.elasticsearch-failover-dev.shopifycloud.com
+http://elasticsearch.kibana.i0.production-unrestricted-8xev.fluffy-go-si.shopifycloud.com
 http://elasticsearch.kibana.i0.production-unrestricted.data-portal.shopifycloud.com
 http://elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com
 http://elasticsearch.kibana.i0.production-unrestricted-jpix.deep-understanding-similarity.shopifycloud.com
@@ -1215,6 +1218,7 @@ http://flashsales-staging.shopifycloud.com
 http://flashsales-staging-unrestricted-web-api-apps-b-us-east1-9.shopifycloud.com
 http://flex.shopifycloud.com
 http://flink-deploy-sample.flink.shopifycloud.com
+http://flow-benchmark.shopifycloud.com
 http://flow-canada.shopifycloud.com
 http://flow-connectors-canada.shopifycloud.com
 http://flow-connectors.shopifycloud.com
@@ -1279,6 +1283,7 @@ http://goaliebot2.shopifycloud.com
 http://godoc.shopifycloud.com
 http://godog-production-web-apps-a-us-central1-10.shopifycloud.com
 http://godog.shopifycloud.com
+http://go-email-practice.shopifycloud.com
 http://gollum-demo.shopifycloud.com
 http://goodtime-smartrecruiters-sync.shopifycloud.com
 http://google-shopping.shopifycloud.com
@@ -3188,6 +3193,7 @@ https://cloud-portal-production-web-ping-tier1-na-ne1-6.shopifycloud.com
 https://cloud-portal-production-web-ping-tier1-us-central1-9.shopifycloud.com
 https://cloud-portal-production-web-ping-tier1-us-east1-9.shopifycloud.com
 https://cloud-portal-pxu-na-ne1-2.shopifycloud.com
+https://cloud-portal-redis-apps-us-ea1-cl97.shopifycloud.com
 https://cloud-portal-reportify-na-ne1-1.shopifycloud.com
 https://cloud-portal-reportify-us-central1-3.shopifycloud.com
 https://cloud-portal-reportify-us-east1-3.shopifycloud.com
@@ -3583,10 +3589,12 @@ https://elasticsearch-failover-dev-produ-irhlwzga-es-staging-us-east1-1.shopifyc
 https://elasticsearch-failover-dev-pro-vn5zt7cs-es-apps-a-us-central1-2.shopifycloud.com
 https://elasticsearch-failover-dev.shopifycloud.com
 https://elasticsearch-failover-dev-staging.shopifycloud.com
+https://elasticsearch.fluffy-go-si-production-unrestricted-8xev.es-apps-b-us-ce1-ux28.kibana.shopifycloud.com
 https://elasticsearch.hackdays-es-playground-production-unrestricted-31r6.es-apps-b-us-ea1-on43.elasticsearch.shopifycloud.com
 https://elasticsearch.kibana.i0.production-unrestricted-2v48.atlas.shopifycloud.com
 https://elasticsearch.kibana.i0.production-unrestricted-31r6.hackdays-es-playground.shopifycloud.com
 https://elasticsearch.kibana.i0.production-unrestricted-3qpx.elasticsearch-failover-dev.shopifycloud.com
+https://elasticsearch.kibana.i0.production-unrestricted-8xev.fluffy-go-si.shopifycloud.com
 https://elasticsearch.kibana.i0.production-unrestricted.data-portal.shopifycloud.com
 https://elasticsearch.kibana.i0.production-unrestricted-h3sl.metadata-catalog.shopifycloud.com
 https://elasticsearch.kibana.i0.production-unrestricted-jpix.deep-understanding-similarity.shopifycloud.com
@@ -3815,6 +3823,7 @@ https://flashsales-staging.shopifycloud.com
 https://flashsales-staging-unrestricted-web-api-apps-b-us-east1-9.shopifycloud.com
 https://flex.shopifycloud.com
 https://flink-deploy-sample.flink.shopifycloud.com
+https://flow-benchmark.shopifycloud.com
 https://flow-canada.shopifycloud.com
 https://flow-connectors-canada.shopifycloud.com
 https://flow-connectors.shopifycloud.com
@@ -3909,6 +3918,7 @@ https://goaliebot2.shopifycloud.com
 https://godoc.shopifycloud.com
 https://godog-production-web-apps-a-us-central1-10.shopifycloud.com
 https://godog.shopifycloud.com
+https://go-email-practice.shopifycloud.com
 https://gollum-demo.shopifycloud.com
 https://goodtime-smartrecruiters-sync.shopifycloud.com
 https://google-shopping.shopifycloud.com
@@ -4121,6 +4131,7 @@ http://shipit-mobile.shopifycloud.com
 http://shipit-mobile-staging.shopifycloud.com
 http://shipit-mobile-staging-web-public-apps-b-us-east1-9.shopifycloud.com
 http://shipit-next.shopifycloud.com
+http://shipit-restricted-stg.shopifycloud.com
 http://shipit.shopifycloud.com
 http://shipit-sox-staging.shopifycloud.com
 http://shipping-manifests-production-unr-pzgdyclq-apps-a-us-central1-3.shopifycloud.com
@@ -5615,6 +5626,7 @@ https://shipit-mobile.shopifycloud.com
 https://shipit-mobile-staging.shopifycloud.com
 https://shipit-mobile-staging-web-public-apps-b-us-east1-9.shopifycloud.com
 https://shipit-next.shopifycloud.com
+https://shipit-restricted-stg.shopifycloud.com
 https://shipit.shopifycloud.com
 https://shipit-sox-staging.shopifycloud.com
 https://shipping-manifests-production-unr-pzgdyclq-apps-a-us-central1-3.shopifycloud.com
@@ -6126,6 +6138,7 @@ https://test-oversight-service.shopifycloud.com
 https://test-plus-merchant-onboarding.shopifycloud.com
 https://thanos-global-staging.shopifycloud.com
 https://thanos-qfe-observability-thanos-us-ea1-zy70.shopifycloud.com
+https://thanos-query-frontend-prometheus-eu-we1-bx03.shopifycloud.com
 https://thanos-query-grpc-prometheus-as-se1-wq60.shopifycloud.com
 https://thanos-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com
 https://thanos-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com
@@ -6471,6 +6484,7 @@ https://xray-staging.shopifycloud.com
 https://xwvvp.kibana.shopifycloud.com
 https://ykalc.kibana.shopifycloud.com
 https://ywydv.kibana.shopifycloud.com
+https://yzbao.kibana.shopifycloud.com
 https://zendesk-realtime-data.shopifycloud.com
 https://zendesk-rt-tms.shopifycloud.com
 https://zendesk-shopify-consumer.shopifycloud.com
@@ -6535,6 +6549,7 @@ http://test-oversight-service.shopifycloud.com
 http://test-plus-merchant-onboarding.shopifycloud.com
 http://thanos-global.shopifycloud.com
 http://thanos-qfe-observability-thanos-us-ea1-zy70.shopifycloud.com
+http://thanos-query-frontend-prometheus-eu-we1-bx03.shopifycloud.com
 http://thanos-query-grpc-prometheus-as-se1-wq60.shopifycloud.com
 http://thanos-query-grpc-prometheus-eu-we1-bx03.shopifycloud.com
 http://thanos-query-grpc-prometheus-us-ce1-eb98.shopifycloud.com
@@ -6811,6 +6826,7 @@ http://xray-staging.shopifycloud.com
 http://xwvvp.kibana.shopifycloud.com
 http://ykalc.kibana.shopifycloud.com
 http://ywydv.kibana.shopifycloud.com
+http://yzbao.kibana.shopifycloud.com
 http://zendesk-realtime-data.shopifycloud.com
 http://zendesk-rt-tms.shopifycloud.com
 http://zendesk-shopify-consumer.shopifycloud.com

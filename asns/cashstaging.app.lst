@@ -4,6 +4,7 @@ api.cashstaging.app AS54113 AS54113 - FASTLY, INC. US 151.101.40.0/22
 api.taxes.cashstaging.app AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
 api.usc1.taxes.cashstaging.app AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
 apparel-supporter.cashstaging.app AS54113 AS54113 - FASTLY, INC. US 151.101.188.0/22
+beta.taxes.cashstaging.app AS15169 AS15169 - GOOGLE LLC US 34.108.0.0/14
 cashstaging.app AS54113 AS54113 - FASTLY, INC. US 151.101.64.0/22
 collector.taxes.cashstaging.app AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15
 collector.usc1.taxes.cashstaging.app AS396982 AS396982 - GOOGLE LLC US 34.116.0.0/15

@@ -2,11 +2,11 @@
 <tr><th>LABEL</th><th>COUNT</th></tr>
 <tr><td>PROGRAMs</td><td>280</td></tr>
 <tr><td>DOMAINs</td><td>679</td></tr>
-<tr><td>SUBDOMAINs</td><td>2292759</td></tr>
-<tr><td>ASNs</td><td>1400659</td></tr>
-<tr><td>PORTs</td><td>320335</td></tr>
-<tr><td>WEBSITEs</td><td>255918</td></tr>
-<tr><td>PROBEs</td><td>108838</td></tr>
-<tr><td>FAVICONs</td><td>20017</td></tr>
-<tr><td>SCREENSHOTs</td><td>15842</td></tr>
+<tr><td>SUBDOMAINs</td><td>1472169</td></tr>
+<tr><td>ASNs</td><td>533967</td></tr>
+<tr><td>PORTs</td><td>326730</td></tr>
+<tr><td>WEBSITEs</td><td>257845</td></tr>
+<tr><td>PROBEs</td><td>109917</td></tr>
+<tr><td>FAVICONs</td><td>20075</td></tr>
+<tr><td>SCREENSHOTs</td><td>16023</td></tr>
 </table></p><h2>ON-DEMAND REMOVALS</h2><table><tr><th>ORGANIZATION</th><th>COUNT</th><tr><td>SQILLS</td><td>1</td><tr><td>TELENET</td><td>9</td></table></div>

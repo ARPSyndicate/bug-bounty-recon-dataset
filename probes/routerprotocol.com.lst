@@ -18,6 +18,7 @@ https://api.routerprotocol.com [200] [GET] [text/html] [] [nginx] [vhost] [Expre
 https://api.stats.routerprotocol.com [200] [GET] [text/plain] [] [] [vhost] [e0aa021e21dddbd6d8cecec71e9cf564]
 https://api.trading-competition.routerprotocol.com [404] [GET] [text/html] [Error] [nginx] [Express,Nginx,Node.js] [da7da7d630292e7a2a7dda8ca87b3d39]
 https://app.routerprotocol.com [200] [GET] [text/html] [Router Cross-Chain Swap] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [aaa847b8abc957f8637f039fd8bc0eda]
+https://devnet-alpha.lcd.routerprotocol.com [502] [GET] [text/html] [502 Bad Gateway] [nginx] [Nginx] [eac0a6a53d4a4353aace122055b4b4c8]
 https://dev.routerprotocol.com [200] [GET] [text/html] [Build with Router Protocol - Dev Documentation] [cloudflare] [vhost] [cloudflare] [Algolia,Cloudflare,Google Cloud,Google Cloud Trace,React] [4de8e0878effd027a7089aa6c948d55f]
 https://dev.routerprotocol.com:2083 [200] [GET] [text/html] [Build with Router Protocol - Dev Documentation] [cloudflare] [vhost] [cloudflare] [Algolia,Cloudflare,Google Cloud,Google Cloud Trace,React] [790d3111ac78b4b5e322e4da08b40e20]
 https://dev.routerprotocol.com:2087 [200] [GET] [text/html] [Build with Router Protocol - Dev Documentation] [cloudflare] [vhost] [cloudflare] [Algolia,Cloudflare,Google Cloud,Google Cloud Trace,React] [1b1b432aa11ecb10b778fc844989907a]

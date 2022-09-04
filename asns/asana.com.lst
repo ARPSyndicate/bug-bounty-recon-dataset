@@ -1363,6 +1363,7 @@ synceu1.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 sync-eu1.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 34.224.0.0/12
 sync-prod-2019disaster3.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 54.196.0.0/15
 sync-prod-2020disaster4.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+sync-prod-2022disaster.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 52.0.0.0/15
 sync-prod-au1.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 sync-prod-eu1.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
 syncprodeu1.app.asana.com AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12

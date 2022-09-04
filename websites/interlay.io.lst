@@ -124,9 +124,14 @@ http://info.interlay.io:2086
 http://info.interlay.io:8080
 http://info.interlay.io:8880
 http://interlay.io
+http://interlay.io:2053
+http://interlay.io:2082
 http://interlay.io:2083
 http://interlay.io:2087
+http://interlay.io:2095
+http://interlay.io:8080
 http://interlay.io:8443
+http://interlay.io:8880
 http://kck.interlay-mgmt.interlay.io
 http://kintnet.interlay.io
 http://kintsugi-dev.interlay-dev.interlay.io

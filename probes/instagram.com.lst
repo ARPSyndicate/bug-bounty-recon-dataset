@@ -1,7 +1,6 @@
-https://graph.instagram.com [400] [GET] [application/json] [] [] [vhost] [c17213fa769cbd6370de0c362fe953aa]
 https://instagram.com [301] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://maps.instagram.com [404] [GET] [text/html] [Facebook | Error] [] [vhost] [1b3375bfc39752165b3cdb8758421944]
 https://m.instagram.com [301] [GET] [text/plain] [] [proxygen-bolt] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://secure.instagram.com [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://secure.latest.instagram.com [301] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
-https://upload.instagram.com [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
 https://www.instagram.com [302] [GET] [text/html] [] [] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
